@@ -1,4 +1,4 @@
-Passport,Destination,Requirement,duration,id
+Passport,Destination,Requirement,duration,passport-id
 AF,AL,e-visa,0,1
 AF,DZ,visa required,0,2
 AF,AD,visa required,0,3
@@ -24020,7 +24020,7 @@ MM,SC,-1,0,23958
 ,GM,-1,0,24019
 ,GE,e-visa,0,24020
 ,DE,visa required,0,24021
-,GH,visa on arrival,30,24022
+,GH,visa required,0,24022
 ,GR,visa required,0,24023
 ,GD,-1,0,24024
 ,GT,visa required,0,24025
