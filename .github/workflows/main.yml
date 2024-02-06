@@ -13,13 +13,13 @@ jobs:
          pages: write
          id-token: write
       steps:
-         - uses: actions/checkout@v3
+         - uses: actions/checkout@v4
            with:
               token: ${{ secrets.GH_TOKEN }}
 
          # Install dependencies
          - name: Set up Python 3.11
-           uses: actions/setup-python@v4
+           uses: actions/setup-python@v5
            with:
               python-version: 3.11.4
               architecture: x64
