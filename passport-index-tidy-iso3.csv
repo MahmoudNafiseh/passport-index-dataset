@@ -273,7 +273,7 @@ ALB,HUN,-1
 ALB,ISL,-1
 ALB,IND,e-visa (30)
 ALB,IDN,visa on arrival (30)
-ALB,IRN,e-visa (30)
+ALB,IRN,visa on arrival (30)
 ALB,IRQ,visa required
 ALB,IRL,visa required
 ALB,ISR,-1
@@ -471,7 +471,7 @@ DZA,HUN,visa required
 DZA,ISL,visa required
 DZA,IND,visa required
 DZA,IDN,e-visa
-DZA,IRN,e-visa (30)
+DZA,IRN,visa on arrival (30)
 DZA,IRQ,visa required
 DZA,IRL,visa required
 DZA,ISR,visa required
@@ -669,7 +669,7 @@ AND,HUN,-1
 AND,ISL,-1
 AND,IND,e-visa (30)
 AND,IDN,visa on arrival (30)
-AND,IRN,e-visa (30)
+AND,IRN,visa on arrival (30)
 AND,IRQ,visa required
 AND,IRL,-1
 AND,ISR,-1
@@ -867,7 +867,7 @@ AGO,HUN,visa required
 AGO,ISL,visa required
 AGO,IND,e-visa (30)
 AGO,IDN,e-visa
-AGO,IRN,e-visa (30)
+AGO,IRN,visa on arrival (30)
 AGO,IRQ,visa required
 AGO,IRL,visa required
 AGO,ISR,visa required
@@ -1065,7 +1065,7 @@ ATG,HUN,-1
 ATG,ISL,-1
 ATG,IND,e-visa (30)
 ATG,IDN,e-visa
-ATG,IRN,e-visa (30)
+ATG,IRN,visa on arrival (30)
 ATG,IRQ,visa required
 ATG,IRL,-1
 ATG,ISR,visa required
@@ -1263,7 +1263,7 @@ ARG,HUN,-1
 ARG,ISL,-1
 ARG,IND,e-visa (30)
 ARG,IDN,visa on arrival (30)
-ARG,IRN,e-visa (30)
+ARG,IRN,visa on arrival (30)
 ARG,IRQ,visa required
 ARG,IRL,-1
 ARG,ISR,-1
@@ -1659,7 +1659,7 @@ AUS,HUN,-1
 AUS,ISL,-1
 AUS,IND,e-visa (30)
 AUS,IDN,visa on arrival (30)
-AUS,IRN,e-visa (30)
+AUS,IRN,visa on arrival (30)
 AUS,IRQ,visa on arrival (60)
 AUS,IRL,-1
 AUS,ISR,-1
@@ -1857,7 +1857,7 @@ AUT,HUN,visa free
 AUT,ISL,visa free
 AUT,IND,e-visa (30)
 AUT,IDN,visa on arrival (30)
-AUT,IRN,e-visa (30)
+AUT,IRN,visa on arrival (30)
 AUT,IRQ,visa on arrival (60)
 AUT,IRL,visa free
 AUT,ISR,-1
@@ -2253,7 +2253,7 @@ BHS,HUN,-1
 BHS,ISL,-1
 BHS,IND,e-visa (30)
 BHS,IDN,e-visa
-BHS,IRN,e-visa (30)
+BHS,IRN,visa on arrival (30)
 BHS,IRQ,visa required
 BHS,IRL,-1
 BHS,ISR,-1
@@ -2451,7 +2451,7 @@ BHR,HUN,visa required
 BHR,ISL,visa required
 BHR,IND,visa required
 BHR,IDN,visa on arrival (30)
-BHR,IRN,e-visa (30)
+BHR,IRN,-1
 BHR,IRQ,visa on arrival (30)
 BHR,IRL,visa required
 BHR,ISR,visa required
@@ -2847,7 +2847,7 @@ BRB,HUN,-1
 BRB,ISL,-1
 BRB,IND,e-visa (30)
 BRB,IDN,e-visa
-BRB,IRN,e-visa (30)
+BRB,IRN,visa on arrival (30)
 BRB,IRQ,visa required
 BRB,IRL,-1
 BRB,ISR,-1
@@ -3045,7 +3045,7 @@ BLR,HUN,visa required
 BLR,ISL,visa required
 BLR,IND,e-visa (30)
 BLR,IDN,visa on arrival (30)
-BLR,IRN,e-visa (30)
+BLR,IRN,-1
 BLR,IRQ,visa required
 BLR,IRL,visa required
 BLR,ISR,-1
@@ -3243,7 +3243,7 @@ BEL,HUN,visa free
 BEL,ISL,visa free
 BEL,IND,e-visa (30)
 BEL,IDN,visa on arrival (30)
-BEL,IRN,e-visa (30)
+BEL,IRN,visa on arrival (30)
 BEL,IRQ,visa on arrival (60)
 BEL,IRL,visa free
 BEL,ISR,-1
@@ -3441,7 +3441,7 @@ BLZ,HUN,visa required
 BLZ,ISL,visa required
 BLZ,IND,e-visa (30)
 BLZ,IDN,e-visa
-BLZ,IRN,e-visa (30)
+BLZ,IRN,visa on arrival (30)
 BLZ,IRQ,visa required
 BLZ,IRL,-1
 BLZ,ISR,-1
@@ -3639,7 +3639,7 @@ BEN,HUN,visa required
 BEN,ISL,visa required
 BEN,IND,e-visa (30)
 BEN,IDN,e-visa
-BEN,IRN,e-visa (30)
+BEN,IRN,visa on arrival (30)
 BEN,IRQ,visa required
 BEN,IRL,visa required
 BEN,ISR,visa required
@@ -3837,7 +3837,7 @@ BTN,HUN,visa required
 BTN,ISL,visa required
 BTN,IND,visa free
 BTN,IDN,e-visa
-BTN,IRN,e-visa (30)
+BTN,IRN,visa on arrival (30)
 BTN,IRQ,visa required
 BTN,IRL,visa required
 BTN,ISR,visa required
@@ -4035,7 +4035,7 @@ BOL,HUN,visa required
 BOL,ISL,visa required
 BOL,IND,e-visa (30)
 BOL,IDN,e-visa
-BOL,IRN,-1
+BOL,IRN,visa on arrival (30)
 BOL,IRQ,visa required
 BOL,IRL,visa required
 BOL,ISR,visa required
@@ -4233,7 +4233,7 @@ BIH,HUN,-1
 BIH,ISL,-1
 BIH,IND,e-visa (30)
 BIH,IDN,visa on arrival (30)
-BIH,IRN,e-visa (30)
+BIH,IRN,-1
 BIH,IRQ,visa required
 BIH,IRL,visa required
 BIH,ISR,visa required
@@ -4431,7 +4431,7 @@ BWA,HUN,visa required
 BWA,ISL,visa required
 BWA,IND,e-visa (30)
 BWA,IDN,e-visa
-BWA,IRN,e-visa (30)
+BWA,IRN,visa on arrival (30)
 BWA,IRQ,visa required
 BWA,IRL,-1
 BWA,ISR,-1
@@ -4629,7 +4629,7 @@ BRA,HUN,-1
 BRA,ISL,-1
 BRA,IND,e-visa (30)
 BRA,IDN,visa on arrival (30)
-BRA,IRN,e-visa (30)
+BRA,IRN,-1
 BRA,IRQ,visa required
 BRA,IRL,-1
 BRA,ISR,-1
@@ -4827,7 +4827,7 @@ BRN,HUN,-1
 BRN,ISL,-1
 BRN,IND,e-visa (30)
 BRN,IDN,-1
-BRN,IRN,e-visa (30)
+BRN,IRN,-1
 BRN,IRQ,visa required
 BRN,IRL,-1
 BRN,ISR,visa required
@@ -5025,7 +5025,7 @@ BGR,HUN,visa free
 BGR,ISL,visa free
 BGR,IND,e-visa (30)
 BGR,IDN,visa on arrival (30)
-BGR,IRN,e-visa (30)
+BGR,IRN,visa on arrival (30)
 BGR,IRQ,visa on arrival (60)
 BGR,IRL,visa free
 BGR,ISR,-1
@@ -5223,7 +5223,7 @@ BFA,HUN,visa required
 BFA,ISL,visa required
 BFA,IND,visa required
 BFA,IDN,e-visa
-BFA,IRN,e-visa (30)
+BFA,IRN,visa on arrival (30)
 BFA,IRQ,visa required
 BFA,IRL,visa required
 BFA,ISR,visa required
@@ -5421,7 +5421,7 @@ BDI,HUN,visa required
 BDI,ISL,visa required
 BDI,IND,e-visa (30)
 BDI,IDN,e-visa
-BDI,IRN,e-visa (30)
+BDI,IRN,visa on arrival (30)
 BDI,IRQ,visa required
 BDI,IRL,visa required
 BDI,ISR,visa required
@@ -5619,7 +5619,7 @@ KHM,HUN,visa required
 KHM,ISL,visa required
 KHM,IND,e-visa (30)
 KHM,IDN,-1
-KHM,IRN,e-visa (30)
+KHM,IRN,-1
 KHM,IRQ,visa required
 KHM,IRL,visa required
 KHM,ISR,visa required
@@ -5817,7 +5817,7 @@ CMR,HUN,visa required
 CMR,ISL,visa required
 CMR,IND,e-visa (30)
 CMR,IDN,e-visa
-CMR,IRN,e-visa (30)
+CMR,IRN,visa on arrival (30)
 CMR,IRQ,visa required
 CMR,IRL,visa required
 CMR,ISR,visa required
@@ -6213,7 +6213,7 @@ CPV,HUN,visa required
 CPV,ISL,visa required
 CPV,IND,e-visa (30)
 CPV,IDN,e-visa
-CPV,IRN,e-visa (30)
+CPV,IRN,visa on arrival (30)
 CPV,IRQ,visa required
 CPV,IRL,visa required
 CPV,ISR,visa required
@@ -6411,7 +6411,7 @@ CAF,HUN,visa required
 CAF,ISL,visa required
 CAF,IND,visa required
 CAF,IDN,e-visa
-CAF,IRN,e-visa (30)
+CAF,IRN,visa on arrival (30)
 CAF,IRQ,visa required
 CAF,IRL,visa required
 CAF,ISR,visa required
@@ -6609,7 +6609,7 @@ TCD,HUN,visa required
 TCD,ISL,visa required
 TCD,IND,visa required
 TCD,IDN,e-visa
-TCD,IRN,e-visa (30)
+TCD,IRN,visa on arrival (30)
 TCD,IRQ,visa required
 TCD,IRL,visa required
 TCD,ISR,visa required
@@ -6807,7 +6807,7 @@ CHL,HUN,-1
 CHL,ISL,-1
 CHL,IND,e-visa (30)
 CHL,IDN,visa on arrival (30)
-CHL,IRN,e-visa (30)
+CHL,IRN,visa on arrival (30)
 CHL,IRQ,visa required
 CHL,IRL,-1
 CHL,ISR,-1
@@ -7401,7 +7401,7 @@ COM,HUN,visa required
 COM,ISL,visa required
 COM,IND,e-visa (30)
 COM,IDN,e-visa
-COM,IRN,e-visa (30)
+COM,IRN,visa on arrival (30)
 COM,IRQ,visa required
 COM,IRL,visa required
 COM,ISR,visa required
@@ -7599,7 +7599,7 @@ COG,HUN,visa required
 COG,ISL,visa required
 COG,IND,visa required
 COG,IDN,e-visa
-COG,IRN,e-visa (30)
+COG,IRN,visa on arrival (30)
 COG,IRQ,visa required
 COG,IRL,visa required
 COG,ISR,visa required
@@ -7797,7 +7797,7 @@ COD,HUN,visa required
 COD,ISL,visa required
 COD,IND,visa required
 COD,IDN,e-visa
-COD,IRN,e-visa (30)
+COD,IRN,visa on arrival (30)
 COD,IRQ,visa required
 COD,IRL,visa required
 COD,ISR,visa required
@@ -7995,7 +7995,7 @@ CRI,HUN,-1
 CRI,ISL,-1
 CRI,IND,e-visa (30)
 CRI,IDN,e-visa
-CRI,IRN,e-visa (30)
+CRI,IRN,visa on arrival (30)
 CRI,IRQ,visa required
 CRI,IRL,-1
 CRI,ISR,-1
@@ -8193,7 +8193,7 @@ CIV,HUN,visa required
 CIV,ISL,visa required
 CIV,IND,e-visa (30)
 CIV,IDN,e-visa
-CIV,IRN,e-visa (30)
+CIV,IRN,visa on arrival (30)
 CIV,IRQ,visa required
 CIV,IRL,visa required
 CIV,ISR,visa required
@@ -8391,7 +8391,7 @@ HRV,HUN,visa free
 HRV,ISL,visa free
 HRV,IND,e-visa (30)
 HRV,IDN,visa on arrival (30)
-HRV,IRN,e-visa (30)
+HRV,IRN,-1
 HRV,IRQ,visa on arrival (60)
 HRV,IRL,visa free
 HRV,ISR,-1
@@ -8589,7 +8589,7 @@ CUB,HUN,visa required
 CUB,ISL,visa required
 CUB,IND,e-visa (30)
 CUB,IDN,e-visa
-CUB,IRN,e-visa (30)
+CUB,IRN,-1
 CUB,IRQ,visa required
 CUB,IRL,visa required
 CUB,ISR,visa required
@@ -8787,7 +8787,7 @@ CYP,HUN,visa free
 CYP,ISL,visa free
 CYP,IND,e-visa (30)
 CYP,IDN,visa on arrival (30)
-CYP,IRN,e-visa (30)
+CYP,IRN,visa on arrival (30)
 CYP,IRQ,visa on arrival (60)
 CYP,IRL,visa free
 CYP,ISR,-1
@@ -8985,7 +8985,7 @@ CZE,HUN,visa free
 CZE,ISL,visa free
 CZE,IND,e-visa (30)
 CZE,IDN,visa on arrival (30)
-CZE,IRN,e-visa (30)
+CZE,IRN,visa on arrival (30)
 CZE,IRQ,visa on arrival (60)
 CZE,IRL,visa free
 CZE,ISR,-1
@@ -9183,7 +9183,7 @@ DNK,HUN,visa free
 DNK,ISL,visa free
 DNK,IND,e-visa (30)
 DNK,IDN,visa on arrival (30)
-DNK,IRN,e-visa (30)
+DNK,IRN,visa on arrival (30)
 DNK,IRQ,visa on arrival (60)
 DNK,IRL,visa free
 DNK,ISR,-1
@@ -9381,7 +9381,7 @@ DJI,HUN,visa required
 DJI,ISL,visa required
 DJI,IND,e-visa (30)
 DJI,IDN,e-visa
-DJI,IRN,e-visa (30)
+DJI,IRN,visa on arrival (30)
 DJI,IRQ,visa required
 DJI,IRL,visa required
 DJI,ISR,visa required
@@ -9579,7 +9579,7 @@ DMA,HUN,-1
 DMA,ISL,-1
 DMA,IND,e-visa (30)
 DMA,IDN,e-visa
-DMA,IRN,e-visa (30)
+DMA,IRN,visa on arrival (30)
 DMA,IRQ,visa required
 DMA,IRL,-1
 DMA,ISR,-1
@@ -9777,7 +9777,7 @@ DOM,HUN,visa required
 DOM,ISL,visa required
 DOM,IND,e-visa (30)
 DOM,IDN,e-visa
-DOM,IRN,e-visa (30)
+DOM,IRN,visa on arrival (30)
 DOM,IRQ,visa required
 DOM,IRL,visa required
 DOM,ISR,-1
@@ -9975,7 +9975,7 @@ ECU,HUN,visa required
 ECU,ISL,visa required
 ECU,IND,e-visa (30)
 ECU,IDN,visa on arrival (30)
-ECU,IRN,e-visa (30)
+ECU,IRN,visa on arrival (30)
 ECU,IRQ,visa required
 ECU,IRL,visa required
 ECU,ISR,-1
@@ -10371,7 +10371,7 @@ SLV,HUN,-1
 SLV,ISL,-1
 SLV,IND,e-visa (30)
 SLV,IDN,e-visa
-SLV,IRN,e-visa (30)
+SLV,IRN,visa on arrival (30)
 SLV,IRQ,visa required
 SLV,IRL,-1
 SLV,ISR,-1
@@ -10569,7 +10569,7 @@ GNQ,HUN,visa required
 GNQ,ISL,visa required
 GNQ,IND,e-visa (30)
 GNQ,IDN,e-visa
-GNQ,IRN,e-visa (30)
+GNQ,IRN,visa on arrival (30)
 GNQ,IRQ,visa required
 GNQ,IRL,visa required
 GNQ,ISR,visa required
@@ -10767,7 +10767,7 @@ ERI,HUN,visa required
 ERI,ISL,visa required
 ERI,IND,e-visa (30)
 ERI,IDN,e-visa
-ERI,IRN,e-visa (30)
+ERI,IRN,visa on arrival (30)
 ERI,IRQ,visa required
 ERI,IRL,visa required
 ERI,ISR,visa required
@@ -10965,7 +10965,7 @@ EST,HUN,visa free
 EST,ISL,visa free
 EST,IND,e-visa (30)
 EST,IDN,visa on arrival (30)
-EST,IRN,e-visa (30)
+EST,IRN,visa on arrival (30)
 EST,IRQ,visa on arrival (60)
 EST,IRL,visa free
 EST,ISR,-1
@@ -11163,7 +11163,7 @@ SWZ,HUN,visa required
 SWZ,ISL,visa required
 SWZ,IND,e-visa (30)
 SWZ,IDN,e-visa
-SWZ,IRN,e-visa (30)
+SWZ,IRN,visa on arrival (30)
 SWZ,IRQ,visa required
 SWZ,IRL,-1
 SWZ,ISR,-1
@@ -11361,7 +11361,7 @@ ETH,HUN,visa required
 ETH,ISL,visa required
 ETH,IND,visa required
 ETH,IDN,e-visa
-ETH,IRN,e-visa (30)
+ETH,IRN,visa on arrival (30)
 ETH,IRQ,visa required
 ETH,IRL,visa required
 ETH,ISR,visa required
@@ -11559,7 +11559,7 @@ FJI,HUN,visa required
 FJI,ISL,visa required
 FJI,IND,e-visa (30)
 FJI,IDN,e-visa
-FJI,IRN,e-visa (30)
+FJI,IRN,visa on arrival (30)
 FJI,IRQ,visa required
 FJI,IRL,-1
 FJI,ISR,-1
@@ -11757,7 +11757,7 @@ FIN,HUN,visa free
 FIN,ISL,visa free
 FIN,IND,e-visa (30)
 FIN,IDN,visa on arrival (30)
-FIN,IRN,e-visa (30)
+FIN,IRN,visa on arrival (30)
 FIN,IRQ,visa on arrival (60)
 FIN,IRL,visa free
 FIN,ISR,-1
@@ -11955,7 +11955,7 @@ FRA,HUN,visa free
 FRA,ISL,visa free
 FRA,IND,e-visa (30)
 FRA,IDN,visa on arrival (30)
-FRA,IRN,e-visa (30)
+FRA,IRN,visa on arrival (30)
 FRA,IRQ,visa on arrival (60)
 FRA,IRL,visa free
 FRA,ISR,-1
@@ -12153,7 +12153,7 @@ GAB,HUN,visa required
 GAB,ISL,visa required
 GAB,IND,e-visa (30)
 GAB,IDN,e-visa
-GAB,IRN,e-visa (30)
+GAB,IRN,visa on arrival (30)
 GAB,IRQ,visa required
 GAB,IRL,visa required
 GAB,ISR,visa required
@@ -12351,7 +12351,7 @@ GMB,HUN,visa required
 GMB,ISL,visa required
 GMB,IND,e-visa (30)
 GMB,IDN,e-visa
-GMB,IRN,e-visa (30)
+GMB,IRN,visa on arrival (30)
 GMB,IRQ,visa required
 GMB,IRL,visa required
 GMB,ISR,visa required
@@ -12549,7 +12549,7 @@ GEO,HUN,-1
 GEO,ISL,-1
 GEO,IND,e-visa (30)
 GEO,IDN,e-visa
-GEO,IRN,visa free
+GEO,IRN,-1
 GEO,IRQ,visa required
 GEO,IRL,visa required
 GEO,ISR,-1
@@ -12747,7 +12747,7 @@ DEU,HUN,visa free
 DEU,ISL,visa free
 DEU,IND,e-visa (30)
 DEU,IDN,visa on arrival (30)
-DEU,IRN,e-visa (30)
+DEU,IRN,visa on arrival (30)
 DEU,IRQ,visa on arrival (60)
 DEU,IRL,visa free
 DEU,ISR,-1
@@ -12945,7 +12945,7 @@ GHA,HUN,visa required
 GHA,ISL,visa required
 GHA,IND,e-visa (30)
 GHA,IDN,e-visa
-GHA,IRN,e-visa (30)
+GHA,IRN,visa on arrival (30)
 GHA,IRQ,visa required
 GHA,IRL,visa required
 GHA,ISR,visa required
@@ -12981,7 +12981,7 @@ GHA,MUS,-1
 GHA,MEX,visa required
 GHA,MDA,e-visa
 GHA,MCO,visa required
-GHA,MNG,visa required
+GHA,MNG,e-visa
 GHA,MNE,visa required
 GHA,MAR,visa required
 GHA,MOZ,-1
@@ -13143,7 +13143,7 @@ GRC,HUN,visa free
 GRC,ISL,visa free
 GRC,IND,e-visa (30)
 GRC,IDN,visa on arrival (30)
-GRC,IRN,e-visa (30)
+GRC,IRN,visa on arrival (30)
 GRC,IRQ,visa on arrival (60)
 GRC,IRL,visa free
 GRC,ISR,-1
@@ -13341,7 +13341,7 @@ GRD,HUN,-1
 GRD,ISL,-1
 GRD,IND,e-visa (30)
 GRD,IDN,e-visa
-GRD,IRN,e-visa (30)
+GRD,IRN,visa on arrival (30)
 GRD,IRQ,visa required
 GRD,IRL,-1
 GRD,ISR,-1
@@ -13539,7 +13539,7 @@ GTM,HUN,-1
 GTM,ISL,-1
 GTM,IND,e-visa (30)
 GTM,IDN,visa on arrival (30)
-GTM,IRN,e-visa (30)
+GTM,IRN,visa on arrival (30)
 GTM,IRQ,visa required
 GTM,IRL,-1
 GTM,ISR,-1
@@ -13737,7 +13737,7 @@ GIN,HUN,visa required
 GIN,ISL,visa required
 GIN,IND,e-visa (30)
 GIN,IDN,e-visa
-GIN,IRN,e-visa (30)
+GIN,IRN,visa on arrival (30)
 GIN,IRQ,visa required
 GIN,IRL,visa required
 GIN,ISR,visa required
@@ -13935,7 +13935,7 @@ GNB,HUN,visa required
 GNB,ISL,visa required
 GNB,IND,visa required
 GNB,IDN,e-visa
-GNB,IRN,e-visa (30)
+GNB,IRN,visa on arrival (30)
 GNB,IRQ,visa required
 GNB,IRL,visa required
 GNB,ISR,visa required
@@ -14133,7 +14133,7 @@ GUY,HUN,visa required
 GUY,ISL,visa required
 GUY,IND,e-visa (30)
 GUY,IDN,e-visa
-GUY,IRN,e-visa (30)
+GUY,IRN,visa on arrival (30)
 GUY,IRQ,visa required
 GUY,IRL,-1
 GUY,ISR,visa required
@@ -14331,7 +14331,7 @@ HTI,HUN,visa required
 HTI,ISL,visa required
 HTI,IND,e-visa (30)
 HTI,IDN,e-visa
-HTI,IRN,e-visa (30)
+HTI,IRN,visa on arrival (30)
 HTI,IRQ,visa required
 HTI,IRL,visa required
 HTI,ISR,-1
@@ -14529,7 +14529,7 @@ HND,HUN,-1
 HND,ISL,-1
 HND,IND,e-visa (30)
 HND,IDN,e-visa
-HND,IRN,e-visa (30)
+HND,IRN,visa on arrival (30)
 HND,IRQ,visa required
 HND,IRL,-1
 HND,ISR,-1
@@ -14925,7 +14925,7 @@ HUN,HUN,-1
 HUN,ISL,visa free
 HUN,IND,e-visa (30)
 HUN,IDN,visa on arrival (30)
-HUN,IRN,e-visa (30)
+HUN,IRN,visa on arrival (30)
 HUN,IRQ,visa on arrival (60)
 HUN,IRL,visa free
 HUN,ISR,-1
@@ -15123,7 +15123,7 @@ ISL,HUN,visa free
 ISL,ISL,-1
 ISL,IND,e-visa (30)
 ISL,IDN,visa on arrival (30)
-ISL,IRN,e-visa (30)
+ISL,IRN,visa on arrival (30)
 ISL,IRQ,visa required
 ISL,IRL,visa free
 ISL,ISR,-1
@@ -15321,7 +15321,7 @@ IND,HUN,visa required
 IND,ISL,visa required
 IND,IND,-1
 IND,IDN,visa on arrival (30)
-IND,IRN,e-visa (30)
+IND,IRN,-1
 IND,IRQ,visa required
 IND,IRL,visa required
 IND,ISR,visa required
@@ -15519,7 +15519,7 @@ IDN,HUN,visa required
 IDN,ISL,visa required
 IDN,IND,e-visa (30)
 IDN,IDN,-1
-IDN,IRN,e-visa (30)
+IDN,IRN,-1
 IDN,IRQ,visa required
 IDN,IRL,visa required
 IDN,ISR,visa required
@@ -15555,7 +15555,7 @@ IDN,MUS,visa on arrival (60)
 IDN,MEX,visa required
 IDN,MDA,e-visa
 IDN,MCO,visa required
-IDN,MNG,visa required
+IDN,MNG,e-visa
 IDN,MNE,visa required
 IDN,MAR,-1
 IDN,MOZ,visa on arrival (30)
@@ -16113,7 +16113,7 @@ IRL,HUN,visa free
 IRL,ISL,visa free
 IRL,IND,e-visa (30)
 IRL,IDN,visa on arrival (30)
-IRL,IRN,e-visa (30)
+IRL,IRN,visa on arrival (30)
 IRL,IRQ,visa on arrival (60)
 IRL,IRL,-1
 IRL,ISR,-1
@@ -16509,7 +16509,7 @@ ITA,HUN,visa free
 ITA,ISL,visa free
 ITA,IND,e-visa (30)
 ITA,IDN,visa on arrival (30)
-ITA,IRN,e-visa (30)
+ITA,IRN,visa on arrival (30)
 ITA,IRQ,visa on arrival (60)
 ITA,IRL,visa free
 ITA,ISR,-1
@@ -16707,7 +16707,7 @@ JAM,HUN,visa required
 JAM,ISL,visa required
 JAM,IND,e-visa (30)
 JAM,IDN,e-visa
-JAM,IRN,e-visa (30)
+JAM,IRN,visa on arrival (30)
 JAM,IRQ,visa required
 JAM,IRL,visa required
 JAM,ISR,-1
@@ -16905,7 +16905,7 @@ JPN,HUN,-1
 JPN,ISL,-1
 JPN,IND,visa on arrival (30)
 JPN,IDN,visa on arrival (30)
-JPN,IRN,e-visa (30)
+JPN,IRN,-1
 JPN,IRQ,visa on arrival (60)
 JPN,IRL,-1
 JPN,ISR,-1
@@ -17499,7 +17499,7 @@ KEN,HUN,visa required
 KEN,ISL,visa required
 KEN,IND,e-visa (30)
 KEN,IDN,visa on arrival (30)
-KEN,IRN,e-visa (30)
+KEN,IRN,visa on arrival (30)
 KEN,IRQ,visa required
 KEN,IRL,visa required
 KEN,ISR,visa required
@@ -17697,7 +17697,7 @@ KIR,HUN,-1
 KIR,ISL,-1
 KIR,IND,e-visa (30)
 KIR,IDN,e-visa
-KIR,IRN,e-visa (30)
+KIR,IRN,visa on arrival (30)
 KIR,IRQ,visa required
 KIR,IRL,-1
 KIR,ISR,visa required
@@ -17895,7 +17895,7 @@ XKX,HUN,-1
 XKX,ISL,-1
 XKX,IND,visa required
 XKX,IDN,e-visa
-XKX,IRN,e-visa (30)
+XKX,IRN,visa on arrival (30)
 XKX,IRQ,visa required
 XKX,IRL,visa required
 XKX,ISR,visa required
@@ -18093,7 +18093,7 @@ KWT,HUN,visa required
 KWT,ISL,visa required
 KWT,IND,visa required
 KWT,IDN,visa on arrival (30)
-KWT,IRN,e-visa (30)
+KWT,IRN,-1
 KWT,IRQ,visa on arrival (30)
 KWT,IRL,visa required
 KWT,ISR,visa required
@@ -18291,7 +18291,7 @@ KGZ,HUN,visa required
 KGZ,ISL,visa required
 KGZ,IND,e-visa (30)
 KGZ,IDN,e-visa
-KGZ,IRN,e-visa (30)
+KGZ,IRN,-1
 KGZ,IRQ,visa required
 KGZ,IRL,visa required
 KGZ,ISR,visa required
@@ -18489,7 +18489,7 @@ LAO,HUN,visa required
 LAO,ISL,visa required
 LAO,IND,e-visa (30)
 LAO,IDN,-1
-LAO,IRN,e-visa (30)
+LAO,IRN,visa on arrival (30)
 LAO,IRQ,visa required
 LAO,IRL,visa required
 LAO,ISR,visa required
@@ -18687,7 +18687,7 @@ LVA,HUN,visa free
 LVA,ISL,visa free
 LVA,IND,e-visa (30)
 LVA,IDN,visa on arrival (30)
-LVA,IRN,e-visa (30)
+LVA,IRN,visa on arrival (30)
 LVA,IRQ,visa on arrival (60)
 LVA,IRL,visa free
 LVA,ISR,-1
@@ -19083,7 +19083,7 @@ LSO,HUN,visa required
 LSO,ISL,visa required
 LSO,IND,e-visa (30)
 LSO,IDN,e-visa
-LSO,IRN,e-visa (30)
+LSO,IRN,visa on arrival (30)
 LSO,IRQ,visa required
 LSO,IRL,-1
 LSO,ISR,-1
@@ -19281,7 +19281,7 @@ LBR,HUN,visa required
 LBR,ISL,visa required
 LBR,IND,e-visa (30)
 LBR,IDN,e-visa
-LBR,IRN,e-visa (30)
+LBR,IRN,visa on arrival (30)
 LBR,IRQ,visa required
 LBR,IRL,visa required
 LBR,ISR,visa required
@@ -19479,7 +19479,7 @@ LBY,HUN,visa required
 LBY,ISL,visa required
 LBY,IND,visa required
 LBY,IDN,e-visa
-LBY,IRN,e-visa (30)
+LBY,IRN,visa on arrival (30)
 LBY,IRQ,visa required
 LBY,IRL,visa required
 LBY,ISR,visa required
@@ -19677,7 +19677,7 @@ LIE,HUN,visa free
 LIE,ISL,visa free
 LIE,IND,e-visa (30)
 LIE,IDN,visa on arrival (30)
-LIE,IRN,e-visa (30)
+LIE,IRN,visa on arrival (30)
 LIE,IRQ,visa required
 LIE,IRL,visa free
 LIE,ISR,-1
@@ -19875,7 +19875,7 @@ LTU,HUN,visa free
 LTU,ISL,visa free
 LTU,IND,e-visa (30)
 LTU,IDN,visa on arrival (30)
-LTU,IRN,e-visa (30)
+LTU,IRN,visa on arrival (30)
 LTU,IRQ,visa on arrival (60)
 LTU,IRL,visa free
 LTU,ISR,-1
@@ -20073,7 +20073,7 @@ LUX,HUN,visa free
 LUX,ISL,visa free
 LUX,IND,e-visa (30)
 LUX,IDN,visa on arrival (30)
-LUX,IRN,e-visa (30)
+LUX,IRN,visa on arrival (30)
 LUX,IRQ,visa on arrival (60)
 LUX,IRL,visa free
 LUX,ISR,-1
@@ -20469,7 +20469,7 @@ MDG,HUN,visa required
 MDG,ISL,visa required
 MDG,IND,e-visa (30)
 MDG,IDN,e-visa
-MDG,IRN,e-visa (30)
+MDG,IRN,visa on arrival (30)
 MDG,IRQ,visa required
 MDG,IRL,visa required
 MDG,ISR,visa required
@@ -20667,7 +20667,7 @@ MWI,HUN,visa required
 MWI,ISL,visa required
 MWI,IND,e-visa (30)
 MWI,IDN,e-visa
-MWI,IRN,e-visa (30)
+MWI,IRN,visa on arrival (30)
 MWI,IRQ,visa required
 MWI,IRL,visa required
 MWI,ISR,-1
@@ -21063,7 +21063,7 @@ MDV,HUN,visa required
 MDV,ISL,visa required
 MDV,IND,-1
 MDV,IDN,visa on arrival (30)
-MDV,IRN,e-visa (30)
+MDV,IRN,visa on arrival (30)
 MDV,IRQ,visa required
 MDV,IRL,-1
 MDV,ISR,visa required
@@ -21261,7 +21261,7 @@ MLI,HUN,visa required
 MLI,ISL,visa required
 MLI,IND,e-visa (30)
 MLI,IDN,e-visa
-MLI,IRN,e-visa (30)
+MLI,IRN,visa on arrival (30)
 MLI,IRQ,visa required
 MLI,IRL,visa required
 MLI,ISR,visa required
@@ -21459,7 +21459,7 @@ MLT,HUN,visa free
 MLT,ISL,visa free
 MLT,IND,e-visa (30)
 MLT,IDN,visa on arrival (30)
-MLT,IRN,e-visa (30)
+MLT,IRN,visa on arrival (30)
 MLT,IRQ,visa on arrival (60)
 MLT,IRL,visa free
 MLT,ISR,-1
@@ -21657,7 +21657,7 @@ MHL,HUN,-1
 MHL,ISL,-1
 MHL,IND,e-visa (30)
 MHL,IDN,e-visa
-MHL,IRN,e-visa (30)
+MHL,IRN,visa on arrival (30)
 MHL,IRQ,visa required
 MHL,IRL,visa required
 MHL,ISR,visa required
@@ -21855,7 +21855,7 @@ MRT,HUN,visa required
 MRT,ISL,visa required
 MRT,IND,visa required
 MRT,IDN,e-visa
-MRT,IRN,e-visa (30)
+MRT,IRN,-1
 MRT,IRQ,visa required
 MRT,IRL,visa required
 MRT,ISR,visa required
@@ -22053,7 +22053,7 @@ MUS,HUN,-1
 MUS,ISL,-1
 MUS,IND,e-visa (30)
 MUS,IDN,e-visa
-MUS,IRN,e-visa (30)
+MUS,IRN,-1
 MUS,IRQ,visa required
 MUS,IRL,visa required
 MUS,ISR,-1
@@ -22251,7 +22251,7 @@ MEX,HUN,-1
 MEX,ISL,-1
 MEX,IND,e-visa (30)
 MEX,IDN,visa on arrival (30)
-MEX,IRN,e-visa (30)
+MEX,IRN,-1
 MEX,IRQ,visa required
 MEX,IRL,-1
 MEX,ISR,-1
@@ -22449,7 +22449,7 @@ FSM,HUN,-1
 FSM,ISL,-1
 FSM,IND,e-visa (30)
 FSM,IDN,e-visa
-FSM,IRN,e-visa (30)
+FSM,IRN,visa on arrival (30)
 FSM,IRQ,visa required
 FSM,IRL,visa required
 FSM,ISR,-1
@@ -22647,7 +22647,7 @@ MDA,HUN,-1
 MDA,ISL,-1
 MDA,IND,e-visa (30)
 MDA,IDN,e-visa
-MDA,IRN,e-visa (30)
+MDA,IRN,visa on arrival (30)
 MDA,IRQ,visa required
 MDA,IRL,visa required
 MDA,ISR,-1
@@ -22845,7 +22845,7 @@ MCO,HUN,-1
 MCO,ISL,-1
 MCO,IND,e-visa (30)
 MCO,IDN,visa on arrival (30)
-MCO,IRN,e-visa (30)
+MCO,IRN,visa on arrival (30)
 MCO,IRQ,visa required
 MCO,IRL,-1
 MCO,ISR,-1
@@ -23043,7 +23043,7 @@ MNG,HUN,visa required
 MNG,ISL,visa required
 MNG,IND,e-visa (30)
 MNG,IDN,visa on arrival (30)
-MNG,IRN,e-visa (30)
+MNG,IRN,visa on arrival (30)
 MNG,IRQ,visa required
 MNG,IRL,visa required
 MNG,ISR,-1
@@ -23241,7 +23241,7 @@ MNE,HUN,-1
 MNE,ISL,-1
 MNE,IND,e-visa (30)
 MNE,IDN,e-visa
-MNE,IRN,e-visa (30)
+MNE,IRN,visa on arrival (30)
 MNE,IRQ,visa required
 MNE,IRL,visa required
 MNE,ISR,-1
@@ -23439,7 +23439,7 @@ MAR,HUN,visa required
 MAR,ISL,visa required
 MAR,IND,e-visa (30)
 MAR,IDN,visa on arrival (30)
-MAR,IRN,e-visa (30)
+MAR,IRN,visa on arrival (30)
 MAR,IRQ,visa required
 MAR,IRL,visa required
 MAR,ISR,visa required
@@ -23637,7 +23637,7 @@ MOZ,HUN,visa required
 MOZ,ISL,visa required
 MOZ,IND,e-visa (30)
 MOZ,IDN,visa on arrival (30)
-MOZ,IRN,e-visa (30)
+MOZ,IRN,visa on arrival (30)
 MOZ,IRQ,visa required
 MOZ,IRL,visa required
 MOZ,ISR,visa required
@@ -23835,7 +23835,7 @@ MMR,HUN,visa required
 MMR,ISL,visa required
 MMR,IND,e-visa (30)
 MMR,IDN,-1
-MMR,IRN,e-visa (30)
+MMR,IRN,visa on arrival (30)
 MMR,IRQ,visa required
 MMR,IRL,visa required
 MMR,ISR,visa required
@@ -24033,7 +24033,7 @@ NAM,HUN,visa required
 NAM,ISL,visa required
 NAM,IND,e-visa (30)
 NAM,IDN,e-visa
-NAM,IRN,e-visa (30)
+NAM,IRN,visa on arrival (30)
 NAM,IRQ,visa required
 NAM,IRL,visa required
 NAM,ISR,visa required
@@ -24231,7 +24231,7 @@ NRU,HUN,visa required
 NRU,ISL,visa required
 NRU,IND,e-visa (30)
 NRU,IDN,e-visa
-NRU,IRN,e-visa (30)
+NRU,IRN,visa on arrival (30)
 NRU,IRQ,visa required
 NRU,IRL,-1
 NRU,ISR,-1
@@ -24429,7 +24429,7 @@ NPL,HUN,visa required
 NPL,ISL,visa required
 NPL,IND,visa free
 NPL,IDN,e-visa
-NPL,IRN,e-visa (30)
+NPL,IRN,visa on arrival (30)
 NPL,IRQ,visa required
 NPL,IRL,visa required
 NPL,ISR,visa required
@@ -24627,7 +24627,7 @@ NLD,HUN,visa free
 NLD,ISL,visa free
 NLD,IND,e-visa (30)
 NLD,IDN,visa on arrival (30)
-NLD,IRN,e-visa (30)
+NLD,IRN,visa on arrival (30)
 NLD,IRQ,visa on arrival (60)
 NLD,IRL,visa free
 NLD,ISR,-1
@@ -24825,7 +24825,7 @@ NZL,HUN,-1
 NZL,ISL,-1
 NZL,IND,e-visa (30)
 NZL,IDN,visa on arrival (30)
-NZL,IRN,e-visa (30)
+NZL,IRN,visa on arrival (30)
 NZL,IRQ,visa on arrival (60)
 NZL,IRL,-1
 NZL,ISR,-1
@@ -25023,7 +25023,7 @@ NIC,HUN,-1
 NIC,ISL,-1
 NIC,IND,e-visa (30)
 NIC,IDN,e-visa
-NIC,IRN,e-visa (30)
+NIC,IRN,visa on arrival (30)
 NIC,IRQ,visa required
 NIC,IRL,-1
 NIC,ISR,visa required
@@ -25221,7 +25221,7 @@ NER,HUN,visa required
 NER,ISL,visa required
 NER,IND,e-visa (30)
 NER,IDN,e-visa
-NER,IRN,e-visa (30)
+NER,IRN,visa on arrival (30)
 NER,IRQ,visa required
 NER,IRL,visa required
 NER,ISR,visa required
@@ -25419,7 +25419,7 @@ NGA,HUN,visa required
 NGA,ISL,visa required
 NGA,IND,visa required
 NGA,IDN,e-visa
-NGA,IRN,e-visa (30)
+NGA,IRN,visa on arrival (30)
 NGA,IRQ,visa required
 NGA,IRL,visa required
 NGA,ISR,visa required
@@ -25617,7 +25617,7 @@ PRK,HUN,visa required
 PRK,ISL,visa required
 PRK,IND,visa required
 PRK,IDN,e-visa
-PRK,IRN,e-visa (30)
+PRK,IRN,visa on arrival (30)
 PRK,IRQ,visa required
 PRK,IRL,visa required
 PRK,ISR,visa required
@@ -25815,7 +25815,7 @@ MKD,HUN,-1
 MKD,ISL,-1
 MKD,IND,e-visa (30)
 MKD,IDN,e-visa
-MKD,IRN,e-visa (30)
+MKD,IRN,visa on arrival (30)
 MKD,IRQ,visa required
 MKD,IRL,visa required
 MKD,ISR,-1
@@ -26013,7 +26013,7 @@ NOR,HUN,visa free
 NOR,ISL,visa free
 NOR,IND,e-visa (30)
 NOR,IDN,visa on arrival (30)
-NOR,IRN,e-visa (30)
+NOR,IRN,visa on arrival (30)
 NOR,IRQ,visa required
 NOR,IRL,visa free
 NOR,ISR,-1
@@ -26607,7 +26607,7 @@ PLW,HUN,-1
 PLW,ISL,-1
 PLW,IND,e-visa (30)
 PLW,IDN,e-visa
-PLW,IRN,e-visa (30)
+PLW,IRN,visa on arrival (30)
 PLW,IRQ,visa required
 PLW,IRL,visa required
 PLW,ISR,-1
@@ -26805,7 +26805,7 @@ PSE,HUN,visa required
 PSE,ISL,visa required
 PSE,IND,e-visa (30)
 PSE,IDN,visa on arrival (30)
-PSE,IRN,e-visa (30)
+PSE,IRN,visa on arrival (30)
 PSE,IRQ,visa required
 PSE,IRL,visa required
 PSE,ISR,visa required
@@ -27002,8 +27002,8 @@ PAN,HKG,-1
 PAN,HUN,-1
 PAN,ISL,-1
 PAN,IND,e-visa (30)
-PAN,IDN,visa on arrival (30)
-PAN,IRN,e-visa (30)
+PAN,IDN,e-visa
+PAN,IRN,visa on arrival (30)
 PAN,IRQ,visa required
 PAN,IRL,-1
 PAN,ISR,-1
@@ -27201,7 +27201,7 @@ PNG,HUN,visa required
 PNG,ISL,visa required
 PNG,IND,e-visa (30)
 PNG,IDN,visa on arrival (30)
-PNG,IRN,e-visa (30)
+PNG,IRN,visa on arrival (30)
 PNG,IRQ,visa required
 PNG,IRL,visa required
 PNG,ISR,-1
@@ -27399,7 +27399,7 @@ PRY,HUN,-1
 PRY,ISL,-1
 PRY,IND,e-visa (30)
 PRY,IDN,e-visa
-PRY,IRN,e-visa (30)
+PRY,IRN,visa on arrival (30)
 PRY,IRQ,visa required
 PRY,IRL,-1
 PRY,ISR,-1
@@ -27597,7 +27597,7 @@ PER,HUN,-1
 PER,ISL,-1
 PER,IND,e-visa (30)
 PER,IDN,visa on arrival (30)
-PER,IRN,e-visa (30)
+PER,IRN,-1
 PER,IRQ,visa required
 PER,IRL,visa required
 PER,ISR,-1
@@ -27795,7 +27795,7 @@ PHL,HUN,visa required
 PHL,ISL,visa required
 PHL,IND,e-visa (30)
 PHL,IDN,-1
-PHL,IRN,e-visa (30)
+PHL,IRN,visa on arrival (30)
 PHL,IRQ,visa required
 PHL,IRL,visa required
 PHL,ISR,-1
@@ -27993,7 +27993,7 @@ POL,HUN,visa free
 POL,ISL,visa free
 POL,IND,e-visa (30)
 POL,IDN,visa on arrival (30)
-POL,IRN,e-visa (30)
+POL,IRN,visa on arrival (30)
 POL,IRQ,visa on arrival (60)
 POL,IRL,visa free
 POL,ISR,-1
@@ -28191,7 +28191,7 @@ PRT,HUN,visa free
 PRT,ISL,visa free
 PRT,IND,e-visa (30)
 PRT,IDN,visa on arrival (30)
-PRT,IRN,e-visa (30)
+PRT,IRN,visa on arrival (30)
 PRT,IRQ,visa on arrival (60)
 PRT,IRL,visa free
 PRT,ISR,-1
@@ -28389,7 +28389,7 @@ QAT,HUN,visa required
 QAT,ISL,visa required
 QAT,IND,visa required
 QAT,IDN,visa on arrival (30)
-QAT,IRN,e-visa (30)
+QAT,IRN,-1
 QAT,IRQ,visa on arrival (30)
 QAT,IRL,visa required
 QAT,ISR,visa required
@@ -28587,7 +28587,7 @@ ROU,HUN,visa free
 ROU,ISL,visa free
 ROU,IND,e-visa (30)
 ROU,IDN,visa on arrival (30)
-ROU,IRN,e-visa (30)
+ROU,IRN,visa on arrival (30)
 ROU,IRQ,visa on arrival (60)
 ROU,IRL,visa free
 ROU,ISR,-1
@@ -28785,7 +28785,7 @@ RUS,HUN,visa required
 RUS,ISL,visa required
 RUS,IND,e-visa (30)
 RUS,IDN,visa on arrival (30)
-RUS,IRN,e-visa (30)
+RUS,IRN,visa on arrival (30)
 RUS,IRQ,visa on arrival (60)
 RUS,IRL,visa required
 RUS,ISR,-1
@@ -28983,7 +28983,7 @@ RWA,HUN,visa required
 RWA,ISL,visa required
 RWA,IND,e-visa (30)
 RWA,IDN,visa on arrival (30)
-RWA,IRN,e-visa (30)
+RWA,IRN,visa on arrival (30)
 RWA,IRQ,visa required
 RWA,IRL,visa required
 RWA,ISR,visa required
@@ -29181,7 +29181,7 @@ KNA,HUN,-1
 KNA,ISL,-1
 KNA,IND,e-visa (30)
 KNA,IDN,e-visa
-KNA,IRN,e-visa (30)
+KNA,IRN,visa on arrival (30)
 KNA,IRQ,visa required
 KNA,IRL,-1
 KNA,ISR,-1
@@ -29325,7 +29325,7 @@ LCA,BTN,e-visa
 LCA,BOL,visa on arrival (90)
 LCA,BIH,-1
 LCA,BWA,-1
-LCA,BRA,visa required
+LCA,BRA,-1
 LCA,BRN,visa required
 LCA,BGR,-1
 LCA,BFA,e-visa
@@ -29379,7 +29379,7 @@ LCA,HUN,-1
 LCA,ISL,-1
 LCA,IND,e-visa (30)
 LCA,IDN,e-visa
-LCA,IRN,e-visa (30)
+LCA,IRN,visa on arrival (30)
 LCA,IRQ,visa required
 LCA,IRL,-1
 LCA,ISR,-1
@@ -29577,7 +29577,7 @@ WSM,HUN,-1
 WSM,ISL,-1
 WSM,IND,e-visa (30)
 WSM,IDN,e-visa
-WSM,IRN,e-visa (30)
+WSM,IRN,visa on arrival (30)
 WSM,IRQ,visa required
 WSM,IRL,-1
 WSM,ISR,visa required
@@ -29775,7 +29775,7 @@ SMR,HUN,-1
 SMR,ISL,-1
 SMR,IND,e-visa (30)
 SMR,IDN,visa on arrival (30)
-SMR,IRN,e-visa (30)
+SMR,IRN,visa on arrival (30)
 SMR,IRQ,visa required
 SMR,IRL,-1
 SMR,ISR,-1
@@ -29973,7 +29973,7 @@ STP,HUN,visa required
 STP,ISL,visa required
 STP,IND,visa required
 STP,IDN,e-visa
-STP,IRN,e-visa (30)
+STP,IRN,visa on arrival (30)
 STP,IRQ,visa required
 STP,IRL,visa required
 STP,ISR,visa required
@@ -30171,7 +30171,7 @@ SAU,HUN,visa required
 SAU,ISL,visa required
 SAU,IND,e-visa (30)
 SAU,IDN,visa on arrival (30)
-SAU,IRN,e-visa (30)
+SAU,IRN,-1
 SAU,IRQ,visa on arrival (30)
 SAU,IRL,visa required
 SAU,ISR,visa required
@@ -30369,7 +30369,7 @@ SEN,HUN,visa required
 SEN,ISL,visa required
 SEN,IND,e-visa (30)
 SEN,IDN,e-visa
-SEN,IRN,e-visa (30)
+SEN,IRN,visa on arrival (30)
 SEN,IRQ,visa required
 SEN,IRL,visa required
 SEN,ISR,visa required
@@ -30567,7 +30567,7 @@ SRB,HUN,-1
 SRB,ISL,-1
 SRB,IND,e-visa (30)
 SRB,IDN,visa on arrival (30)
-SRB,IRN,e-visa (30)
+SRB,IRN,-1
 SRB,IRQ,visa required
 SRB,IRL,visa required
 SRB,ISR,-1
@@ -30765,7 +30765,7 @@ SYC,HUN,-1
 SYC,ISL,-1
 SYC,IND,e-visa (30)
 SYC,IDN,visa on arrival (30)
-SYC,IRN,e-visa (30)
+SYC,IRN,-1
 SYC,IRQ,visa required
 SYC,IRL,-1
 SYC,ISR,visa required
@@ -30963,7 +30963,7 @@ SLE,HUN,visa required
 SLE,ISL,visa required
 SLE,IND,e-visa (30)
 SLE,IDN,e-visa
-SLE,IRN,e-visa (30)
+SLE,IRN,visa on arrival (30)
 SLE,IRQ,visa required
 SLE,IRL,visa required
 SLE,ISR,visa required
@@ -31161,7 +31161,7 @@ SGP,HUN,-1
 SGP,ISL,-1
 SGP,IND,e-visa (30)
 SGP,IDN,-1
-SGP,IRN,e-visa (30)
+SGP,IRN,-1
 SGP,IRQ,visa required
 SGP,IRL,-1
 SGP,ISR,-1
@@ -31359,7 +31359,7 @@ SVK,HUN,visa free
 SVK,ISL,visa free
 SVK,IND,e-visa (30)
 SVK,IDN,visa on arrival (30)
-SVK,IRN,e-visa (30)
+SVK,IRN,visa on arrival (30)
 SVK,IRQ,visa on arrival (60)
 SVK,IRL,visa free
 SVK,ISR,-1
@@ -31557,7 +31557,7 @@ SVN,HUN,visa free
 SVN,ISL,visa free
 SVN,IND,e-visa (30)
 SVN,IDN,visa on arrival (30)
-SVN,IRN,e-visa (30)
+SVN,IRN,visa on arrival (30)
 SVN,IRQ,visa on arrival (60)
 SVN,IRL,visa free
 SVN,ISR,-1
@@ -31755,7 +31755,7 @@ SLB,HUN,-1
 SLB,ISL,-1
 SLB,IND,e-visa (30)
 SLB,IDN,e-visa
-SLB,IRN,e-visa (30)
+SLB,IRN,visa on arrival (30)
 SLB,IRQ,visa required
 SLB,IRL,-1
 SLB,ISR,-1
@@ -32151,7 +32151,7 @@ ZAF,HUN,visa required
 ZAF,ISL,visa required
 ZAF,IND,e-visa (30)
 ZAF,IDN,visa on arrival (30)
-ZAF,IRN,e-visa (30)
+ZAF,IRN,visa on arrival (30)
 ZAF,IRQ,visa required
 ZAF,IRL,-1
 ZAF,ISR,-1
@@ -32349,7 +32349,7 @@ KOR,HUN,-1
 KOR,ISL,-1
 KOR,IND,visa on arrival (30)
 KOR,IDN,visa on arrival (30)
-KOR,IRN,e-visa (30)
+KOR,IRN,visa on arrival (30)
 KOR,IRQ,visa on arrival (60)
 KOR,IRL,-1
 KOR,ISR,-1
@@ -32547,7 +32547,7 @@ SSD,HUN,visa required
 SSD,ISL,visa required
 SSD,IND,visa required
 SSD,IDN,e-visa
-SSD,IRN,e-visa (30)
+SSD,IRN,visa on arrival (30)
 SSD,IRQ,visa required
 SSD,IRL,visa required
 SSD,ISR,visa required
@@ -32745,7 +32745,7 @@ ESP,HUN,visa free
 ESP,ISL,visa free
 ESP,IND,e-visa (30)
 ESP,IDN,visa on arrival (30)
-ESP,IRN,e-visa (30)
+ESP,IRN,visa on arrival (30)
 ESP,IRQ,visa on arrival (60)
 ESP,IRL,visa free
 ESP,ISR,-1
@@ -32943,7 +32943,7 @@ LKA,HUN,visa required
 LKA,ISL,visa required
 LKA,IND,e-visa (30)
 LKA,IDN,e-visa
-LKA,IRN,e-visa (30)
+LKA,IRN,visa on arrival (30)
 LKA,IRQ,visa required
 LKA,IRL,visa required
 LKA,ISR,visa required
@@ -33141,7 +33141,7 @@ VCT,HUN,-1
 VCT,ISL,-1
 VCT,IND,e-visa (30)
 VCT,IDN,e-visa
-VCT,IRN,e-visa (30)
+VCT,IRN,visa on arrival (30)
 VCT,IRQ,visa required
 VCT,IRL,-1
 VCT,ISR,-1
@@ -33339,7 +33339,7 @@ SDN,HUN,visa required
 SDN,ISL,visa required
 SDN,IND,visa required
 SDN,IDN,e-visa
-SDN,IRN,e-visa (30)
+SDN,IRN,visa on arrival (30)
 SDN,IRQ,visa required
 SDN,IRL,visa required
 SDN,ISR,visa required
@@ -33537,7 +33537,7 @@ SUR,HUN,visa required
 SUR,ISL,visa required
 SUR,IND,e-visa (30)
 SUR,IDN,visa on arrival (30)
-SUR,IRN,e-visa (30)
+SUR,IRN,visa on arrival (30)
 SUR,IRQ,visa required
 SUR,IRL,visa required
 SUR,ISR,-1
@@ -33735,7 +33735,7 @@ SWE,HUN,visa free
 SWE,ISL,visa free
 SWE,IND,e-visa (30)
 SWE,IDN,visa on arrival (30)
-SWE,IRN,e-visa (30)
+SWE,IRN,visa on arrival (30)
 SWE,IRQ,visa on arrival (60)
 SWE,IRL,visa free
 SWE,ISR,-1
@@ -33933,7 +33933,7 @@ CHE,HUN,visa free
 CHE,ISL,visa free
 CHE,IND,e-visa (30)
 CHE,IDN,visa on arrival (30)
-CHE,IRN,e-visa (30)
+CHE,IRN,visa on arrival (30)
 CHE,IRQ,visa on arrival (60)
 CHE,IRL,visa free
 CHE,ISR,-1
@@ -34329,7 +34329,7 @@ TWN,HUN,-1
 TWN,ISL,-1
 TWN,IND,e-visa (30)
 TWN,IDN,visa on arrival (30)
-TWN,IRN,e-visa (30)
+TWN,IRN,visa on arrival (30)
 TWN,IRQ,visa required
 TWN,IRL,-1
 TWN,ISR,-1
@@ -34527,7 +34527,7 @@ TJK,HUN,visa required
 TJK,ISL,visa required
 TJK,IND,e-visa (30)
 TJK,IDN,e-visa
-TJK,IRN,e-visa (30)
+TJK,IRN,visa on arrival (30)
 TJK,IRQ,visa required
 TJK,IRL,visa required
 TJK,ISR,visa required
@@ -34725,7 +34725,7 @@ TZA,HUN,visa required
 TZA,ISL,visa required
 TZA,IND,e-visa (30)
 TZA,IDN,e-visa
-TZA,IRN,e-visa (30)
+TZA,IRN,-1
 TZA,IRQ,visa required
 TZA,IRL,visa required
 TZA,ISR,visa required
@@ -34923,7 +34923,7 @@ THA,HUN,visa required
 THA,ISL,visa required
 THA,IND,e-visa (30)
 THA,IDN,-1
-THA,IRN,e-visa (30)
+THA,IRN,visa on arrival (30)
 THA,IRQ,visa required
 THA,IRL,visa required
 THA,ISR,visa required
@@ -35121,7 +35121,7 @@ TLS,HUN,-1
 TLS,ISL,-1
 TLS,IND,visa required
 TLS,IDN,-1
-TLS,IRN,e-visa (30)
+TLS,IRN,visa on arrival (30)
 TLS,IRQ,visa required
 TLS,IRL,visa required
 TLS,ISR,visa required
@@ -35319,7 +35319,7 @@ TGO,HUN,visa required
 TGO,ISL,visa required
 TGO,IND,e-visa (30)
 TGO,IDN,e-visa
-TGO,IRN,e-visa (30)
+TGO,IRN,visa on arrival (30)
 TGO,IRQ,visa required
 TGO,IRL,visa required
 TGO,ISR,visa required
@@ -35517,7 +35517,7 @@ TON,HUN,-1
 TON,ISL,-1
 TON,IND,e-visa (30)
 TON,IDN,e-visa
-TON,IRN,e-visa (30)
+TON,IRN,visa on arrival (30)
 TON,IRQ,visa required
 TON,IRL,-1
 TON,ISR,-1
@@ -35715,7 +35715,7 @@ TTO,HUN,-1
 TTO,ISL,-1
 TTO,IND,e-visa (30)
 TTO,IDN,e-visa
-TTO,IRN,e-visa (30)
+TTO,IRN,visa on arrival (30)
 TTO,IRQ,visa required
 TTO,IRL,-1
 TTO,ISR,-1
@@ -35913,7 +35913,7 @@ TUN,HUN,visa required
 TUN,ISL,visa required
 TUN,IND,visa required
 TUN,IDN,visa on arrival (30)
-TUN,IRN,e-visa (30)
+TUN,IRN,-1
 TUN,IRQ,visa required
 TUN,IRL,visa required
 TUN,ISR,visa required
@@ -36309,7 +36309,7 @@ TKM,HUN,visa required
 TKM,ISL,visa required
 TKM,IND,visa required
 TKM,IDN,e-visa
-TKM,IRN,e-visa (30)
+TKM,IRN,visa on arrival (30)
 TKM,IRQ,visa required
 TKM,IRL,visa required
 TKM,ISR,visa required
@@ -36507,7 +36507,7 @@ TUV,HUN,-1
 TUV,ISL,-1
 TUV,IND,e-visa (30)
 TUV,IDN,e-visa
-TUV,IRN,e-visa (30)
+TUV,IRN,visa on arrival (30)
 TUV,IRQ,visa required
 TUV,IRL,-1
 TUV,ISR,visa required
@@ -36705,7 +36705,7 @@ UGA,HUN,visa required
 UGA,ISL,visa required
 UGA,IND,e-visa (30)
 UGA,IDN,e-visa
-UGA,IRN,e-visa (30)
+UGA,IRN,visa on arrival (30)
 UGA,IRQ,visa required
 UGA,IRL,visa required
 UGA,ISR,visa required
@@ -36903,7 +36903,7 @@ UKR,HUN,-1
 UKR,ISL,-1
 UKR,IND,e-visa (30)
 UKR,IDN,visa on arrival (30)
-UKR,IRN,e-visa (30)
+UKR,IRN,visa on arrival (30)
 UKR,IRQ,visa required
 UKR,IRL,-1
 UKR,ISR,-1
@@ -37101,7 +37101,7 @@ ARE,HUN,-1
 ARE,ISL,-1
 ARE,IND,visa on arrival (30)
 ARE,IDN,visa on arrival (30)
-ARE,IRN,e-visa (30)
+ARE,IRN,-1
 ARE,IRQ,visa on arrival (30)
 ARE,IRL,-1
 ARE,ISR,-1
@@ -37695,7 +37695,7 @@ URY,HUN,-1
 URY,ISL,-1
 URY,IND,e-visa (30)
 URY,IDN,e-visa
-URY,IRN,e-visa (30)
+URY,IRN,visa on arrival (30)
 URY,IRQ,visa required
 URY,IRL,-1
 URY,ISR,-1
@@ -37893,7 +37893,7 @@ UZB,HUN,visa required
 UZB,ISL,visa required
 UZB,IND,e-visa (30)
 UZB,IDN,visa on arrival (30)
-UZB,IRN,e-visa (30)
+UZB,IRN,-1
 UZB,IRQ,visa required
 UZB,IRL,visa required
 UZB,ISR,visa required
@@ -38091,7 +38091,7 @@ VUT,HUN,visa required
 VUT,ISL,visa required
 VUT,IND,e-visa (30)
 VUT,IDN,e-visa
-VUT,IRN,e-visa (30)
+VUT,IRN,visa on arrival (30)
 VUT,IRQ,visa required
 VUT,IRL,-1
 VUT,ISR,-1
@@ -38289,7 +38289,7 @@ VAT,HUN,-1
 VAT,ISL,-1
 VAT,IND,e-visa (30)
 VAT,IDN,visa on arrival (30)
-VAT,IRN,e-visa (30)
+VAT,IRN,visa on arrival (30)
 VAT,IRQ,visa required
 VAT,IRL,-1
 VAT,ISR,-1
@@ -38685,7 +38685,7 @@ VNM,HUN,visa required
 VNM,ISL,visa required
 VNM,IND,e-visa (30)
 VNM,IDN,-1
-VNM,IRN,e-visa (30)
+VNM,IRN,-1
 VNM,IRQ,visa required
 VNM,IRL,visa required
 VNM,ISR,visa required
@@ -38883,7 +38883,7 @@ YEM,HUN,visa required
 YEM,ISL,visa required
 YEM,IND,visa required
 YEM,IDN,e-visa
-YEM,IRN,e-visa (30)
+YEM,IRN,visa on arrival (30)
 YEM,IRQ,visa required
 YEM,IRL,visa required
 YEM,ISR,visa required
@@ -39081,7 +39081,7 @@ ZMB,HUN,visa required
 ZMB,ISL,visa required
 ZMB,IND,e-visa (30)
 ZMB,IDN,e-visa
-ZMB,IRN,e-visa (30)
+ZMB,IRN,visa on arrival (30)
 ZMB,IRQ,visa required
 ZMB,IRL,visa required
 ZMB,ISR,visa required
@@ -39279,7 +39279,7 @@ ZWE,HUN,visa required
 ZWE,ISL,visa required
 ZWE,IND,e-visa (30)
 ZWE,IDN,e-visa
-ZWE,IRN,e-visa (30)
+ZWE,IRN,-1
 ZWE,IRQ,visa required
 ZWE,IRL,visa required
 ZWE,ISR,visa required

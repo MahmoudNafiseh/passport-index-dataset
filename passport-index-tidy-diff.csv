@@ -1,1 +1,179 @@
 Passport,Destination,Requirement,duration,passport-id
+Albania,Iran,visa on arrival,30,275
+Algeria,Iran,visa on arrival,30,473
+Andorra,Iran,visa on arrival,30,671
+Angola,Iran,visa on arrival,30,869
+Antigua and Barbuda,Iran,visa on arrival,30,1067
+Argentina,Iran,visa on arrival,30,1265
+Australia,Iran,visa on arrival,30,1661
+Austria,Iran,visa on arrival,30,1859
+Bahamas,Iran,visa on arrival,30,2255
+Bahrain,Iran,-1,0,2453
+Barbados,Iran,visa on arrival,30,2849
+Belarus,Iran,-1,0,3047
+Belgium,Iran,visa on arrival,30,3245
+Belize,Iran,visa on arrival,30,3443
+Benin,Iran,visa on arrival,30,3641
+Bhutan,Iran,visa on arrival,30,3839
+Bolivia,Iran,visa on arrival,30,4037
+Bosnia and Herzegovina,Iran,-1,0,4235
+Botswana,Iran,visa on arrival,30,4433
+Brazil,Iran,-1,0,4631
+Brunei,Iran,-1,0,4829
+Bulgaria,Iran,visa on arrival,30,5027
+Burkina Faso,Iran,visa on arrival,30,5225
+Burundi,Iran,visa on arrival,30,5423
+Cambodia,Iran,-1,0,5621
+Cameroon,Iran,visa on arrival,30,5819
+Cape Verde,Iran,visa on arrival,30,6215
+Central African Republic,Iran,visa on arrival,30,6413
+Chad,Iran,visa on arrival,30,6611
+Chile,Iran,visa on arrival,30,6809
+Comoros,Iran,visa on arrival,30,7403
+Congo,Iran,visa on arrival,30,7601
+Costa Rica,Iran,visa on arrival,30,7997
+Croatia,Iran,-1,0,8393
+Cuba,Iran,-1,0,8591
+Cyprus,Iran,visa on arrival,30,8789
+Czech Republic,Iran,visa on arrival,30,8987
+DR Congo,Iran,visa on arrival,30,7799
+Denmark,Iran,visa on arrival,30,9185
+Djibouti,Iran,visa on arrival,30,9383
+Dominica,Iran,visa on arrival,30,9581
+Dominican Republic,Iran,visa on arrival,30,9779
+Ecuador,Iran,visa on arrival,30,9977
+El Salvador,Iran,visa on arrival,30,10373
+Equatorial Guinea,Iran,visa on arrival,30,10571
+Eritrea,Iran,visa on arrival,30,10769
+Estonia,Iran,visa on arrival,30,10967
+Ethiopia,Iran,visa on arrival,30,11363
+Fiji,Iran,visa on arrival,30,11561
+Finland,Iran,visa on arrival,30,11759
+France,Iran,visa on arrival,30,11957
+Gabon,Iran,visa on arrival,30,12155
+Gambia,Iran,visa on arrival,30,12353
+Georgia,Iran,-1,0,12551
+Germany,Iran,visa on arrival,30,12749
+Ghana,Iran,visa on arrival,30,12947
+Ghana,Mongolia,e-visa,0,12983
+Greece,Iran,visa on arrival,30,13145
+Grenada,Iran,visa on arrival,30,13343
+Guatemala,Iran,visa on arrival,30,13541
+Guinea,Iran,visa on arrival,30,13739
+Guinea-Bissau,Iran,visa on arrival,30,13937
+Guyana,Iran,visa on arrival,30,14135
+Haiti,Iran,visa on arrival,30,14333
+Honduras,Iran,visa on arrival,30,14531
+Hungary,Iran,visa on arrival,30,14927
+Iceland,Iran,visa on arrival,30,15125
+India,Iran,-1,0,15323
+Indonesia,Iran,-1,0,15521
+Indonesia,Mongolia,e-visa,0,15557
+Ireland,Iran,visa on arrival,30,16115
+Italy,Iran,visa on arrival,30,16511
+Ivory Coast,Iran,visa on arrival,30,8195
+Jamaica,Iran,visa on arrival,30,16709
+Japan,Iran,-1,0,16907
+Kenya,Iran,visa on arrival,30,17501
+Kiribati,Iran,visa on arrival,30,17699
+Kosovo,Iran,visa on arrival,30,17897
+Kuwait,Iran,-1,0,18095
+Kyrgyzstan,Iran,-1,0,18293
+Laos,Iran,visa on arrival,30,18491
+Latvia,Iran,visa on arrival,30,18689
+Lesotho,Iran,visa on arrival,30,19085
+Liberia,Iran,visa on arrival,30,19283
+Libya,Iran,visa on arrival,30,19481
+Liechtenstein,Iran,visa on arrival,30,19679
+Lithuania,Iran,visa on arrival,30,19877
+Luxembourg,Iran,visa on arrival,30,20075
+Madagascar,Iran,visa on arrival,30,20471
+Malawi,Iran,visa on arrival,30,20669
+Maldives,Iran,visa on arrival,30,21065
+Mali,Iran,visa on arrival,30,21263
+Malta,Iran,visa on arrival,30,21461
+Marshall Islands,Iran,visa on arrival,30,21659
+Mauritania,Iran,-1,0,21857
+Mauritius,Iran,-1,0,22055
+Mexico,Iran,-1,0,22253
+Micronesia,Iran,visa on arrival,30,22451
+Moldova,Iran,visa on arrival,30,22649
+Monaco,Iran,visa on arrival,30,22847
+Mongolia,Iran,visa on arrival,30,23045
+Montenegro,Iran,visa on arrival,30,23243
+Morocco,Iran,visa on arrival,30,23441
+Mozambique,Iran,visa on arrival,30,23639
+Myanmar,Iran,visa on arrival,30,23837
+Namibia,Iran,visa on arrival,30,24035
+Nauru,Iran,visa on arrival,30,24233
+Nepal,Iran,visa on arrival,30,24431
+Netherlands,Iran,visa on arrival,30,24629
+New Zealand,Iran,visa on arrival,30,24827
+Nicaragua,Iran,visa on arrival,30,25025
+Niger,Iran,visa on arrival,30,25223
+Nigeria,Iran,visa on arrival,30,25421
+North Korea,Iran,visa on arrival,30,25619
+North Macedonia,Iran,visa on arrival,30,25817
+Norway,Iran,visa on arrival,30,26015
+Palau,Iran,visa on arrival,30,26609
+Palestine,Iran,visa on arrival,30,26807
+Panama,Indonesia,e-visa,0,27004
+Panama,Iran,visa on arrival,30,27005
+Papua New Guinea,Iran,visa on arrival,30,27203
+Paraguay,Iran,visa on arrival,30,27401
+Peru,Iran,-1,0,27599
+Philippines,Iran,visa on arrival,30,27797
+Poland,Iran,visa on arrival,30,27995
+Portugal,Iran,visa on arrival,30,28193
+Qatar,Iran,-1,0,28391
+Romania,Iran,visa on arrival,30,28589
+Russia,Iran,visa on arrival,30,28787
+Rwanda,Iran,visa on arrival,30,28985
+Saint Kitts and Nevis,Iran,visa on arrival,30,29183
+Saint Lucia,Brazil,-1,0,29327
+Saint Lucia,Iran,visa on arrival,30,29381
+Saint Vincent and the Grenadines,Iran,visa on arrival,30,33143
+Samoa,Iran,visa on arrival,30,29579
+San Marino,Iran,visa on arrival,30,29777
+Sao Tome and Principe,Iran,visa on arrival,30,29975
+Saudi Arabia,Iran,-1,0,30173
+Senegal,Iran,visa on arrival,30,30371
+Serbia,Iran,-1,0,30569
+Seychelles,Iran,-1,0,30767
+Sierra Leone,Iran,visa on arrival,30,30965
+Singapore,Iran,-1,0,31163
+Slovakia,Iran,visa on arrival,30,31361
+Slovenia,Iran,visa on arrival,30,31559
+Solomon Islands,Iran,visa on arrival,30,31757
+South Africa,Iran,visa on arrival,30,32153
+South Korea,Iran,visa on arrival,30,32351
+South Sudan,Iran,visa on arrival,30,32549
+Spain,Iran,visa on arrival,30,32747
+Sri Lanka,Iran,visa on arrival,30,32945
+Sudan,Iran,visa on arrival,30,33341
+Suriname,Iran,visa on arrival,30,33539
+Swaziland,Iran,visa on arrival,30,11165
+Sweden,Iran,visa on arrival,30,33737
+Switzerland,Iran,visa on arrival,30,33935
+Taiwan,Iran,visa on arrival,30,34331
+Tajikistan,Iran,visa on arrival,30,34529
+Tanzania,Iran,-1,0,34727
+Thailand,Iran,visa on arrival,30,34925
+Timor-Leste,Iran,visa on arrival,30,35123
+Togo,Iran,visa on arrival,30,35321
+Tonga,Iran,visa on arrival,30,35519
+Trinidad and Tobago,Iran,visa on arrival,30,35717
+Tunisia,Iran,-1,0,35915
+Turkmenistan,Iran,visa on arrival,30,36311
+Tuvalu,Iran,visa on arrival,30,36509
+Uganda,Iran,visa on arrival,30,36707
+Ukraine,Iran,visa on arrival,30,36905
+United Arab Emirates,Iran,-1,0,37103
+Uruguay,Iran,visa on arrival,30,37697
+Uzbekistan,Iran,-1,0,37895
+Vanuatu,Iran,visa on arrival,30,38093
+Vatican,Iran,visa on arrival,30,38291
+Vietnam,Iran,-1,0,38687
+Yemen,Iran,visa on arrival,30,38885
+Zambia,Iran,visa on arrival,30,39083
+Zimbabwe,Iran,-1,0,39281
