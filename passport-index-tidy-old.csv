@@ -273,7 +273,7 @@ Albania,Hungary,-1,0,271
 Albania,Iceland,-1,0,272
 Albania,India,e-visa,30,273
 Albania,Indonesia,visa on arrival,30,274
-Albania,Iran,e-visa,30,275
+Albania,Iran,visa on arrival,30,275
 Albania,Iraq,visa required,0,276
 Albania,Ireland,visa required,0,277
 Albania,Israel,-1,0,278
@@ -471,7 +471,7 @@ Algeria,Hungary,visa required,0,469
 Algeria,Iceland,visa required,0,470
 Algeria,India,visa required,0,471
 Algeria,Indonesia,e-visa,0,472
-Algeria,Iran,e-visa,30,473
+Algeria,Iran,visa on arrival,30,473
 Algeria,Iraq,visa required,0,474
 Algeria,Ireland,visa required,0,475
 Algeria,Israel,visa required,0,476
@@ -669,7 +669,7 @@ Andorra,Hungary,-1,0,667
 Andorra,Iceland,-1,0,668
 Andorra,India,e-visa,30,669
 Andorra,Indonesia,visa on arrival,30,670
-Andorra,Iran,e-visa,30,671
+Andorra,Iran,visa on arrival,30,671
 Andorra,Iraq,visa required,0,672
 Andorra,Ireland,-1,0,673
 Andorra,Israel,-1,0,674
@@ -867,7 +867,7 @@ Angola,Hungary,visa required,0,865
 Angola,Iceland,visa required,0,866
 Angola,India,e-visa,30,867
 Angola,Indonesia,e-visa,0,868
-Angola,Iran,e-visa,30,869
+Angola,Iran,visa on arrival,30,869
 Angola,Iraq,visa required,0,870
 Angola,Ireland,visa required,0,871
 Angola,Israel,visa required,0,872
@@ -1065,7 +1065,7 @@ Antigua and Barbuda,Hungary,-1,0,1063
 Antigua and Barbuda,Iceland,-1,0,1064
 Antigua and Barbuda,India,e-visa,30,1065
 Antigua and Barbuda,Indonesia,e-visa,0,1066
-Antigua and Barbuda,Iran,e-visa,30,1067
+Antigua and Barbuda,Iran,visa on arrival,30,1067
 Antigua and Barbuda,Iraq,visa required,0,1068
 Antigua and Barbuda,Ireland,-1,0,1069
 Antigua and Barbuda,Israel,visa required,0,1070
@@ -1263,7 +1263,7 @@ Argentina,Hungary,-1,0,1261
 Argentina,Iceland,-1,0,1262
 Argentina,India,e-visa,30,1263
 Argentina,Indonesia,visa on arrival,30,1264
-Argentina,Iran,e-visa,30,1265
+Argentina,Iran,visa on arrival,30,1265
 Argentina,Iraq,visa required,0,1266
 Argentina,Ireland,-1,0,1267
 Argentina,Israel,-1,0,1268
@@ -1659,7 +1659,7 @@ Australia,Hungary,-1,0,1657
 Australia,Iceland,-1,0,1658
 Australia,India,e-visa,30,1659
 Australia,Indonesia,visa on arrival,30,1660
-Australia,Iran,e-visa,30,1661
+Australia,Iran,visa on arrival,30,1661
 Australia,Iraq,visa on arrival,60,1662
 Australia,Ireland,-1,0,1663
 Australia,Israel,-1,0,1664
@@ -1857,7 +1857,7 @@ Austria,Hungary,visa free,0,1855
 Austria,Iceland,visa free,0,1856
 Austria,India,e-visa,30,1857
 Austria,Indonesia,visa on arrival,30,1858
-Austria,Iran,e-visa,30,1859
+Austria,Iran,visa on arrival,30,1859
 Austria,Iraq,visa on arrival,60,1860
 Austria,Ireland,visa free,0,1861
 Austria,Israel,-1,0,1862
@@ -2253,7 +2253,7 @@ Bahamas,Hungary,-1,0,2251
 Bahamas,Iceland,-1,0,2252
 Bahamas,India,e-visa,30,2253
 Bahamas,Indonesia,e-visa,0,2254
-Bahamas,Iran,e-visa,30,2255
+Bahamas,Iran,visa on arrival,30,2255
 Bahamas,Iraq,visa required,0,2256
 Bahamas,Ireland,-1,0,2257
 Bahamas,Israel,-1,0,2258
@@ -2451,7 +2451,7 @@ Bahrain,Hungary,visa required,0,2449
 Bahrain,Iceland,visa required,0,2450
 Bahrain,India,visa required,0,2451
 Bahrain,Indonesia,visa on arrival,30,2452
-Bahrain,Iran,e-visa,30,2453
+Bahrain,Iran,-1,0,2453
 Bahrain,Iraq,visa on arrival,30,2454
 Bahrain,Ireland,visa required,0,2455
 Bahrain,Israel,visa required,0,2456
@@ -2847,7 +2847,7 @@ Barbados,Hungary,-1,0,2845
 Barbados,Iceland,-1,0,2846
 Barbados,India,e-visa,30,2847
 Barbados,Indonesia,e-visa,0,2848
-Barbados,Iran,e-visa,30,2849
+Barbados,Iran,visa on arrival,30,2849
 Barbados,Iraq,visa required,0,2850
 Barbados,Ireland,-1,0,2851
 Barbados,Israel,-1,0,2852
@@ -3045,7 +3045,7 @@ Belarus,Hungary,visa required,0,3043
 Belarus,Iceland,visa required,0,3044
 Belarus,India,e-visa,30,3045
 Belarus,Indonesia,visa on arrival,30,3046
-Belarus,Iran,e-visa,30,3047
+Belarus,Iran,-1,0,3047
 Belarus,Iraq,visa required,0,3048
 Belarus,Ireland,visa required,0,3049
 Belarus,Israel,-1,0,3050
@@ -3243,7 +3243,7 @@ Belgium,Hungary,visa free,0,3241
 Belgium,Iceland,visa free,0,3242
 Belgium,India,e-visa,30,3243
 Belgium,Indonesia,visa on arrival,30,3244
-Belgium,Iran,e-visa,30,3245
+Belgium,Iran,visa on arrival,30,3245
 Belgium,Iraq,visa on arrival,60,3246
 Belgium,Ireland,visa free,0,3247
 Belgium,Israel,-1,0,3248
@@ -3441,7 +3441,7 @@ Belize,Hungary,visa required,0,3439
 Belize,Iceland,visa required,0,3440
 Belize,India,e-visa,30,3441
 Belize,Indonesia,e-visa,0,3442
-Belize,Iran,e-visa,30,3443
+Belize,Iran,visa on arrival,30,3443
 Belize,Iraq,visa required,0,3444
 Belize,Ireland,-1,0,3445
 Belize,Israel,-1,0,3446
@@ -3639,7 +3639,7 @@ Benin,Hungary,visa required,0,3637
 Benin,Iceland,visa required,0,3638
 Benin,India,e-visa,30,3639
 Benin,Indonesia,e-visa,0,3640
-Benin,Iran,e-visa,30,3641
+Benin,Iran,visa on arrival,30,3641
 Benin,Iraq,visa required,0,3642
 Benin,Ireland,visa required,0,3643
 Benin,Israel,visa required,0,3644
@@ -3837,7 +3837,7 @@ Bhutan,Hungary,visa required,0,3835
 Bhutan,Iceland,visa required,0,3836
 Bhutan,India,visa free,0,3837
 Bhutan,Indonesia,e-visa,0,3838
-Bhutan,Iran,e-visa,30,3839
+Bhutan,Iran,visa on arrival,30,3839
 Bhutan,Iraq,visa required,0,3840
 Bhutan,Ireland,visa required,0,3841
 Bhutan,Israel,visa required,0,3842
@@ -4035,7 +4035,7 @@ Bolivia,Hungary,visa required,0,4033
 Bolivia,Iceland,visa required,0,4034
 Bolivia,India,e-visa,30,4035
 Bolivia,Indonesia,e-visa,0,4036
-Bolivia,Iran,-1,0,4037
+Bolivia,Iran,visa on arrival,30,4037
 Bolivia,Iraq,visa required,0,4038
 Bolivia,Ireland,visa required,0,4039
 Bolivia,Israel,visa required,0,4040
@@ -4233,7 +4233,7 @@ Bosnia and Herzegovina,Hungary,-1,0,4231
 Bosnia and Herzegovina,Iceland,-1,0,4232
 Bosnia and Herzegovina,India,e-visa,30,4233
 Bosnia and Herzegovina,Indonesia,visa on arrival,30,4234
-Bosnia and Herzegovina,Iran,e-visa,30,4235
+Bosnia and Herzegovina,Iran,-1,0,4235
 Bosnia and Herzegovina,Iraq,visa required,0,4236
 Bosnia and Herzegovina,Ireland,visa required,0,4237
 Bosnia and Herzegovina,Israel,visa required,0,4238
@@ -4431,7 +4431,7 @@ Botswana,Hungary,visa required,0,4429
 Botswana,Iceland,visa required,0,4430
 Botswana,India,e-visa,30,4431
 Botswana,Indonesia,e-visa,0,4432
-Botswana,Iran,e-visa,30,4433
+Botswana,Iran,visa on arrival,30,4433
 Botswana,Iraq,visa required,0,4434
 Botswana,Ireland,-1,0,4435
 Botswana,Israel,-1,0,4436
@@ -4629,7 +4629,7 @@ Brazil,Hungary,-1,0,4627
 Brazil,Iceland,-1,0,4628
 Brazil,India,e-visa,30,4629
 Brazil,Indonesia,visa on arrival,30,4630
-Brazil,Iran,e-visa,30,4631
+Brazil,Iran,-1,0,4631
 Brazil,Iraq,visa required,0,4632
 Brazil,Ireland,-1,0,4633
 Brazil,Israel,-1,0,4634
@@ -4827,7 +4827,7 @@ Brunei,Hungary,-1,0,4825
 Brunei,Iceland,-1,0,4826
 Brunei,India,e-visa,30,4827
 Brunei,Indonesia,-1,0,4828
-Brunei,Iran,e-visa,30,4829
+Brunei,Iran,-1,0,4829
 Brunei,Iraq,visa required,0,4830
 Brunei,Ireland,-1,0,4831
 Brunei,Israel,visa required,0,4832
@@ -5025,7 +5025,7 @@ Bulgaria,Hungary,visa free,0,5023
 Bulgaria,Iceland,visa free,0,5024
 Bulgaria,India,e-visa,30,5025
 Bulgaria,Indonesia,visa on arrival,30,5026
-Bulgaria,Iran,e-visa,30,5027
+Bulgaria,Iran,visa on arrival,30,5027
 Bulgaria,Iraq,visa on arrival,60,5028
 Bulgaria,Ireland,visa free,0,5029
 Bulgaria,Israel,-1,0,5030
@@ -5223,7 +5223,7 @@ Burkina Faso,Hungary,visa required,0,5221
 Burkina Faso,Iceland,visa required,0,5222
 Burkina Faso,India,visa required,0,5223
 Burkina Faso,Indonesia,e-visa,0,5224
-Burkina Faso,Iran,e-visa,30,5225
+Burkina Faso,Iran,visa on arrival,30,5225
 Burkina Faso,Iraq,visa required,0,5226
 Burkina Faso,Ireland,visa required,0,5227
 Burkina Faso,Israel,visa required,0,5228
@@ -5421,7 +5421,7 @@ Burundi,Hungary,visa required,0,5419
 Burundi,Iceland,visa required,0,5420
 Burundi,India,e-visa,30,5421
 Burundi,Indonesia,e-visa,0,5422
-Burundi,Iran,e-visa,30,5423
+Burundi,Iran,visa on arrival,30,5423
 Burundi,Iraq,visa required,0,5424
 Burundi,Ireland,visa required,0,5425
 Burundi,Israel,visa required,0,5426
@@ -5619,7 +5619,7 @@ Cambodia,Hungary,visa required,0,5617
 Cambodia,Iceland,visa required,0,5618
 Cambodia,India,e-visa,30,5619
 Cambodia,Indonesia,-1,0,5620
-Cambodia,Iran,e-visa,30,5621
+Cambodia,Iran,-1,0,5621
 Cambodia,Iraq,visa required,0,5622
 Cambodia,Ireland,visa required,0,5623
 Cambodia,Israel,visa required,0,5624
@@ -5817,7 +5817,7 @@ Cameroon,Hungary,visa required,0,5815
 Cameroon,Iceland,visa required,0,5816
 Cameroon,India,e-visa,30,5817
 Cameroon,Indonesia,e-visa,0,5818
-Cameroon,Iran,e-visa,30,5819
+Cameroon,Iran,visa on arrival,30,5819
 Cameroon,Iraq,visa required,0,5820
 Cameroon,Ireland,visa required,0,5821
 Cameroon,Israel,visa required,0,5822
@@ -6213,7 +6213,7 @@ Cape Verde,Hungary,visa required,0,6211
 Cape Verde,Iceland,visa required,0,6212
 Cape Verde,India,e-visa,30,6213
 Cape Verde,Indonesia,e-visa,0,6214
-Cape Verde,Iran,e-visa,30,6215
+Cape Verde,Iran,visa on arrival,30,6215
 Cape Verde,Iraq,visa required,0,6216
 Cape Verde,Ireland,visa required,0,6217
 Cape Verde,Israel,visa required,0,6218
@@ -6411,7 +6411,7 @@ Central African Republic,Hungary,visa required,0,6409
 Central African Republic,Iceland,visa required,0,6410
 Central African Republic,India,visa required,0,6411
 Central African Republic,Indonesia,e-visa,0,6412
-Central African Republic,Iran,e-visa,30,6413
+Central African Republic,Iran,visa on arrival,30,6413
 Central African Republic,Iraq,visa required,0,6414
 Central African Republic,Ireland,visa required,0,6415
 Central African Republic,Israel,visa required,0,6416
@@ -6609,7 +6609,7 @@ Chad,Hungary,visa required,0,6607
 Chad,Iceland,visa required,0,6608
 Chad,India,visa required,0,6609
 Chad,Indonesia,e-visa,0,6610
-Chad,Iran,e-visa,30,6611
+Chad,Iran,visa on arrival,30,6611
 Chad,Iraq,visa required,0,6612
 Chad,Ireland,visa required,0,6613
 Chad,Israel,visa required,0,6614
@@ -6807,7 +6807,7 @@ Chile,Hungary,-1,0,6805
 Chile,Iceland,-1,0,6806
 Chile,India,e-visa,30,6807
 Chile,Indonesia,visa on arrival,30,6808
-Chile,Iran,e-visa,30,6809
+Chile,Iran,visa on arrival,30,6809
 Chile,Iraq,visa required,0,6810
 Chile,Ireland,-1,0,6811
 Chile,Israel,-1,0,6812
@@ -7401,7 +7401,7 @@ Comoros,Hungary,visa required,0,7399
 Comoros,Iceland,visa required,0,7400
 Comoros,India,e-visa,30,7401
 Comoros,Indonesia,e-visa,0,7402
-Comoros,Iran,e-visa,30,7403
+Comoros,Iran,visa on arrival,30,7403
 Comoros,Iraq,visa required,0,7404
 Comoros,Ireland,visa required,0,7405
 Comoros,Israel,visa required,0,7406
@@ -7599,7 +7599,7 @@ Congo,Hungary,visa required,0,7597
 Congo,Iceland,visa required,0,7598
 Congo,India,visa required,0,7599
 Congo,Indonesia,e-visa,0,7600
-Congo,Iran,e-visa,30,7601
+Congo,Iran,visa on arrival,30,7601
 Congo,Iraq,visa required,0,7602
 Congo,Ireland,visa required,0,7603
 Congo,Israel,visa required,0,7604
@@ -7797,7 +7797,7 @@ DR Congo,Hungary,visa required,0,7795
 DR Congo,Iceland,visa required,0,7796
 DR Congo,India,visa required,0,7797
 DR Congo,Indonesia,e-visa,0,7798
-DR Congo,Iran,e-visa,30,7799
+DR Congo,Iran,visa on arrival,30,7799
 DR Congo,Iraq,visa required,0,7800
 DR Congo,Ireland,visa required,0,7801
 DR Congo,Israel,visa required,0,7802
@@ -7995,7 +7995,7 @@ Costa Rica,Hungary,-1,0,7993
 Costa Rica,Iceland,-1,0,7994
 Costa Rica,India,e-visa,30,7995
 Costa Rica,Indonesia,e-visa,0,7996
-Costa Rica,Iran,e-visa,30,7997
+Costa Rica,Iran,visa on arrival,30,7997
 Costa Rica,Iraq,visa required,0,7998
 Costa Rica,Ireland,-1,0,7999
 Costa Rica,Israel,-1,0,8000
@@ -8193,7 +8193,7 @@ Ivory Coast,Hungary,visa required,0,8191
 Ivory Coast,Iceland,visa required,0,8192
 Ivory Coast,India,e-visa,30,8193
 Ivory Coast,Indonesia,e-visa,0,8194
-Ivory Coast,Iran,e-visa,30,8195
+Ivory Coast,Iran,visa on arrival,30,8195
 Ivory Coast,Iraq,visa required,0,8196
 Ivory Coast,Ireland,visa required,0,8197
 Ivory Coast,Israel,visa required,0,8198
@@ -8391,7 +8391,7 @@ Croatia,Hungary,visa free,0,8389
 Croatia,Iceland,visa free,0,8390
 Croatia,India,e-visa,30,8391
 Croatia,Indonesia,visa on arrival,30,8392
-Croatia,Iran,e-visa,30,8393
+Croatia,Iran,-1,0,8393
 Croatia,Iraq,visa on arrival,60,8394
 Croatia,Ireland,visa free,0,8395
 Croatia,Israel,-1,0,8396
@@ -8589,7 +8589,7 @@ Cuba,Hungary,visa required,0,8587
 Cuba,Iceland,visa required,0,8588
 Cuba,India,e-visa,30,8589
 Cuba,Indonesia,e-visa,0,8590
-Cuba,Iran,e-visa,30,8591
+Cuba,Iran,-1,0,8591
 Cuba,Iraq,visa required,0,8592
 Cuba,Ireland,visa required,0,8593
 Cuba,Israel,visa required,0,8594
@@ -8787,7 +8787,7 @@ Cyprus,Hungary,visa free,0,8785
 Cyprus,Iceland,visa free,0,8786
 Cyprus,India,e-visa,30,8787
 Cyprus,Indonesia,visa on arrival,30,8788
-Cyprus,Iran,e-visa,30,8789
+Cyprus,Iran,visa on arrival,30,8789
 Cyprus,Iraq,visa on arrival,60,8790
 Cyprus,Ireland,visa free,0,8791
 Cyprus,Israel,-1,0,8792
@@ -8985,7 +8985,7 @@ Czech Republic,Hungary,visa free,0,8983
 Czech Republic,Iceland,visa free,0,8984
 Czech Republic,India,e-visa,30,8985
 Czech Republic,Indonesia,visa on arrival,30,8986
-Czech Republic,Iran,e-visa,30,8987
+Czech Republic,Iran,visa on arrival,30,8987
 Czech Republic,Iraq,visa on arrival,60,8988
 Czech Republic,Ireland,visa free,0,8989
 Czech Republic,Israel,-1,0,8990
@@ -9183,7 +9183,7 @@ Denmark,Hungary,visa free,0,9181
 Denmark,Iceland,visa free,0,9182
 Denmark,India,e-visa,30,9183
 Denmark,Indonesia,visa on arrival,30,9184
-Denmark,Iran,e-visa,30,9185
+Denmark,Iran,visa on arrival,30,9185
 Denmark,Iraq,visa on arrival,60,9186
 Denmark,Ireland,visa free,0,9187
 Denmark,Israel,-1,0,9188
@@ -9381,7 +9381,7 @@ Djibouti,Hungary,visa required,0,9379
 Djibouti,Iceland,visa required,0,9380
 Djibouti,India,e-visa,30,9381
 Djibouti,Indonesia,e-visa,0,9382
-Djibouti,Iran,e-visa,30,9383
+Djibouti,Iran,visa on arrival,30,9383
 Djibouti,Iraq,visa required,0,9384
 Djibouti,Ireland,visa required,0,9385
 Djibouti,Israel,visa required,0,9386
@@ -9579,7 +9579,7 @@ Dominica,Hungary,-1,0,9577
 Dominica,Iceland,-1,0,9578
 Dominica,India,e-visa,30,9579
 Dominica,Indonesia,e-visa,0,9580
-Dominica,Iran,e-visa,30,9581
+Dominica,Iran,visa on arrival,30,9581
 Dominica,Iraq,visa required,0,9582
 Dominica,Ireland,-1,0,9583
 Dominica,Israel,-1,0,9584
@@ -9777,7 +9777,7 @@ Dominican Republic,Hungary,visa required,0,9775
 Dominican Republic,Iceland,visa required,0,9776
 Dominican Republic,India,e-visa,30,9777
 Dominican Republic,Indonesia,e-visa,0,9778
-Dominican Republic,Iran,e-visa,30,9779
+Dominican Republic,Iran,visa on arrival,30,9779
 Dominican Republic,Iraq,visa required,0,9780
 Dominican Republic,Ireland,visa required,0,9781
 Dominican Republic,Israel,-1,0,9782
@@ -9975,7 +9975,7 @@ Ecuador,Hungary,visa required,0,9973
 Ecuador,Iceland,visa required,0,9974
 Ecuador,India,e-visa,30,9975
 Ecuador,Indonesia,visa on arrival,30,9976
-Ecuador,Iran,e-visa,30,9977
+Ecuador,Iran,visa on arrival,30,9977
 Ecuador,Iraq,visa required,0,9978
 Ecuador,Ireland,visa required,0,9979
 Ecuador,Israel,-1,0,9980
@@ -10371,7 +10371,7 @@ El Salvador,Hungary,-1,0,10369
 El Salvador,Iceland,-1,0,10370
 El Salvador,India,e-visa,30,10371
 El Salvador,Indonesia,e-visa,0,10372
-El Salvador,Iran,e-visa,30,10373
+El Salvador,Iran,visa on arrival,30,10373
 El Salvador,Iraq,visa required,0,10374
 El Salvador,Ireland,-1,0,10375
 El Salvador,Israel,-1,0,10376
@@ -10569,7 +10569,7 @@ Equatorial Guinea,Hungary,visa required,0,10567
 Equatorial Guinea,Iceland,visa required,0,10568
 Equatorial Guinea,India,e-visa,30,10569
 Equatorial Guinea,Indonesia,e-visa,0,10570
-Equatorial Guinea,Iran,e-visa,30,10571
+Equatorial Guinea,Iran,visa on arrival,30,10571
 Equatorial Guinea,Iraq,visa required,0,10572
 Equatorial Guinea,Ireland,visa required,0,10573
 Equatorial Guinea,Israel,visa required,0,10574
@@ -10767,7 +10767,7 @@ Eritrea,Hungary,visa required,0,10765
 Eritrea,Iceland,visa required,0,10766
 Eritrea,India,e-visa,30,10767
 Eritrea,Indonesia,e-visa,0,10768
-Eritrea,Iran,e-visa,30,10769
+Eritrea,Iran,visa on arrival,30,10769
 Eritrea,Iraq,visa required,0,10770
 Eritrea,Ireland,visa required,0,10771
 Eritrea,Israel,visa required,0,10772
@@ -10965,7 +10965,7 @@ Estonia,Hungary,visa free,0,10963
 Estonia,Iceland,visa free,0,10964
 Estonia,India,e-visa,30,10965
 Estonia,Indonesia,visa on arrival,30,10966
-Estonia,Iran,e-visa,30,10967
+Estonia,Iran,visa on arrival,30,10967
 Estonia,Iraq,visa on arrival,60,10968
 Estonia,Ireland,visa free,0,10969
 Estonia,Israel,-1,0,10970
@@ -11163,7 +11163,7 @@ Swaziland,Hungary,visa required,0,11161
 Swaziland,Iceland,visa required,0,11162
 Swaziland,India,e-visa,30,11163
 Swaziland,Indonesia,e-visa,0,11164
-Swaziland,Iran,e-visa,30,11165
+Swaziland,Iran,visa on arrival,30,11165
 Swaziland,Iraq,visa required,0,11166
 Swaziland,Ireland,-1,0,11167
 Swaziland,Israel,-1,0,11168
@@ -11361,7 +11361,7 @@ Ethiopia,Hungary,visa required,0,11359
 Ethiopia,Iceland,visa required,0,11360
 Ethiopia,India,visa required,0,11361
 Ethiopia,Indonesia,e-visa,0,11362
-Ethiopia,Iran,e-visa,30,11363
+Ethiopia,Iran,visa on arrival,30,11363
 Ethiopia,Iraq,visa required,0,11364
 Ethiopia,Ireland,visa required,0,11365
 Ethiopia,Israel,visa required,0,11366
@@ -11559,7 +11559,7 @@ Fiji,Hungary,visa required,0,11557
 Fiji,Iceland,visa required,0,11558
 Fiji,India,e-visa,30,11559
 Fiji,Indonesia,e-visa,0,11560
-Fiji,Iran,e-visa,30,11561
+Fiji,Iran,visa on arrival,30,11561
 Fiji,Iraq,visa required,0,11562
 Fiji,Ireland,-1,0,11563
 Fiji,Israel,-1,0,11564
@@ -11757,7 +11757,7 @@ Finland,Hungary,visa free,0,11755
 Finland,Iceland,visa free,0,11756
 Finland,India,e-visa,30,11757
 Finland,Indonesia,visa on arrival,30,11758
-Finland,Iran,e-visa,30,11759
+Finland,Iran,visa on arrival,30,11759
 Finland,Iraq,visa on arrival,60,11760
 Finland,Ireland,visa free,0,11761
 Finland,Israel,-1,0,11762
@@ -11955,7 +11955,7 @@ France,Hungary,visa free,0,11953
 France,Iceland,visa free,0,11954
 France,India,e-visa,30,11955
 France,Indonesia,visa on arrival,30,11956
-France,Iran,e-visa,30,11957
+France,Iran,visa on arrival,30,11957
 France,Iraq,visa on arrival,60,11958
 France,Ireland,visa free,0,11959
 France,Israel,-1,0,11960
@@ -12153,7 +12153,7 @@ Gabon,Hungary,visa required,0,12151
 Gabon,Iceland,visa required,0,12152
 Gabon,India,e-visa,30,12153
 Gabon,Indonesia,e-visa,0,12154
-Gabon,Iran,e-visa,30,12155
+Gabon,Iran,visa on arrival,30,12155
 Gabon,Iraq,visa required,0,12156
 Gabon,Ireland,visa required,0,12157
 Gabon,Israel,visa required,0,12158
@@ -12351,7 +12351,7 @@ Gambia,Hungary,visa required,0,12349
 Gambia,Iceland,visa required,0,12350
 Gambia,India,e-visa,30,12351
 Gambia,Indonesia,e-visa,0,12352
-Gambia,Iran,e-visa,30,12353
+Gambia,Iran,visa on arrival,30,12353
 Gambia,Iraq,visa required,0,12354
 Gambia,Ireland,visa required,0,12355
 Gambia,Israel,visa required,0,12356
@@ -12549,7 +12549,7 @@ Georgia,Hungary,-1,0,12547
 Georgia,Iceland,-1,0,12548
 Georgia,India,e-visa,30,12549
 Georgia,Indonesia,e-visa,0,12550
-Georgia,Iran,visa free,0,12551
+Georgia,Iran,-1,0,12551
 Georgia,Iraq,visa required,0,12552
 Georgia,Ireland,visa required,0,12553
 Georgia,Israel,-1,0,12554
@@ -12747,7 +12747,7 @@ Germany,Hungary,visa free,0,12745
 Germany,Iceland,visa free,0,12746
 Germany,India,e-visa,30,12747
 Germany,Indonesia,visa on arrival,30,12748
-Germany,Iran,e-visa,30,12749
+Germany,Iran,visa on arrival,30,12749
 Germany,Iraq,visa on arrival,60,12750
 Germany,Ireland,visa free,0,12751
 Germany,Israel,-1,0,12752
@@ -12945,7 +12945,7 @@ Ghana,Hungary,visa required,0,12943
 Ghana,Iceland,visa required,0,12944
 Ghana,India,e-visa,30,12945
 Ghana,Indonesia,e-visa,0,12946
-Ghana,Iran,e-visa,30,12947
+Ghana,Iran,visa on arrival,30,12947
 Ghana,Iraq,visa required,0,12948
 Ghana,Ireland,visa required,0,12949
 Ghana,Israel,visa required,0,12950
@@ -12981,7 +12981,7 @@ Ghana,Mauritius,-1,0,12979
 Ghana,Mexico,visa required,0,12980
 Ghana,Moldova,e-visa,0,12981
 Ghana,Monaco,visa required,0,12982
-Ghana,Mongolia,visa required,0,12983
+Ghana,Mongolia,e-visa,0,12983
 Ghana,Montenegro,visa required,0,12984
 Ghana,Morocco,visa required,0,12985
 Ghana,Mozambique,-1,0,12986
@@ -13143,7 +13143,7 @@ Greece,Hungary,visa free,0,13141
 Greece,Iceland,visa free,0,13142
 Greece,India,e-visa,30,13143
 Greece,Indonesia,visa on arrival,30,13144
-Greece,Iran,e-visa,30,13145
+Greece,Iran,visa on arrival,30,13145
 Greece,Iraq,visa on arrival,60,13146
 Greece,Ireland,visa free,0,13147
 Greece,Israel,-1,0,13148
@@ -13341,7 +13341,7 @@ Grenada,Hungary,-1,0,13339
 Grenada,Iceland,-1,0,13340
 Grenada,India,e-visa,30,13341
 Grenada,Indonesia,e-visa,0,13342
-Grenada,Iran,e-visa,30,13343
+Grenada,Iran,visa on arrival,30,13343
 Grenada,Iraq,visa required,0,13344
 Grenada,Ireland,-1,0,13345
 Grenada,Israel,-1,0,13346
@@ -13539,7 +13539,7 @@ Guatemala,Hungary,-1,0,13537
 Guatemala,Iceland,-1,0,13538
 Guatemala,India,e-visa,30,13539
 Guatemala,Indonesia,visa on arrival,30,13540
-Guatemala,Iran,e-visa,30,13541
+Guatemala,Iran,visa on arrival,30,13541
 Guatemala,Iraq,visa required,0,13542
 Guatemala,Ireland,-1,0,13543
 Guatemala,Israel,-1,0,13544
@@ -13737,7 +13737,7 @@ Guinea,Hungary,visa required,0,13735
 Guinea,Iceland,visa required,0,13736
 Guinea,India,e-visa,30,13737
 Guinea,Indonesia,e-visa,0,13738
-Guinea,Iran,e-visa,30,13739
+Guinea,Iran,visa on arrival,30,13739
 Guinea,Iraq,visa required,0,13740
 Guinea,Ireland,visa required,0,13741
 Guinea,Israel,visa required,0,13742
@@ -13935,7 +13935,7 @@ Guinea-Bissau,Hungary,visa required,0,13933
 Guinea-Bissau,Iceland,visa required,0,13934
 Guinea-Bissau,India,visa required,0,13935
 Guinea-Bissau,Indonesia,e-visa,0,13936
-Guinea-Bissau,Iran,e-visa,30,13937
+Guinea-Bissau,Iran,visa on arrival,30,13937
 Guinea-Bissau,Iraq,visa required,0,13938
 Guinea-Bissau,Ireland,visa required,0,13939
 Guinea-Bissau,Israel,visa required,0,13940
@@ -14133,7 +14133,7 @@ Guyana,Hungary,visa required,0,14131
 Guyana,Iceland,visa required,0,14132
 Guyana,India,e-visa,30,14133
 Guyana,Indonesia,e-visa,0,14134
-Guyana,Iran,e-visa,30,14135
+Guyana,Iran,visa on arrival,30,14135
 Guyana,Iraq,visa required,0,14136
 Guyana,Ireland,-1,0,14137
 Guyana,Israel,visa required,0,14138
@@ -14331,7 +14331,7 @@ Haiti,Hungary,visa required,0,14329
 Haiti,Iceland,visa required,0,14330
 Haiti,India,e-visa,30,14331
 Haiti,Indonesia,e-visa,0,14332
-Haiti,Iran,e-visa,30,14333
+Haiti,Iran,visa on arrival,30,14333
 Haiti,Iraq,visa required,0,14334
 Haiti,Ireland,visa required,0,14335
 Haiti,Israel,-1,0,14336
@@ -14529,7 +14529,7 @@ Honduras,Hungary,-1,0,14527
 Honduras,Iceland,-1,0,14528
 Honduras,India,e-visa,30,14529
 Honduras,Indonesia,e-visa,0,14530
-Honduras,Iran,e-visa,30,14531
+Honduras,Iran,visa on arrival,30,14531
 Honduras,Iraq,visa required,0,14532
 Honduras,Ireland,-1,0,14533
 Honduras,Israel,-1,0,14534
@@ -14925,7 +14925,7 @@ Hungary,Hungary,-1,0,14923
 Hungary,Iceland,visa free,0,14924
 Hungary,India,e-visa,30,14925
 Hungary,Indonesia,visa on arrival,30,14926
-Hungary,Iran,e-visa,30,14927
+Hungary,Iran,visa on arrival,30,14927
 Hungary,Iraq,visa on arrival,60,14928
 Hungary,Ireland,visa free,0,14929
 Hungary,Israel,-1,0,14930
@@ -15123,7 +15123,7 @@ Iceland,Hungary,visa free,0,15121
 Iceland,Iceland,-1,0,15122
 Iceland,India,e-visa,30,15123
 Iceland,Indonesia,visa on arrival,30,15124
-Iceland,Iran,e-visa,30,15125
+Iceland,Iran,visa on arrival,30,15125
 Iceland,Iraq,visa required,0,15126
 Iceland,Ireland,visa free,0,15127
 Iceland,Israel,-1,0,15128
@@ -15321,7 +15321,7 @@ India,Hungary,visa required,0,15319
 India,Iceland,visa required,0,15320
 India,India,-1,0,15321
 India,Indonesia,visa on arrival,30,15322
-India,Iran,e-visa,30,15323
+India,Iran,-1,0,15323
 India,Iraq,visa required,0,15324
 India,Ireland,visa required,0,15325
 India,Israel,visa required,0,15326
@@ -15519,7 +15519,7 @@ Indonesia,Hungary,visa required,0,15517
 Indonesia,Iceland,visa required,0,15518
 Indonesia,India,e-visa,30,15519
 Indonesia,Indonesia,-1,0,15520
-Indonesia,Iran,e-visa,30,15521
+Indonesia,Iran,-1,0,15521
 Indonesia,Iraq,visa required,0,15522
 Indonesia,Ireland,visa required,0,15523
 Indonesia,Israel,visa required,0,15524
@@ -15555,7 +15555,7 @@ Indonesia,Mauritius,visa on arrival,60,15553
 Indonesia,Mexico,visa required,0,15554
 Indonesia,Moldova,e-visa,0,15555
 Indonesia,Monaco,visa required,0,15556
-Indonesia,Mongolia,visa required,0,15557
+Indonesia,Mongolia,e-visa,0,15557
 Indonesia,Montenegro,visa required,0,15558
 Indonesia,Morocco,-1,0,15559
 Indonesia,Mozambique,visa on arrival,30,15560
@@ -16113,7 +16113,7 @@ Ireland,Hungary,visa free,0,16111
 Ireland,Iceland,visa free,0,16112
 Ireland,India,e-visa,30,16113
 Ireland,Indonesia,visa on arrival,30,16114
-Ireland,Iran,e-visa,30,16115
+Ireland,Iran,visa on arrival,30,16115
 Ireland,Iraq,visa on arrival,60,16116
 Ireland,Ireland,-1,0,16117
 Ireland,Israel,-1,0,16118
@@ -16509,7 +16509,7 @@ Italy,Hungary,visa free,0,16507
 Italy,Iceland,visa free,0,16508
 Italy,India,e-visa,30,16509
 Italy,Indonesia,visa on arrival,30,16510
-Italy,Iran,e-visa,30,16511
+Italy,Iran,visa on arrival,30,16511
 Italy,Iraq,visa on arrival,60,16512
 Italy,Ireland,visa free,0,16513
 Italy,Israel,-1,0,16514
@@ -16707,7 +16707,7 @@ Jamaica,Hungary,visa required,0,16705
 Jamaica,Iceland,visa required,0,16706
 Jamaica,India,e-visa,30,16707
 Jamaica,Indonesia,e-visa,0,16708
-Jamaica,Iran,e-visa,30,16709
+Jamaica,Iran,visa on arrival,30,16709
 Jamaica,Iraq,visa required,0,16710
 Jamaica,Ireland,visa required,0,16711
 Jamaica,Israel,-1,0,16712
@@ -16905,7 +16905,7 @@ Japan,Hungary,-1,0,16903
 Japan,Iceland,-1,0,16904
 Japan,India,visa on arrival,30,16905
 Japan,Indonesia,visa on arrival,30,16906
-Japan,Iran,e-visa,30,16907
+Japan,Iran,-1,0,16907
 Japan,Iraq,visa on arrival,60,16908
 Japan,Ireland,-1,0,16909
 Japan,Israel,-1,0,16910
@@ -17499,7 +17499,7 @@ Kenya,Hungary,visa required,0,17497
 Kenya,Iceland,visa required,0,17498
 Kenya,India,e-visa,30,17499
 Kenya,Indonesia,visa on arrival,30,17500
-Kenya,Iran,e-visa,30,17501
+Kenya,Iran,visa on arrival,30,17501
 Kenya,Iraq,visa required,0,17502
 Kenya,Ireland,visa required,0,17503
 Kenya,Israel,visa required,0,17504
@@ -17697,7 +17697,7 @@ Kiribati,Hungary,-1,0,17695
 Kiribati,Iceland,-1,0,17696
 Kiribati,India,e-visa,30,17697
 Kiribati,Indonesia,e-visa,0,17698
-Kiribati,Iran,e-visa,30,17699
+Kiribati,Iran,visa on arrival,30,17699
 Kiribati,Iraq,visa required,0,17700
 Kiribati,Ireland,-1,0,17701
 Kiribati,Israel,visa required,0,17702
@@ -17895,7 +17895,7 @@ Kosovo,Hungary,-1,0,17893
 Kosovo,Iceland,-1,0,17894
 Kosovo,India,visa required,0,17895
 Kosovo,Indonesia,e-visa,0,17896
-Kosovo,Iran,e-visa,30,17897
+Kosovo,Iran,visa on arrival,30,17897
 Kosovo,Iraq,visa required,0,17898
 Kosovo,Ireland,visa required,0,17899
 Kosovo,Israel,visa required,0,17900
@@ -18093,7 +18093,7 @@ Kuwait,Hungary,visa required,0,18091
 Kuwait,Iceland,visa required,0,18092
 Kuwait,India,visa required,0,18093
 Kuwait,Indonesia,visa on arrival,30,18094
-Kuwait,Iran,e-visa,30,18095
+Kuwait,Iran,-1,0,18095
 Kuwait,Iraq,visa on arrival,30,18096
 Kuwait,Ireland,visa required,0,18097
 Kuwait,Israel,visa required,0,18098
@@ -18291,7 +18291,7 @@ Kyrgyzstan,Hungary,visa required,0,18289
 Kyrgyzstan,Iceland,visa required,0,18290
 Kyrgyzstan,India,e-visa,30,18291
 Kyrgyzstan,Indonesia,e-visa,0,18292
-Kyrgyzstan,Iran,e-visa,30,18293
+Kyrgyzstan,Iran,-1,0,18293
 Kyrgyzstan,Iraq,visa required,0,18294
 Kyrgyzstan,Ireland,visa required,0,18295
 Kyrgyzstan,Israel,visa required,0,18296
@@ -18489,7 +18489,7 @@ Laos,Hungary,visa required,0,18487
 Laos,Iceland,visa required,0,18488
 Laos,India,e-visa,30,18489
 Laos,Indonesia,-1,0,18490
-Laos,Iran,e-visa,30,18491
+Laos,Iran,visa on arrival,30,18491
 Laos,Iraq,visa required,0,18492
 Laos,Ireland,visa required,0,18493
 Laos,Israel,visa required,0,18494
@@ -18687,7 +18687,7 @@ Latvia,Hungary,visa free,0,18685
 Latvia,Iceland,visa free,0,18686
 Latvia,India,e-visa,30,18687
 Latvia,Indonesia,visa on arrival,30,18688
-Latvia,Iran,e-visa,30,18689
+Latvia,Iran,visa on arrival,30,18689
 Latvia,Iraq,visa on arrival,60,18690
 Latvia,Ireland,visa free,0,18691
 Latvia,Israel,-1,0,18692
@@ -19083,7 +19083,7 @@ Lesotho,Hungary,visa required,0,19081
 Lesotho,Iceland,visa required,0,19082
 Lesotho,India,e-visa,30,19083
 Lesotho,Indonesia,e-visa,0,19084
-Lesotho,Iran,e-visa,30,19085
+Lesotho,Iran,visa on arrival,30,19085
 Lesotho,Iraq,visa required,0,19086
 Lesotho,Ireland,-1,0,19087
 Lesotho,Israel,-1,0,19088
@@ -19281,7 +19281,7 @@ Liberia,Hungary,visa required,0,19279
 Liberia,Iceland,visa required,0,19280
 Liberia,India,e-visa,30,19281
 Liberia,Indonesia,e-visa,0,19282
-Liberia,Iran,e-visa,30,19283
+Liberia,Iran,visa on arrival,30,19283
 Liberia,Iraq,visa required,0,19284
 Liberia,Ireland,visa required,0,19285
 Liberia,Israel,visa required,0,19286
@@ -19479,7 +19479,7 @@ Libya,Hungary,visa required,0,19477
 Libya,Iceland,visa required,0,19478
 Libya,India,visa required,0,19479
 Libya,Indonesia,e-visa,0,19480
-Libya,Iran,e-visa,30,19481
+Libya,Iran,visa on arrival,30,19481
 Libya,Iraq,visa required,0,19482
 Libya,Ireland,visa required,0,19483
 Libya,Israel,visa required,0,19484
@@ -19677,7 +19677,7 @@ Liechtenstein,Hungary,visa free,0,19675
 Liechtenstein,Iceland,visa free,0,19676
 Liechtenstein,India,e-visa,30,19677
 Liechtenstein,Indonesia,visa on arrival,30,19678
-Liechtenstein,Iran,e-visa,30,19679
+Liechtenstein,Iran,visa on arrival,30,19679
 Liechtenstein,Iraq,visa required,0,19680
 Liechtenstein,Ireland,visa free,0,19681
 Liechtenstein,Israel,-1,0,19682
@@ -19875,7 +19875,7 @@ Lithuania,Hungary,visa free,0,19873
 Lithuania,Iceland,visa free,0,19874
 Lithuania,India,e-visa,30,19875
 Lithuania,Indonesia,visa on arrival,30,19876
-Lithuania,Iran,e-visa,30,19877
+Lithuania,Iran,visa on arrival,30,19877
 Lithuania,Iraq,visa on arrival,60,19878
 Lithuania,Ireland,visa free,0,19879
 Lithuania,Israel,-1,0,19880
@@ -20073,7 +20073,7 @@ Luxembourg,Hungary,visa free,0,20071
 Luxembourg,Iceland,visa free,0,20072
 Luxembourg,India,e-visa,30,20073
 Luxembourg,Indonesia,visa on arrival,30,20074
-Luxembourg,Iran,e-visa,30,20075
+Luxembourg,Iran,visa on arrival,30,20075
 Luxembourg,Iraq,visa on arrival,60,20076
 Luxembourg,Ireland,visa free,0,20077
 Luxembourg,Israel,-1,0,20078
@@ -20469,7 +20469,7 @@ Madagascar,Hungary,visa required,0,20467
 Madagascar,Iceland,visa required,0,20468
 Madagascar,India,e-visa,30,20469
 Madagascar,Indonesia,e-visa,0,20470
-Madagascar,Iran,e-visa,30,20471
+Madagascar,Iran,visa on arrival,30,20471
 Madagascar,Iraq,visa required,0,20472
 Madagascar,Ireland,visa required,0,20473
 Madagascar,Israel,visa required,0,20474
@@ -20667,7 +20667,7 @@ Malawi,Hungary,visa required,0,20665
 Malawi,Iceland,visa required,0,20666
 Malawi,India,e-visa,30,20667
 Malawi,Indonesia,e-visa,0,20668
-Malawi,Iran,e-visa,30,20669
+Malawi,Iran,visa on arrival,30,20669
 Malawi,Iraq,visa required,0,20670
 Malawi,Ireland,visa required,0,20671
 Malawi,Israel,-1,0,20672
@@ -21063,7 +21063,7 @@ Maldives,Hungary,visa required,0,21061
 Maldives,Iceland,visa required,0,21062
 Maldives,India,-1,0,21063
 Maldives,Indonesia,visa on arrival,30,21064
-Maldives,Iran,e-visa,30,21065
+Maldives,Iran,visa on arrival,30,21065
 Maldives,Iraq,visa required,0,21066
 Maldives,Ireland,-1,0,21067
 Maldives,Israel,visa required,0,21068
@@ -21261,7 +21261,7 @@ Mali,Hungary,visa required,0,21259
 Mali,Iceland,visa required,0,21260
 Mali,India,e-visa,30,21261
 Mali,Indonesia,e-visa,0,21262
-Mali,Iran,e-visa,30,21263
+Mali,Iran,visa on arrival,30,21263
 Mali,Iraq,visa required,0,21264
 Mali,Ireland,visa required,0,21265
 Mali,Israel,visa required,0,21266
@@ -21459,7 +21459,7 @@ Malta,Hungary,visa free,0,21457
 Malta,Iceland,visa free,0,21458
 Malta,India,e-visa,30,21459
 Malta,Indonesia,visa on arrival,30,21460
-Malta,Iran,e-visa,30,21461
+Malta,Iran,visa on arrival,30,21461
 Malta,Iraq,visa on arrival,60,21462
 Malta,Ireland,visa free,0,21463
 Malta,Israel,-1,0,21464
@@ -21657,7 +21657,7 @@ Marshall Islands,Hungary,-1,0,21655
 Marshall Islands,Iceland,-1,0,21656
 Marshall Islands,India,e-visa,30,21657
 Marshall Islands,Indonesia,e-visa,0,21658
-Marshall Islands,Iran,e-visa,30,21659
+Marshall Islands,Iran,visa on arrival,30,21659
 Marshall Islands,Iraq,visa required,0,21660
 Marshall Islands,Ireland,visa required,0,21661
 Marshall Islands,Israel,visa required,0,21662
@@ -21855,7 +21855,7 @@ Mauritania,Hungary,visa required,0,21853
 Mauritania,Iceland,visa required,0,21854
 Mauritania,India,visa required,0,21855
 Mauritania,Indonesia,e-visa,0,21856
-Mauritania,Iran,e-visa,30,21857
+Mauritania,Iran,-1,0,21857
 Mauritania,Iraq,visa required,0,21858
 Mauritania,Ireland,visa required,0,21859
 Mauritania,Israel,visa required,0,21860
@@ -22053,7 +22053,7 @@ Mauritius,Hungary,-1,0,22051
 Mauritius,Iceland,-1,0,22052
 Mauritius,India,e-visa,30,22053
 Mauritius,Indonesia,e-visa,0,22054
-Mauritius,Iran,e-visa,30,22055
+Mauritius,Iran,-1,0,22055
 Mauritius,Iraq,visa required,0,22056
 Mauritius,Ireland,visa required,0,22057
 Mauritius,Israel,-1,0,22058
@@ -22251,7 +22251,7 @@ Mexico,Hungary,-1,0,22249
 Mexico,Iceland,-1,0,22250
 Mexico,India,e-visa,30,22251
 Mexico,Indonesia,visa on arrival,30,22252
-Mexico,Iran,e-visa,30,22253
+Mexico,Iran,-1,0,22253
 Mexico,Iraq,visa required,0,22254
 Mexico,Ireland,-1,0,22255
 Mexico,Israel,-1,0,22256
@@ -22449,7 +22449,7 @@ Micronesia,Hungary,-1,0,22447
 Micronesia,Iceland,-1,0,22448
 Micronesia,India,e-visa,30,22449
 Micronesia,Indonesia,e-visa,0,22450
-Micronesia,Iran,e-visa,30,22451
+Micronesia,Iran,visa on arrival,30,22451
 Micronesia,Iraq,visa required,0,22452
 Micronesia,Ireland,visa required,0,22453
 Micronesia,Israel,-1,0,22454
@@ -22647,7 +22647,7 @@ Moldova,Hungary,-1,0,22645
 Moldova,Iceland,-1,0,22646
 Moldova,India,e-visa,30,22647
 Moldova,Indonesia,e-visa,0,22648
-Moldova,Iran,e-visa,30,22649
+Moldova,Iran,visa on arrival,30,22649
 Moldova,Iraq,visa required,0,22650
 Moldova,Ireland,visa required,0,22651
 Moldova,Israel,-1,0,22652
@@ -22845,7 +22845,7 @@ Monaco,Hungary,-1,0,22843
 Monaco,Iceland,-1,0,22844
 Monaco,India,e-visa,30,22845
 Monaco,Indonesia,visa on arrival,30,22846
-Monaco,Iran,e-visa,30,22847
+Monaco,Iran,visa on arrival,30,22847
 Monaco,Iraq,visa required,0,22848
 Monaco,Ireland,-1,0,22849
 Monaco,Israel,-1,0,22850
@@ -23043,7 +23043,7 @@ Mongolia,Hungary,visa required,0,23041
 Mongolia,Iceland,visa required,0,23042
 Mongolia,India,e-visa,30,23043
 Mongolia,Indonesia,visa on arrival,30,23044
-Mongolia,Iran,e-visa,30,23045
+Mongolia,Iran,visa on arrival,30,23045
 Mongolia,Iraq,visa required,0,23046
 Mongolia,Ireland,visa required,0,23047
 Mongolia,Israel,-1,0,23048
@@ -23241,7 +23241,7 @@ Montenegro,Hungary,-1,0,23239
 Montenegro,Iceland,-1,0,23240
 Montenegro,India,e-visa,30,23241
 Montenegro,Indonesia,e-visa,0,23242
-Montenegro,Iran,e-visa,30,23243
+Montenegro,Iran,visa on arrival,30,23243
 Montenegro,Iraq,visa required,0,23244
 Montenegro,Ireland,visa required,0,23245
 Montenegro,Israel,-1,0,23246
@@ -23439,7 +23439,7 @@ Morocco,Hungary,visa required,0,23437
 Morocco,Iceland,visa required,0,23438
 Morocco,India,e-visa,30,23439
 Morocco,Indonesia,visa on arrival,30,23440
-Morocco,Iran,e-visa,30,23441
+Morocco,Iran,visa on arrival,30,23441
 Morocco,Iraq,visa required,0,23442
 Morocco,Ireland,visa required,0,23443
 Morocco,Israel,visa required,0,23444
@@ -23637,7 +23637,7 @@ Mozambique,Hungary,visa required,0,23635
 Mozambique,Iceland,visa required,0,23636
 Mozambique,India,e-visa,30,23637
 Mozambique,Indonesia,visa on arrival,30,23638
-Mozambique,Iran,e-visa,30,23639
+Mozambique,Iran,visa on arrival,30,23639
 Mozambique,Iraq,visa required,0,23640
 Mozambique,Ireland,visa required,0,23641
 Mozambique,Israel,visa required,0,23642
@@ -23835,7 +23835,7 @@ Myanmar,Hungary,visa required,0,23833
 Myanmar,Iceland,visa required,0,23834
 Myanmar,India,e-visa,30,23835
 Myanmar,Indonesia,-1,0,23836
-Myanmar,Iran,e-visa,30,23837
+Myanmar,Iran,visa on arrival,30,23837
 Myanmar,Iraq,visa required,0,23838
 Myanmar,Ireland,visa required,0,23839
 Myanmar,Israel,visa required,0,23840
@@ -24033,7 +24033,7 @@ Namibia,Hungary,visa required,0,24031
 Namibia,Iceland,visa required,0,24032
 Namibia,India,e-visa,30,24033
 Namibia,Indonesia,e-visa,0,24034
-Namibia,Iran,e-visa,30,24035
+Namibia,Iran,visa on arrival,30,24035
 Namibia,Iraq,visa required,0,24036
 Namibia,Ireland,visa required,0,24037
 Namibia,Israel,visa required,0,24038
@@ -24231,7 +24231,7 @@ Nauru,Hungary,visa required,0,24229
 Nauru,Iceland,visa required,0,24230
 Nauru,India,e-visa,30,24231
 Nauru,Indonesia,e-visa,0,24232
-Nauru,Iran,e-visa,30,24233
+Nauru,Iran,visa on arrival,30,24233
 Nauru,Iraq,visa required,0,24234
 Nauru,Ireland,-1,0,24235
 Nauru,Israel,-1,0,24236
@@ -24429,7 +24429,7 @@ Nepal,Hungary,visa required,0,24427
 Nepal,Iceland,visa required,0,24428
 Nepal,India,visa free,0,24429
 Nepal,Indonesia,e-visa,0,24430
-Nepal,Iran,e-visa,30,24431
+Nepal,Iran,visa on arrival,30,24431
 Nepal,Iraq,visa required,0,24432
 Nepal,Ireland,visa required,0,24433
 Nepal,Israel,visa required,0,24434
@@ -24627,7 +24627,7 @@ Netherlands,Hungary,visa free,0,24625
 Netherlands,Iceland,visa free,0,24626
 Netherlands,India,e-visa,30,24627
 Netherlands,Indonesia,visa on arrival,30,24628
-Netherlands,Iran,e-visa,30,24629
+Netherlands,Iran,visa on arrival,30,24629
 Netherlands,Iraq,visa on arrival,60,24630
 Netherlands,Ireland,visa free,0,24631
 Netherlands,Israel,-1,0,24632
@@ -24825,7 +24825,7 @@ New Zealand,Hungary,-1,0,24823
 New Zealand,Iceland,-1,0,24824
 New Zealand,India,e-visa,30,24825
 New Zealand,Indonesia,visa on arrival,30,24826
-New Zealand,Iran,e-visa,30,24827
+New Zealand,Iran,visa on arrival,30,24827
 New Zealand,Iraq,visa on arrival,60,24828
 New Zealand,Ireland,-1,0,24829
 New Zealand,Israel,-1,0,24830
@@ -25023,7 +25023,7 @@ Nicaragua,Hungary,-1,0,25021
 Nicaragua,Iceland,-1,0,25022
 Nicaragua,India,e-visa,30,25023
 Nicaragua,Indonesia,e-visa,0,25024
-Nicaragua,Iran,e-visa,30,25025
+Nicaragua,Iran,visa on arrival,30,25025
 Nicaragua,Iraq,visa required,0,25026
 Nicaragua,Ireland,-1,0,25027
 Nicaragua,Israel,visa required,0,25028
@@ -25221,7 +25221,7 @@ Niger,Hungary,visa required,0,25219
 Niger,Iceland,visa required,0,25220
 Niger,India,e-visa,30,25221
 Niger,Indonesia,e-visa,0,25222
-Niger,Iran,e-visa,30,25223
+Niger,Iran,visa on arrival,30,25223
 Niger,Iraq,visa required,0,25224
 Niger,Ireland,visa required,0,25225
 Niger,Israel,visa required,0,25226
@@ -25419,7 +25419,7 @@ Nigeria,Hungary,visa required,0,25417
 Nigeria,Iceland,visa required,0,25418
 Nigeria,India,visa required,0,25419
 Nigeria,Indonesia,e-visa,0,25420
-Nigeria,Iran,e-visa,30,25421
+Nigeria,Iran,visa on arrival,30,25421
 Nigeria,Iraq,visa required,0,25422
 Nigeria,Ireland,visa required,0,25423
 Nigeria,Israel,visa required,0,25424
@@ -25617,7 +25617,7 @@ North Korea,Hungary,visa required,0,25615
 North Korea,Iceland,visa required,0,25616
 North Korea,India,visa required,0,25617
 North Korea,Indonesia,e-visa,0,25618
-North Korea,Iran,e-visa,30,25619
+North Korea,Iran,visa on arrival,30,25619
 North Korea,Iraq,visa required,0,25620
 North Korea,Ireland,visa required,0,25621
 North Korea,Israel,visa required,0,25622
@@ -25815,7 +25815,7 @@ North Macedonia,Hungary,-1,0,25813
 North Macedonia,Iceland,-1,0,25814
 North Macedonia,India,e-visa,30,25815
 North Macedonia,Indonesia,e-visa,0,25816
-North Macedonia,Iran,e-visa,30,25817
+North Macedonia,Iran,visa on arrival,30,25817
 North Macedonia,Iraq,visa required,0,25818
 North Macedonia,Ireland,visa required,0,25819
 North Macedonia,Israel,-1,0,25820
@@ -26013,7 +26013,7 @@ Norway,Hungary,visa free,0,26011
 Norway,Iceland,visa free,0,26012
 Norway,India,e-visa,30,26013
 Norway,Indonesia,visa on arrival,30,26014
-Norway,Iran,e-visa,30,26015
+Norway,Iran,visa on arrival,30,26015
 Norway,Iraq,visa required,0,26016
 Norway,Ireland,visa free,0,26017
 Norway,Israel,-1,0,26018
@@ -26607,7 +26607,7 @@ Palau,Hungary,-1,0,26605
 Palau,Iceland,-1,0,26606
 Palau,India,e-visa,30,26607
 Palau,Indonesia,e-visa,0,26608
-Palau,Iran,e-visa,30,26609
+Palau,Iran,visa on arrival,30,26609
 Palau,Iraq,visa required,0,26610
 Palau,Ireland,visa required,0,26611
 Palau,Israel,-1,0,26612
@@ -26805,7 +26805,7 @@ Palestine,Hungary,visa required,0,26803
 Palestine,Iceland,visa required,0,26804
 Palestine,India,e-visa,30,26805
 Palestine,Indonesia,visa on arrival,30,26806
-Palestine,Iran,e-visa,30,26807
+Palestine,Iran,visa on arrival,30,26807
 Palestine,Iraq,visa required,0,26808
 Palestine,Ireland,visa required,0,26809
 Palestine,Israel,visa required,0,26810
@@ -27002,8 +27002,8 @@ Panama,Hong Kong,-1,0,27000
 Panama,Hungary,-1,0,27001
 Panama,Iceland,-1,0,27002
 Panama,India,e-visa,30,27003
-Panama,Indonesia,visa on arrival,30,27004
-Panama,Iran,e-visa,30,27005
+Panama,Indonesia,e-visa,0,27004
+Panama,Iran,visa on arrival,30,27005
 Panama,Iraq,visa required,0,27006
 Panama,Ireland,-1,0,27007
 Panama,Israel,-1,0,27008
@@ -27201,7 +27201,7 @@ Papua New Guinea,Hungary,visa required,0,27199
 Papua New Guinea,Iceland,visa required,0,27200
 Papua New Guinea,India,e-visa,30,27201
 Papua New Guinea,Indonesia,visa on arrival,30,27202
-Papua New Guinea,Iran,e-visa,30,27203
+Papua New Guinea,Iran,visa on arrival,30,27203
 Papua New Guinea,Iraq,visa required,0,27204
 Papua New Guinea,Ireland,visa required,0,27205
 Papua New Guinea,Israel,-1,0,27206
@@ -27399,7 +27399,7 @@ Paraguay,Hungary,-1,0,27397
 Paraguay,Iceland,-1,0,27398
 Paraguay,India,e-visa,30,27399
 Paraguay,Indonesia,e-visa,0,27400
-Paraguay,Iran,e-visa,30,27401
+Paraguay,Iran,visa on arrival,30,27401
 Paraguay,Iraq,visa required,0,27402
 Paraguay,Ireland,-1,0,27403
 Paraguay,Israel,-1,0,27404
@@ -27597,7 +27597,7 @@ Peru,Hungary,-1,0,27595
 Peru,Iceland,-1,0,27596
 Peru,India,e-visa,30,27597
 Peru,Indonesia,visa on arrival,30,27598
-Peru,Iran,e-visa,30,27599
+Peru,Iran,-1,0,27599
 Peru,Iraq,visa required,0,27600
 Peru,Ireland,visa required,0,27601
 Peru,Israel,-1,0,27602
@@ -27795,7 +27795,7 @@ Philippines,Hungary,visa required,0,27793
 Philippines,Iceland,visa required,0,27794
 Philippines,India,e-visa,30,27795
 Philippines,Indonesia,-1,0,27796
-Philippines,Iran,e-visa,30,27797
+Philippines,Iran,visa on arrival,30,27797
 Philippines,Iraq,visa required,0,27798
 Philippines,Ireland,visa required,0,27799
 Philippines,Israel,-1,0,27800
@@ -27993,7 +27993,7 @@ Poland,Hungary,visa free,0,27991
 Poland,Iceland,visa free,0,27992
 Poland,India,e-visa,30,27993
 Poland,Indonesia,visa on arrival,30,27994
-Poland,Iran,e-visa,30,27995
+Poland,Iran,visa on arrival,30,27995
 Poland,Iraq,visa on arrival,60,27996
 Poland,Ireland,visa free,0,27997
 Poland,Israel,-1,0,27998
@@ -28191,7 +28191,7 @@ Portugal,Hungary,visa free,0,28189
 Portugal,Iceland,visa free,0,28190
 Portugal,India,e-visa,30,28191
 Portugal,Indonesia,visa on arrival,30,28192
-Portugal,Iran,e-visa,30,28193
+Portugal,Iran,visa on arrival,30,28193
 Portugal,Iraq,visa on arrival,60,28194
 Portugal,Ireland,visa free,0,28195
 Portugal,Israel,-1,0,28196
@@ -28389,7 +28389,7 @@ Qatar,Hungary,visa required,0,28387
 Qatar,Iceland,visa required,0,28388
 Qatar,India,visa required,0,28389
 Qatar,Indonesia,visa on arrival,30,28390
-Qatar,Iran,e-visa,30,28391
+Qatar,Iran,-1,0,28391
 Qatar,Iraq,visa on arrival,30,28392
 Qatar,Ireland,visa required,0,28393
 Qatar,Israel,visa required,0,28394
@@ -28587,7 +28587,7 @@ Romania,Hungary,visa free,0,28585
 Romania,Iceland,visa free,0,28586
 Romania,India,e-visa,30,28587
 Romania,Indonesia,visa on arrival,30,28588
-Romania,Iran,e-visa,30,28589
+Romania,Iran,visa on arrival,30,28589
 Romania,Iraq,visa on arrival,60,28590
 Romania,Ireland,visa free,0,28591
 Romania,Israel,-1,0,28592
@@ -28785,7 +28785,7 @@ Russia,Hungary,visa required,0,28783
 Russia,Iceland,visa required,0,28784
 Russia,India,e-visa,30,28785
 Russia,Indonesia,visa on arrival,30,28786
-Russia,Iran,e-visa,30,28787
+Russia,Iran,visa on arrival,30,28787
 Russia,Iraq,visa on arrival,60,28788
 Russia,Ireland,visa required,0,28789
 Russia,Israel,-1,0,28790
@@ -28983,7 +28983,7 @@ Rwanda,Hungary,visa required,0,28981
 Rwanda,Iceland,visa required,0,28982
 Rwanda,India,e-visa,30,28983
 Rwanda,Indonesia,visa on arrival,30,28984
-Rwanda,Iran,e-visa,30,28985
+Rwanda,Iran,visa on arrival,30,28985
 Rwanda,Iraq,visa required,0,28986
 Rwanda,Ireland,visa required,0,28987
 Rwanda,Israel,visa required,0,28988
@@ -29181,7 +29181,7 @@ Saint Kitts and Nevis,Hungary,-1,0,29179
 Saint Kitts and Nevis,Iceland,-1,0,29180
 Saint Kitts and Nevis,India,e-visa,30,29181
 Saint Kitts and Nevis,Indonesia,e-visa,0,29182
-Saint Kitts and Nevis,Iran,e-visa,30,29183
+Saint Kitts and Nevis,Iran,visa on arrival,30,29183
 Saint Kitts and Nevis,Iraq,visa required,0,29184
 Saint Kitts and Nevis,Ireland,-1,0,29185
 Saint Kitts and Nevis,Israel,-1,0,29186
@@ -29325,7 +29325,7 @@ Saint Lucia,Bhutan,e-visa,0,29323
 Saint Lucia,Bolivia,visa on arrival,90,29324
 Saint Lucia,Bosnia and Herzegovina,-1,0,29325
 Saint Lucia,Botswana,-1,0,29326
-Saint Lucia,Brazil,visa required,0,29327
+Saint Lucia,Brazil,-1,0,29327
 Saint Lucia,Brunei,visa required,0,29328
 Saint Lucia,Bulgaria,-1,0,29329
 Saint Lucia,Burkina Faso,e-visa,0,29330
@@ -29379,7 +29379,7 @@ Saint Lucia,Hungary,-1,0,29377
 Saint Lucia,Iceland,-1,0,29378
 Saint Lucia,India,e-visa,30,29379
 Saint Lucia,Indonesia,e-visa,0,29380
-Saint Lucia,Iran,e-visa,30,29381
+Saint Lucia,Iran,visa on arrival,30,29381
 Saint Lucia,Iraq,visa required,0,29382
 Saint Lucia,Ireland,-1,0,29383
 Saint Lucia,Israel,-1,0,29384
@@ -29577,7 +29577,7 @@ Samoa,Hungary,-1,0,29575
 Samoa,Iceland,-1,0,29576
 Samoa,India,e-visa,30,29577
 Samoa,Indonesia,e-visa,0,29578
-Samoa,Iran,e-visa,30,29579
+Samoa,Iran,visa on arrival,30,29579
 Samoa,Iraq,visa required,0,29580
 Samoa,Ireland,-1,0,29581
 Samoa,Israel,visa required,0,29582
@@ -29775,7 +29775,7 @@ San Marino,Hungary,-1,0,29773
 San Marino,Iceland,-1,0,29774
 San Marino,India,e-visa,30,29775
 San Marino,Indonesia,visa on arrival,30,29776
-San Marino,Iran,e-visa,30,29777
+San Marino,Iran,visa on arrival,30,29777
 San Marino,Iraq,visa required,0,29778
 San Marino,Ireland,-1,0,29779
 San Marino,Israel,-1,0,29780
@@ -29973,7 +29973,7 @@ Sao Tome and Principe,Hungary,visa required,0,29971
 Sao Tome and Principe,Iceland,visa required,0,29972
 Sao Tome and Principe,India,visa required,0,29973
 Sao Tome and Principe,Indonesia,e-visa,0,29974
-Sao Tome and Principe,Iran,e-visa,30,29975
+Sao Tome and Principe,Iran,visa on arrival,30,29975
 Sao Tome and Principe,Iraq,visa required,0,29976
 Sao Tome and Principe,Ireland,visa required,0,29977
 Sao Tome and Principe,Israel,visa required,0,29978
@@ -30171,7 +30171,7 @@ Saudi Arabia,Hungary,visa required,0,30169
 Saudi Arabia,Iceland,visa required,0,30170
 Saudi Arabia,India,e-visa,30,30171
 Saudi Arabia,Indonesia,visa on arrival,30,30172
-Saudi Arabia,Iran,e-visa,30,30173
+Saudi Arabia,Iran,-1,0,30173
 Saudi Arabia,Iraq,visa on arrival,30,30174
 Saudi Arabia,Ireland,visa required,0,30175
 Saudi Arabia,Israel,visa required,0,30176
@@ -30369,7 +30369,7 @@ Senegal,Hungary,visa required,0,30367
 Senegal,Iceland,visa required,0,30368
 Senegal,India,e-visa,30,30369
 Senegal,Indonesia,e-visa,0,30370
-Senegal,Iran,e-visa,30,30371
+Senegal,Iran,visa on arrival,30,30371
 Senegal,Iraq,visa required,0,30372
 Senegal,Ireland,visa required,0,30373
 Senegal,Israel,visa required,0,30374
@@ -30567,7 +30567,7 @@ Serbia,Hungary,-1,0,30565
 Serbia,Iceland,-1,0,30566
 Serbia,India,e-visa,30,30567
 Serbia,Indonesia,visa on arrival,30,30568
-Serbia,Iran,e-visa,30,30569
+Serbia,Iran,-1,0,30569
 Serbia,Iraq,visa required,0,30570
 Serbia,Ireland,visa required,0,30571
 Serbia,Israel,-1,0,30572
@@ -30765,7 +30765,7 @@ Seychelles,Hungary,-1,0,30763
 Seychelles,Iceland,-1,0,30764
 Seychelles,India,e-visa,30,30765
 Seychelles,Indonesia,visa on arrival,30,30766
-Seychelles,Iran,e-visa,30,30767
+Seychelles,Iran,-1,0,30767
 Seychelles,Iraq,visa required,0,30768
 Seychelles,Ireland,-1,0,30769
 Seychelles,Israel,visa required,0,30770
@@ -30963,7 +30963,7 @@ Sierra Leone,Hungary,visa required,0,30961
 Sierra Leone,Iceland,visa required,0,30962
 Sierra Leone,India,e-visa,30,30963
 Sierra Leone,Indonesia,e-visa,0,30964
-Sierra Leone,Iran,e-visa,30,30965
+Sierra Leone,Iran,visa on arrival,30,30965
 Sierra Leone,Iraq,visa required,0,30966
 Sierra Leone,Ireland,visa required,0,30967
 Sierra Leone,Israel,visa required,0,30968
@@ -31161,7 +31161,7 @@ Singapore,Hungary,-1,0,31159
 Singapore,Iceland,-1,0,31160
 Singapore,India,e-visa,30,31161
 Singapore,Indonesia,-1,0,31162
-Singapore,Iran,e-visa,30,31163
+Singapore,Iran,-1,0,31163
 Singapore,Iraq,visa required,0,31164
 Singapore,Ireland,-1,0,31165
 Singapore,Israel,-1,0,31166
@@ -31359,7 +31359,7 @@ Slovakia,Hungary,visa free,0,31357
 Slovakia,Iceland,visa free,0,31358
 Slovakia,India,e-visa,30,31359
 Slovakia,Indonesia,visa on arrival,30,31360
-Slovakia,Iran,e-visa,30,31361
+Slovakia,Iran,visa on arrival,30,31361
 Slovakia,Iraq,visa on arrival,60,31362
 Slovakia,Ireland,visa free,0,31363
 Slovakia,Israel,-1,0,31364
@@ -31557,7 +31557,7 @@ Slovenia,Hungary,visa free,0,31555
 Slovenia,Iceland,visa free,0,31556
 Slovenia,India,e-visa,30,31557
 Slovenia,Indonesia,visa on arrival,30,31558
-Slovenia,Iran,e-visa,30,31559
+Slovenia,Iran,visa on arrival,30,31559
 Slovenia,Iraq,visa on arrival,60,31560
 Slovenia,Ireland,visa free,0,31561
 Slovenia,Israel,-1,0,31562
@@ -31755,7 +31755,7 @@ Solomon Islands,Hungary,-1,0,31753
 Solomon Islands,Iceland,-1,0,31754
 Solomon Islands,India,e-visa,30,31755
 Solomon Islands,Indonesia,e-visa,0,31756
-Solomon Islands,Iran,e-visa,30,31757
+Solomon Islands,Iran,visa on arrival,30,31757
 Solomon Islands,Iraq,visa required,0,31758
 Solomon Islands,Ireland,-1,0,31759
 Solomon Islands,Israel,-1,0,31760
@@ -32151,7 +32151,7 @@ South Africa,Hungary,visa required,0,32149
 South Africa,Iceland,visa required,0,32150
 South Africa,India,e-visa,30,32151
 South Africa,Indonesia,visa on arrival,30,32152
-South Africa,Iran,e-visa,30,32153
+South Africa,Iran,visa on arrival,30,32153
 South Africa,Iraq,visa required,0,32154
 South Africa,Ireland,-1,0,32155
 South Africa,Israel,-1,0,32156
@@ -32349,7 +32349,7 @@ South Korea,Hungary,-1,0,32347
 South Korea,Iceland,-1,0,32348
 South Korea,India,visa on arrival,30,32349
 South Korea,Indonesia,visa on arrival,30,32350
-South Korea,Iran,e-visa,30,32351
+South Korea,Iran,visa on arrival,30,32351
 South Korea,Iraq,visa on arrival,60,32352
 South Korea,Ireland,-1,0,32353
 South Korea,Israel,-1,0,32354
@@ -32547,7 +32547,7 @@ South Sudan,Hungary,visa required,0,32545
 South Sudan,Iceland,visa required,0,32546
 South Sudan,India,visa required,0,32547
 South Sudan,Indonesia,e-visa,0,32548
-South Sudan,Iran,e-visa,30,32549
+South Sudan,Iran,visa on arrival,30,32549
 South Sudan,Iraq,visa required,0,32550
 South Sudan,Ireland,visa required,0,32551
 South Sudan,Israel,visa required,0,32552
@@ -32745,7 +32745,7 @@ Spain,Hungary,visa free,0,32743
 Spain,Iceland,visa free,0,32744
 Spain,India,e-visa,30,32745
 Spain,Indonesia,visa on arrival,30,32746
-Spain,Iran,e-visa,30,32747
+Spain,Iran,visa on arrival,30,32747
 Spain,Iraq,visa on arrival,60,32748
 Spain,Ireland,visa free,0,32749
 Spain,Israel,-1,0,32750
@@ -32943,7 +32943,7 @@ Sri Lanka,Hungary,visa required,0,32941
 Sri Lanka,Iceland,visa required,0,32942
 Sri Lanka,India,e-visa,30,32943
 Sri Lanka,Indonesia,e-visa,0,32944
-Sri Lanka,Iran,e-visa,30,32945
+Sri Lanka,Iran,visa on arrival,30,32945
 Sri Lanka,Iraq,visa required,0,32946
 Sri Lanka,Ireland,visa required,0,32947
 Sri Lanka,Israel,visa required,0,32948
@@ -33141,7 +33141,7 @@ Saint Vincent and the Grenadines,Hungary,-1,0,33139
 Saint Vincent and the Grenadines,Iceland,-1,0,33140
 Saint Vincent and the Grenadines,India,e-visa,30,33141
 Saint Vincent and the Grenadines,Indonesia,e-visa,0,33142
-Saint Vincent and the Grenadines,Iran,e-visa,30,33143
+Saint Vincent and the Grenadines,Iran,visa on arrival,30,33143
 Saint Vincent and the Grenadines,Iraq,visa required,0,33144
 Saint Vincent and the Grenadines,Ireland,-1,0,33145
 Saint Vincent and the Grenadines,Israel,-1,0,33146
@@ -33339,7 +33339,7 @@ Sudan,Hungary,visa required,0,33337
 Sudan,Iceland,visa required,0,33338
 Sudan,India,visa required,0,33339
 Sudan,Indonesia,e-visa,0,33340
-Sudan,Iran,e-visa,30,33341
+Sudan,Iran,visa on arrival,30,33341
 Sudan,Iraq,visa required,0,33342
 Sudan,Ireland,visa required,0,33343
 Sudan,Israel,visa required,0,33344
@@ -33537,7 +33537,7 @@ Suriname,Hungary,visa required,0,33535
 Suriname,Iceland,visa required,0,33536
 Suriname,India,e-visa,30,33537
 Suriname,Indonesia,visa on arrival,30,33538
-Suriname,Iran,e-visa,30,33539
+Suriname,Iran,visa on arrival,30,33539
 Suriname,Iraq,visa required,0,33540
 Suriname,Ireland,visa required,0,33541
 Suriname,Israel,-1,0,33542
@@ -33735,7 +33735,7 @@ Sweden,Hungary,visa free,0,33733
 Sweden,Iceland,visa free,0,33734
 Sweden,India,e-visa,30,33735
 Sweden,Indonesia,visa on arrival,30,33736
-Sweden,Iran,e-visa,30,33737
+Sweden,Iran,visa on arrival,30,33737
 Sweden,Iraq,visa on arrival,60,33738
 Sweden,Ireland,visa free,0,33739
 Sweden,Israel,-1,0,33740
@@ -33933,7 +33933,7 @@ Switzerland,Hungary,visa free,0,33931
 Switzerland,Iceland,visa free,0,33932
 Switzerland,India,e-visa,30,33933
 Switzerland,Indonesia,visa on arrival,30,33934
-Switzerland,Iran,e-visa,30,33935
+Switzerland,Iran,visa on arrival,30,33935
 Switzerland,Iraq,visa on arrival,60,33936
 Switzerland,Ireland,visa free,0,33937
 Switzerland,Israel,-1,0,33938
@@ -34329,7 +34329,7 @@ Taiwan,Hungary,-1,0,34327
 Taiwan,Iceland,-1,0,34328
 Taiwan,India,e-visa,30,34329
 Taiwan,Indonesia,visa on arrival,30,34330
-Taiwan,Iran,e-visa,30,34331
+Taiwan,Iran,visa on arrival,30,34331
 Taiwan,Iraq,visa required,0,34332
 Taiwan,Ireland,-1,0,34333
 Taiwan,Israel,-1,0,34334
@@ -34527,7 +34527,7 @@ Tajikistan,Hungary,visa required,0,34525
 Tajikistan,Iceland,visa required,0,34526
 Tajikistan,India,e-visa,30,34527
 Tajikistan,Indonesia,e-visa,0,34528
-Tajikistan,Iran,e-visa,30,34529
+Tajikistan,Iran,visa on arrival,30,34529
 Tajikistan,Iraq,visa required,0,34530
 Tajikistan,Ireland,visa required,0,34531
 Tajikistan,Israel,visa required,0,34532
@@ -34725,7 +34725,7 @@ Tanzania,Hungary,visa required,0,34723
 Tanzania,Iceland,visa required,0,34724
 Tanzania,India,e-visa,30,34725
 Tanzania,Indonesia,e-visa,0,34726
-Tanzania,Iran,e-visa,30,34727
+Tanzania,Iran,-1,0,34727
 Tanzania,Iraq,visa required,0,34728
 Tanzania,Ireland,visa required,0,34729
 Tanzania,Israel,visa required,0,34730
@@ -34923,7 +34923,7 @@ Thailand,Hungary,visa required,0,34921
 Thailand,Iceland,visa required,0,34922
 Thailand,India,e-visa,30,34923
 Thailand,Indonesia,-1,0,34924
-Thailand,Iran,e-visa,30,34925
+Thailand,Iran,visa on arrival,30,34925
 Thailand,Iraq,visa required,0,34926
 Thailand,Ireland,visa required,0,34927
 Thailand,Israel,visa required,0,34928
@@ -35121,7 +35121,7 @@ Timor-Leste,Hungary,-1,0,35119
 Timor-Leste,Iceland,-1,0,35120
 Timor-Leste,India,visa required,0,35121
 Timor-Leste,Indonesia,-1,0,35122
-Timor-Leste,Iran,e-visa,30,35123
+Timor-Leste,Iran,visa on arrival,30,35123
 Timor-Leste,Iraq,visa required,0,35124
 Timor-Leste,Ireland,visa required,0,35125
 Timor-Leste,Israel,visa required,0,35126
@@ -35319,7 +35319,7 @@ Togo,Hungary,visa required,0,35317
 Togo,Iceland,visa required,0,35318
 Togo,India,e-visa,30,35319
 Togo,Indonesia,e-visa,0,35320
-Togo,Iran,e-visa,30,35321
+Togo,Iran,visa on arrival,30,35321
 Togo,Iraq,visa required,0,35322
 Togo,Ireland,visa required,0,35323
 Togo,Israel,visa required,0,35324
@@ -35517,7 +35517,7 @@ Tonga,Hungary,-1,0,35515
 Tonga,Iceland,-1,0,35516
 Tonga,India,e-visa,30,35517
 Tonga,Indonesia,e-visa,0,35518
-Tonga,Iran,e-visa,30,35519
+Tonga,Iran,visa on arrival,30,35519
 Tonga,Iraq,visa required,0,35520
 Tonga,Ireland,-1,0,35521
 Tonga,Israel,-1,0,35522
@@ -35715,7 +35715,7 @@ Trinidad and Tobago,Hungary,-1,0,35713
 Trinidad and Tobago,Iceland,-1,0,35714
 Trinidad and Tobago,India,e-visa,30,35715
 Trinidad and Tobago,Indonesia,e-visa,0,35716
-Trinidad and Tobago,Iran,e-visa,30,35717
+Trinidad and Tobago,Iran,visa on arrival,30,35717
 Trinidad and Tobago,Iraq,visa required,0,35718
 Trinidad and Tobago,Ireland,-1,0,35719
 Trinidad and Tobago,Israel,-1,0,35720
@@ -35913,7 +35913,7 @@ Tunisia,Hungary,visa required,0,35911
 Tunisia,Iceland,visa required,0,35912
 Tunisia,India,visa required,0,35913
 Tunisia,Indonesia,visa on arrival,30,35914
-Tunisia,Iran,e-visa,30,35915
+Tunisia,Iran,-1,0,35915
 Tunisia,Iraq,visa required,0,35916
 Tunisia,Ireland,visa required,0,35917
 Tunisia,Israel,visa required,0,35918
@@ -36309,7 +36309,7 @@ Turkmenistan,Hungary,visa required,0,36307
 Turkmenistan,Iceland,visa required,0,36308
 Turkmenistan,India,visa required,0,36309
 Turkmenistan,Indonesia,e-visa,0,36310
-Turkmenistan,Iran,e-visa,30,36311
+Turkmenistan,Iran,visa on arrival,30,36311
 Turkmenistan,Iraq,visa required,0,36312
 Turkmenistan,Ireland,visa required,0,36313
 Turkmenistan,Israel,visa required,0,36314
@@ -36507,7 +36507,7 @@ Tuvalu,Hungary,-1,0,36505
 Tuvalu,Iceland,-1,0,36506
 Tuvalu,India,e-visa,30,36507
 Tuvalu,Indonesia,e-visa,0,36508
-Tuvalu,Iran,e-visa,30,36509
+Tuvalu,Iran,visa on arrival,30,36509
 Tuvalu,Iraq,visa required,0,36510
 Tuvalu,Ireland,-1,0,36511
 Tuvalu,Israel,visa required,0,36512
@@ -36705,7 +36705,7 @@ Uganda,Hungary,visa required,0,36703
 Uganda,Iceland,visa required,0,36704
 Uganda,India,e-visa,30,36705
 Uganda,Indonesia,e-visa,0,36706
-Uganda,Iran,e-visa,30,36707
+Uganda,Iran,visa on arrival,30,36707
 Uganda,Iraq,visa required,0,36708
 Uganda,Ireland,visa required,0,36709
 Uganda,Israel,visa required,0,36710
@@ -36903,7 +36903,7 @@ Ukraine,Hungary,-1,0,36901
 Ukraine,Iceland,-1,0,36902
 Ukraine,India,e-visa,30,36903
 Ukraine,Indonesia,visa on arrival,30,36904
-Ukraine,Iran,e-visa,30,36905
+Ukraine,Iran,visa on arrival,30,36905
 Ukraine,Iraq,visa required,0,36906
 Ukraine,Ireland,-1,0,36907
 Ukraine,Israel,-1,0,36908
@@ -37101,7 +37101,7 @@ United Arab Emirates,Hungary,-1,0,37099
 United Arab Emirates,Iceland,-1,0,37100
 United Arab Emirates,India,visa on arrival,30,37101
 United Arab Emirates,Indonesia,visa on arrival,30,37102
-United Arab Emirates,Iran,e-visa,30,37103
+United Arab Emirates,Iran,-1,0,37103
 United Arab Emirates,Iraq,visa on arrival,30,37104
 United Arab Emirates,Ireland,-1,0,37105
 United Arab Emirates,Israel,-1,0,37106
@@ -37695,7 +37695,7 @@ Uruguay,Hungary,-1,0,37693
 Uruguay,Iceland,-1,0,37694
 Uruguay,India,e-visa,30,37695
 Uruguay,Indonesia,e-visa,0,37696
-Uruguay,Iran,e-visa,30,37697
+Uruguay,Iran,visa on arrival,30,37697
 Uruguay,Iraq,visa required,0,37698
 Uruguay,Ireland,-1,0,37699
 Uruguay,Israel,-1,0,37700
@@ -37893,7 +37893,7 @@ Uzbekistan,Hungary,visa required,0,37891
 Uzbekistan,Iceland,visa required,0,37892
 Uzbekistan,India,e-visa,30,37893
 Uzbekistan,Indonesia,visa on arrival,30,37894
-Uzbekistan,Iran,e-visa,30,37895
+Uzbekistan,Iran,-1,0,37895
 Uzbekistan,Iraq,visa required,0,37896
 Uzbekistan,Ireland,visa required,0,37897
 Uzbekistan,Israel,visa required,0,37898
@@ -38091,7 +38091,7 @@ Vanuatu,Hungary,visa required,0,38089
 Vanuatu,Iceland,visa required,0,38090
 Vanuatu,India,e-visa,30,38091
 Vanuatu,Indonesia,e-visa,0,38092
-Vanuatu,Iran,e-visa,30,38093
+Vanuatu,Iran,visa on arrival,30,38093
 Vanuatu,Iraq,visa required,0,38094
 Vanuatu,Ireland,-1,0,38095
 Vanuatu,Israel,-1,0,38096
@@ -38289,7 +38289,7 @@ Vatican,Hungary,-1,0,38287
 Vatican,Iceland,-1,0,38288
 Vatican,India,e-visa,30,38289
 Vatican,Indonesia,visa on arrival,30,38290
-Vatican,Iran,e-visa,30,38291
+Vatican,Iran,visa on arrival,30,38291
 Vatican,Iraq,visa required,0,38292
 Vatican,Ireland,-1,0,38293
 Vatican,Israel,-1,0,38294
@@ -38685,7 +38685,7 @@ Vietnam,Hungary,visa required,0,38683
 Vietnam,Iceland,visa required,0,38684
 Vietnam,India,e-visa,30,38685
 Vietnam,Indonesia,-1,0,38686
-Vietnam,Iran,e-visa,30,38687
+Vietnam,Iran,-1,0,38687
 Vietnam,Iraq,visa required,0,38688
 Vietnam,Ireland,visa required,0,38689
 Vietnam,Israel,visa required,0,38690
@@ -38883,7 +38883,7 @@ Yemen,Hungary,visa required,0,38881
 Yemen,Iceland,visa required,0,38882
 Yemen,India,visa required,0,38883
 Yemen,Indonesia,e-visa,0,38884
-Yemen,Iran,e-visa,30,38885
+Yemen,Iran,visa on arrival,30,38885
 Yemen,Iraq,visa required,0,38886
 Yemen,Ireland,visa required,0,38887
 Yemen,Israel,visa required,0,38888
@@ -39081,7 +39081,7 @@ Zambia,Hungary,visa required,0,39079
 Zambia,Iceland,visa required,0,39080
 Zambia,India,e-visa,30,39081
 Zambia,Indonesia,e-visa,0,39082
-Zambia,Iran,e-visa,30,39083
+Zambia,Iran,visa on arrival,30,39083
 Zambia,Iraq,visa required,0,39084
 Zambia,Ireland,visa required,0,39085
 Zambia,Israel,visa required,0,39086
@@ -39279,7 +39279,7 @@ Zimbabwe,Hungary,visa required,0,39277
 Zimbabwe,Iceland,visa required,0,39278
 Zimbabwe,India,e-visa,30,39279
 Zimbabwe,Indonesia,e-visa,0,39280
-Zimbabwe,Iran,e-visa,30,39281
+Zimbabwe,Iran,-1,0,39281
 Zimbabwe,Iraq,visa required,0,39282
 Zimbabwe,Ireland,visa required,0,39283
 Zimbabwe,Israel,visa required,0,39284

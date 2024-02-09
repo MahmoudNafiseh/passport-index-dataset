@@ -1193,7 +1193,7 @@ ARG,AND,-1
 ARG,AGO,-1
 ARG,ATG,-1
 ARG,ARG,-1
-ARG,ARM,visa free
+ARG,ARM,-1
 ARG,AUS,e-visa
 ARG,AUT,-1
 ARG,AZE,e-visa (30)
@@ -15449,7 +15449,7 @@ IDN,AND,visa required
 IDN,AGO,-1
 IDN,ATG,e-visa
 IDN,ARG,visa required
-IDN,ARM,e-visa (120)
+IDN,ARM,visa on arrival (120)
 IDN,AUS,e-visa
 IDN,AUT,visa required
 IDN,AZE,visa on arrival (30)
@@ -20993,7 +20993,7 @@ MDV,AND,visa required
 MDV,AGO,visa required
 MDV,ATG,-1
 MDV,ARG,visa required
-MDV,ARM,visa required
+MDV,ARM,e-visa (120)
 MDV,AUS,e-visa
 MDV,AUT,visa required
 MDV,AZE,e-visa (30)
@@ -29507,7 +29507,7 @@ WSM,AND,-1
 WSM,AGO,-1
 WSM,ATG,-1
 WSM,ARG,visa required
-WSM,ARM,visa required
+WSM,ARM,e-visa (120)
 WSM,AUS,e-visa
 WSM,AUT,-1
 WSM,AZE,visa required
@@ -36239,7 +36239,7 @@ TKM,AND,visa required
 TKM,AGO,visa required
 TKM,ATG,-1
 TKM,ARG,visa required
-TKM,ARM,visa required
+TKM,ARM,e-visa (120)
 TKM,AUS,e-visa
 TKM,AUT,visa required
 TKM,AZE,e-visa (30)
