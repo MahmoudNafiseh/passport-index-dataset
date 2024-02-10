@@ -1684,7 +1684,7 @@ Australia,Lithuania,-1,0,1682
 Australia,Luxembourg,-1,0,1683
 Australia,Macao,-1,0,1684
 Australia,Madagascar,visa on arrival,90,1685
-Australia,Malawi,visa on arrival,30,1686
+Australia,Malawi,-1,0,1686
 Australia,Malaysia,-1,0,1687
 Australia,Maldives,visa on arrival,30,1688
 Australia,Mali,visa required,0,1689
@@ -3268,7 +3268,7 @@ Belgium,Lithuania,visa free,0,3266
 Belgium,Luxembourg,visa free,0,3267
 Belgium,Macao,-1,0,3268
 Belgium,Madagascar,visa on arrival,90,3269
-Belgium,Malawi,visa on arrival,30,3270
+Belgium,Malawi,-1,0,3270
 Belgium,Malaysia,-1,0,3271
 Belgium,Maldives,visa on arrival,30,3272
 Belgium,Mali,visa required,0,3273
@@ -4852,7 +4852,7 @@ Brunei,Lithuania,-1,0,4850
 Brunei,Luxembourg,-1,0,4851
 Brunei,Macao,-1,0,4852
 Brunei,Madagascar,visa on arrival,90,4853
-Brunei,Malawi,visa on arrival,90,4854
+Brunei,Malawi,-1,0,4854
 Brunei,Malaysia,-1,0,4855
 Brunei,Maldives,visa on arrival,30,4856
 Brunei,Mali,visa required,0,4857
@@ -6040,7 +6040,7 @@ Canada,Lithuania,-1,0,6038
 Canada,Luxembourg,-1,0,6039
 Canada,Macao,-1,0,6040
 Canada,Madagascar,visa on arrival,90,6041
-Canada,Malawi,visa on arrival,30,6042
+Canada,Malawi,-1,0,6042
 Canada,Malaysia,-1,0,6043
 Canada,Maldives,visa on arrival,30,6044
 Canada,Mali,visa required,0,6045
@@ -7030,7 +7030,7 @@ China,Lithuania,visa required,0,7028
 China,Luxembourg,visa required,0,7029
 China,Macao,visa on arrival,30,7030
 China,Madagascar,visa on arrival,90,7031
-China,Malawi,visa on arrival,30,7032
+China,Malawi,-1,0,7032
 China,Malaysia,-1,0,7033
 China,Maldives,-1,0,7034
 China,Mali,visa required,0,7035
@@ -7081,7 +7081,7 @@ China,Saudi Arabia,visa on arrival,90,7079
 China,Senegal,visa on arrival,30,7080
 China,Serbia,-1,0,7081
 China,Sierra Leone,visa on arrival,30,7082
-China,Singapore,e-visa,0,7083
+China,Singapore,-1,0,7083
 China,Slovakia,visa required,0,7084
 China,Slovenia,visa required,0,7085
 China,Solomon Islands,visa required,0,7086
@@ -8812,7 +8812,7 @@ Cyprus,Lithuania,visa free,0,8810
 Cyprus,Luxembourg,visa free,0,8811
 Cyprus,Macao,-1,0,8812
 Cyprus,Madagascar,visa on arrival,90,8813
-Cyprus,Malawi,visa on arrival,30,8814
+Cyprus,Malawi,-1,0,8814
 Cyprus,Malaysia,-1,0,8815
 Cyprus,Maldives,visa on arrival,30,8816
 Cyprus,Mali,visa required,0,8817
@@ -11782,7 +11782,7 @@ Finland,Lithuania,visa free,0,11780
 Finland,Luxembourg,visa free,0,11781
 Finland,Macao,-1,0,11782
 Finland,Madagascar,visa on arrival,90,11783
-Finland,Malawi,visa on arrival,30,11784
+Finland,Malawi,-1,0,11784
 Finland,Malaysia,-1,0,11785
 Finland,Maldives,visa on arrival,30,11786
 Finland,Mali,visa required,0,11787
@@ -11980,7 +11980,7 @@ France,Lithuania,visa free,0,11978
 France,Luxembourg,visa free,0,11979
 France,Macao,-1,0,11980
 France,Madagascar,visa on arrival,90,11981
-France,Malawi,visa on arrival,30,11982
+France,Malawi,-1,0,11982
 France,Malaysia,-1,0,11983
 France,Maldives,visa on arrival,30,11984
 France,Mali,visa required,0,11985
@@ -12772,7 +12772,7 @@ Germany,Lithuania,visa free,0,12770
 Germany,Luxembourg,visa free,0,12771
 Germany,Macao,-1,0,12772
 Germany,Madagascar,visa on arrival,90,12773
-Germany,Malawi,visa on arrival,30,12774
+Germany,Malawi,-1,0,12774
 Germany,Malaysia,-1,0,12775
 Germany,Maldives,visa on arrival,30,12776
 Germany,Mali,visa required,0,12777
@@ -14158,7 +14158,7 @@ Guyana,Lithuania,visa required,0,14156
 Guyana,Luxembourg,visa required,0,14157
 Guyana,Macao,visa on arrival,30,14158
 Guyana,Madagascar,visa on arrival,90,14159
-Guyana,Malawi,visa on arrival,30,14160
+Guyana,Malawi,-1,0,14160
 Guyana,Malaysia,-1,0,14161
 Guyana,Maldives,-1,0,14162
 Guyana,Mali,visa required,0,14163
@@ -16138,7 +16138,7 @@ Ireland,Lithuania,visa free,0,16136
 Ireland,Luxembourg,visa free,0,16137
 Ireland,Macao,-1,0,16138
 Ireland,Madagascar,visa on arrival,90,16139
-Ireland,Malawi,visa on arrival,30,16140
+Ireland,Malawi,-1,0,16140
 Ireland,Malaysia,-1,0,16141
 Ireland,Maldives,visa on arrival,30,16142
 Ireland,Mali,visa required,0,16143
@@ -16534,7 +16534,7 @@ Italy,Lithuania,visa free,0,16532
 Italy,Luxembourg,visa free,0,16533
 Italy,Macao,-1,0,16534
 Italy,Madagascar,visa on arrival,90,16535
-Italy,Malawi,visa on arrival,30,16536
+Italy,Malawi,-1,0,16536
 Italy,Malaysia,-1,0,16537
 Italy,Maldives,visa on arrival,30,16538
 Italy,Mali,visa required,0,16539
@@ -21088,7 +21088,7 @@ Maldives,Lithuania,visa required,0,21086
 Maldives,Luxembourg,visa required,0,21087
 Maldives,Macao,visa on arrival,30,21088
 Maldives,Madagascar,visa on arrival,90,21089
-Maldives,Malawi,visa on arrival,30,21090
+Maldives,Malawi,-1,0,21090
 Maldives,Malaysia,-1,0,21091
 Maldives,Maldives,-1,0,21092
 Maldives,Mali,visa required,0,21093
@@ -21484,7 +21484,7 @@ Malta,Lithuania,visa free,0,21482
 Malta,Luxembourg,visa free,0,21483
 Malta,Macao,-1,0,21484
 Malta,Madagascar,visa on arrival,90,21485
-Malta,Malawi,visa on arrival,30,21486
+Malta,Malawi,-1,0,21486
 Malta,Malaysia,-1,0,21487
 Malta,Maldives,visa on arrival,30,21488
 Malta,Mali,visa required,0,21489
@@ -24652,7 +24652,7 @@ Netherlands,Lithuania,visa free,0,24650
 Netherlands,Luxembourg,visa free,0,24651
 Netherlands,Macao,-1,0,24652
 Netherlands,Madagascar,visa on arrival,90,24653
-Netherlands,Malawi,visa on arrival,30,24654
+Netherlands,Malawi,-1,0,24654
 Netherlands,Malaysia,-1,0,24655
 Netherlands,Maldives,visa on arrival,30,24656
 Netherlands,Mali,visa required,0,24657
@@ -24850,7 +24850,7 @@ New Zealand,Lithuania,-1,0,24848
 New Zealand,Luxembourg,-1,0,24849
 New Zealand,Macao,-1,0,24850
 New Zealand,Madagascar,visa on arrival,90,24851
-New Zealand,Malawi,visa on arrival,30,24852
+New Zealand,Malawi,-1,0,24852
 New Zealand,Malaysia,-1,0,24853
 New Zealand,Maldives,visa on arrival,30,24854
 New Zealand,Mali,visa required,0,24855
@@ -26038,7 +26038,7 @@ Norway,Lithuania,visa free,0,26036
 Norway,Luxembourg,visa free,0,26037
 Norway,Macao,-1,0,26038
 Norway,Madagascar,visa on arrival,90,26039
-Norway,Malawi,visa on arrival,30,26040
+Norway,Malawi,-1,0,26040
 Norway,Malaysia,-1,0,26041
 Norway,Maldives,visa on arrival,30,26042
 Norway,Mali,visa required,0,26043
@@ -28018,7 +28018,7 @@ Poland,Lithuania,visa free,0,28016
 Poland,Luxembourg,visa free,0,28017
 Poland,Macao,-1,0,28018
 Poland,Madagascar,visa on arrival,90,28019
-Poland,Malawi,visa on arrival,30,28020
+Poland,Malawi,-1,0,28020
 Poland,Malaysia,-1,0,28021
 Poland,Maldives,visa on arrival,30,28022
 Poland,Mali,visa required,0,28023
@@ -28216,7 +28216,7 @@ Portugal,Lithuania,visa free,0,28214
 Portugal,Luxembourg,visa free,0,28215
 Portugal,Macao,-1,0,28216
 Portugal,Madagascar,visa on arrival,90,28217
-Portugal,Malawi,visa on arrival,30,28218
+Portugal,Malawi,-1,0,28218
 Portugal,Malaysia,-1,0,28219
 Portugal,Maldives,visa on arrival,30,28220
 Portugal,Mali,visa required,0,28221
@@ -28810,7 +28810,7 @@ Russia,Lithuania,visa required,0,28808
 Russia,Luxembourg,visa required,0,28809
 Russia,Macao,-1,0,28810
 Russia,Madagascar,visa on arrival,90,28811
-Russia,Malawi,e-visa,90,28812
+Russia,Malawi,-1,0,28812
 Russia,Malaysia,-1,0,28813
 Russia,Maldives,-1,0,28814
 Russia,Mali,visa required,0,28815
@@ -30988,7 +30988,7 @@ Sierra Leone,Lithuania,visa required,0,30986
 Sierra Leone,Luxembourg,visa required,0,30987
 Sierra Leone,Macao,visa on arrival,30,30988
 Sierra Leone,Madagascar,visa on arrival,90,30989
-Sierra Leone,Malawi,visa on arrival,30,30990
+Sierra Leone,Malawi,-1,0,30990
 Sierra Leone,Malaysia,-1,0,30991
 Sierra Leone,Maldives,visa on arrival,30,30992
 Sierra Leone,Mali,visa free,0,30993
@@ -31186,7 +31186,7 @@ Singapore,Lithuania,visa free,0,31184
 Singapore,Luxembourg,-1,0,31185
 Singapore,Macao,-1,0,31186
 Singapore,Madagascar,visa on arrival,90,31187
-Singapore,Malawi,visa on arrival,30,31188
+Singapore,Malawi,-1,0,31188
 Singapore,Malaysia,-1,0,31189
 Singapore,Maldives,visa on arrival,30,31190
 Singapore,Mali,visa required,0,31191
@@ -31780,7 +31780,7 @@ Solomon Islands,Lithuania,-1,0,31778
 Solomon Islands,Luxembourg,-1,0,31779
 Solomon Islands,Macao,visa on arrival,30,31780
 Solomon Islands,Madagascar,visa on arrival,90,31781
-Solomon Islands,Malawi,visa on arrival,30,31782
+Solomon Islands,Malawi,-1,0,31782
 Solomon Islands,Malaysia,-1,0,31783
 Solomon Islands,Maldives,visa on arrival,30,31784
 Solomon Islands,Mali,visa required,0,31785
@@ -32968,7 +32968,7 @@ Sri Lanka,Lithuania,visa required,0,32966
 Sri Lanka,Luxembourg,visa required,0,32967
 Sri Lanka,Macao,visa required,0,32968
 Sri Lanka,Madagascar,visa on arrival,90,32969
-Sri Lanka,Malawi,e-visa,90,32970
+Sri Lanka,Malawi,-1,0,32970
 Sri Lanka,Malaysia,e-visa,30,32971
 Sri Lanka,Maldives,visa on arrival,30,32972
 Sri Lanka,Mali,visa required,0,32973
@@ -33760,7 +33760,7 @@ Sweden,Lithuania,visa free,0,33758
 Sweden,Luxembourg,visa free,0,33759
 Sweden,Macao,-1,0,33760
 Sweden,Madagascar,visa on arrival,90,33761
-Sweden,Malawi,visa on arrival,30,33762
+Sweden,Malawi,-1,0,33762
 Sweden,Malaysia,-1,0,33763
 Sweden,Maldives,visa on arrival,30,33764
 Sweden,Mali,visa required,0,33765
@@ -35542,7 +35542,7 @@ Tonga,Lithuania,visa free,0,35540
 Tonga,Luxembourg,-1,0,35541
 Tonga,Macao,visa on arrival,30,35542
 Tonga,Madagascar,visa on arrival,90,35543
-Tonga,Malawi,visa on arrival,30,35544
+Tonga,Malawi,-1,0,35544
 Tonga,Malaysia,-1,0,35545
 Tonga,Maldives,visa on arrival,30,35546
 Tonga,Mali,visa required,0,35547
@@ -37324,7 +37324,7 @@ United Kingdom,Lithuania,-1,0,37322
 United Kingdom,Luxembourg,-1,0,37323
 United Kingdom,Macao,-1,0,37324
 United Kingdom,Madagascar,visa on arrival,90,37325
-United Kingdom,Malawi,visa on arrival,30,37326
+United Kingdom,Malawi,-1,0,37326
 United Kingdom,Malaysia,-1,0,37327
 United Kingdom,Maldives,visa on arrival,30,37328
 United Kingdom,Mali,visa required,0,37329
@@ -37522,7 +37522,7 @@ United States,Lithuania,-1,0,37520
 United States,Luxembourg,-1,0,37521
 United States,Macao,-1,0,37522
 United States,Madagascar,visa on arrival,90,37523
-United States,Malawi,visa on arrival,30,37524
+United States,Malawi,-1,0,37524
 United States,Malaysia,-1,0,37525
 United States,Maldives,visa on arrival,30,37526
 United States,Mali,visa required,0,37527

@@ -1684,7 +1684,7 @@ AUS,LTU,-1
 AUS,LUX,-1
 AUS,MAC,-1
 AUS,MDG,visa on arrival (90)
-AUS,MWI,visa on arrival (30)
+AUS,MWI,-1
 AUS,MYS,-1
 AUS,MDV,visa on arrival (30)
 AUS,MLI,visa required
@@ -3268,7 +3268,7 @@ BEL,LTU,visa free
 BEL,LUX,visa free
 BEL,MAC,-1
 BEL,MDG,visa on arrival (90)
-BEL,MWI,visa on arrival (30)
+BEL,MWI,-1
 BEL,MYS,-1
 BEL,MDV,visa on arrival (30)
 BEL,MLI,visa required
@@ -4852,7 +4852,7 @@ BRN,LTU,-1
 BRN,LUX,-1
 BRN,MAC,-1
 BRN,MDG,visa on arrival (90)
-BRN,MWI,visa on arrival (90)
+BRN,MWI,-1
 BRN,MYS,-1
 BRN,MDV,visa on arrival (30)
 BRN,MLI,visa required
@@ -6040,7 +6040,7 @@ CAN,LTU,-1
 CAN,LUX,-1
 CAN,MAC,-1
 CAN,MDG,visa on arrival (90)
-CAN,MWI,visa on arrival (30)
+CAN,MWI,-1
 CAN,MYS,-1
 CAN,MDV,visa on arrival (30)
 CAN,MLI,visa required
@@ -7030,7 +7030,7 @@ CHN,LTU,visa required
 CHN,LUX,visa required
 CHN,MAC,visa on arrival (30)
 CHN,MDG,visa on arrival (90)
-CHN,MWI,visa on arrival (30)
+CHN,MWI,-1
 CHN,MYS,-1
 CHN,MDV,-1
 CHN,MLI,visa required
@@ -7081,7 +7081,7 @@ CHN,SAU,visa on arrival (90)
 CHN,SEN,visa on arrival (30)
 CHN,SRB,-1
 CHN,SLE,visa on arrival (30)
-CHN,SGP,e-visa
+CHN,SGP,-1
 CHN,SVK,visa required
 CHN,SVN,visa required
 CHN,SLB,visa required
@@ -8812,7 +8812,7 @@ CYP,LTU,visa free
 CYP,LUX,visa free
 CYP,MAC,-1
 CYP,MDG,visa on arrival (90)
-CYP,MWI,visa on arrival (30)
+CYP,MWI,-1
 CYP,MYS,-1
 CYP,MDV,visa on arrival (30)
 CYP,MLI,visa required
@@ -11782,7 +11782,7 @@ FIN,LTU,visa free
 FIN,LUX,visa free
 FIN,MAC,-1
 FIN,MDG,visa on arrival (90)
-FIN,MWI,visa on arrival (30)
+FIN,MWI,-1
 FIN,MYS,-1
 FIN,MDV,visa on arrival (30)
 FIN,MLI,visa required
@@ -11980,7 +11980,7 @@ FRA,LTU,visa free
 FRA,LUX,visa free
 FRA,MAC,-1
 FRA,MDG,visa on arrival (90)
-FRA,MWI,visa on arrival (30)
+FRA,MWI,-1
 FRA,MYS,-1
 FRA,MDV,visa on arrival (30)
 FRA,MLI,visa required
@@ -12772,7 +12772,7 @@ DEU,LTU,visa free
 DEU,LUX,visa free
 DEU,MAC,-1
 DEU,MDG,visa on arrival (90)
-DEU,MWI,visa on arrival (30)
+DEU,MWI,-1
 DEU,MYS,-1
 DEU,MDV,visa on arrival (30)
 DEU,MLI,visa required
@@ -14158,7 +14158,7 @@ GUY,LTU,visa required
 GUY,LUX,visa required
 GUY,MAC,visa on arrival (30)
 GUY,MDG,visa on arrival (90)
-GUY,MWI,visa on arrival (30)
+GUY,MWI,-1
 GUY,MYS,-1
 GUY,MDV,-1
 GUY,MLI,visa required
@@ -16138,7 +16138,7 @@ IRL,LTU,visa free
 IRL,LUX,visa free
 IRL,MAC,-1
 IRL,MDG,visa on arrival (90)
-IRL,MWI,visa on arrival (30)
+IRL,MWI,-1
 IRL,MYS,-1
 IRL,MDV,visa on arrival (30)
 IRL,MLI,visa required
@@ -16534,7 +16534,7 @@ ITA,LTU,visa free
 ITA,LUX,visa free
 ITA,MAC,-1
 ITA,MDG,visa on arrival (90)
-ITA,MWI,visa on arrival (30)
+ITA,MWI,-1
 ITA,MYS,-1
 ITA,MDV,visa on arrival (30)
 ITA,MLI,visa required
@@ -21088,7 +21088,7 @@ MDV,LTU,visa required
 MDV,LUX,visa required
 MDV,MAC,visa on arrival (30)
 MDV,MDG,visa on arrival (90)
-MDV,MWI,visa on arrival (30)
+MDV,MWI,-1
 MDV,MYS,-1
 MDV,MDV,-1
 MDV,MLI,visa required
@@ -21484,7 +21484,7 @@ MLT,LTU,visa free
 MLT,LUX,visa free
 MLT,MAC,-1
 MLT,MDG,visa on arrival (90)
-MLT,MWI,visa on arrival (30)
+MLT,MWI,-1
 MLT,MYS,-1
 MLT,MDV,visa on arrival (30)
 MLT,MLI,visa required
@@ -24652,7 +24652,7 @@ NLD,LTU,visa free
 NLD,LUX,visa free
 NLD,MAC,-1
 NLD,MDG,visa on arrival (90)
-NLD,MWI,visa on arrival (30)
+NLD,MWI,-1
 NLD,MYS,-1
 NLD,MDV,visa on arrival (30)
 NLD,MLI,visa required
@@ -24850,7 +24850,7 @@ NZL,LTU,-1
 NZL,LUX,-1
 NZL,MAC,-1
 NZL,MDG,visa on arrival (90)
-NZL,MWI,visa on arrival (30)
+NZL,MWI,-1
 NZL,MYS,-1
 NZL,MDV,visa on arrival (30)
 NZL,MLI,visa required
@@ -26038,7 +26038,7 @@ NOR,LTU,visa free
 NOR,LUX,visa free
 NOR,MAC,-1
 NOR,MDG,visa on arrival (90)
-NOR,MWI,visa on arrival (30)
+NOR,MWI,-1
 NOR,MYS,-1
 NOR,MDV,visa on arrival (30)
 NOR,MLI,visa required
@@ -28018,7 +28018,7 @@ POL,LTU,visa free
 POL,LUX,visa free
 POL,MAC,-1
 POL,MDG,visa on arrival (90)
-POL,MWI,visa on arrival (30)
+POL,MWI,-1
 POL,MYS,-1
 POL,MDV,visa on arrival (30)
 POL,MLI,visa required
@@ -28216,7 +28216,7 @@ PRT,LTU,visa free
 PRT,LUX,visa free
 PRT,MAC,-1
 PRT,MDG,visa on arrival (90)
-PRT,MWI,visa on arrival (30)
+PRT,MWI,-1
 PRT,MYS,-1
 PRT,MDV,visa on arrival (30)
 PRT,MLI,visa required
@@ -28810,7 +28810,7 @@ RUS,LTU,visa required
 RUS,LUX,visa required
 RUS,MAC,-1
 RUS,MDG,visa on arrival (90)
-RUS,MWI,e-visa (90)
+RUS,MWI,-1
 RUS,MYS,-1
 RUS,MDV,-1
 RUS,MLI,visa required
@@ -30988,7 +30988,7 @@ SLE,LTU,visa required
 SLE,LUX,visa required
 SLE,MAC,visa on arrival (30)
 SLE,MDG,visa on arrival (90)
-SLE,MWI,visa on arrival (30)
+SLE,MWI,-1
 SLE,MYS,-1
 SLE,MDV,visa on arrival (30)
 SLE,MLI,visa free
@@ -31186,7 +31186,7 @@ SGP,LTU,visa free
 SGP,LUX,-1
 SGP,MAC,-1
 SGP,MDG,visa on arrival (90)
-SGP,MWI,visa on arrival (30)
+SGP,MWI,-1
 SGP,MYS,-1
 SGP,MDV,visa on arrival (30)
 SGP,MLI,visa required
@@ -31780,7 +31780,7 @@ SLB,LTU,-1
 SLB,LUX,-1
 SLB,MAC,visa on arrival (30)
 SLB,MDG,visa on arrival (90)
-SLB,MWI,visa on arrival (30)
+SLB,MWI,-1
 SLB,MYS,-1
 SLB,MDV,visa on arrival (30)
 SLB,MLI,visa required
@@ -32968,7 +32968,7 @@ LKA,LTU,visa required
 LKA,LUX,visa required
 LKA,MAC,visa required
 LKA,MDG,visa on arrival (90)
-LKA,MWI,e-visa (90)
+LKA,MWI,-1
 LKA,MYS,e-visa (30)
 LKA,MDV,visa on arrival (30)
 LKA,MLI,visa required
@@ -33760,7 +33760,7 @@ SWE,LTU,visa free
 SWE,LUX,visa free
 SWE,MAC,-1
 SWE,MDG,visa on arrival (90)
-SWE,MWI,visa on arrival (30)
+SWE,MWI,-1
 SWE,MYS,-1
 SWE,MDV,visa on arrival (30)
 SWE,MLI,visa required
@@ -35542,7 +35542,7 @@ TON,LTU,visa free
 TON,LUX,-1
 TON,MAC,visa on arrival (30)
 TON,MDG,visa on arrival (90)
-TON,MWI,visa on arrival (30)
+TON,MWI,-1
 TON,MYS,-1
 TON,MDV,visa on arrival (30)
 TON,MLI,visa required
@@ -37324,7 +37324,7 @@ GBR,LTU,-1
 GBR,LUX,-1
 GBR,MAC,-1
 GBR,MDG,visa on arrival (90)
-GBR,MWI,visa on arrival (30)
+GBR,MWI,-1
 GBR,MYS,-1
 GBR,MDV,visa on arrival (30)
 GBR,MLI,visa required
@@ -37522,7 +37522,7 @@ USA,LTU,-1
 USA,LUX,-1
 USA,MAC,-1
 USA,MDG,visa on arrival (90)
-USA,MWI,visa on arrival (30)
+USA,MWI,-1
 USA,MYS,-1
 USA,MDV,visa on arrival (30)
 USA,MLI,visa required

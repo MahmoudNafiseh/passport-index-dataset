@@ -1193,7 +1193,7 @@ Argentina,Andorra,-1,0,1191
 Argentina,Angola,-1,0,1192
 Argentina,Antigua and Barbuda,-1,0,1193
 Argentina,Argentina,-1,0,1194
-Argentina,Armenia,visa free,0,1195
+Argentina,Armenia,-1,0,1195
 Argentina,Australia,e-visa,0,1196
 Argentina,Austria,-1,0,1197
 Argentina,Azerbaijan,e-visa,30,1198
@@ -15449,7 +15449,7 @@ Indonesia,Andorra,visa required,0,15447
 Indonesia,Angola,-1,0,15448
 Indonesia,Antigua and Barbuda,e-visa,0,15449
 Indonesia,Argentina,visa required,0,15450
-Indonesia,Armenia,e-visa,120,15451
+Indonesia,Armenia,visa on arrival,120,15451
 Indonesia,Australia,e-visa,0,15452
 Indonesia,Austria,visa required,0,15453
 Indonesia,Azerbaijan,visa on arrival,30,15454
@@ -20993,7 +20993,7 @@ Maldives,Andorra,visa required,0,20991
 Maldives,Angola,visa required,0,20992
 Maldives,Antigua and Barbuda,-1,0,20993
 Maldives,Argentina,visa required,0,20994
-Maldives,Armenia,visa required,0,20995
+Maldives,Armenia,e-visa,120,20995
 Maldives,Australia,e-visa,0,20996
 Maldives,Austria,visa required,0,20997
 Maldives,Azerbaijan,e-visa,30,20998
@@ -29507,7 +29507,7 @@ Samoa,Andorra,-1,0,29505
 Samoa,Angola,-1,0,29506
 Samoa,Antigua and Barbuda,-1,0,29507
 Samoa,Argentina,visa required,0,29508
-Samoa,Armenia,visa required,0,29509
+Samoa,Armenia,e-visa,120,29509
 Samoa,Australia,e-visa,0,29510
 Samoa,Austria,-1,0,29511
 Samoa,Azerbaijan,visa required,0,29512
@@ -36239,7 +36239,7 @@ Turkmenistan,Andorra,visa required,0,36237
 Turkmenistan,Angola,visa required,0,36238
 Turkmenistan,Antigua and Barbuda,-1,0,36239
 Turkmenistan,Argentina,visa required,0,36240
-Turkmenistan,Armenia,visa required,0,36241
+Turkmenistan,Armenia,e-visa,120,36241
 Turkmenistan,Australia,e-visa,0,36242
 Turkmenistan,Austria,visa required,0,36243
 Turkmenistan,Azerbaijan,e-visa,30,36244
