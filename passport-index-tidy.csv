@@ -7426,7 +7426,7 @@ Comoros,Lithuania,visa required,0,7424
 Comoros,Luxembourg,visa required,0,7425
 Comoros,Macao,visa on arrival,30,7426
 Comoros,Madagascar,visa on arrival,30,7427
-Comoros,Malawi,-1,0,7428
+Comoros,Malawi,visa on arrival,90,7428
 Comoros,Malaysia,-1,0,7429
 Comoros,Maldives,visa on arrival,30,7430
 Comoros,Mali,visa required,0,7431
@@ -12970,7 +12970,7 @@ Ghana,Lithuania,visa required,0,12968
 Ghana,Luxembourg,visa required,0,12969
 Ghana,Macao,visa on arrival,30,12970
 Ghana,Madagascar,visa on arrival,90,12971
-Ghana,Malawi,e-visa,90,12972
+Ghana,Malawi,-1,0,12972
 Ghana,Malaysia,e-visa,14,12973
 Ghana,Maldives,visa on arrival,30,12974
 Ghana,Mali,visa free,0,12975
@@ -27226,7 +27226,7 @@ Papua New Guinea,Lithuania,visa required,0,27224
 Papua New Guinea,Luxembourg,visa required,0,27225
 Papua New Guinea,Macao,visa on arrival,30,27226
 Papua New Guinea,Madagascar,visa on arrival,90,27227
-Papua New Guinea,Malawi,visa on arrival,30,27228
+Papua New Guinea,Malawi,-1,0,27228
 Papua New Guinea,Malaysia,-1,0,27229
 Papua New Guinea,Maldives,visa on arrival,30,27230
 Papua New Guinea,Mali,visa required,0,27231

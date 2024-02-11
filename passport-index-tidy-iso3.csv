@@ -7426,7 +7426,7 @@ COM,LTU,visa required
 COM,LUX,visa required
 COM,MAC,visa on arrival (30)
 COM,MDG,visa on arrival (30)
-COM,MWI,-1
+COM,MWI,visa on arrival (90)
 COM,MYS,-1
 COM,MDV,visa on arrival (30)
 COM,MLI,visa required
@@ -12970,7 +12970,7 @@ GHA,LTU,visa required
 GHA,LUX,visa required
 GHA,MAC,visa on arrival (30)
 GHA,MDG,visa on arrival (90)
-GHA,MWI,e-visa (90)
+GHA,MWI,-1
 GHA,MYS,e-visa (14)
 GHA,MDV,visa on arrival (30)
 GHA,MLI,visa free
@@ -27226,7 +27226,7 @@ PNG,LTU,visa required
 PNG,LUX,visa required
 PNG,MAC,visa on arrival (30)
 PNG,MDG,visa on arrival (90)
-PNG,MWI,visa on arrival (30)
+PNG,MWI,-1
 PNG,MYS,-1
 PNG,MDV,visa on arrival (30)
 PNG,MLI,visa required
