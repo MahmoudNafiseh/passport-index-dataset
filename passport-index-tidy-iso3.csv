@@ -3034,7 +3034,7 @@ BLR,GEO,-1
 BLR,DEU,visa required
 BLR,GHA,visa required
 BLR,GRC,visa required
-BLR,GRD,visa required
+BLR,GRD,visa free
 BLR,GTM,visa required
 BLR,GIN,e-visa (90)
 BLR,GNB,visa on arrival (90)
@@ -14755,7 +14755,7 @@ HKG,MDG,visa on arrival (90)
 HKG,MWI,-1
 HKG,MYS,-1
 HKG,MDV,visa on arrival (30)
-HKG,MLI,-1
+HKG,MLI,visa required
 HKG,MLT,-1
 HKG,MHL,visa required
 HKG,MRT,visa on arrival
