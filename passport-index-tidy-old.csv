@@ -3034,7 +3034,7 @@ Belarus,Georgia,-1,0,3032
 Belarus,Germany,visa required,0,3033
 Belarus,Ghana,visa required,0,3034
 Belarus,Greece,visa required,0,3035
-Belarus,Grenada,visa required,0,3036
+Belarus,Grenada,visa free,0,3036
 Belarus,Guatemala,visa required,0,3037
 Belarus,Guinea,e-visa,90,3038
 Belarus,Guinea-Bissau,visa on arrival,90,3039
@@ -14755,7 +14755,7 @@ Hong Kong,Madagascar,visa on arrival,90,14753
 Hong Kong,Malawi,-1,0,14754
 Hong Kong,Malaysia,-1,0,14755
 Hong Kong,Maldives,visa on arrival,30,14756
-Hong Kong,Mali,-1,0,14757
+Hong Kong,Mali,visa required,0,14757
 Hong Kong,Malta,-1,0,14758
 Hong Kong,Marshall Islands,visa required,0,14759
 Hong Kong,Mauritania,visa on arrival,0,14760
