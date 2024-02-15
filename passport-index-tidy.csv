@@ -7901,7 +7901,7 @@ DR Congo,Tunisia,visa required,0,7899
 DR Congo,Turkmenistan,visa required,0,7900
 DR Congo,Tuvalu,visa on arrival,30,7901
 DR Congo,Turkey,visa required,0,7902
-DR Congo,Uganda,e-visa,0,7903
+DR Congo,Uganda,e-visa,90,7903
 DR Congo,Ukraine,visa required,0,7904
 DR Congo,United Arab Emirates,visa required,0,7905
 DR Congo,United Kingdom,visa required,0,7906
@@ -15492,7 +15492,7 @@ Indonesia,Denmark,visa required,0,15490
 Indonesia,Djibouti,e-visa,90,15491
 Indonesia,Dominican Republic,visa required,0,15492
 Indonesia,Ecuador,-1,0,15493
-Indonesia,Egypt,visa on arrival,0,15494
+Indonesia,Egypt,visa required,0,15494
 Indonesia,El Salvador,e-visa,0,15495
 Indonesia,Equatorial Guinea,e-visa,0,15496
 Indonesia,Eritrea,visa required,0,15497
@@ -15888,7 +15888,7 @@ Iraq,Denmark,visa required,0,15886
 Iraq,Djibouti,e-visa,90,15887
 Iraq,Dominican Republic,visa required,0,15888
 Iraq,Ecuador,e-visa,0,15889
-Iraq,Egypt,visa required,0,15890
+Iraq,Egypt,e-visa,0,15890
 Iraq,El Salvador,e-visa,0,15891
 Iraq,Equatorial Guinea,e-visa,0,15892
 Iraq,Eritrea,visa required,0,15893
@@ -34896,7 +34896,7 @@ Thailand,Denmark,visa required,0,34894
 Thailand,Djibouti,e-visa,90,34895
 Thailand,Dominican Republic,visa free,0,34896
 Thailand,Ecuador,-1,0,34897
-Thailand,Egypt,visa on arrival,0,34898
+Thailand,Egypt,visa required,0,34898
 Thailand,El Salvador,e-visa,0,34899
 Thailand,Equatorial Guinea,e-visa,0,34900
 Thailand,Eritrea,visa required,0,34901

@@ -7901,7 +7901,7 @@ COD,TUN,visa required
 COD,TKM,visa required
 COD,TUV,visa on arrival (30)
 COD,TUR,visa required
-COD,UGA,e-visa
+COD,UGA,e-visa (90)
 COD,UKR,visa required
 COD,ARE,visa required
 COD,GBR,visa required
@@ -15492,7 +15492,7 @@ IDN,DNK,visa required
 IDN,DJI,e-visa (90)
 IDN,DOM,visa required
 IDN,ECU,-1
-IDN,EGY,visa on arrival
+IDN,EGY,visa required
 IDN,SLV,e-visa
 IDN,GNQ,e-visa
 IDN,ERI,visa required
@@ -15888,7 +15888,7 @@ IRQ,DNK,visa required
 IRQ,DJI,e-visa (90)
 IRQ,DOM,visa required
 IRQ,ECU,e-visa
-IRQ,EGY,visa required
+IRQ,EGY,e-visa
 IRQ,SLV,e-visa
 IRQ,GNQ,e-visa
 IRQ,ERI,visa required
@@ -34896,7 +34896,7 @@ THA,DNK,visa required
 THA,DJI,e-visa (90)
 THA,DOM,visa free
 THA,ECU,-1
-THA,EGY,visa on arrival
+THA,EGY,visa required
 THA,SLV,e-visa
 THA,GNQ,e-visa
 THA,ERI,visa required
