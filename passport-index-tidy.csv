@@ -132,7 +132,7 @@ Afghanistan,Pakistan,e-visa,0,130
 Afghanistan,Palau,visa on arrival,30,131
 Afghanistan,Palestine,visa required,0,132
 Afghanistan,Panama,visa required,0,133
-Afghanistan,Papua New Guinea,visa required,0,134
+Afghanistan,Papua New Guinea,e-visa,0,134
 Afghanistan,Paraguay,visa required,0,135
 Afghanistan,Peru,visa required,0,136
 Afghanistan,Philippines,visa required,0,137
@@ -330,7 +330,7 @@ Albania,Pakistan,e-visa,0,328
 Albania,Palau,visa on arrival,30,329
 Albania,Palestine,visa free,0,330
 Albania,Panama,visa required,0,331
-Albania,Papua New Guinea,visa required,0,332
+Albania,Papua New Guinea,e-visa,0,332
 Albania,Paraguay,visa required,0,333
 Albania,Peru,visa required,0,334
 Albania,Philippines,visa required,0,335
@@ -528,7 +528,7 @@ Algeria,Pakistan,e-visa,0,526
 Algeria,Palau,visa on arrival,30,527
 Algeria,Palestine,visa free,0,528
 Algeria,Panama,visa required,0,529
-Algeria,Papua New Guinea,visa required,0,530
+Algeria,Papua New Guinea,e-visa,0,530
 Algeria,Paraguay,visa required,0,531
 Algeria,Peru,visa required,0,532
 Algeria,Philippines,visa required,0,533
@@ -924,7 +924,7 @@ Angola,Pakistan,e-visa,30,922
 Angola,Palau,visa on arrival,30,923
 Angola,Palestine,visa required,0,924
 Angola,Panama,visa required,0,925
-Angola,Papua New Guinea,visa required,0,926
+Angola,Papua New Guinea,e-visa,0,926
 Angola,Paraguay,visa required,0,927
 Angola,Peru,visa required,0,928
 Angola,Philippines,-1,0,929
@@ -1518,7 +1518,7 @@ Armenia,Pakistan,visa required,0,1516
 Armenia,Palau,visa on arrival,30,1517
 Armenia,Palestine,visa free,0,1518
 Armenia,Panama,-1,0,1519
-Armenia,Papua New Guinea,visa required,0,1520
+Armenia,Papua New Guinea,e-visa,0,1520
 Armenia,Paraguay,visa required,0,1521
 Armenia,Peru,visa required,0,1522
 Armenia,Philippines,visa required,0,1523
@@ -2112,7 +2112,7 @@ Azerbaijan,Pakistan,e-visa,30,2110
 Azerbaijan,Palau,visa on arrival,30,2111
 Azerbaijan,Palestine,visa free,0,2112
 Azerbaijan,Panama,visa required,0,2113
-Azerbaijan,Papua New Guinea,visa required,0,2114
+Azerbaijan,Papua New Guinea,e-visa,0,2114
 Azerbaijan,Paraguay,visa required,0,2115
 Azerbaijan,Peru,visa required,0,2116
 Azerbaijan,Philippines,visa required,0,2117
@@ -2508,7 +2508,7 @@ Bahrain,Pakistan,e-visa,30,2506
 Bahrain,Palau,visa on arrival,30,2507
 Bahrain,Palestine,visa free,0,2508
 Bahrain,Panama,visa required,0,2509
-Bahrain,Papua New Guinea,visa required,0,2510
+Bahrain,Papua New Guinea,e-visa,0,2510
 Bahrain,Paraguay,visa required,0,2511
 Bahrain,Peru,visa required,0,2512
 Bahrain,Philippines,-1,0,2513
@@ -2706,7 +2706,7 @@ Bangladesh,Pakistan,e-visa,0,2704
 Bangladesh,Palau,visa required,0,2705
 Bangladesh,Palestine,visa required,0,2706
 Bangladesh,Panama,visa required,0,2707
-Bangladesh,Papua New Guinea,visa required,0,2708
+Bangladesh,Papua New Guinea,e-visa,0,2708
 Bangladesh,Paraguay,visa required,0,2709
 Bangladesh,Peru,visa required,0,2710
 Bangladesh,Philippines,visa required,0,2711
@@ -3102,7 +3102,7 @@ Belarus,Pakistan,e-visa,0,3100
 Belarus,Palau,visa on arrival,30,3101
 Belarus,Palestine,visa free,0,3102
 Belarus,Panama,-1,0,3103
-Belarus,Papua New Guinea,visa required,0,3104
+Belarus,Papua New Guinea,e-visa,0,3104
 Belarus,Paraguay,visa required,0,3105
 Belarus,Peru,-1,0,3106
 Belarus,Philippines,visa required,0,3107
@@ -3696,7 +3696,7 @@ Benin,Pakistan,e-visa,0,3694
 Benin,Palau,visa on arrival,30,3695
 Benin,Palestine,visa required,0,3696
 Benin,Panama,visa required,0,3697
-Benin,Papua New Guinea,visa required,0,3698
+Benin,Papua New Guinea,e-visa,0,3698
 Benin,Paraguay,visa required,0,3699
 Benin,Peru,visa required,0,3700
 Benin,Philippines,-1,0,3701
@@ -3894,7 +3894,7 @@ Bhutan,Pakistan,e-visa,0,3892
 Bhutan,Palau,visa on arrival,30,3893
 Bhutan,Palestine,visa free,0,3894
 Bhutan,Panama,-1,0,3895
-Bhutan,Papua New Guinea,visa required,0,3896
+Bhutan,Papua New Guinea,e-visa,0,3896
 Bhutan,Paraguay,visa required,0,3897
 Bhutan,Peru,visa required,0,3898
 Bhutan,Philippines,-1,0,3899
@@ -4092,7 +4092,7 @@ Bolivia,Pakistan,e-visa,0,4090
 Bolivia,Palau,visa on arrival,30,4091
 Bolivia,Palestine,visa free,0,4092
 Bolivia,Panama,-1,0,4093
-Bolivia,Papua New Guinea,visa required,0,4094
+Bolivia,Papua New Guinea,e-visa,0,4094
 Bolivia,Paraguay,-1,0,4095
 Bolivia,Peru,-1,0,4096
 Bolivia,Philippines,-1,0,4097
@@ -4290,7 +4290,7 @@ Bosnia and Herzegovina,Pakistan,e-visa,0,4288
 Bosnia and Herzegovina,Palau,visa on arrival,30,4289
 Bosnia and Herzegovina,Palestine,visa free,0,4290
 Bosnia and Herzegovina,Panama,-1,0,4291
-Bosnia and Herzegovina,Papua New Guinea,visa required,0,4292
+Bosnia and Herzegovina,Papua New Guinea,e-visa,0,4292
 Bosnia and Herzegovina,Paraguay,visa required,0,4293
 Bosnia and Herzegovina,Peru,visa required,0,4294
 Bosnia and Herzegovina,Philippines,visa required,0,4295
@@ -5280,7 +5280,7 @@ Burkina Faso,Pakistan,e-visa,0,5278
 Burkina Faso,Palau,visa on arrival,30,5279
 Burkina Faso,Palestine,visa required,0,5280
 Burkina Faso,Panama,visa required,0,5281
-Burkina Faso,Papua New Guinea,visa required,0,5282
+Burkina Faso,Papua New Guinea,e-visa,0,5282
 Burkina Faso,Paraguay,visa required,0,5283
 Burkina Faso,Peru,visa required,0,5284
 Burkina Faso,Philippines,-1,0,5285
@@ -5478,7 +5478,7 @@ Burundi,Pakistan,e-visa,0,5476
 Burundi,Palau,visa on arrival,30,5477
 Burundi,Palestine,visa required,0,5478
 Burundi,Panama,visa required,0,5479
-Burundi,Papua New Guinea,visa required,0,5480
+Burundi,Papua New Guinea,e-visa,0,5480
 Burundi,Paraguay,visa required,0,5481
 Burundi,Peru,visa required,0,5482
 Burundi,Philippines,-1,0,5483
@@ -5676,7 +5676,7 @@ Cambodia,Pakistan,e-visa,0,5674
 Cambodia,Palau,visa on arrival,30,5675
 Cambodia,Palestine,visa free,0,5676
 Cambodia,Panama,-1,0,5677
-Cambodia,Papua New Guinea,visa required,0,5678
+Cambodia,Papua New Guinea,e-visa,0,5678
 Cambodia,Paraguay,visa required,0,5679
 Cambodia,Peru,visa required,0,5680
 Cambodia,Philippines,-1,0,5681
@@ -5874,7 +5874,7 @@ Cameroon,Pakistan,e-visa,0,5872
 Cameroon,Palau,visa on arrival,30,5873
 Cameroon,Palestine,visa required,0,5874
 Cameroon,Panama,visa required,0,5875
-Cameroon,Papua New Guinea,visa required,0,5876
+Cameroon,Papua New Guinea,e-visa,0,5876
 Cameroon,Paraguay,visa required,0,5877
 Cameroon,Peru,visa required,0,5878
 Cameroon,Philippines,-1,0,5879
@@ -6270,7 +6270,7 @@ Cape Verde,Pakistan,e-visa,0,6268
 Cape Verde,Palau,visa on arrival,30,6269
 Cape Verde,Palestine,visa free,0,6270
 Cape Verde,Panama,visa required,0,6271
-Cape Verde,Papua New Guinea,visa required,0,6272
+Cape Verde,Papua New Guinea,e-visa,0,6272
 Cape Verde,Paraguay,visa required,0,6273
 Cape Verde,Peru,visa required,0,6274
 Cape Verde,Philippines,-1,0,6275
@@ -6468,7 +6468,7 @@ Central African Republic,Pakistan,e-visa,0,6466
 Central African Republic,Palau,visa on arrival,30,6467
 Central African Republic,Palestine,visa free,0,6468
 Central African Republic,Panama,visa required,0,6469
-Central African Republic,Papua New Guinea,visa required,0,6470
+Central African Republic,Papua New Guinea,e-visa,0,6470
 Central African Republic,Paraguay,visa required,0,6471
 Central African Republic,Peru,visa required,0,6472
 Central African Republic,Philippines,-1,0,6473
@@ -6666,7 +6666,7 @@ Chad,Pakistan,e-visa,0,6664
 Chad,Palau,visa on arrival,30,6665
 Chad,Palestine,visa required,0,6666
 Chad,Panama,visa required,0,6667
-Chad,Papua New Guinea,visa required,0,6668
+Chad,Papua New Guinea,e-visa,0,6668
 Chad,Paraguay,visa required,0,6669
 Chad,Peru,visa required,0,6670
 Chad,Philippines,-1,0,6671
@@ -7260,7 +7260,7 @@ Colombia,Pakistan,e-visa,0,7258
 Colombia,Palau,visa on arrival,30,7259
 Colombia,Palestine,visa free,0,7260
 Colombia,Panama,-1,0,7261
-Colombia,Papua New Guinea,visa required,0,7262
+Colombia,Papua New Guinea,e-visa,0,7262
 Colombia,Paraguay,-1,0,7263
 Colombia,Peru,-1,0,7264
 Colombia,Philippines,-1,0,7265
@@ -7458,7 +7458,7 @@ Comoros,Pakistan,e-visa,0,7456
 Comoros,Palau,visa on arrival,30,7457
 Comoros,Palestine,visa required,0,7458
 Comoros,Panama,-1,0,7459
-Comoros,Papua New Guinea,visa required,0,7460
+Comoros,Papua New Guinea,e-visa,0,7460
 Comoros,Paraguay,visa required,0,7461
 Comoros,Peru,visa required,0,7462
 Comoros,Philippines,-1,0,7463
@@ -7656,7 +7656,7 @@ Congo,Pakistan,e-visa,0,7654
 Congo,Palau,visa on arrival,30,7655
 Congo,Palestine,visa required,0,7656
 Congo,Panama,visa required,0,7657
-Congo,Papua New Guinea,visa required,0,7658
+Congo,Papua New Guinea,e-visa,0,7658
 Congo,Paraguay,visa required,0,7659
 Congo,Peru,visa required,0,7660
 Congo,Philippines,-1,0,7661
@@ -7854,7 +7854,7 @@ DR Congo,Pakistan,e-visa,0,7852
 DR Congo,Palau,visa on arrival,30,7853
 DR Congo,Palestine,visa required,0,7854
 DR Congo,Panama,visa required,0,7855
-DR Congo,Papua New Guinea,visa required,0,7856
+DR Congo,Papua New Guinea,e-visa,0,7856
 DR Congo,Paraguay,visa required,0,7857
 DR Congo,Peru,visa required,0,7858
 DR Congo,Philippines,-1,0,7859
@@ -8052,7 +8052,7 @@ Costa Rica,Pakistan,e-visa,30,8050
 Costa Rica,Palau,visa on arrival,30,8051
 Costa Rica,Palestine,visa free,0,8052
 Costa Rica,Panama,-1,0,8053
-Costa Rica,Papua New Guinea,visa required,0,8054
+Costa Rica,Papua New Guinea,e-visa,0,8054
 Costa Rica,Paraguay,-1,0,8055
 Costa Rica,Peru,-1,0,8056
 Costa Rica,Philippines,-1,0,8057
@@ -8250,7 +8250,7 @@ Ivory Coast,Pakistan,e-visa,0,8248
 Ivory Coast,Palau,visa on arrival,30,8249
 Ivory Coast,Palestine,visa required,0,8250
 Ivory Coast,Panama,visa required,0,8251
-Ivory Coast,Papua New Guinea,visa required,0,8252
+Ivory Coast,Papua New Guinea,e-visa,0,8252
 Ivory Coast,Paraguay,visa required,0,8253
 Ivory Coast,Peru,visa required,0,8254
 Ivory Coast,Philippines,-1,0,8255
@@ -8646,7 +8646,7 @@ Cuba,Pakistan,e-visa,0,8644
 Cuba,Palau,visa on arrival,30,8645
 Cuba,Palestine,visa free,0,8646
 Cuba,Panama,visa required,0,8647
-Cuba,Papua New Guinea,visa required,0,8648
+Cuba,Papua New Guinea,e-visa,0,8648
 Cuba,Paraguay,visa required,0,8649
 Cuba,Peru,visa required,0,8650
 Cuba,Philippines,visa required,0,8651
@@ -9438,7 +9438,7 @@ Djibouti,Pakistan,e-visa,0,9436
 Djibouti,Palau,visa on arrival,30,9437
 Djibouti,Palestine,visa required,0,9438
 Djibouti,Panama,visa required,0,9439
-Djibouti,Papua New Guinea,visa required,0,9440
+Djibouti,Papua New Guinea,e-visa,0,9440
 Djibouti,Paraguay,visa required,0,9441
 Djibouti,Peru,visa required,0,9442
 Djibouti,Philippines,-1,0,9443
@@ -9834,7 +9834,7 @@ Dominican Republic,Pakistan,e-visa,0,9832
 Dominican Republic,Palau,visa on arrival,30,9833
 Dominican Republic,Palestine,visa free,0,9834
 Dominican Republic,Panama,visa required,0,9835
-Dominican Republic,Papua New Guinea,visa required,0,9836
+Dominican Republic,Papua New Guinea,e-visa,0,9836
 Dominican Republic,Paraguay,-1,0,9837
 Dominican Republic,Peru,-1,0,9838
 Dominican Republic,Philippines,-1,0,9839
@@ -10230,7 +10230,7 @@ Egypt,Pakistan,e-visa,0,10228
 Egypt,Palau,visa on arrival,30,10229
 Egypt,Palestine,visa free,0,10230
 Egypt,Panama,visa required,0,10231
-Egypt,Papua New Guinea,visa required,0,10232
+Egypt,Papua New Guinea,e-visa,0,10232
 Egypt,Paraguay,visa required,0,10233
 Egypt,Peru,visa required,0,10234
 Egypt,Philippines,visa required,0,10235
@@ -10428,7 +10428,7 @@ El Salvador,Pakistan,e-visa,0,10426
 El Salvador,Palau,visa on arrival,30,10427
 El Salvador,Palestine,visa free,0,10428
 El Salvador,Panama,-1,0,10429
-El Salvador,Papua New Guinea,visa required,0,10430
+El Salvador,Papua New Guinea,e-visa,0,10430
 El Salvador,Paraguay,-1,0,10431
 El Salvador,Peru,-1,0,10432
 El Salvador,Philippines,-1,0,10433
@@ -10626,7 +10626,7 @@ Equatorial Guinea,Pakistan,e-visa,0,10624
 Equatorial Guinea,Palau,visa on arrival,30,10625
 Equatorial Guinea,Palestine,visa free,0,10626
 Equatorial Guinea,Panama,visa required,0,10627
-Equatorial Guinea,Papua New Guinea,visa required,0,10628
+Equatorial Guinea,Papua New Guinea,e-visa,0,10628
 Equatorial Guinea,Paraguay,visa required,0,10629
 Equatorial Guinea,Peru,visa required,0,10630
 Equatorial Guinea,Philippines,-1,0,10631
@@ -10824,7 +10824,7 @@ Eritrea,Pakistan,e-visa,0,10822
 Eritrea,Palau,visa on arrival,30,10823
 Eritrea,Palestine,visa required,0,10824
 Eritrea,Panama,visa required,0,10825
-Eritrea,Papua New Guinea,visa required,0,10826
+Eritrea,Papua New Guinea,e-visa,0,10826
 Eritrea,Paraguay,visa required,0,10827
 Eritrea,Peru,visa required,0,10828
 Eritrea,Philippines,-1,0,10829
@@ -11220,7 +11220,7 @@ Swaziland,Pakistan,e-visa,0,11218
 Swaziland,Palau,visa on arrival,30,11219
 Swaziland,Palestine,visa free,0,11220
 Swaziland,Panama,visa required,0,11221
-Swaziland,Papua New Guinea,visa required,0,11222
+Swaziland,Papua New Guinea,e-visa,0,11222
 Swaziland,Paraguay,visa required,0,11223
 Swaziland,Peru,visa required,0,11224
 Swaziland,Philippines,-1,0,11225
@@ -11418,7 +11418,7 @@ Ethiopia,Pakistan,e-visa,0,11416
 Ethiopia,Palau,visa on arrival,30,11417
 Ethiopia,Palestine,visa required,0,11418
 Ethiopia,Panama,visa required,0,11419
-Ethiopia,Papua New Guinea,visa required,0,11420
+Ethiopia,Papua New Guinea,e-visa,0,11420
 Ethiopia,Paraguay,visa required,0,11421
 Ethiopia,Peru,visa required,0,11422
 Ethiopia,Philippines,-1,0,11423
@@ -12210,7 +12210,7 @@ Gabon,Pakistan,e-visa,0,12208
 Gabon,Palau,visa on arrival,30,12209
 Gabon,Palestine,visa required,0,12210
 Gabon,Panama,-1,0,12211
-Gabon,Papua New Guinea,visa required,0,12212
+Gabon,Papua New Guinea,e-visa,0,12212
 Gabon,Paraguay,visa required,0,12213
 Gabon,Peru,visa required,0,12214
 Gabon,Philippines,-1,0,12215
@@ -12408,7 +12408,7 @@ Gambia,Pakistan,e-visa,0,12406
 Gambia,Palau,visa on arrival,30,12407
 Gambia,Palestine,visa required,0,12408
 Gambia,Panama,visa required,0,12409
-Gambia,Papua New Guinea,visa required,0,12410
+Gambia,Papua New Guinea,e-visa,0,12410
 Gambia,Paraguay,visa required,0,12411
 Gambia,Peru,visa required,0,12412
 Gambia,Philippines,-1,0,12413
@@ -12606,7 +12606,7 @@ Georgia,Pakistan,e-visa,0,12604
 Georgia,Palau,visa on arrival,30,12605
 Georgia,Palestine,visa free,0,12606
 Georgia,Panama,-1,0,12607
-Georgia,Papua New Guinea,visa required,0,12608
+Georgia,Papua New Guinea,e-visa,0,12608
 Georgia,Paraguay,-1,0,12609
 Georgia,Peru,visa required,0,12610
 Georgia,Philippines,visa required,0,12611
@@ -13002,7 +13002,7 @@ Ghana,Pakistan,e-visa,30,13000
 Ghana,Palau,visa on arrival,30,13001
 Ghana,Palestine,visa required,0,13002
 Ghana,Panama,visa required,0,13003
-Ghana,Papua New Guinea,visa required,0,13004
+Ghana,Papua New Guinea,e-visa,0,13004
 Ghana,Paraguay,visa required,0,13005
 Ghana,Peru,visa required,0,13006
 Ghana,Philippines,-1,0,13007
@@ -13596,7 +13596,7 @@ Guatemala,Pakistan,e-visa,0,13594
 Guatemala,Palau,visa on arrival,30,13595
 Guatemala,Palestine,visa free,0,13596
 Guatemala,Panama,-1,0,13597
-Guatemala,Papua New Guinea,visa required,0,13598
+Guatemala,Papua New Guinea,e-visa,0,13598
 Guatemala,Paraguay,-1,0,13599
 Guatemala,Peru,-1,0,13600
 Guatemala,Philippines,-1,0,13601
@@ -13794,7 +13794,7 @@ Guinea,Pakistan,e-visa,0,13792
 Guinea,Palau,visa on arrival,30,13793
 Guinea,Palestine,visa required,0,13794
 Guinea,Panama,visa required,0,13795
-Guinea,Papua New Guinea,visa required,0,13796
+Guinea,Papua New Guinea,e-visa,0,13796
 Guinea,Paraguay,visa required,0,13797
 Guinea,Peru,visa required,0,13798
 Guinea,Philippines,-1,0,13799
@@ -13992,7 +13992,7 @@ Guinea-Bissau,Pakistan,e-visa,0,13990
 Guinea-Bissau,Palau,visa on arrival,30,13991
 Guinea-Bissau,Palestine,visa required,0,13992
 Guinea-Bissau,Panama,visa required,0,13993
-Guinea-Bissau,Papua New Guinea,visa required,0,13994
+Guinea-Bissau,Papua New Guinea,e-visa,0,13994
 Guinea-Bissau,Paraguay,visa required,0,13995
 Guinea-Bissau,Peru,visa required,0,13996
 Guinea-Bissau,Philippines,-1,0,13997
@@ -14388,7 +14388,7 @@ Haiti,Pakistan,e-visa,0,14386
 Haiti,Palau,visa on arrival,30,14387
 Haiti,Palestine,visa free,0,14388
 Haiti,Panama,visa required,0,14389
-Haiti,Papua New Guinea,visa required,0,14390
+Haiti,Papua New Guinea,e-visa,0,14390
 Haiti,Paraguay,visa required,0,14391
 Haiti,Peru,visa required,0,14392
 Haiti,Philippines,-1,0,14393
@@ -14586,7 +14586,7 @@ Honduras,Pakistan,e-visa,0,14584
 Honduras,Palau,visa on arrival,30,14585
 Honduras,Palestine,visa free,0,14586
 Honduras,Panama,-1,0,14587
-Honduras,Papua New Guinea,visa required,0,14588
+Honduras,Papua New Guinea,e-visa,0,14588
 Honduras,Paraguay,-1,0,14589
 Honduras,Peru,-1,0,14590
 Honduras,Philippines,-1,0,14591
@@ -15774,7 +15774,7 @@ Iran,Pakistan,e-visa,30,15772
 Iran,Palau,visa on arrival,30,15773
 Iran,Palestine,visa required,0,15774
 Iran,Panama,visa required,0,15775
-Iran,Papua New Guinea,visa required,0,15776
+Iran,Papua New Guinea,e-visa,0,15776
 Iran,Paraguay,visa required,0,15777
 Iran,Peru,visa required,0,15778
 Iran,Philippines,visa required,0,15779
@@ -15972,7 +15972,7 @@ Iraq,Pakistan,e-visa,0,15970
 Iraq,Palau,visa on arrival,30,15971
 Iraq,Palestine,visa required,0,15972
 Iraq,Panama,visa required,0,15973
-Iraq,Papua New Guinea,visa required,0,15974
+Iraq,Papua New Guinea,e-visa,0,15974
 Iraq,Paraguay,visa required,0,15975
 Iraq,Peru,visa required,0,15976
 Iraq,Philippines,visa required,0,15977
@@ -17160,7 +17160,7 @@ Jordan,Pakistan,e-visa,30,17158
 Jordan,Palau,visa on arrival,30,17159
 Jordan,Palestine,visa required,0,17160
 Jordan,Panama,visa required,0,17161
-Jordan,Papua New Guinea,visa required,0,17162
+Jordan,Papua New Guinea,e-visa,0,17162
 Jordan,Paraguay,visa required,0,17163
 Jordan,Peru,visa required,0,17164
 Jordan,Philippines,visa required,0,17165
@@ -17358,7 +17358,7 @@ Kazakhstan,Pakistan,e-visa,0,17356
 Kazakhstan,Palau,visa on arrival,30,17357
 Kazakhstan,Palestine,visa free,0,17358
 Kazakhstan,Panama,visa required,0,17359
-Kazakhstan,Papua New Guinea,visa required,0,17360
+Kazakhstan,Papua New Guinea,e-visa,0,17360
 Kazakhstan,Paraguay,visa required,0,17361
 Kazakhstan,Peru,visa required,0,17362
 Kazakhstan,Philippines,-1,0,17363
@@ -17952,7 +17952,7 @@ Kosovo,Pakistan,e-visa,0,17950
 Kosovo,Palau,visa on arrival,30,17951
 Kosovo,Palestine,visa free,0,17952
 Kosovo,Panama,visa required,0,17953
-Kosovo,Papua New Guinea,visa required,0,17954
+Kosovo,Papua New Guinea,e-visa,0,17954
 Kosovo,Paraguay,visa required,0,17955
 Kosovo,Peru,visa required,0,17956
 Kosovo,Philippines,visa required,0,17957
@@ -18150,7 +18150,7 @@ Kuwait,Pakistan,e-visa,30,18148
 Kuwait,Palau,visa on arrival,30,18149
 Kuwait,Palestine,visa free,0,18150
 Kuwait,Panama,-1,0,18151
-Kuwait,Papua New Guinea,visa required,0,18152
+Kuwait,Papua New Guinea,e-visa,0,18152
 Kuwait,Paraguay,visa required,0,18153
 Kuwait,Peru,visa required,0,18154
 Kuwait,Philippines,-1,0,18155
@@ -18348,7 +18348,7 @@ Kyrgyzstan,Pakistan,e-visa,0,18346
 Kyrgyzstan,Palau,visa on arrival,30,18347
 Kyrgyzstan,Palestine,visa free,0,18348
 Kyrgyzstan,Panama,visa required,0,18349
-Kyrgyzstan,Papua New Guinea,visa required,0,18350
+Kyrgyzstan,Papua New Guinea,e-visa,0,18350
 Kyrgyzstan,Paraguay,visa required,0,18351
 Kyrgyzstan,Peru,visa required,0,18352
 Kyrgyzstan,Philippines,-1,0,18353
@@ -18546,7 +18546,7 @@ Laos,Pakistan,e-visa,0,18544
 Laos,Palau,visa on arrival,30,18545
 Laos,Palestine,visa free,0,18546
 Laos,Panama,visa required,0,18547
-Laos,Papua New Guinea,visa required,0,18548
+Laos,Papua New Guinea,e-visa,0,18548
 Laos,Paraguay,visa required,0,18549
 Laos,Peru,visa required,0,18550
 Laos,Philippines,-1,0,18551
@@ -18942,7 +18942,7 @@ Lebanon,Pakistan,e-visa,0,18940
 Lebanon,Palau,visa on arrival,30,18941
 Lebanon,Palestine,visa free,0,18942
 Lebanon,Panama,visa required,0,18943
-Lebanon,Papua New Guinea,visa required,0,18944
+Lebanon,Papua New Guinea,e-visa,0,18944
 Lebanon,Paraguay,visa required,0,18945
 Lebanon,Peru,visa required,0,18946
 Lebanon,Philippines,visa required,0,18947
@@ -19338,7 +19338,7 @@ Liberia,Pakistan,e-visa,0,19336
 Liberia,Palau,visa on arrival,30,19337
 Liberia,Palestine,visa required,0,19338
 Liberia,Panama,visa required,0,19339
-Liberia,Papua New Guinea,visa required,0,19340
+Liberia,Papua New Guinea,e-visa,0,19340
 Liberia,Paraguay,visa required,0,19341
 Liberia,Peru,visa required,0,19342
 Liberia,Philippines,-1,0,19343
@@ -19536,7 +19536,7 @@ Libya,Pakistan,e-visa,0,19534
 Libya,Palau,visa on arrival,30,19535
 Libya,Palestine,visa free,0,19536
 Libya,Panama,visa required,0,19537
-Libya,Papua New Guinea,visa required,0,19538
+Libya,Papua New Guinea,e-visa,0,19538
 Libya,Paraguay,visa required,0,19539
 Libya,Peru,visa required,0,19540
 Libya,Philippines,visa required,0,19541
@@ -20526,7 +20526,7 @@ Madagascar,Pakistan,e-visa,0,20524
 Madagascar,Palau,visa on arrival,30,20525
 Madagascar,Palestine,visa required,0,20526
 Madagascar,Panama,-1,0,20527
-Madagascar,Papua New Guinea,visa required,0,20528
+Madagascar,Papua New Guinea,e-visa,0,20528
 Madagascar,Paraguay,visa required,0,20529
 Madagascar,Peru,visa required,0,20530
 Madagascar,Philippines,-1,0,20531
@@ -20724,7 +20724,7 @@ Malawi,Pakistan,e-visa,0,20722
 Malawi,Palau,visa on arrival,30,20723
 Malawi,Palestine,visa free,0,20724
 Malawi,Panama,visa required,0,20725
-Malawi,Papua New Guinea,visa required,0,20726
+Malawi,Papua New Guinea,e-visa,0,20726
 Malawi,Paraguay,visa required,0,20727
 Malawi,Peru,visa required,0,20728
 Malawi,Philippines,-1,0,20729
@@ -21318,7 +21318,7 @@ Mali,Pakistan,e-visa,0,21316
 Mali,Palau,visa on arrival,30,21317
 Mali,Palestine,visa required,0,21318
 Mali,Panama,visa required,0,21319
-Mali,Papua New Guinea,visa required,0,21320
+Mali,Papua New Guinea,e-visa,0,21320
 Mali,Paraguay,visa required,0,21321
 Mali,Peru,visa required,0,21322
 Mali,Philippines,-1,0,21323
@@ -21912,7 +21912,7 @@ Mauritania,Pakistan,e-visa,0,21910
 Mauritania,Palau,visa on arrival,30,21911
 Mauritania,Palestine,visa required,0,21912
 Mauritania,Panama,visa required,0,21913
-Mauritania,Papua New Guinea,visa required,0,21914
+Mauritania,Papua New Guinea,e-visa,0,21914
 Mauritania,Paraguay,visa required,0,21915
 Mauritania,Peru,visa required,0,21916
 Mauritania,Philippines,-1,0,21917
@@ -22704,7 +22704,7 @@ Moldova,Pakistan,e-visa,0,22702
 Moldova,Palau,visa on arrival,30,22703
 Moldova,Palestine,visa free,0,22704
 Moldova,Panama,-1,0,22705
-Moldova,Papua New Guinea,visa required,0,22706
+Moldova,Papua New Guinea,e-visa,0,22706
 Moldova,Paraguay,visa required,0,22707
 Moldova,Peru,-1,0,22708
 Moldova,Philippines,visa required,0,22709
@@ -23100,7 +23100,7 @@ Mongolia,Pakistan,e-visa,0,23098
 Mongolia,Palau,visa on arrival,30,23099
 Mongolia,Palestine,visa free,0,23100
 Mongolia,Panama,-1,0,23101
-Mongolia,Papua New Guinea,visa required,0,23102
+Mongolia,Papua New Guinea,e-visa,0,23102
 Mongolia,Paraguay,-1,0,23103
 Mongolia,Peru,-1,0,23104
 Mongolia,Philippines,-1,0,23105
@@ -23298,7 +23298,7 @@ Montenegro,Pakistan,e-visa,0,23296
 Montenegro,Palau,visa on arrival,30,23297
 Montenegro,Palestine,visa free,0,23298
 Montenegro,Panama,-1,0,23299
-Montenegro,Papua New Guinea,visa required,0,23300
+Montenegro,Papua New Guinea,e-visa,0,23300
 Montenegro,Paraguay,visa required,0,23301
 Montenegro,Peru,-1,0,23302
 Montenegro,Philippines,visa required,0,23303
@@ -23496,7 +23496,7 @@ Morocco,Pakistan,e-visa,0,23494
 Morocco,Palau,visa on arrival,30,23495
 Morocco,Palestine,visa free,0,23496
 Morocco,Panama,visa required,0,23497
-Morocco,Papua New Guinea,visa required,0,23498
+Morocco,Papua New Guinea,e-visa,0,23498
 Morocco,Paraguay,visa required,0,23499
 Morocco,Peru,visa required,0,23500
 Morocco,Philippines,-1,0,23501
@@ -23694,7 +23694,7 @@ Mozambique,Pakistan,e-visa,30,23692
 Mozambique,Palau,visa on arrival,30,23693
 Mozambique,Palestine,visa required,0,23694
 Mozambique,Panama,visa required,0,23695
-Mozambique,Papua New Guinea,visa required,0,23696
+Mozambique,Papua New Guinea,e-visa,0,23696
 Mozambique,Paraguay,visa required,0,23697
 Mozambique,Peru,visa required,0,23698
 Mozambique,Philippines,-1,0,23699
@@ -23892,7 +23892,7 @@ Myanmar,Pakistan,e-visa,0,23890
 Myanmar,Palau,visa required,0,23891
 Myanmar,Palestine,visa required,0,23892
 Myanmar,Panama,visa required,0,23893
-Myanmar,Papua New Guinea,visa required,0,23894
+Myanmar,Papua New Guinea,e-visa,0,23894
 Myanmar,Paraguay,visa required,0,23895
 Myanmar,Peru,visa required,0,23896
 Myanmar,Philippines,-1,0,23897
@@ -24486,7 +24486,7 @@ Nepal,Pakistan,-1,0,24484
 Nepal,Palau,visa on arrival,30,24485
 Nepal,Palestine,visa free,0,24486
 Nepal,Panama,visa required,0,24487
-Nepal,Papua New Guinea,visa required,0,24488
+Nepal,Papua New Guinea,e-visa,0,24488
 Nepal,Paraguay,visa required,0,24489
 Nepal,Peru,visa required,0,24490
 Nepal,Philippines,-1,0,24491
@@ -25080,7 +25080,7 @@ Nicaragua,Pakistan,e-visa,0,25078
 Nicaragua,Palau,visa on arrival,30,25079
 Nicaragua,Palestine,visa free,0,25080
 Nicaragua,Panama,-1,0,25081
-Nicaragua,Papua New Guinea,visa required,0,25082
+Nicaragua,Papua New Guinea,e-visa,0,25082
 Nicaragua,Paraguay,-1,0,25083
 Nicaragua,Peru,visa required,0,25084
 Nicaragua,Philippines,-1,0,25085
@@ -25278,7 +25278,7 @@ Niger,Pakistan,e-visa,0,25276
 Niger,Palau,visa on arrival,30,25277
 Niger,Palestine,visa required,0,25278
 Niger,Panama,visa required,0,25279
-Niger,Papua New Guinea,visa required,0,25280
+Niger,Papua New Guinea,e-visa,0,25280
 Niger,Paraguay,visa required,0,25281
 Niger,Peru,visa required,0,25282
 Niger,Philippines,-1,0,25283
@@ -25476,7 +25476,7 @@ Nigeria,Pakistan,e-visa,0,25474
 Nigeria,Palau,visa on arrival,30,25475
 Nigeria,Palestine,visa required,0,25476
 Nigeria,Panama,visa required,0,25477
-Nigeria,Papua New Guinea,visa required,0,25478
+Nigeria,Papua New Guinea,e-visa,0,25478
 Nigeria,Paraguay,visa required,0,25479
 Nigeria,Peru,visa required,0,25480
 Nigeria,Philippines,visa required,0,25481
@@ -25674,7 +25674,7 @@ North Korea,Pakistan,visa required,0,25672
 North Korea,Palau,visa on arrival,30,25673
 North Korea,Palestine,visa free,0,25674
 North Korea,Panama,visa required,0,25675
-North Korea,Papua New Guinea,visa required,0,25676
+North Korea,Papua New Guinea,e-visa,0,25676
 North Korea,Paraguay,visa required,0,25677
 North Korea,Peru,visa required,0,25678
 North Korea,Philippines,visa required,0,25679
@@ -25872,7 +25872,7 @@ North Macedonia,Pakistan,e-visa,0,25870
 North Macedonia,Palau,visa on arrival,30,25871
 North Macedonia,Palestine,visa free,0,25872
 North Macedonia,Panama,-1,0,25873
-North Macedonia,Papua New Guinea,visa required,0,25874
+North Macedonia,Papua New Guinea,e-visa,0,25874
 North Macedonia,Paraguay,visa required,0,25875
 North Macedonia,Peru,-1,0,25876
 North Macedonia,Philippines,visa required,0,25877
@@ -26268,7 +26268,7 @@ Oman,Pakistan,e-visa,30,26266
 Oman,Palau,visa on arrival,30,26267
 Oman,Palestine,visa free,0,26268
 Oman,Panama,visa required,0,26269
-Oman,Papua New Guinea,visa required,0,26270
+Oman,Papua New Guinea,e-visa,0,26270
 Oman,Paraguay,visa on arrival,30,26271
 Oman,Peru,visa required,0,26272
 Oman,Philippines,-1,0,26273
@@ -26466,7 +26466,7 @@ Pakistan,Pakistan,-1,0,26464
 Pakistan,Palau,visa on arrival,30,26465
 Pakistan,Palestine,visa required,0,26466
 Pakistan,Panama,visa required,0,26467
-Pakistan,Papua New Guinea,visa required,0,26468
+Pakistan,Papua New Guinea,e-visa,0,26468
 Pakistan,Paraguay,visa required,0,26469
 Pakistan,Peru,visa required,0,26470
 Pakistan,Philippines,visa required,0,26471
@@ -26862,7 +26862,7 @@ Palestine,Pakistan,e-visa,0,26860
 Palestine,Palau,visa on arrival,30,26861
 Palestine,Palestine,-1,0,26862
 Palestine,Panama,visa required,0,26863
-Palestine,Papua New Guinea,visa required,0,26864
+Palestine,Papua New Guinea,e-visa,0,26864
 Palestine,Paraguay,visa required,0,26865
 Palestine,Peru,visa required,0,26866
 Palestine,Philippines,visa required,0,26867
@@ -27060,7 +27060,7 @@ Panama,Pakistan,e-visa,0,27058
 Panama,Palau,visa on arrival,30,27059
 Panama,Palestine,visa free,0,27060
 Panama,Panama,-1,0,27061
-Panama,Papua New Guinea,visa required,0,27062
+Panama,Papua New Guinea,e-visa,0,27062
 Panama,Paraguay,-1,0,27063
 Panama,Peru,-1,0,27064
 Panama,Philippines,-1,0,27065
@@ -27456,7 +27456,7 @@ Paraguay,Pakistan,e-visa,30,27454
 Paraguay,Palau,visa on arrival,30,27455
 Paraguay,Palestine,visa free,0,27456
 Paraguay,Panama,-1,0,27457
-Paraguay,Papua New Guinea,visa required,0,27458
+Paraguay,Papua New Guinea,e-visa,0,27458
 Paraguay,Paraguay,-1,0,27459
 Paraguay,Peru,-1,0,27460
 Paraguay,Philippines,-1,0,27461
@@ -28446,7 +28446,7 @@ Qatar,Pakistan,e-visa,30,28444
 Qatar,Palau,visa on arrival,30,28445
 Qatar,Palestine,visa free,0,28446
 Qatar,Panama,-1,0,28447
-Qatar,Papua New Guinea,visa required,0,28448
+Qatar,Papua New Guinea,e-visa,0,28448
 Qatar,Paraguay,visa on arrival,30,28449
 Qatar,Peru,visa required,0,28450
 Qatar,Philippines,-1,0,28451
@@ -30030,7 +30030,7 @@ Sao Tome and Principe,Pakistan,e-visa,0,30028
 Sao Tome and Principe,Palau,visa on arrival,30,30029
 Sao Tome and Principe,Palestine,visa free,0,30030
 Sao Tome and Principe,Panama,-1,0,30031
-Sao Tome and Principe,Papua New Guinea,visa required,0,30032
+Sao Tome and Principe,Papua New Guinea,e-visa,0,30032
 Sao Tome and Principe,Paraguay,visa required,0,30033
 Sao Tome and Principe,Peru,visa required,0,30034
 Sao Tome and Principe,Philippines,-1,0,30035
@@ -30228,7 +30228,7 @@ Saudi Arabia,Pakistan,e-visa,30,30226
 Saudi Arabia,Palau,visa on arrival,30,30227
 Saudi Arabia,Palestine,visa free,0,30228
 Saudi Arabia,Panama,-1,0,30229
-Saudi Arabia,Papua New Guinea,visa required,0,30230
+Saudi Arabia,Papua New Guinea,e-visa,0,30230
 Saudi Arabia,Paraguay,visa required,0,30231
 Saudi Arabia,Peru,visa required,0,30232
 Saudi Arabia,Philippines,-1,0,30233
@@ -30426,7 +30426,7 @@ Senegal,Pakistan,e-visa,0,30424
 Senegal,Palau,visa on arrival,30,30425
 Senegal,Palestine,visa free,0,30426
 Senegal,Panama,visa required,0,30427
-Senegal,Papua New Guinea,visa required,0,30428
+Senegal,Papua New Guinea,e-visa,0,30428
 Senegal,Paraguay,visa required,0,30429
 Senegal,Peru,visa required,0,30430
 Senegal,Philippines,-1,0,30431
@@ -30624,7 +30624,7 @@ Serbia,Pakistan,e-visa,0,30622
 Serbia,Palau,visa on arrival,30,30623
 Serbia,Palestine,visa free,0,30624
 Serbia,Panama,-1,0,30625
-Serbia,Papua New Guinea,visa required,0,30626
+Serbia,Papua New Guinea,e-visa,0,30626
 Serbia,Paraguay,visa required,0,30627
 Serbia,Peru,-1,0,30628
 Serbia,Philippines,visa required,0,30629
@@ -31020,7 +31020,7 @@ Sierra Leone,Pakistan,e-visa,0,31018
 Sierra Leone,Palau,visa on arrival,30,31019
 Sierra Leone,Palestine,visa required,0,31020
 Sierra Leone,Panama,visa required,0,31021
-Sierra Leone,Papua New Guinea,visa required,0,31022
+Sierra Leone,Papua New Guinea,e-visa,0,31022
 Sierra Leone,Paraguay,visa required,0,31023
 Sierra Leone,Peru,visa required,0,31024
 Sierra Leone,Philippines,visa required,0,31025
@@ -32010,7 +32010,7 @@ Somalia,Pakistan,visa required,0,32008
 Somalia,Palau,visa on arrival,30,32009
 Somalia,Palestine,visa free,0,32010
 Somalia,Panama,visa required,0,32011
-Somalia,Papua New Guinea,visa required,0,32012
+Somalia,Papua New Guinea,e-visa,0,32012
 Somalia,Paraguay,visa required,0,32013
 Somalia,Peru,visa required,0,32014
 Somalia,Philippines,visa required,0,32015
@@ -32604,7 +32604,7 @@ South Sudan,Pakistan,e-visa,0,32602
 South Sudan,Palau,visa on arrival,30,32603
 South Sudan,Palestine,visa free,0,32604
 South Sudan,Panama,visa required,0,32605
-South Sudan,Papua New Guinea,visa required,0,32606
+South Sudan,Papua New Guinea,e-visa,0,32606
 South Sudan,Paraguay,visa required,0,32607
 South Sudan,Peru,visa required,0,32608
 South Sudan,Philippines,visa required,0,32609
@@ -33000,7 +33000,7 @@ Sri Lanka,Pakistan,e-visa,30,32998
 Sri Lanka,Palau,visa on arrival,30,32999
 Sri Lanka,Palestine,visa required,0,33000
 Sri Lanka,Panama,visa required,0,33001
-Sri Lanka,Papua New Guinea,visa required,0,33002
+Sri Lanka,Papua New Guinea,e-visa,0,33002
 Sri Lanka,Paraguay,visa required,0,33003
 Sri Lanka,Peru,visa required,0,33004
 Sri Lanka,Philippines,visa required,0,33005
@@ -33396,7 +33396,7 @@ Sudan,Pakistan,e-visa,0,33394
 Sudan,Palau,visa on arrival,30,33395
 Sudan,Palestine,visa required,0,33396
 Sudan,Panama,visa required,0,33397
-Sudan,Papua New Guinea,visa required,0,33398
+Sudan,Papua New Guinea,e-visa,0,33398
 Sudan,Paraguay,visa required,0,33399
 Sudan,Peru,visa required,0,33400
 Sudan,Philippines,visa required,0,33401
@@ -33594,7 +33594,7 @@ Suriname,Pakistan,e-visa,0,33592
 Suriname,Palau,visa on arrival,30,33593
 Suriname,Palestine,visa free,0,33594
 Suriname,Panama,visa required,0,33595
-Suriname,Papua New Guinea,visa required,0,33596
+Suriname,Papua New Guinea,e-visa,0,33596
 Suriname,Paraguay,visa required,0,33597
 Suriname,Peru,-1,0,33598
 Suriname,Philippines,-1,0,33599
@@ -34188,7 +34188,7 @@ Syria,Pakistan,e-visa,0,34186
 Syria,Palau,visa on arrival,30,34187
 Syria,Palestine,visa free,0,34188
 Syria,Panama,visa required,0,34189
-Syria,Papua New Guinea,visa required,0,34190
+Syria,Papua New Guinea,e-visa,0,34190
 Syria,Paraguay,visa required,0,34191
 Syria,Peru,visa required,0,34192
 Syria,Philippines,visa required,0,34193
@@ -34584,7 +34584,7 @@ Tajikistan,Pakistan,e-visa,30,34582
 Tajikistan,Palau,visa on arrival,30,34583
 Tajikistan,Palestine,visa free,0,34584
 Tajikistan,Panama,visa required,0,34585
-Tajikistan,Papua New Guinea,visa required,0,34586
+Tajikistan,Papua New Guinea,e-visa,0,34586
 Tajikistan,Paraguay,visa required,0,34587
 Tajikistan,Peru,visa required,0,34588
 Tajikistan,Philippines,-1,0,34589
@@ -34782,7 +34782,7 @@ Tanzania,Pakistan,e-visa,30,34780
 Tanzania,Palau,visa on arrival,30,34781
 Tanzania,Palestine,visa required,0,34782
 Tanzania,Panama,visa required,0,34783
-Tanzania,Papua New Guinea,visa required,0,34784
+Tanzania,Papua New Guinea,e-visa,0,34784
 Tanzania,Paraguay,visa required,0,34785
 Tanzania,Peru,visa required,0,34786
 Tanzania,Philippines,-1,0,34787
@@ -35178,7 +35178,7 @@ Timor-Leste,Pakistan,e-visa,0,35176
 Timor-Leste,Palau,visa on arrival,30,35177
 Timor-Leste,Palestine,visa free,0,35178
 Timor-Leste,Panama,visa required,0,35179
-Timor-Leste,Papua New Guinea,visa required,0,35180
+Timor-Leste,Papua New Guinea,e-visa,0,35180
 Timor-Leste,Paraguay,visa required,0,35181
 Timor-Leste,Peru,visa required,0,35182
 Timor-Leste,Philippines,visa required,0,35183
@@ -35376,7 +35376,7 @@ Togo,Pakistan,e-visa,0,35374
 Togo,Palau,visa on arrival,30,35375
 Togo,Palestine,visa required,0,35376
 Togo,Panama,visa required,0,35377
-Togo,Papua New Guinea,visa required,0,35378
+Togo,Papua New Guinea,e-visa,0,35378
 Togo,Paraguay,visa required,0,35379
 Togo,Peru,visa required,0,35380
 Togo,Philippines,-1,0,35381
@@ -35772,7 +35772,7 @@ Trinidad and Tobago,Pakistan,visa free,0,35770
 Trinidad and Tobago,Palau,visa on arrival,30,35771
 Trinidad and Tobago,Palestine,visa free,0,35772
 Trinidad and Tobago,Panama,-1,0,35773
-Trinidad and Tobago,Papua New Guinea,visa required,0,35774
+Trinidad and Tobago,Papua New Guinea,e-visa,30,35774
 Trinidad and Tobago,Paraguay,visa required,0,35775
 Trinidad and Tobago,Peru,-1,0,35776
 Trinidad and Tobago,Philippines,-1,0,35777
@@ -35970,7 +35970,7 @@ Tunisia,Pakistan,e-visa,30,35968
 Tunisia,Palau,visa on arrival,30,35969
 Tunisia,Palestine,visa free,0,35970
 Tunisia,Panama,visa required,0,35971
-Tunisia,Papua New Guinea,visa required,0,35972
+Tunisia,Papua New Guinea,e-visa,0,35972
 Tunisia,Paraguay,visa required,0,35973
 Tunisia,Peru,visa required,0,35974
 Tunisia,Philippines,-1,0,35975
@@ -36168,7 +36168,7 @@ Turkey,Pakistan,e-visa,30,36166
 Turkey,Palau,visa on arrival,30,36167
 Turkey,Palestine,visa free,0,36168
 Turkey,Panama,-1,0,36169
-Turkey,Papua New Guinea,visa required,0,36170
+Turkey,Papua New Guinea,e-visa,0,36170
 Turkey,Paraguay,-1,0,36171
 Turkey,Peru,-1,0,36172
 Turkey,Philippines,-1,0,36173
@@ -36366,7 +36366,7 @@ Turkmenistan,Pakistan,e-visa,0,36364
 Turkmenistan,Palau,visa on arrival,30,36365
 Turkmenistan,Palestine,visa free,0,36366
 Turkmenistan,Panama,visa required,0,36367
-Turkmenistan,Papua New Guinea,visa required,0,36368
+Turkmenistan,Papua New Guinea,e-visa,0,36368
 Turkmenistan,Paraguay,visa required,0,36369
 Turkmenistan,Peru,visa required,0,36370
 Turkmenistan,Philippines,-1,0,36371
@@ -36762,7 +36762,7 @@ Uganda,Pakistan,e-visa,0,36760
 Uganda,Palau,visa on arrival,30,36761
 Uganda,Palestine,visa required,0,36762
 Uganda,Panama,visa required,0,36763
-Uganda,Papua New Guinea,visa required,0,36764
+Uganda,Papua New Guinea,e-visa,0,36764
 Uganda,Paraguay,visa required,0,36765
 Uganda,Peru,visa required,0,36766
 Uganda,Philippines,-1,0,36767
@@ -36960,7 +36960,7 @@ Ukraine,Pakistan,e-visa,0,36958
 Ukraine,Palau,visa on arrival,30,36959
 Ukraine,Palestine,visa free,0,36960
 Ukraine,Panama,-1,0,36961
-Ukraine,Papua New Guinea,visa required,0,36962
+Ukraine,Papua New Guinea,e-visa,0,36962
 Ukraine,Paraguay,-1,0,36963
 Ukraine,Peru,-1,0,36964
 Ukraine,Philippines,visa required,0,36965
@@ -37158,7 +37158,7 @@ United Arab Emirates,Pakistan,e-visa,30,37156
 United Arab Emirates,Palau,visa on arrival,30,37157
 United Arab Emirates,Palestine,visa free,0,37158
 United Arab Emirates,Panama,-1,0,37159
-United Arab Emirates,Papua New Guinea,visa required,0,37160
+United Arab Emirates,Papua New Guinea,e-visa,0,37160
 United Arab Emirates,Paraguay,-1,0,37161
 United Arab Emirates,Peru,-1,0,37162
 United Arab Emirates,Philippines,-1,0,37163
@@ -37950,7 +37950,7 @@ Uzbekistan,Pakistan,e-visa,0,37948
 Uzbekistan,Palau,visa on arrival,30,37949
 Uzbekistan,Palestine,visa free,0,37950
 Uzbekistan,Panama,visa required,0,37951
-Uzbekistan,Papua New Guinea,visa required,0,37952
+Uzbekistan,Papua New Guinea,e-visa,0,37952
 Uzbekistan,Paraguay,visa required,0,37953
 Uzbekistan,Peru,visa required,0,37954
 Uzbekistan,Philippines,-1,0,37955
@@ -38544,7 +38544,7 @@ Venezuela,Pakistan,e-visa,0,38542
 Venezuela,Palau,visa on arrival,30,38543
 Venezuela,Palestine,visa free,0,38544
 Venezuela,Panama,visa required,0,38545
-Venezuela,Papua New Guinea,visa required,0,38546
+Venezuela,Papua New Guinea,e-visa,0,38546
 Venezuela,Paraguay,-1,0,38547
 Venezuela,Peru,visa required,0,38548
 Venezuela,Philippines,-1,0,38549
@@ -38940,7 +38940,7 @@ Yemen,Pakistan,e-visa,0,38938
 Yemen,Palau,visa on arrival,30,38939
 Yemen,Palestine,visa free,0,38940
 Yemen,Panama,visa required,0,38941
-Yemen,Papua New Guinea,visa required,0,38942
+Yemen,Papua New Guinea,e-visa,0,38942
 Yemen,Paraguay,visa required,0,38943
 Yemen,Peru,visa required,0,38944
 Yemen,Philippines,visa required,0,38945
@@ -39336,7 +39336,7 @@ Zimbabwe,Pakistan,e-visa,0,39334
 Zimbabwe,Palau,visa on arrival,30,39335
 Zimbabwe,Palestine,visa free,0,39336
 Zimbabwe,Panama,visa required,0,39337
-Zimbabwe,Papua New Guinea,visa required,0,39338
+Zimbabwe,Papua New Guinea,e-visa,0,39338
 Zimbabwe,Paraguay,visa required,0,39339
 Zimbabwe,Peru,visa required,0,39340
 Zimbabwe,Philippines,-1,0,39341
