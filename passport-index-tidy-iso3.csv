@@ -17401,7 +17401,7 @@ KAZ,TLS,visa on arrival (30)
 KAZ,TGO,visa on arrival (15)
 KAZ,TON,visa required
 KAZ,TTO,visa required
-KAZ,TUN,visa required
+KAZ,TUN,-1
 KAZ,TKM,visa required
 KAZ,TUV,visa on arrival (30)
 KAZ,TUR,-1
