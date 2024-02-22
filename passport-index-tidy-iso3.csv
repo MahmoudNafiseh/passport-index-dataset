@@ -2558,7 +2558,7 @@ BHR,TUR,-1
 BHR,UGA,e-visa
 BHR,UKR,-1
 BHR,ARE,visa free
-BHR,GBR,e-visa (180)
+BHR,GBR,-1
 BHR,USA,visa required
 BHR,URY,visa required
 BHR,UZB,-1
@@ -17210,7 +17210,7 @@ JOR,TUR,-1
 JOR,UGA,e-visa
 JOR,UKR,visa required
 JOR,ARE,visa required
-JOR,GBR,visa required
+JOR,GBR,-1
 JOR,USA,visa required
 JOR,URY,visa required
 JOR,UZB,e-visa (30)
@@ -18001,7 +18001,7 @@ XKX,TUV,visa on arrival (30)
 XKX,TUR,-1
 XKX,UGA,e-visa
 XKX,UKR,visa required
-XKX,ARE,visa required
+XKX,ARE,-1
 XKX,GBR,visa required
 XKX,USA,visa required
 XKX,URY,visa required
@@ -18200,7 +18200,7 @@ KWT,TUR,-1
 KWT,UGA,e-visa
 KWT,UKR,-1
 KWT,ARE,visa free
-KWT,GBR,e-visa (180)
+KWT,GBR,-1
 KWT,USA,visa required
 KWT,URY,visa required
 KWT,UZB,-1
@@ -23149,7 +23149,7 @@ MNG,TUV,visa on arrival (30)
 MNG,TUR,-1
 MNG,UGA,e-visa
 MNG,UKR,visa required
-MNG,ARE,visa on arrival
+MNG,ARE,-1
 MNG,GBR,visa required
 MNG,USA,visa required
 MNG,URY,-1
@@ -26318,7 +26318,7 @@ OMN,TUR,-1
 OMN,UGA,e-visa
 OMN,UKR,-1
 OMN,ARE,visa free
-OMN,GBR,e-visa (180)
+OMN,GBR,-1
 OMN,USA,visa required
 OMN,URY,visa required
 OMN,UZB,-1
@@ -30278,7 +30278,7 @@ SAU,TUR,-1
 SAU,UGA,e-visa
 SAU,UKR,-1
 SAU,ARE,visa free
-SAU,GBR,e-visa (180)
+SAU,GBR,-1
 SAU,USA,visa required
 SAU,URY,visa required
 SAU,UZB,-1
@@ -37208,7 +37208,7 @@ ARE,TUR,-1
 ARE,UGA,e-visa
 ARE,UKR,-1
 ARE,ARE,-1
-ARE,GBR,e-visa (180)
+ARE,GBR,-1
 ARE,USA,visa required
 ARE,URY,-1
 ARE,UZB,-1
