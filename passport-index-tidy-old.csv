@@ -2558,7 +2558,7 @@ Bahrain,Turkey,-1,0,2556
 Bahrain,Uganda,e-visa,0,2557
 Bahrain,Ukraine,-1,0,2558
 Bahrain,United Arab Emirates,visa free,0,2559
-Bahrain,United Kingdom,-1,0,2560
+Bahrain,United Kingdom,e-visa,180,2560
 Bahrain,United States,visa required,0,2561
 Bahrain,Uruguay,visa required,0,2562
 Bahrain,Uzbekistan,-1,0,2563
@@ -12879,7 +12879,7 @@ Ghana,Armenia,visa required,0,12877
 Ghana,Australia,e-visa,0,12878
 Ghana,Austria,visa required,0,12879
 Ghana,Azerbaijan,visa required,0,12880
-Ghana,Bahamas,e-visa,0,12881
+Ghana,Bahamas,-1,0,12881
 Ghana,Bahrain,e-visa,0,12882
 Ghana,Bangladesh,-1,0,12883
 Ghana,Barbados,-1,0,12884
@@ -17210,7 +17210,7 @@ Jordan,Turkey,-1,0,17208
 Jordan,Uganda,e-visa,0,17209
 Jordan,Ukraine,visa required,0,17210
 Jordan,United Arab Emirates,visa required,0,17211
-Jordan,United Kingdom,-1,0,17212
+Jordan,United Kingdom,e-visa,180,17212
 Jordan,United States,visa required,0,17213
 Jordan,Uruguay,visa required,0,17214
 Jordan,Uzbekistan,e-visa,30,17215
@@ -18200,7 +18200,7 @@ Kuwait,Turkey,-1,0,18198
 Kuwait,Uganda,e-visa,0,18199
 Kuwait,Ukraine,-1,0,18200
 Kuwait,United Arab Emirates,visa free,0,18201
-Kuwait,United Kingdom,-1,0,18202
+Kuwait,United Kingdom,e-visa,180,18202
 Kuwait,United States,visa required,0,18203
 Kuwait,Uruguay,visa required,0,18204
 Kuwait,Uzbekistan,-1,0,18205
@@ -26318,7 +26318,7 @@ Oman,Turkey,-1,0,26316
 Oman,Uganda,e-visa,0,26317
 Oman,Ukraine,-1,0,26318
 Oman,United Arab Emirates,visa free,0,26319
-Oman,United Kingdom,-1,0,26320
+Oman,United Kingdom,e-visa,180,26320
 Oman,United States,visa required,0,26321
 Oman,Uruguay,visa required,0,26322
 Oman,Uzbekistan,-1,0,26323
@@ -28496,7 +28496,7 @@ Qatar,Turkey,-1,0,28494
 Qatar,Uganda,e-visa,0,28495
 Qatar,Ukraine,-1,0,28496
 Qatar,United Arab Emirates,visa free,0,28497
-Qatar,United Kingdom,-1,0,28498
+Qatar,United Kingdom,e-visa,180,28498
 Qatar,United States,visa required,0,28499
 Qatar,Uruguay,visa required,0,28500
 Qatar,Uzbekistan,-1,0,28501
@@ -30278,7 +30278,7 @@ Saudi Arabia,Turkey,-1,0,30276
 Saudi Arabia,Uganda,e-visa,0,30277
 Saudi Arabia,Ukraine,-1,0,30278
 Saudi Arabia,United Arab Emirates,visa free,0,30279
-Saudi Arabia,United Kingdom,-1,0,30280
+Saudi Arabia,United Kingdom,e-visa,180,30280
 Saudi Arabia,United States,visa required,0,30281
 Saudi Arabia,Uruguay,visa required,0,30282
 Saudi Arabia,Uzbekistan,-1,0,30283
@@ -37208,7 +37208,7 @@ United Arab Emirates,Turkey,-1,0,37206
 United Arab Emirates,Uganda,e-visa,0,37207
 United Arab Emirates,Ukraine,-1,0,37208
 United Arab Emirates,United Arab Emirates,-1,0,37209
-United Arab Emirates,United Kingdom,-1,0,37210
+United Arab Emirates,United Kingdom,e-visa,180,37210
 United Arab Emirates,United States,visa required,0,37211
 United Arab Emirates,Uruguay,-1,0,37212
 United Arab Emirates,Uzbekistan,-1,0,37213
