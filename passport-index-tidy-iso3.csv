@@ -8090,7 +8090,7 @@ CRI,SYR,visa required
 CRI,TWN,visa required
 CRI,TJK,e-visa
 CRI,TZA,visa on arrival
-CRI,THA,visa required
+CRI,THA,e-visa
 CRI,TLS,visa on arrival (30)
 CRI,TGO,visa on arrival (15)
 CRI,TON,visa required
@@ -10466,7 +10466,7 @@ SLV,SYR,visa required
 SLV,TWN,visa required
 SLV,TJK,e-visa
 SLV,TZA,visa on arrival
-SLV,THA,visa required
+SLV,THA,e-visa
 SLV,TLS,visa on arrival (30)
 SLV,TGO,visa on arrival (15)
 SLV,TON,visa required
@@ -14228,7 +14228,7 @@ GUY,SYR,visa required
 GUY,TWN,visa required
 GUY,TJK,e-visa
 GUY,TZA,-1
-GUY,THA,visa required
+GUY,THA,e-visa
 GUY,TLS,visa on arrival (30)
 GUY,TGO,visa on arrival (15)
 GUY,TON,visa required
@@ -17792,7 +17792,7 @@ KIR,SYR,visa required
 KIR,TWN,e-visa (30)
 KIR,TJK,e-visa
 KIR,TZA,-1
-KIR,THA,visa required
+KIR,THA,e-visa
 KIR,TLS,visa on arrival (30)
 KIR,TGO,visa on arrival (15)
 KIR,TON,visa on arrival (31)
@@ -18386,7 +18386,7 @@ KGZ,SYR,visa required
 KGZ,TWN,visa required
 KGZ,TJK,visa free
 KGZ,TZA,e-visa
-KGZ,THA,visa required
+KGZ,THA,e-visa
 KGZ,TLS,visa on arrival (30)
 KGZ,TGO,visa on arrival (15)
 KGZ,TON,visa required
@@ -18980,7 +18980,7 @@ LBN,SYR,visa free
 LBN,TWN,visa required
 LBN,TJK,visa on arrival (45)
 LBN,TZA,e-visa
-LBN,THA,visa required
+LBN,THA,e-visa
 LBN,TLS,visa on arrival (30)
 LBN,TGO,visa on arrival (15)
 LBN,TON,visa required
@@ -27098,7 +27098,7 @@ PAN,SYR,visa required
 PAN,TWN,e-visa (30)
 PAN,TJK,e-visa
 PAN,TZA,visa on arrival
-PAN,THA,visa required
+PAN,THA,e-visa
 PAN,TLS,visa on arrival (30)
 PAN,TGO,visa on arrival (15)
 PAN,TON,visa required
@@ -27494,7 +27494,7 @@ PRY,SYR,visa required
 PRY,TWN,-1
 PRY,TJK,e-visa
 PRY,TZA,visa on arrival
-PRY,THA,visa required
+PRY,THA,e-visa
 PRY,TLS,visa on arrival (30)
 PRY,TGO,visa on arrival (15)
 PRY,TON,visa required
@@ -29672,7 +29672,7 @@ WSM,SYR,visa required
 WSM,TWN,visa required
 WSM,TJK,e-visa
 WSM,TZA,-1
-WSM,THA,visa required
+WSM,THA,e-visa
 WSM,TLS,visa on arrival (30)
 WSM,TGO,visa on arrival (15)
 WSM,TON,visa on arrival (31)
@@ -31850,7 +31850,7 @@ SLB,SYR,visa required
 SLB,TWN,e-visa (30)
 SLB,TJK,e-visa
 SLB,TZA,-1
-SLB,THA,visa required
+SLB,THA,e-visa
 SLB,TLS,visa on arrival (30)
 SLB,TGO,visa on arrival (15)
 SLB,TON,visa on arrival (31)
@@ -33632,7 +33632,7 @@ SUR,SYR,visa required
 SUR,TWN,visa required
 SUR,TJK,e-visa
 SUR,TZA,visa on arrival
-SUR,THA,visa required
+SUR,THA,e-visa
 SUR,TLS,visa on arrival (30)
 SUR,TGO,visa on arrival (15)
 SUR,TON,visa required
@@ -34622,7 +34622,7 @@ TJK,SYR,visa required
 TJK,TWN,visa required
 TJK,TJK,-1
 TJK,TZA,e-visa
-TJK,THA,visa required
+TJK,THA,e-visa
 TJK,TLS,visa on arrival (30)
 TJK,TGO,visa on arrival (15)
 TJK,TON,visa required
@@ -35612,7 +35612,7 @@ TON,SYR,visa required
 TON,TWN,visa required
 TON,TJK,e-visa
 TON,TZA,-1
-TON,THA,visa required
+TON,THA,e-visa
 TON,TLS,visa on arrival (30)
 TON,TGO,visa on arrival (15)
 TON,TON,-1
@@ -37790,7 +37790,7 @@ URY,SYR,visa required
 URY,TWN,visa required
 URY,TJK,e-visa
 URY,TZA,visa on arrival
-URY,THA,visa required
+URY,THA,e-visa
 URY,TLS,visa on arrival (30)
 URY,TGO,visa on arrival (15)
 URY,TON,visa required

@@ -8090,7 +8090,7 @@ Costa Rica,Syria,visa required,0,8088
 Costa Rica,Taiwan,visa required,0,8089
 Costa Rica,Tajikistan,e-visa,0,8090
 Costa Rica,Tanzania,visa on arrival,0,8091
-Costa Rica,Thailand,visa required,0,8092
+Costa Rica,Thailand,e-visa,0,8092
 Costa Rica,Timor-Leste,visa on arrival,30,8093
 Costa Rica,Togo,visa on arrival,15,8094
 Costa Rica,Tonga,visa required,0,8095
@@ -10466,7 +10466,7 @@ El Salvador,Syria,visa required,0,10464
 El Salvador,Taiwan,visa required,0,10465
 El Salvador,Tajikistan,e-visa,0,10466
 El Salvador,Tanzania,visa on arrival,0,10467
-El Salvador,Thailand,visa required,0,10468
+El Salvador,Thailand,e-visa,0,10468
 El Salvador,Timor-Leste,visa on arrival,30,10469
 El Salvador,Togo,visa on arrival,15,10470
 El Salvador,Tonga,visa required,0,10471
@@ -14228,7 +14228,7 @@ Guyana,Syria,visa required,0,14226
 Guyana,Taiwan,visa required,0,14227
 Guyana,Tajikistan,e-visa,0,14228
 Guyana,Tanzania,-1,0,14229
-Guyana,Thailand,visa required,0,14230
+Guyana,Thailand,e-visa,0,14230
 Guyana,Timor-Leste,visa on arrival,30,14231
 Guyana,Togo,visa on arrival,15,14232
 Guyana,Tonga,visa required,0,14233
@@ -17792,7 +17792,7 @@ Kiribati,Syria,visa required,0,17790
 Kiribati,Taiwan,e-visa,30,17791
 Kiribati,Tajikistan,e-visa,0,17792
 Kiribati,Tanzania,-1,0,17793
-Kiribati,Thailand,visa required,0,17794
+Kiribati,Thailand,e-visa,0,17794
 Kiribati,Timor-Leste,visa on arrival,30,17795
 Kiribati,Togo,visa on arrival,15,17796
 Kiribati,Tonga,visa on arrival,31,17797
@@ -18386,7 +18386,7 @@ Kyrgyzstan,Syria,visa required,0,18384
 Kyrgyzstan,Taiwan,visa required,0,18385
 Kyrgyzstan,Tajikistan,visa free,0,18386
 Kyrgyzstan,Tanzania,e-visa,0,18387
-Kyrgyzstan,Thailand,visa required,0,18388
+Kyrgyzstan,Thailand,e-visa,0,18388
 Kyrgyzstan,Timor-Leste,visa on arrival,30,18389
 Kyrgyzstan,Togo,visa on arrival,15,18390
 Kyrgyzstan,Tonga,visa required,0,18391
@@ -18980,7 +18980,7 @@ Lebanon,Syria,visa free,0,18978
 Lebanon,Taiwan,visa required,0,18979
 Lebanon,Tajikistan,visa on arrival,45,18980
 Lebanon,Tanzania,e-visa,0,18981
-Lebanon,Thailand,visa required,0,18982
+Lebanon,Thailand,e-visa,0,18982
 Lebanon,Timor-Leste,visa on arrival,30,18983
 Lebanon,Togo,visa on arrival,15,18984
 Lebanon,Tonga,visa required,0,18985
@@ -27098,7 +27098,7 @@ Panama,Syria,visa required,0,27096
 Panama,Taiwan,e-visa,30,27097
 Panama,Tajikistan,e-visa,0,27098
 Panama,Tanzania,visa on arrival,0,27099
-Panama,Thailand,visa required,0,27100
+Panama,Thailand,e-visa,0,27100
 Panama,Timor-Leste,visa on arrival,30,27101
 Panama,Togo,visa on arrival,15,27102
 Panama,Tonga,visa required,0,27103
@@ -27494,7 +27494,7 @@ Paraguay,Syria,visa required,0,27492
 Paraguay,Taiwan,-1,0,27493
 Paraguay,Tajikistan,e-visa,0,27494
 Paraguay,Tanzania,visa on arrival,0,27495
-Paraguay,Thailand,visa required,0,27496
+Paraguay,Thailand,e-visa,0,27496
 Paraguay,Timor-Leste,visa on arrival,30,27497
 Paraguay,Togo,visa on arrival,15,27498
 Paraguay,Tonga,visa required,0,27499
@@ -29672,7 +29672,7 @@ Samoa,Syria,visa required,0,29670
 Samoa,Taiwan,visa required,0,29671
 Samoa,Tajikistan,e-visa,0,29672
 Samoa,Tanzania,-1,0,29673
-Samoa,Thailand,visa required,0,29674
+Samoa,Thailand,e-visa,0,29674
 Samoa,Timor-Leste,visa on arrival,30,29675
 Samoa,Togo,visa on arrival,15,29676
 Samoa,Tonga,visa on arrival,31,29677
@@ -31850,7 +31850,7 @@ Solomon Islands,Syria,visa required,0,31848
 Solomon Islands,Taiwan,e-visa,30,31849
 Solomon Islands,Tajikistan,e-visa,0,31850
 Solomon Islands,Tanzania,-1,0,31851
-Solomon Islands,Thailand,visa required,0,31852
+Solomon Islands,Thailand,e-visa,0,31852
 Solomon Islands,Timor-Leste,visa on arrival,30,31853
 Solomon Islands,Togo,visa on arrival,15,31854
 Solomon Islands,Tonga,visa on arrival,31,31855
@@ -33632,7 +33632,7 @@ Suriname,Syria,visa required,0,33630
 Suriname,Taiwan,visa required,0,33631
 Suriname,Tajikistan,e-visa,0,33632
 Suriname,Tanzania,visa on arrival,0,33633
-Suriname,Thailand,visa required,0,33634
+Suriname,Thailand,e-visa,0,33634
 Suriname,Timor-Leste,visa on arrival,30,33635
 Suriname,Togo,visa on arrival,15,33636
 Suriname,Tonga,visa required,0,33637
@@ -34622,7 +34622,7 @@ Tajikistan,Syria,visa required,0,34620
 Tajikistan,Taiwan,visa required,0,34621
 Tajikistan,Tajikistan,-1,0,34622
 Tajikistan,Tanzania,e-visa,0,34623
-Tajikistan,Thailand,visa required,0,34624
+Tajikistan,Thailand,e-visa,0,34624
 Tajikistan,Timor-Leste,visa on arrival,30,34625
 Tajikistan,Togo,visa on arrival,15,34626
 Tajikistan,Tonga,visa required,0,34627
@@ -35612,7 +35612,7 @@ Tonga,Syria,visa required,0,35610
 Tonga,Taiwan,visa required,0,35611
 Tonga,Tajikistan,e-visa,0,35612
 Tonga,Tanzania,-1,0,35613
-Tonga,Thailand,visa required,0,35614
+Tonga,Thailand,e-visa,0,35614
 Tonga,Timor-Leste,visa on arrival,30,35615
 Tonga,Togo,visa on arrival,15,35616
 Tonga,Tonga,-1,0,35617
@@ -37790,7 +37790,7 @@ Uruguay,Syria,visa required,0,37788
 Uruguay,Taiwan,visa required,0,37789
 Uruguay,Tajikistan,e-visa,0,37790
 Uruguay,Tanzania,visa on arrival,0,37791
-Uruguay,Thailand,visa required,0,37792
+Uruguay,Thailand,e-visa,0,37792
 Uruguay,Timor-Leste,visa on arrival,30,37793
 Uruguay,Togo,visa on arrival,15,37794
 Uruguay,Tonga,visa required,0,37795
