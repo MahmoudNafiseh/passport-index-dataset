@@ -9581,7 +9581,7 @@ DMA,IND,e-visa (30)
 DMA,IDN,e-visa
 DMA,IRN,visa on arrival (30)
 DMA,IRQ,visa required
-DMA,IRL,-1
+DMA,IRL,visa required
 DMA,ISR,-1
 DMA,ITA,-1
 DMA,JAM,visa free
@@ -14531,7 +14531,7 @@ HND,IND,e-visa (30)
 HND,IDN,e-visa
 HND,IRN,visa on arrival (30)
 HND,IRQ,visa required
-HND,IRL,-1
+HND,IRL,visa required
 HND,ISR,-1
 HND,ITA,-1
 HND,JAM,visa required
@@ -38093,7 +38093,7 @@ VUT,IND,e-visa (30)
 VUT,IDN,e-visa
 VUT,IRN,visa on arrival (30)
 VUT,IRQ,visa required
-VUT,IRL,-1
+VUT,IRL,visa required
 VUT,ISR,-1
 VUT,ITA,visa required
 VUT,JAM,visa free
