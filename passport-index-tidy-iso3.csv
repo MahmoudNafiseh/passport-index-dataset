@@ -23157,7 +23157,7 @@ MNG,UZB,-1
 MNG,VUT,visa required
 MNG,VAT,visa required
 MNG,VEN,visa required
-MNG,VNM,e-visa (90)
+MNG,VNM,-1
 MNG,YEM,visa required
 MNG,ZMB,visa on arrival (90)
 MNG,ZWE,e-visa
@@ -38721,7 +38721,7 @@ VNM,MUS,visa on arrival (60)
 VNM,MEX,visa required
 VNM,MDA,e-visa
 VNM,MCO,visa required
-VNM,MNG,e-visa
+VNM,MNG,-1
 VNM,MNE,visa required
 VNM,MAR,visa required
 VNM,MOZ,visa on arrival (30)

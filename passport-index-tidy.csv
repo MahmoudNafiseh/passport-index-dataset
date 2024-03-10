@@ -23157,7 +23157,7 @@ Mongolia,Uzbekistan,-1,0,23155
 Mongolia,Vanuatu,visa required,0,23156
 Mongolia,Vatican,visa required,0,23157
 Mongolia,Venezuela,visa required,0,23158
-Mongolia,Vietnam,e-visa,90,23159
+Mongolia,Vietnam,-1,0,23159
 Mongolia,Yemen,visa required,0,23160
 Mongolia,Zambia,visa on arrival,90,23161
 Mongolia,Zimbabwe,e-visa,0,23162
@@ -38721,7 +38721,7 @@ Vietnam,Mauritius,visa on arrival,60,38719
 Vietnam,Mexico,visa required,0,38720
 Vietnam,Moldova,e-visa,0,38721
 Vietnam,Monaco,visa required,0,38722
-Vietnam,Mongolia,e-visa,0,38723
+Vietnam,Mongolia,-1,0,38723
 Vietnam,Montenegro,visa required,0,38724
 Vietnam,Morocco,visa required,0,38725
 Vietnam,Mozambique,visa on arrival,30,38726
