@@ -45,7 +45,7 @@ Afghanistan,Cuba,visa required,0,43
 Afghanistan,Cyprus,visa required,0,44
 Afghanistan,Czech Republic,visa required,0,45
 Afghanistan,Denmark,visa required,0,46
-Afghanistan,Djibouti,e-visa,90,47
+Afghanistan,Djibouti,visa on arrival,90,47
 Afghanistan,Dominican Republic,visa required,0,48
 Afghanistan,Ecuador,e-visa,0,49
 Afghanistan,Egypt,visa required,0,50
@@ -243,7 +243,7 @@ Albania,Cuba,visa required,30,241
 Albania,Cyprus,-1,0,242
 Albania,Czech Republic,-1,0,243
 Albania,Denmark,-1,0,244
-Albania,Djibouti,e-visa,90,245
+Albania,Djibouti,visa on arrival,90,245
 Albania,Dominican Republic,visa free,0,246
 Albania,Ecuador,e-visa,0,247
 Albania,Egypt,visa on arrival,30,248
@@ -441,7 +441,7 @@ Algeria,Cuba,visa required,30,439
 Algeria,Cyprus,visa required,0,440
 Algeria,Czech Republic,visa required,0,441
 Algeria,Denmark,visa required,0,442
-Algeria,Djibouti,e-visa,90,443
+Algeria,Djibouti,visa on arrival,90,443
 Algeria,Dominican Republic,visa required,0,444
 Algeria,Ecuador,-1,0,445
 Algeria,Egypt,visa required,0,446
@@ -639,7 +639,7 @@ Andorra,Cuba,visa required,30,637
 Andorra,Cyprus,-1,0,638
 Andorra,Czech Republic,-1,0,639
 Andorra,Denmark,-1,0,640
-Andorra,Djibouti,e-visa,90,641
+Andorra,Djibouti,visa on arrival,90,641
 Andorra,Dominican Republic,visa free,0,642
 Andorra,Ecuador,-1,0,643
 Andorra,Egypt,visa on arrival,30,644
@@ -837,7 +837,7 @@ Angola,Cuba,visa required,30,835
 Angola,Cyprus,visa required,0,836
 Angola,Czech Republic,visa required,0,837
 Angola,Denmark,visa required,0,838
-Angola,Djibouti,e-visa,90,839
+Angola,Djibouti,visa on arrival,90,839
 Angola,Dominican Republic,visa required,0,840
 Angola,Ecuador,e-visa,0,841
 Angola,Egypt,visa required,0,842
@@ -1035,7 +1035,7 @@ Antigua and Barbuda,Cuba,-1,0,1033
 Antigua and Barbuda,Cyprus,-1,0,1034
 Antigua and Barbuda,Czech Republic,-1,0,1035
 Antigua and Barbuda,Denmark,-1,0,1036
-Antigua and Barbuda,Djibouti,e-visa,90,1037
+Antigua and Barbuda,Djibouti,visa on arrival,90,1037
 Antigua and Barbuda,Dominican Republic,visa free,0,1038
 Antigua and Barbuda,Ecuador,-1,0,1039
 Antigua and Barbuda,Egypt,visa on arrival,30,1040
@@ -1233,7 +1233,7 @@ Argentina,Cuba,visa required,30,1231
 Argentina,Cyprus,-1,0,1232
 Argentina,Czech Republic,-1,0,1233
 Argentina,Denmark,-1,0,1234
-Argentina,Djibouti,e-visa,90,1235
+Argentina,Djibouti,visa on arrival,90,1235
 Argentina,Dominican Republic,visa free,0,1236
 Argentina,Ecuador,-1,0,1237
 Argentina,Egypt,visa on arrival,30,1238
@@ -1431,7 +1431,7 @@ Armenia,Cuba,visa required,30,1429
 Armenia,Cyprus,visa required,0,1430
 Armenia,Czech Republic,visa required,0,1431
 Armenia,Denmark,visa required,0,1432
-Armenia,Djibouti,e-visa,90,1433
+Armenia,Djibouti,visa on arrival,90,1433
 Armenia,Dominican Republic,visa required,0,1434
 Armenia,Ecuador,-1,0,1435
 Armenia,Egypt,visa on arrival,30,1436
@@ -1629,7 +1629,7 @@ Australia,Cuba,visa required,30,1627
 Australia,Cyprus,-1,0,1628
 Australia,Czech Republic,-1,0,1629
 Australia,Denmark,-1,0,1630
-Australia,Djibouti,e-visa,90,1631
+Australia,Djibouti,visa on arrival,90,1631
 Australia,Dominican Republic,visa free,0,1632
 Australia,Ecuador,-1,0,1633
 Australia,Egypt,visa on arrival,30,1634
@@ -1827,7 +1827,7 @@ Austria,Cuba,visa required,30,1825
 Austria,Cyprus,visa free,0,1826
 Austria,Czech Republic,visa free,0,1827
 Austria,Denmark,visa free,0,1828
-Austria,Djibouti,e-visa,90,1829
+Austria,Djibouti,visa on arrival,90,1829
 Austria,Dominican Republic,visa free,0,1830
 Austria,Ecuador,-1,0,1831
 Austria,Egypt,visa on arrival,30,1832
@@ -2025,7 +2025,7 @@ Azerbaijan,Cuba,visa required,30,2023
 Azerbaijan,Cyprus,visa required,0,2024
 Azerbaijan,Czech Republic,visa required,0,2025
 Azerbaijan,Denmark,visa required,0,2026
-Azerbaijan,Djibouti,e-visa,90,2027
+Azerbaijan,Djibouti,visa on arrival,90,2027
 Azerbaijan,Dominican Republic,visa required,0,2028
 Azerbaijan,Ecuador,-1,0,2029
 Azerbaijan,Egypt,visa on arrival,30,2030
@@ -2223,7 +2223,7 @@ Bahamas,Cuba,visa required,30,2221
 Bahamas,Cyprus,-1,0,2222
 Bahamas,Czech Republic,-1,0,2223
 Bahamas,Denmark,-1,0,2224
-Bahamas,Djibouti,e-visa,90,2225
+Bahamas,Djibouti,visa on arrival,90,2225
 Bahamas,Dominican Republic,visa free,0,2226
 Bahamas,Ecuador,-1,0,2227
 Bahamas,Egypt,visa on arrival,30,2228
@@ -2240,7 +2240,7 @@ Bahamas,Gabon,e-visa,90,2238
 Bahamas,Gambia,-1,0,2239
 Bahamas,Georgia,-1,0,2240
 Bahamas,Germany,-1,0,2241
-Bahamas,Ghana,visa required,0,2242
+Bahamas,Ghana,-1,0,2242
 Bahamas,Greece,-1,0,2243
 Bahamas,Grenada,-1,0,2244
 Bahamas,Guatemala,-1,0,2245
@@ -2421,7 +2421,7 @@ Bahrain,Cuba,visa required,30,2419
 Bahrain,Cyprus,visa required,0,2420
 Bahrain,Czech Republic,visa required,0,2421
 Bahrain,Denmark,visa required,0,2422
-Bahrain,Djibouti,e-visa,90,2423
+Bahrain,Djibouti,visa on arrival,90,2423
 Bahrain,Dominican Republic,visa free,0,2424
 Bahrain,Ecuador,-1,0,2425
 Bahrain,Egypt,-1,0,2426
@@ -2619,7 +2619,7 @@ Bangladesh,Cuba,visa required,0,2617
 Bangladesh,Cyprus,visa required,0,2618
 Bangladesh,Czech Republic,visa required,0,2619
 Bangladesh,Denmark,visa required,0,2620
-Bangladesh,Djibouti,e-visa,90,2621
+Bangladesh,Djibouti,visa on arrival,90,2621
 Bangladesh,Dominican Republic,visa required,0,2622
 Bangladesh,Ecuador,e-visa,0,2623
 Bangladesh,Egypt,visa required,0,2624
@@ -2817,7 +2817,7 @@ Barbados,Cuba,-1,0,2815
 Barbados,Cyprus,-1,0,2816
 Barbados,Czech Republic,-1,0,2817
 Barbados,Denmark,-1,0,2818
-Barbados,Djibouti,e-visa,90,2819
+Barbados,Djibouti,visa on arrival,90,2819
 Barbados,Dominican Republic,visa free,0,2820
 Barbados,Ecuador,-1,0,2821
 Barbados,Egypt,visa on arrival,30,2822
@@ -3015,7 +3015,7 @@ Belarus,Cuba,-1,0,3013
 Belarus,Cyprus,visa required,0,3014
 Belarus,Czech Republic,visa required,0,3015
 Belarus,Denmark,visa required,0,3016
-Belarus,Djibouti,e-visa,90,3017
+Belarus,Djibouti,visa on arrival,90,3017
 Belarus,Dominican Republic,visa required,0,3018
 Belarus,Ecuador,-1,0,3019
 Belarus,Egypt,visa on arrival,30,3020
@@ -3213,7 +3213,7 @@ Belgium,Cuba,visa required,30,3211
 Belgium,Cyprus,visa free,0,3212
 Belgium,Czech Republic,visa free,0,3213
 Belgium,Denmark,visa free,0,3214
-Belgium,Djibouti,e-visa,90,3215
+Belgium,Djibouti,visa on arrival,90,3215
 Belgium,Dominican Republic,visa free,0,3216
 Belgium,Ecuador,-1,0,3217
 Belgium,Egypt,visa on arrival,30,3218
@@ -3411,7 +3411,7 @@ Belize,Cuba,visa required,30,3409
 Belize,Cyprus,visa required,0,3410
 Belize,Czech Republic,visa required,0,3411
 Belize,Denmark,visa required,0,3412
-Belize,Djibouti,e-visa,90,3413
+Belize,Djibouti,visa on arrival,90,3413
 Belize,Dominican Republic,visa free,0,3414
 Belize,Ecuador,-1,0,3415
 Belize,Egypt,visa on arrival,30,3416
@@ -3609,7 +3609,7 @@ Benin,Cuba,visa required,30,3607
 Benin,Cyprus,visa required,0,3608
 Benin,Czech Republic,visa required,0,3609
 Benin,Denmark,visa required,0,3610
-Benin,Djibouti,e-visa,90,3611
+Benin,Djibouti,visa on arrival,90,3611
 Benin,Dominican Republic,visa required,0,3612
 Benin,Ecuador,-1,0,3613
 Benin,Egypt,visa required,0,3614
@@ -3807,7 +3807,7 @@ Bhutan,Cuba,visa required,30,3805
 Bhutan,Cyprus,visa required,0,3806
 Bhutan,Czech Republic,visa required,0,3807
 Bhutan,Denmark,visa required,0,3808
-Bhutan,Djibouti,e-visa,90,3809
+Bhutan,Djibouti,visa on arrival,90,3809
 Bhutan,Dominican Republic,visa required,0,3810
 Bhutan,Ecuador,-1,0,3811
 Bhutan,Egypt,visa on arrival,30,3812
@@ -4005,7 +4005,7 @@ Bolivia,Cuba,visa required,30,4003
 Bolivia,Cyprus,visa required,0,4004
 Bolivia,Czech Republic,visa required,0,4005
 Bolivia,Denmark,visa required,0,4006
-Bolivia,Djibouti,e-visa,90,4007
+Bolivia,Djibouti,visa on arrival,90,4007
 Bolivia,Dominican Republic,visa free,0,4008
 Bolivia,Ecuador,-1,0,4009
 Bolivia,Egypt,visa on arrival,30,4010
@@ -4203,7 +4203,7 @@ Bosnia and Herzegovina,Cuba,-1,0,4201
 Bosnia and Herzegovina,Cyprus,-1,0,4202
 Bosnia and Herzegovina,Czech Republic,-1,0,4203
 Bosnia and Herzegovina,Denmark,-1,0,4204
-Bosnia and Herzegovina,Djibouti,e-visa,90,4205
+Bosnia and Herzegovina,Djibouti,visa on arrival,90,4205
 Bosnia and Herzegovina,Dominican Republic,visa free,0,4206
 Bosnia and Herzegovina,Ecuador,-1,0,4207
 Bosnia and Herzegovina,Egypt,e-visa,0,4208
@@ -4296,7 +4296,7 @@ Bosnia and Herzegovina,Peru,visa required,0,4294
 Bosnia and Herzegovina,Philippines,visa required,0,4295
 Bosnia and Herzegovina,Poland,-1,0,4296
 Bosnia and Herzegovina,Portugal,-1,0,4297
-Bosnia and Herzegovina,Qatar,visa required,0,4298
+Bosnia and Herzegovina,Qatar,visa on arrival,30,4298
 Bosnia and Herzegovina,Romania,-1,0,4299
 Bosnia and Herzegovina,Russia,-1,0,4300
 Bosnia and Herzegovina,Rwanda,visa on arrival,30,4301
@@ -4401,7 +4401,7 @@ Botswana,Cuba,visa required,30,4399
 Botswana,Cyprus,visa required,0,4400
 Botswana,Czech Republic,visa required,0,4401
 Botswana,Denmark,visa required,0,4402
-Botswana,Djibouti,e-visa,90,4403
+Botswana,Djibouti,visa on arrival,90,4403
 Botswana,Dominican Republic,visa free,0,4404
 Botswana,Ecuador,-1,0,4405
 Botswana,Egypt,visa required,0,4406
@@ -4599,7 +4599,7 @@ Brazil,Cuba,visa required,30,4597
 Brazil,Cyprus,-1,0,4598
 Brazil,Czech Republic,-1,0,4599
 Brazil,Denmark,-1,0,4600
-Brazil,Djibouti,e-visa,90,4601
+Brazil,Djibouti,visa on arrival,90,4601
 Brazil,Dominican Republic,visa free,0,4602
 Brazil,Ecuador,-1,0,4603
 Brazil,Egypt,visa on arrival,30,4604
@@ -4797,7 +4797,7 @@ Brunei,Cuba,visa required,30,4795
 Brunei,Cyprus,-1,0,4796
 Brunei,Czech Republic,-1,0,4797
 Brunei,Denmark,-1,0,4798
-Brunei,Djibouti,e-visa,90,4799
+Brunei,Djibouti,visa on arrival,90,4799
 Brunei,Dominican Republic,visa free,0,4800
 Brunei,Ecuador,-1,0,4801
 Brunei,Egypt,visa on arrival,30,4802
@@ -4995,7 +4995,7 @@ Bulgaria,Cuba,visa required,30,4993
 Bulgaria,Cyprus,visa free,0,4994
 Bulgaria,Czech Republic,visa free,0,4995
 Bulgaria,Denmark,visa free,0,4996
-Bulgaria,Djibouti,e-visa,90,4997
+Bulgaria,Djibouti,visa on arrival,90,4997
 Bulgaria,Dominican Republic,visa free,0,4998
 Bulgaria,Ecuador,-1,0,4999
 Bulgaria,Egypt,visa on arrival,30,5000
@@ -5193,7 +5193,7 @@ Burkina Faso,Cuba,visa required,30,5191
 Burkina Faso,Cyprus,visa required,0,5192
 Burkina Faso,Czech Republic,visa required,0,5193
 Burkina Faso,Denmark,visa required,0,5194
-Burkina Faso,Djibouti,e-visa,90,5195
+Burkina Faso,Djibouti,visa on arrival,90,5195
 Burkina Faso,Dominican Republic,visa required,0,5196
 Burkina Faso,Ecuador,-1,0,5197
 Burkina Faso,Egypt,visa required,0,5198
@@ -5391,7 +5391,7 @@ Burundi,Cuba,visa required,30,5389
 Burundi,Cyprus,visa required,0,5390
 Burundi,Czech Republic,visa required,0,5391
 Burundi,Denmark,visa required,0,5392
-Burundi,Djibouti,e-visa,90,5393
+Burundi,Djibouti,visa on arrival,90,5393
 Burundi,Dominican Republic,visa required,0,5394
 Burundi,Ecuador,-1,0,5395
 Burundi,Egypt,visa required,0,5396
@@ -5589,7 +5589,7 @@ Cambodia,Cuba,visa required,30,5587
 Cambodia,Cyprus,visa required,0,5588
 Cambodia,Czech Republic,visa required,0,5589
 Cambodia,Denmark,visa required,0,5590
-Cambodia,Djibouti,e-visa,90,5591
+Cambodia,Djibouti,visa on arrival,90,5591
 Cambodia,Dominican Republic,visa required,0,5592
 Cambodia,Ecuador,-1,0,5593
 Cambodia,Egypt,visa on arrival,30,5594
@@ -5787,7 +5787,7 @@ Cameroon,Cuba,visa required,0,5785
 Cameroon,Cyprus,visa required,0,5786
 Cameroon,Czech Republic,visa required,0,5787
 Cameroon,Denmark,visa required,0,5788
-Cameroon,Djibouti,e-visa,90,5789
+Cameroon,Djibouti,visa on arrival,90,5789
 Cameroon,Dominican Republic,visa required,0,5790
 Cameroon,Ecuador,e-visa,0,5791
 Cameroon,Egypt,visa required,0,5792
@@ -5985,7 +5985,7 @@ Canada,Cuba,visa required,90,5983
 Canada,Cyprus,-1,0,5984
 Canada,Czech Republic,-1,0,5985
 Canada,Denmark,-1,0,5986
-Canada,Djibouti,e-visa,90,5987
+Canada,Djibouti,visa on arrival,90,5987
 Canada,Dominican Republic,visa free,0,5988
 Canada,Ecuador,-1,0,5989
 Canada,Egypt,visa required,0,5990
@@ -6183,7 +6183,7 @@ Cape Verde,Cuba,visa required,30,6181
 Cape Verde,Cyprus,visa required,0,6182
 Cape Verde,Czech Republic,visa required,0,6183
 Cape Verde,Denmark,visa required,0,6184
-Cape Verde,Djibouti,e-visa,90,6185
+Cape Verde,Djibouti,visa on arrival,90,6185
 Cape Verde,Dominican Republic,visa required,0,6186
 Cape Verde,Ecuador,-1,0,6187
 Cape Verde,Egypt,visa required,0,6188
@@ -6381,7 +6381,7 @@ Central African Republic,Cuba,visa required,30,6379
 Central African Republic,Cyprus,visa required,0,6380
 Central African Republic,Czech Republic,visa required,0,6381
 Central African Republic,Denmark,visa required,0,6382
-Central African Republic,Djibouti,e-visa,90,6383
+Central African Republic,Djibouti,visa on arrival,90,6383
 Central African Republic,Dominican Republic,visa required,0,6384
 Central African Republic,Ecuador,-1,0,6385
 Central African Republic,Egypt,visa required,0,6386
@@ -6579,7 +6579,7 @@ Chad,Cuba,visa required,30,6577
 Chad,Cyprus,visa required,0,6578
 Chad,Czech Republic,visa required,0,6579
 Chad,Denmark,visa required,0,6580
-Chad,Djibouti,e-visa,90,6581
+Chad,Djibouti,visa on arrival,90,6581
 Chad,Dominican Republic,visa required,0,6582
 Chad,Ecuador,e-visa,0,6583
 Chad,Egypt,visa required,0,6584
@@ -6777,7 +6777,7 @@ Chile,Cuba,visa required,30,6775
 Chile,Cyprus,-1,0,6776
 Chile,Czech Republic,-1,0,6777
 Chile,Denmark,-1,0,6778
-Chile,Djibouti,e-visa,90,6779
+Chile,Djibouti,visa on arrival,90,6779
 Chile,Dominican Republic,visa free,0,6780
 Chile,Ecuador,-1,0,6781
 Chile,Egypt,visa on arrival,30,6782
@@ -6975,7 +6975,7 @@ China,Cuba,visa required,30,6973
 China,Cyprus,visa required,0,6974
 China,Czech Republic,visa required,0,6975
 China,Denmark,visa required,0,6976
-China,Djibouti,e-visa,90,6977
+China,Djibouti,visa on arrival,90,6977
 China,Dominican Republic,visa required,0,6978
 China,Ecuador,-1,0,6979
 China,Egypt,visa on arrival,30,6980
@@ -7173,7 +7173,7 @@ Colombia,Cuba,visa required,30,7171
 Colombia,Cyprus,-1,0,7172
 Colombia,Czech Republic,-1,0,7173
 Colombia,Denmark,-1,0,7174
-Colombia,Djibouti,e-visa,90,7175
+Colombia,Djibouti,visa on arrival,90,7175
 Colombia,Dominican Republic,-1,0,7176
 Colombia,Ecuador,-1,0,7177
 Colombia,Egypt,visa on arrival,30,7178
@@ -7371,7 +7371,7 @@ Comoros,Cuba,visa required,30,7369
 Comoros,Cyprus,visa required,0,7370
 Comoros,Czech Republic,visa required,0,7371
 Comoros,Denmark,visa required,0,7372
-Comoros,Djibouti,e-visa,90,7373
+Comoros,Djibouti,visa on arrival,90,7373
 Comoros,Dominican Republic,visa required,0,7374
 Comoros,Ecuador,-1,0,7375
 Comoros,Egypt,visa required,0,7376
@@ -7569,7 +7569,7 @@ Congo,Cuba,visa required,30,7567
 Congo,Cyprus,visa required,0,7568
 Congo,Czech Republic,visa required,0,7569
 Congo,Denmark,visa required,0,7570
-Congo,Djibouti,e-visa,90,7571
+Congo,Djibouti,visa on arrival,90,7571
 Congo,Dominican Republic,visa required,0,7572
 Congo,Ecuador,e-visa,0,7573
 Congo,Egypt,visa required,0,7574
@@ -7767,7 +7767,7 @@ DR Congo,Cuba,visa required,30,7765
 DR Congo,Cyprus,visa required,0,7766
 DR Congo,Czech Republic,visa required,0,7767
 DR Congo,Denmark,visa required,0,7768
-DR Congo,Djibouti,e-visa,90,7769
+DR Congo,Djibouti,visa on arrival,90,7769
 DR Congo,Dominican Republic,visa required,0,7770
 DR Congo,Ecuador,e-visa,0,7771
 DR Congo,Egypt,visa required,0,7772
@@ -7965,7 +7965,7 @@ Costa Rica,Cuba,visa required,30,7963
 Costa Rica,Cyprus,-1,0,7964
 Costa Rica,Czech Republic,-1,0,7965
 Costa Rica,Denmark,-1,0,7966
-Costa Rica,Djibouti,e-visa,90,7967
+Costa Rica,Djibouti,visa on arrival,90,7967
 Costa Rica,Dominican Republic,visa free,0,7968
 Costa Rica,Ecuador,-1,0,7969
 Costa Rica,Egypt,visa on arrival,30,7970
@@ -8163,7 +8163,7 @@ Ivory Coast,Cuba,visa required,30,8161
 Ivory Coast,Cyprus,visa required,0,8162
 Ivory Coast,Czech Republic,visa required,0,8163
 Ivory Coast,Denmark,visa required,0,8164
-Ivory Coast,Djibouti,e-visa,90,8165
+Ivory Coast,Djibouti,visa on arrival,90,8165
 Ivory Coast,Dominican Republic,visa required,0,8166
 Ivory Coast,Ecuador,e-visa,0,8167
 Ivory Coast,Egypt,visa required,0,8168
@@ -8361,7 +8361,7 @@ Croatia,Cuba,visa required,30,8359
 Croatia,Cyprus,visa free,0,8360
 Croatia,Czech Republic,visa free,0,8361
 Croatia,Denmark,visa free,0,8362
-Croatia,Djibouti,e-visa,90,8363
+Croatia,Djibouti,visa on arrival,90,8363
 Croatia,Dominican Republic,visa free,0,8364
 Croatia,Ecuador,-1,0,8365
 Croatia,Egypt,visa on arrival,30,8366
@@ -8559,7 +8559,7 @@ Cuba,Cuba,-1,0,8557
 Cuba,Cyprus,visa required,0,8558
 Cuba,Czech Republic,visa required,0,8559
 Cuba,Denmark,visa required,0,8560
-Cuba,Djibouti,e-visa,90,8561
+Cuba,Djibouti,visa on arrival,90,8561
 Cuba,Dominican Republic,visa required,0,8562
 Cuba,Ecuador,e-visa,0,8563
 Cuba,Egypt,visa on arrival,30,8564
@@ -8757,7 +8757,7 @@ Cyprus,Cuba,visa required,30,8755
 Cyprus,Cyprus,-1,0,8756
 Cyprus,Czech Republic,visa free,0,8757
 Cyprus,Denmark,visa free,0,8758
-Cyprus,Djibouti,e-visa,90,8759
+Cyprus,Djibouti,visa on arrival,90,8759
 Cyprus,Dominican Republic,visa free,0,8760
 Cyprus,Ecuador,-1,0,8761
 Cyprus,Egypt,visa on arrival,30,8762
@@ -8955,7 +8955,7 @@ Czech Republic,Cuba,visa required,30,8953
 Czech Republic,Cyprus,visa free,0,8954
 Czech Republic,Czech Republic,-1,0,8955
 Czech Republic,Denmark,visa free,0,8956
-Czech Republic,Djibouti,e-visa,90,8957
+Czech Republic,Djibouti,visa on arrival,90,8957
 Czech Republic,Dominican Republic,visa free,0,8958
 Czech Republic,Ecuador,-1,0,8959
 Czech Republic,Egypt,visa on arrival,30,8960
@@ -9153,7 +9153,7 @@ Denmark,Cuba,visa required,30,9151
 Denmark,Cyprus,visa free,0,9152
 Denmark,Czech Republic,visa free,0,9153
 Denmark,Denmark,-1,0,9154
-Denmark,Djibouti,e-visa,90,9155
+Denmark,Djibouti,visa on arrival,90,9155
 Denmark,Dominican Republic,visa free,0,9156
 Denmark,Ecuador,-1,0,9157
 Denmark,Egypt,visa on arrival,30,9158
@@ -9549,7 +9549,7 @@ Dominica,Cuba,-1,0,9547
 Dominica,Cyprus,-1,0,9548
 Dominica,Czech Republic,-1,0,9549
 Dominica,Denmark,-1,0,9550
-Dominica,Djibouti,e-visa,90,9551
+Dominica,Djibouti,visa on arrival,90,9551
 Dominica,Dominican Republic,visa free,0,9552
 Dominica,Ecuador,-1,0,9553
 Dominica,Egypt,visa on arrival,30,9554
@@ -9747,7 +9747,7 @@ Dominican Republic,Cuba,visa required,30,9745
 Dominican Republic,Cyprus,visa required,0,9746
 Dominican Republic,Czech Republic,visa required,0,9747
 Dominican Republic,Denmark,visa required,0,9748
-Dominican Republic,Djibouti,e-visa,90,9749
+Dominican Republic,Djibouti,visa on arrival,90,9749
 Dominican Republic,Dominican Republic,-1,0,9750
 Dominican Republic,Ecuador,-1,0,9751
 Dominican Republic,Egypt,visa on arrival,30,9752
@@ -9945,7 +9945,7 @@ Ecuador,Cuba,visa required,30,9943
 Ecuador,Cyprus,visa required,0,9944
 Ecuador,Czech Republic,visa required,0,9945
 Ecuador,Denmark,visa required,0,9946
-Ecuador,Djibouti,e-visa,90,9947
+Ecuador,Djibouti,visa on arrival,90,9947
 Ecuador,Dominican Republic,visa free,0,9948
 Ecuador,Ecuador,-1,0,9949
 Ecuador,Egypt,visa on arrival,30,9950
@@ -10143,7 +10143,7 @@ Egypt,Cuba,visa required,30,10141
 Egypt,Cyprus,visa required,0,10142
 Egypt,Czech Republic,visa required,0,10143
 Egypt,Denmark,visa required,0,10144
-Egypt,Djibouti,e-visa,90,10145
+Egypt,Djibouti,visa on arrival,90,10145
 Egypt,Dominican Republic,visa required,0,10146
 Egypt,Ecuador,e-visa,0,10147
 Egypt,Egypt,-1,0,10148
@@ -10341,7 +10341,7 @@ El Salvador,Cuba,visa required,30,10339
 El Salvador,Cyprus,-1,0,10340
 El Salvador,Czech Republic,-1,0,10341
 El Salvador,Denmark,-1,0,10342
-El Salvador,Djibouti,e-visa,90,10343
+El Salvador,Djibouti,visa on arrival,90,10343
 El Salvador,Dominican Republic,visa free,0,10344
 El Salvador,Ecuador,-1,0,10345
 El Salvador,Egypt,visa on arrival,30,10346
@@ -10539,7 +10539,7 @@ Equatorial Guinea,Cuba,visa required,30,10537
 Equatorial Guinea,Cyprus,visa required,0,10538
 Equatorial Guinea,Czech Republic,visa required,0,10539
 Equatorial Guinea,Denmark,visa required,0,10540
-Equatorial Guinea,Djibouti,e-visa,90,10541
+Equatorial Guinea,Djibouti,visa on arrival,90,10541
 Equatorial Guinea,Dominican Republic,visa required,0,10542
 Equatorial Guinea,Ecuador,-1,0,10543
 Equatorial Guinea,Egypt,visa required,0,10544
@@ -10737,7 +10737,7 @@ Eritrea,Cuba,visa required,0,10735
 Eritrea,Cyprus,visa required,0,10736
 Eritrea,Czech Republic,visa required,0,10737
 Eritrea,Denmark,visa required,0,10738
-Eritrea,Djibouti,e-visa,90,10739
+Eritrea,Djibouti,visa on arrival,90,10739
 Eritrea,Dominican Republic,visa required,0,10740
 Eritrea,Ecuador,e-visa,0,10741
 Eritrea,Egypt,visa required,0,10742
@@ -10935,7 +10935,7 @@ Estonia,Cuba,visa required,30,10933
 Estonia,Cyprus,visa free,0,10934
 Estonia,Czech Republic,visa free,0,10935
 Estonia,Denmark,visa free,0,10936
-Estonia,Djibouti,e-visa,90,10937
+Estonia,Djibouti,visa on arrival,90,10937
 Estonia,Dominican Republic,visa free,0,10938
 Estonia,Ecuador,-1,0,10939
 Estonia,Egypt,visa on arrival,30,10940
@@ -11133,7 +11133,7 @@ Swaziland,Cuba,visa required,30,11131
 Swaziland,Cyprus,visa required,0,11132
 Swaziland,Czech Republic,visa required,0,11133
 Swaziland,Denmark,visa required,0,11134
-Swaziland,Djibouti,e-visa,90,11135
+Swaziland,Djibouti,visa on arrival,90,11135
 Swaziland,Dominican Republic,visa required,0,11136
 Swaziland,Ecuador,-1,0,11137
 Swaziland,Egypt,visa required,0,11138
@@ -11331,7 +11331,7 @@ Ethiopia,Cuba,visa required,0,11329
 Ethiopia,Cyprus,visa required,0,11330
 Ethiopia,Czech Republic,visa required,0,11331
 Ethiopia,Denmark,visa required,0,11332
-Ethiopia,Djibouti,e-visa,90,11333
+Ethiopia,Djibouti,visa on arrival,90,11333
 Ethiopia,Dominican Republic,visa required,0,11334
 Ethiopia,Ecuador,e-visa,0,11335
 Ethiopia,Egypt,visa required,0,11336
@@ -11455,7 +11455,7 @@ Ethiopia,Switzerland,visa required,0,11453
 Ethiopia,Syria,visa required,0,11454
 Ethiopia,Taiwan,visa required,0,11455
 Ethiopia,Tajikistan,e-visa,0,11456
-Ethiopia,Tanzania,e-visa,0,11457
+Ethiopia,Tanzania,visa on arrival,0,11457
 Ethiopia,Thailand,visa on arrival,30,11458
 Ethiopia,Timor-Leste,visa on arrival,30,11459
 Ethiopia,Togo,visa on arrival,15,11460
@@ -11529,7 +11529,7 @@ Fiji,Cuba,visa required,30,11527
 Fiji,Cyprus,visa required,0,11528
 Fiji,Czech Republic,visa required,0,11529
 Fiji,Denmark,visa required,0,11530
-Fiji,Djibouti,e-visa,90,11531
+Fiji,Djibouti,visa on arrival,90,11531
 Fiji,Dominican Republic,visa free,0,11532
 Fiji,Ecuador,-1,0,11533
 Fiji,Egypt,visa on arrival,30,11534
@@ -11727,7 +11727,7 @@ Finland,Cuba,visa required,30,11725
 Finland,Cyprus,visa free,0,11726
 Finland,Czech Republic,visa free,0,11727
 Finland,Denmark,visa free,0,11728
-Finland,Djibouti,e-visa,90,11729
+Finland,Djibouti,visa on arrival,90,11729
 Finland,Dominican Republic,visa free,0,11730
 Finland,Ecuador,-1,0,11731
 Finland,Egypt,visa on arrival,30,11732
@@ -11925,7 +11925,7 @@ France,Cuba,visa required,30,11923
 France,Cyprus,visa free,0,11924
 France,Czech Republic,visa free,0,11925
 France,Denmark,visa free,0,11926
-France,Djibouti,e-visa,90,11927
+France,Djibouti,visa on arrival,90,11927
 France,Dominican Republic,visa free,0,11928
 France,Ecuador,-1,0,11929
 France,Egypt,visa on arrival,30,11930
@@ -12123,7 +12123,7 @@ Gabon,Cuba,visa required,30,12121
 Gabon,Cyprus,visa required,0,12122
 Gabon,Czech Republic,visa required,0,12123
 Gabon,Denmark,visa required,0,12124
-Gabon,Djibouti,e-visa,90,12125
+Gabon,Djibouti,visa on arrival,90,12125
 Gabon,Dominican Republic,visa required,0,12126
 Gabon,Ecuador,-1,0,12127
 Gabon,Egypt,visa required,0,12128
@@ -12321,7 +12321,7 @@ Gambia,Cuba,visa required,30,12319
 Gambia,Cyprus,visa required,0,12320
 Gambia,Czech Republic,visa required,0,12321
 Gambia,Denmark,visa required,0,12322
-Gambia,Djibouti,e-visa,90,12323
+Gambia,Djibouti,visa on arrival,90,12323
 Gambia,Dominican Republic,visa required,0,12324
 Gambia,Ecuador,e-visa,0,12325
 Gambia,Egypt,visa required,0,12326
@@ -12519,7 +12519,7 @@ Georgia,Cuba,visa required,30,12517
 Georgia,Cyprus,-1,0,12518
 Georgia,Czech Republic,-1,0,12519
 Georgia,Denmark,-1,0,12520
-Georgia,Djibouti,e-visa,90,12521
+Georgia,Djibouti,visa on arrival,90,12521
 Georgia,Dominican Republic,-1,0,12522
 Georgia,Ecuador,-1,0,12523
 Georgia,Egypt,visa on arrival,30,12524
@@ -12717,7 +12717,7 @@ Germany,Cuba,visa required,30,12715
 Germany,Cyprus,visa free,0,12716
 Germany,Czech Republic,visa free,0,12717
 Germany,Denmark,visa free,0,12718
-Germany,Djibouti,e-visa,90,12719
+Germany,Djibouti,visa on arrival,90,12719
 Germany,Dominican Republic,visa free,0,12720
 Germany,Ecuador,-1,0,12721
 Germany,Egypt,visa on arrival,30,12722
@@ -12915,7 +12915,7 @@ Ghana,Cuba,visa required,0,12913
 Ghana,Cyprus,visa required,0,12914
 Ghana,Czech Republic,visa required,0,12915
 Ghana,Denmark,visa required,0,12916
-Ghana,Djibouti,e-visa,90,12917
+Ghana,Djibouti,visa on arrival,90,12917
 Ghana,Dominican Republic,visa required,0,12918
 Ghana,Ecuador,e-visa,0,12919
 Ghana,Egypt,visa required,0,12920
@@ -13113,7 +13113,7 @@ Greece,Cuba,visa required,30,13111
 Greece,Cyprus,visa free,0,13112
 Greece,Czech Republic,visa free,0,13113
 Greece,Denmark,visa free,0,13114
-Greece,Djibouti,e-visa,90,13115
+Greece,Djibouti,visa on arrival,90,13115
 Greece,Dominican Republic,visa free,0,13116
 Greece,Ecuador,-1,0,13117
 Greece,Egypt,visa on arrival,30,13118
@@ -13311,7 +13311,7 @@ Grenada,Cuba,-1,0,13309
 Grenada,Cyprus,-1,0,13310
 Grenada,Czech Republic,-1,0,13311
 Grenada,Denmark,-1,0,13312
-Grenada,Djibouti,e-visa,90,13313
+Grenada,Djibouti,visa on arrival,90,13313
 Grenada,Dominican Republic,visa free,0,13314
 Grenada,Ecuador,-1,0,13315
 Grenada,Egypt,visa on arrival,30,13316
@@ -13509,7 +13509,7 @@ Guatemala,Cuba,visa required,30,13507
 Guatemala,Cyprus,-1,0,13508
 Guatemala,Czech Republic,-1,0,13509
 Guatemala,Denmark,-1,0,13510
-Guatemala,Djibouti,e-visa,90,13511
+Guatemala,Djibouti,visa on arrival,90,13511
 Guatemala,Dominican Republic,visa free,0,13512
 Guatemala,Ecuador,-1,0,13513
 Guatemala,Egypt,visa required,0,13514
@@ -13707,7 +13707,7 @@ Guinea,Cuba,visa required,0,13705
 Guinea,Cyprus,visa required,0,13706
 Guinea,Czech Republic,visa required,0,13707
 Guinea,Denmark,visa required,0,13708
-Guinea,Djibouti,e-visa,90,13709
+Guinea,Djibouti,visa on arrival,90,13709
 Guinea,Dominican Republic,visa required,0,13710
 Guinea,Ecuador,e-visa,0,13711
 Guinea,Egypt,visa on arrival,30,13712
@@ -13905,7 +13905,7 @@ Guinea-Bissau,Cuba,visa required,30,13903
 Guinea-Bissau,Cyprus,visa required,0,13904
 Guinea-Bissau,Czech Republic,visa required,0,13905
 Guinea-Bissau,Denmark,visa required,0,13906
-Guinea-Bissau,Djibouti,e-visa,90,13907
+Guinea-Bissau,Djibouti,visa on arrival,90,13907
 Guinea-Bissau,Dominican Republic,visa required,0,13908
 Guinea-Bissau,Ecuador,-1,0,13909
 Guinea-Bissau,Egypt,visa required,0,13910
@@ -14103,7 +14103,7 @@ Guyana,Cuba,visa required,30,14101
 Guyana,Cyprus,visa required,0,14102
 Guyana,Czech Republic,visa required,0,14103
 Guyana,Denmark,visa required,0,14104
-Guyana,Djibouti,e-visa,90,14105
+Guyana,Djibouti,visa on arrival,90,14105
 Guyana,Dominican Republic,visa free,0,14106
 Guyana,Ecuador,-1,0,14107
 Guyana,Egypt,visa on arrival,30,14108
@@ -14301,7 +14301,7 @@ Haiti,Cuba,visa required,30,14299
 Haiti,Cyprus,visa required,0,14300
 Haiti,Czech Republic,visa required,0,14301
 Haiti,Denmark,visa required,0,14302
-Haiti,Djibouti,e-visa,90,14303
+Haiti,Djibouti,visa on arrival,90,14303
 Haiti,Dominican Republic,visa required,0,14304
 Haiti,Ecuador,e-visa,0,14305
 Haiti,Egypt,visa on arrival,30,14306
@@ -14499,7 +14499,7 @@ Honduras,Cuba,visa required,30,14497
 Honduras,Cyprus,-1,0,14498
 Honduras,Czech Republic,-1,0,14499
 Honduras,Denmark,-1,0,14500
-Honduras,Djibouti,e-visa,90,14501
+Honduras,Djibouti,visa on arrival,90,14501
 Honduras,Dominican Republic,visa free,0,14502
 Honduras,Ecuador,-1,0,14503
 Honduras,Egypt,visa required,0,14504
@@ -14697,7 +14697,7 @@ Hong Kong,Cuba,visa required,30,14695
 Hong Kong,Cyprus,-1,0,14696
 Hong Kong,Czech Republic,-1,0,14697
 Hong Kong,Denmark,-1,0,14698
-Hong Kong,Djibouti,e-visa,90,14699
+Hong Kong,Djibouti,visa on arrival,90,14699
 Hong Kong,Dominican Republic,visa free,0,14700
 Hong Kong,Ecuador,-1,0,14701
 Hong Kong,Egypt,-1,0,14702
@@ -14895,7 +14895,7 @@ Hungary,Cuba,visa required,30,14893
 Hungary,Cyprus,visa free,0,14894
 Hungary,Czech Republic,visa free,0,14895
 Hungary,Denmark,visa free,0,14896
-Hungary,Djibouti,e-visa,90,14897
+Hungary,Djibouti,visa on arrival,90,14897
 Hungary,Dominican Republic,visa free,0,14898
 Hungary,Ecuador,-1,0,14899
 Hungary,Egypt,visa on arrival,30,14900
@@ -15093,7 +15093,7 @@ Iceland,Cuba,visa required,30,15091
 Iceland,Cyprus,visa free,0,15092
 Iceland,Czech Republic,visa free,0,15093
 Iceland,Denmark,visa free,0,15094
-Iceland,Djibouti,e-visa,90,15095
+Iceland,Djibouti,visa on arrival,90,15095
 Iceland,Dominican Republic,visa free,0,15096
 Iceland,Ecuador,-1,0,15097
 Iceland,Egypt,visa on arrival,30,15098
@@ -15291,7 +15291,7 @@ India,Cuba,visa required,0,15289
 India,Cyprus,visa required,0,15290
 India,Czech Republic,visa required,0,15291
 India,Denmark,visa required,0,15292
-India,Djibouti,e-visa,90,15293
+India,Djibouti,visa on arrival,90,15293
 India,Dominican Republic,visa required,0,15294
 India,Ecuador,e-visa,0,15295
 India,Egypt,e-visa,0,15296
@@ -15489,7 +15489,7 @@ Indonesia,Cuba,visa required,30,15487
 Indonesia,Cyprus,visa required,0,15488
 Indonesia,Czech Republic,visa required,0,15489
 Indonesia,Denmark,visa required,0,15490
-Indonesia,Djibouti,e-visa,90,15491
+Indonesia,Djibouti,visa on arrival,90,15491
 Indonesia,Dominican Republic,visa required,0,15492
 Indonesia,Ecuador,-1,0,15493
 Indonesia,Egypt,visa required,0,15494
@@ -15687,7 +15687,7 @@ Iran,Cuba,visa required,0,15685
 Iran,Cyprus,visa required,0,15686
 Iran,Czech Republic,visa required,0,15687
 Iran,Denmark,visa required,0,15688
-Iran,Djibouti,e-visa,90,15689
+Iran,Djibouti,visa on arrival,90,15689
 Iran,Dominican Republic,visa required,0,15690
 Iran,Ecuador,e-visa,0,15691
 Iran,Egypt,visa required,0,15692
@@ -15885,7 +15885,7 @@ Iraq,Cuba,visa required,0,15883
 Iraq,Cyprus,visa required,0,15884
 Iraq,Czech Republic,visa required,0,15885
 Iraq,Denmark,visa required,0,15886
-Iraq,Djibouti,e-visa,90,15887
+Iraq,Djibouti,visa on arrival,90,15887
 Iraq,Dominican Republic,visa required,0,15888
 Iraq,Ecuador,e-visa,0,15889
 Iraq,Egypt,e-visa,0,15890
@@ -16083,7 +16083,7 @@ Ireland,Cuba,visa required,30,16081
 Ireland,Cyprus,visa free,0,16082
 Ireland,Czech Republic,visa free,0,16083
 Ireland,Denmark,visa free,0,16084
-Ireland,Djibouti,e-visa,90,16085
+Ireland,Djibouti,visa on arrival,90,16085
 Ireland,Dominican Republic,visa free,0,16086
 Ireland,Ecuador,-1,0,16087
 Ireland,Egypt,visa on arrival,30,16088
@@ -16281,7 +16281,7 @@ Israel,Cuba,visa required,30,16279
 Israel,Cyprus,-1,0,16280
 Israel,Czech Republic,-1,0,16281
 Israel,Denmark,-1,0,16282
-Israel,Djibouti,e-visa,90,16283
+Israel,Djibouti,visa on arrival,90,16283
 Israel,Dominican Republic,visa free,0,16284
 Israel,Ecuador,-1,0,16285
 Israel,Egypt,visa required,0,16286
@@ -16479,7 +16479,7 @@ Italy,Cuba,visa required,30,16477
 Italy,Cyprus,visa free,0,16478
 Italy,Czech Republic,visa free,0,16479
 Italy,Denmark,visa free,0,16480
-Italy,Djibouti,e-visa,90,16481
+Italy,Djibouti,visa on arrival,90,16481
 Italy,Dominican Republic,visa free,0,16482
 Italy,Ecuador,-1,0,16483
 Italy,Egypt,visa on arrival,30,16484
@@ -16677,7 +16677,7 @@ Jamaica,Cuba,visa required,30,16675
 Jamaica,Cyprus,visa required,0,16676
 Jamaica,Czech Republic,visa required,0,16677
 Jamaica,Denmark,visa required,0,16678
-Jamaica,Djibouti,e-visa,90,16679
+Jamaica,Djibouti,visa on arrival,90,16679
 Jamaica,Dominican Republic,visa free,0,16680
 Jamaica,Ecuador,-1,0,16681
 Jamaica,Egypt,visa on arrival,30,16682
@@ -16875,7 +16875,7 @@ Japan,Cuba,visa required,30,16873
 Japan,Cyprus,-1,0,16874
 Japan,Czech Republic,-1,0,16875
 Japan,Denmark,-1,0,16876
-Japan,Djibouti,e-visa,90,16877
+Japan,Djibouti,visa on arrival,90,16877
 Japan,Dominican Republic,visa free,0,16878
 Japan,Ecuador,-1,0,16879
 Japan,Egypt,visa on arrival,30,16880
@@ -17073,7 +17073,7 @@ Jordan,Cuba,visa required,30,17071
 Jordan,Cyprus,visa required,0,17072
 Jordan,Czech Republic,visa required,0,17073
 Jordan,Denmark,visa required,0,17074
-Jordan,Djibouti,e-visa,90,17075
+Jordan,Djibouti,visa on arrival,90,17075
 Jordan,Dominican Republic,visa required,0,17076
 Jordan,Ecuador,-1,0,17077
 Jordan,Egypt,-1,0,17078
@@ -17271,7 +17271,7 @@ Kazakhstan,Cuba,visa required,30,17269
 Kazakhstan,Cyprus,visa required,0,17270
 Kazakhstan,Czech Republic,visa required,0,17271
 Kazakhstan,Denmark,visa required,0,17272
-Kazakhstan,Djibouti,e-visa,90,17273
+Kazakhstan,Djibouti,visa on arrival,90,17273
 Kazakhstan,Dominican Republic,visa free,0,17274
 Kazakhstan,Ecuador,-1,0,17275
 Kazakhstan,Egypt,visa on arrival,30,17276
@@ -17469,7 +17469,7 @@ Kenya,Cuba,-1,0,17467
 Kenya,Cyprus,visa required,0,17468
 Kenya,Czech Republic,visa required,0,17469
 Kenya,Denmark,visa required,0,17470
-Kenya,Djibouti,e-visa,90,17471
+Kenya,Djibouti,visa on arrival,90,17471
 Kenya,Dominican Republic,visa required,0,17472
 Kenya,Ecuador,e-visa,0,17473
 Kenya,Egypt,visa required,0,17474
@@ -17667,7 +17667,7 @@ Kiribati,Cuba,visa required,30,17665
 Kiribati,Cyprus,-1,0,17666
 Kiribati,Czech Republic,-1,0,17667
 Kiribati,Denmark,-1,0,17668
-Kiribati,Djibouti,e-visa,90,17669
+Kiribati,Djibouti,visa on arrival,90,17669
 Kiribati,Dominican Republic,visa free,0,17670
 Kiribati,Ecuador,-1,0,17671
 Kiribati,Egypt,visa on arrival,30,17672
@@ -17865,7 +17865,7 @@ Kosovo,Cuba,no admission,0,17863
 Kosovo,Cyprus,-1,0,17864
 Kosovo,Czech Republic,-1,0,17865
 Kosovo,Denmark,-1,0,17866
-Kosovo,Djibouti,e-visa,90,17867
+Kosovo,Djibouti,visa on arrival,90,17867
 Kosovo,Dominican Republic,visa required,0,17868
 Kosovo,Ecuador,-1,0,17869
 Kosovo,Egypt,e-visa,0,17870
@@ -18063,7 +18063,7 @@ Kuwait,Cuba,visa required,30,18061
 Kuwait,Cyprus,visa required,0,18062
 Kuwait,Czech Republic,visa required,0,18063
 Kuwait,Denmark,visa required,0,18064
-Kuwait,Djibouti,e-visa,90,18065
+Kuwait,Djibouti,visa on arrival,90,18065
 Kuwait,Dominican Republic,visa free,0,18066
 Kuwait,Ecuador,-1,0,18067
 Kuwait,Egypt,-1,0,18068
@@ -18261,7 +18261,7 @@ Kyrgyzstan,Cuba,visa required,30,18259
 Kyrgyzstan,Cyprus,visa required,0,18260
 Kyrgyzstan,Czech Republic,visa required,0,18261
 Kyrgyzstan,Denmark,visa required,0,18262
-Kyrgyzstan,Djibouti,e-visa,90,18263
+Kyrgyzstan,Djibouti,visa on arrival,90,18263
 Kyrgyzstan,Dominican Republic,visa required,0,18264
 Kyrgyzstan,Ecuador,e-visa,0,18265
 Kyrgyzstan,Egypt,visa required,0,18266
@@ -18459,7 +18459,7 @@ Laos,Cuba,visa required,30,18457
 Laos,Cyprus,visa required,0,18458
 Laos,Czech Republic,visa required,0,18459
 Laos,Denmark,visa required,0,18460
-Laos,Djibouti,e-visa,90,18461
+Laos,Djibouti,visa on arrival,90,18461
 Laos,Dominican Republic,visa required,0,18462
 Laos,Ecuador,-1,0,18463
 Laos,Egypt,visa on arrival,30,18464
@@ -18657,7 +18657,7 @@ Latvia,Cuba,visa required,30,18655
 Latvia,Cyprus,visa free,0,18656
 Latvia,Czech Republic,visa free,0,18657
 Latvia,Denmark,visa free,0,18658
-Latvia,Djibouti,e-visa,90,18659
+Latvia,Djibouti,visa on arrival,90,18659
 Latvia,Dominican Republic,visa free,0,18660
 Latvia,Ecuador,-1,0,18661
 Latvia,Egypt,visa on arrival,30,18662
@@ -18855,7 +18855,7 @@ Lebanon,Cuba,visa required,30,18853
 Lebanon,Cyprus,visa required,0,18854
 Lebanon,Czech Republic,visa required,0,18855
 Lebanon,Denmark,visa required,0,18856
-Lebanon,Djibouti,e-visa,90,18857
+Lebanon,Djibouti,visa on arrival,90,18857
 Lebanon,Dominican Republic,visa required,0,18858
 Lebanon,Ecuador,-1,0,18859
 Lebanon,Egypt,visa required,0,18860
@@ -19053,7 +19053,7 @@ Lesotho,Cuba,visa required,30,19051
 Lesotho,Cyprus,visa required,0,19052
 Lesotho,Czech Republic,visa required,0,19053
 Lesotho,Denmark,visa required,0,19054
-Lesotho,Djibouti,e-visa,90,19055
+Lesotho,Djibouti,visa on arrival,90,19055
 Lesotho,Dominican Republic,visa required,0,19056
 Lesotho,Ecuador,-1,0,19057
 Lesotho,Egypt,visa required,0,19058
@@ -19251,7 +19251,7 @@ Liberia,Cuba,visa required,30,19249
 Liberia,Cyprus,visa required,0,19250
 Liberia,Czech Republic,visa required,0,19251
 Liberia,Denmark,visa required,0,19252
-Liberia,Djibouti,e-visa,90,19253
+Liberia,Djibouti,visa on arrival,90,19253
 Liberia,Dominican Republic,visa required,0,19254
 Liberia,Ecuador,-1,0,19255
 Liberia,Egypt,visa required,0,19256
@@ -19449,7 +19449,7 @@ Libya,Cuba,visa required,30,19447
 Libya,Cyprus,visa required,0,19448
 Libya,Czech Republic,visa required,0,19449
 Libya,Denmark,visa required,0,19450
-Libya,Djibouti,e-visa,90,19451
+Libya,Djibouti,visa on arrival,90,19451
 Libya,Dominican Republic,visa required,0,19452
 Libya,Ecuador,e-visa,0,19453
 Libya,Egypt,visa required,0,19454
@@ -19647,7 +19647,7 @@ Liechtenstein,Cuba,visa required,30,19645
 Liechtenstein,Cyprus,visa free,0,19646
 Liechtenstein,Czech Republic,visa free,0,19647
 Liechtenstein,Denmark,visa free,0,19648
-Liechtenstein,Djibouti,e-visa,90,19649
+Liechtenstein,Djibouti,visa on arrival,90,19649
 Liechtenstein,Dominican Republic,visa free,0,19650
 Liechtenstein,Ecuador,-1,0,19651
 Liechtenstein,Egypt,visa on arrival,30,19652
@@ -19845,7 +19845,7 @@ Lithuania,Cuba,visa required,30,19843
 Lithuania,Cyprus,visa free,0,19844
 Lithuania,Czech Republic,visa free,0,19845
 Lithuania,Denmark,visa free,0,19846
-Lithuania,Djibouti,e-visa,90,19847
+Lithuania,Djibouti,visa on arrival,90,19847
 Lithuania,Dominican Republic,visa free,0,19848
 Lithuania,Ecuador,-1,0,19849
 Lithuania,Egypt,visa on arrival,30,19850
@@ -20043,7 +20043,7 @@ Luxembourg,Cuba,visa required,30,20041
 Luxembourg,Cyprus,visa free,0,20042
 Luxembourg,Czech Republic,visa free,0,20043
 Luxembourg,Denmark,visa free,0,20044
-Luxembourg,Djibouti,e-visa,90,20045
+Luxembourg,Djibouti,visa on arrival,90,20045
 Luxembourg,Dominican Republic,visa free,0,20046
 Luxembourg,Ecuador,-1,0,20047
 Luxembourg,Egypt,visa on arrival,30,20048
@@ -20241,7 +20241,7 @@ Macao,Cuba,visa required,30,20239
 Macao,Cyprus,-1,0,20240
 Macao,Czech Republic,-1,0,20241
 Macao,Denmark,-1,0,20242
-Macao,Djibouti,e-visa,90,20243
+Macao,Djibouti,visa on arrival,90,20243
 Macao,Dominican Republic,visa free,0,20244
 Macao,Ecuador,-1,0,20245
 Macao,Egypt,-1,0,20246
@@ -20439,7 +20439,7 @@ Madagascar,Cuba,visa required,30,20437
 Madagascar,Cyprus,visa required,0,20438
 Madagascar,Czech Republic,visa required,0,20439
 Madagascar,Denmark,visa required,0,20440
-Madagascar,Djibouti,e-visa,90,20441
+Madagascar,Djibouti,visa on arrival,90,20441
 Madagascar,Dominican Republic,visa required,0,20442
 Madagascar,Ecuador,-1,0,20443
 Madagascar,Egypt,visa required,0,20444
@@ -20637,7 +20637,7 @@ Malawi,Cuba,visa required,30,20635
 Malawi,Cyprus,visa required,0,20636
 Malawi,Czech Republic,visa required,0,20637
 Malawi,Denmark,visa required,0,20638
-Malawi,Djibouti,e-visa,90,20639
+Malawi,Djibouti,visa on arrival,90,20639
 Malawi,Dominican Republic,visa required,0,20640
 Malawi,Ecuador,-1,0,20641
 Malawi,Egypt,visa required,0,20642
@@ -20835,7 +20835,7 @@ Malaysia,Cuba,-1,0,20833
 Malaysia,Cyprus,-1,0,20834
 Malaysia,Czech Republic,-1,0,20835
 Malaysia,Denmark,-1,0,20836
-Malaysia,Djibouti,e-visa,90,20837
+Malaysia,Djibouti,visa on arrival,90,20837
 Malaysia,Dominican Republic,visa free,0,20838
 Malaysia,Ecuador,-1,0,20839
 Malaysia,Egypt,visa on arrival,15,20840
@@ -21033,7 +21033,7 @@ Maldives,Cuba,visa required,30,21031
 Maldives,Cyprus,visa required,0,21032
 Maldives,Czech Republic,visa required,0,21033
 Maldives,Denmark,visa required,0,21034
-Maldives,Djibouti,e-visa,90,21035
+Maldives,Djibouti,visa on arrival,90,21035
 Maldives,Dominican Republic,visa required,0,21036
 Maldives,Ecuador,-1,0,21037
 Maldives,Egypt,visa required,0,21038
@@ -21231,7 +21231,7 @@ Mali,Cuba,visa required,30,21229
 Mali,Cyprus,visa required,0,21230
 Mali,Czech Republic,visa required,0,21231
 Mali,Denmark,visa required,0,21232
-Mali,Djibouti,e-visa,90,21233
+Mali,Djibouti,visa on arrival,90,21233
 Mali,Dominican Republic,visa required,0,21234
 Mali,Ecuador,e-visa,0,21235
 Mali,Egypt,visa required,0,21236
@@ -21429,7 +21429,7 @@ Malta,Cuba,visa required,30,21427
 Malta,Cyprus,visa free,0,21428
 Malta,Czech Republic,visa free,0,21429
 Malta,Denmark,visa free,0,21430
-Malta,Djibouti,e-visa,90,21431
+Malta,Djibouti,visa on arrival,90,21431
 Malta,Dominican Republic,visa free,0,21432
 Malta,Ecuador,-1,0,21433
 Malta,Egypt,visa on arrival,30,21434
@@ -21627,7 +21627,7 @@ Marshall Islands,Cuba,visa required,30,21625
 Marshall Islands,Cyprus,-1,0,21626
 Marshall Islands,Czech Republic,-1,0,21627
 Marshall Islands,Denmark,-1,0,21628
-Marshall Islands,Djibouti,e-visa,90,21629
+Marshall Islands,Djibouti,visa on arrival,90,21629
 Marshall Islands,Dominican Republic,visa free,0,21630
 Marshall Islands,Ecuador,-1,0,21631
 Marshall Islands,Egypt,visa on arrival,30,21632
@@ -21825,7 +21825,7 @@ Mauritania,Cuba,visa required,30,21823
 Mauritania,Cyprus,visa required,0,21824
 Mauritania,Czech Republic,visa required,0,21825
 Mauritania,Denmark,visa required,0,21826
-Mauritania,Djibouti,e-visa,90,21827
+Mauritania,Djibouti,visa on arrival,90,21827
 Mauritania,Dominican Republic,visa required,0,21828
 Mauritania,Ecuador,e-visa,0,21829
 Mauritania,Egypt,visa required,0,21830
@@ -22023,7 +22023,7 @@ Mauritius,Cuba,visa required,30,22021
 Mauritius,Cyprus,-1,0,22022
 Mauritius,Czech Republic,-1,0,22023
 Mauritius,Denmark,-1,0,22024
-Mauritius,Djibouti,e-visa,90,22025
+Mauritius,Djibouti,visa on arrival,90,22025
 Mauritius,Dominican Republic,visa free,0,22026
 Mauritius,Ecuador,-1,0,22027
 Mauritius,Egypt,visa required,0,22028
@@ -22221,7 +22221,7 @@ Mexico,Cuba,visa required,30,22219
 Mexico,Cyprus,-1,0,22220
 Mexico,Czech Republic,-1,0,22221
 Mexico,Denmark,-1,0,22222
-Mexico,Djibouti,e-visa,90,22223
+Mexico,Djibouti,visa on arrival,90,22223
 Mexico,Dominican Republic,visa free,0,22224
 Mexico,Ecuador,-1,0,22225
 Mexico,Egypt,visa on arrival,30,22226
@@ -22419,7 +22419,7 @@ Micronesia,Cuba,visa required,30,22417
 Micronesia,Cyprus,-1,0,22418
 Micronesia,Czech Republic,-1,0,22419
 Micronesia,Denmark,-1,0,22420
-Micronesia,Djibouti,e-visa,90,22421
+Micronesia,Djibouti,visa on arrival,90,22421
 Micronesia,Dominican Republic,visa free,0,22422
 Micronesia,Ecuador,-1,0,22423
 Micronesia,Egypt,visa on arrival,30,22424
@@ -22617,7 +22617,7 @@ Moldova,Cuba,visa required,30,22615
 Moldova,Cyprus,-1,0,22616
 Moldova,Czech Republic,-1,0,22617
 Moldova,Denmark,-1,0,22618
-Moldova,Djibouti,e-visa,90,22619
+Moldova,Djibouti,visa on arrival,90,22619
 Moldova,Dominican Republic,visa required,0,22620
 Moldova,Ecuador,-1,0,22621
 Moldova,Egypt,e-visa,0,22622
@@ -22815,7 +22815,7 @@ Monaco,Cuba,visa required,30,22813
 Monaco,Cyprus,-1,0,22814
 Monaco,Czech Republic,-1,0,22815
 Monaco,Denmark,-1,0,22816
-Monaco,Djibouti,e-visa,90,22817
+Monaco,Djibouti,visa on arrival,90,22817
 Monaco,Dominican Republic,visa free,0,22818
 Monaco,Ecuador,-1,0,22819
 Monaco,Egypt,visa on arrival,30,22820
@@ -23013,7 +23013,7 @@ Mongolia,Cuba,-1,0,23011
 Mongolia,Cyprus,visa required,0,23012
 Mongolia,Czech Republic,visa required,0,23013
 Mongolia,Denmark,visa required,0,23014
-Mongolia,Djibouti,e-visa,90,23015
+Mongolia,Djibouti,visa on arrival,90,23015
 Mongolia,Dominican Republic,visa required,0,23016
 Mongolia,Ecuador,-1,0,23017
 Mongolia,Egypt,visa on arrival,30,23018
@@ -23211,7 +23211,7 @@ Montenegro,Cuba,-1,0,23209
 Montenegro,Cyprus,-1,0,23210
 Montenegro,Czech Republic,-1,0,23211
 Montenegro,Denmark,-1,0,23212
-Montenegro,Djibouti,e-visa,90,23213
+Montenegro,Djibouti,visa on arrival,90,23213
 Montenegro,Dominican Republic,visa required,0,23214
 Montenegro,Ecuador,-1,0,23215
 Montenegro,Egypt,visa on arrival,30,23216
@@ -23409,7 +23409,7 @@ Morocco,Cuba,visa required,30,23407
 Morocco,Cyprus,visa required,0,23408
 Morocco,Czech Republic,visa required,0,23409
 Morocco,Denmark,visa required,0,23410
-Morocco,Djibouti,e-visa,90,23411
+Morocco,Djibouti,visa on arrival,90,23411
 Morocco,Dominican Republic,-1,0,23412
 Morocco,Ecuador,-1,0,23413
 Morocco,Egypt,visa required,0,23414
@@ -23607,7 +23607,7 @@ Mozambique,Cuba,visa required,30,23605
 Mozambique,Cyprus,visa required,0,23606
 Mozambique,Czech Republic,visa required,0,23607
 Mozambique,Denmark,visa required,0,23608
-Mozambique,Djibouti,e-visa,90,23609
+Mozambique,Djibouti,visa on arrival,90,23609
 Mozambique,Dominican Republic,visa required,0,23610
 Mozambique,Ecuador,-1,0,23611
 Mozambique,Egypt,visa required,0,23612
@@ -23805,7 +23805,7 @@ Myanmar,Cuba,visa required,30,23803
 Myanmar,Cyprus,visa required,0,23804
 Myanmar,Czech Republic,visa required,0,23805
 Myanmar,Denmark,visa required,0,23806
-Myanmar,Djibouti,e-visa,90,23807
+Myanmar,Djibouti,visa on arrival,90,23807
 Myanmar,Dominican Republic,visa required,0,23808
 Myanmar,Ecuador,e-visa,0,23809
 Myanmar,Egypt,visa required,0,23810
@@ -24003,7 +24003,7 @@ Namibia,Cuba,visa free,0,24001
 Namibia,Cyprus,visa required,0,24002
 Namibia,Czech Republic,visa required,0,24003
 Namibia,Denmark,visa required,0,24004
-Namibia,Djibouti,e-visa,90,24005
+Namibia,Djibouti,visa on arrival,90,24005
 Namibia,Dominican Republic,visa free,0,24006
 Namibia,Ecuador,-1,0,24007
 Namibia,Egypt,visa required,0,24008
@@ -24201,7 +24201,7 @@ Nauru,Cuba,visa required,30,24199
 Nauru,Cyprus,visa required,0,24200
 Nauru,Czech Republic,visa required,0,24201
 Nauru,Denmark,visa required,0,24202
-Nauru,Djibouti,e-visa,90,24203
+Nauru,Djibouti,visa on arrival,90,24203
 Nauru,Dominican Republic,visa free,0,24204
 Nauru,Ecuador,-1,0,24205
 Nauru,Egypt,visa on arrival,30,24206
@@ -24399,7 +24399,7 @@ Nepal,Cuba,visa required,0,24397
 Nepal,Cyprus,visa required,0,24398
 Nepal,Czech Republic,visa required,0,24399
 Nepal,Denmark,visa required,0,24400
-Nepal,Djibouti,e-visa,90,24401
+Nepal,Djibouti,visa on arrival,90,24401
 Nepal,Dominican Republic,visa required,0,24402
 Nepal,Ecuador,e-visa,0,24403
 Nepal,Egypt,visa on arrival,30,24404
@@ -24597,7 +24597,7 @@ Netherlands,Cuba,visa required,30,24595
 Netherlands,Cyprus,visa free,0,24596
 Netherlands,Czech Republic,visa free,0,24597
 Netherlands,Denmark,visa free,0,24598
-Netherlands,Djibouti,e-visa,90,24599
+Netherlands,Djibouti,visa on arrival,90,24599
 Netherlands,Dominican Republic,visa free,0,24600
 Netherlands,Ecuador,-1,0,24601
 Netherlands,Egypt,visa on arrival,30,24602
@@ -24795,7 +24795,7 @@ New Zealand,Cuba,visa required,30,24793
 New Zealand,Cyprus,-1,0,24794
 New Zealand,Czech Republic,-1,0,24795
 New Zealand,Denmark,-1,0,24796
-New Zealand,Djibouti,e-visa,90,24797
+New Zealand,Djibouti,visa on arrival,90,24797
 New Zealand,Dominican Republic,visa free,0,24798
 New Zealand,Ecuador,-1,0,24799
 New Zealand,Egypt,visa on arrival,30,24800
@@ -24993,7 +24993,7 @@ Nicaragua,Cuba,visa required,30,24991
 Nicaragua,Cyprus,-1,0,24992
 Nicaragua,Czech Republic,-1,0,24993
 Nicaragua,Denmark,-1,0,24994
-Nicaragua,Djibouti,e-visa,90,24995
+Nicaragua,Djibouti,visa on arrival,90,24995
 Nicaragua,Dominican Republic,visa free,0,24996
 Nicaragua,Ecuador,-1,0,24997
 Nicaragua,Egypt,visa on arrival,30,24998
@@ -25191,7 +25191,7 @@ Niger,Cuba,visa required,30,25189
 Niger,Cyprus,visa required,0,25190
 Niger,Czech Republic,visa required,0,25191
 Niger,Denmark,visa required,0,25192
-Niger,Djibouti,e-visa,90,25193
+Niger,Djibouti,visa on arrival,90,25193
 Niger,Dominican Republic,visa required,0,25194
 Niger,Ecuador,-1,0,25195
 Niger,Egypt,visa required,0,25196
@@ -25389,7 +25389,7 @@ Nigeria,Cuba,visa required,0,25387
 Nigeria,Cyprus,visa required,0,25388
 Nigeria,Czech Republic,visa required,0,25389
 Nigeria,Denmark,visa required,0,25390
-Nigeria,Djibouti,e-visa,90,25391
+Nigeria,Djibouti,visa on arrival,90,25391
 Nigeria,Dominican Republic,visa required,0,25392
 Nigeria,Ecuador,e-visa,0,25393
 Nigeria,Egypt,visa required,0,25394
@@ -25587,7 +25587,7 @@ North Korea,Cuba,visa required,30,25585
 North Korea,Cyprus,visa required,0,25586
 North Korea,Czech Republic,visa required,0,25587
 North Korea,Denmark,visa required,0,25588
-North Korea,Djibouti,e-visa,90,25589
+North Korea,Djibouti,visa on arrival,90,25589
 North Korea,Dominican Republic,visa required,0,25590
 North Korea,Ecuador,e-visa,0,25591
 North Korea,Egypt,visa on arrival,30,25592
@@ -25785,7 +25785,7 @@ North Macedonia,Cuba,-1,0,25783
 North Macedonia,Cyprus,-1,0,25784
 North Macedonia,Czech Republic,-1,0,25785
 North Macedonia,Denmark,-1,0,25786
-North Macedonia,Djibouti,e-visa,90,25787
+North Macedonia,Djibouti,visa on arrival,90,25787
 North Macedonia,Dominican Republic,visa free,0,25788
 North Macedonia,Ecuador,-1,0,25789
 North Macedonia,Egypt,visa on arrival,30,25790
@@ -25983,7 +25983,7 @@ Norway,Cuba,visa required,30,25981
 Norway,Cyprus,visa free,0,25982
 Norway,Czech Republic,visa free,0,25983
 Norway,Denmark,visa free,0,25984
-Norway,Djibouti,e-visa,90,25985
+Norway,Djibouti,visa on arrival,90,25985
 Norway,Dominican Republic,visa free,0,25986
 Norway,Ecuador,-1,0,25987
 Norway,Egypt,visa on arrival,30,25988
@@ -26181,7 +26181,7 @@ Oman,Cuba,visa required,30,26179
 Oman,Cyprus,visa required,0,26180
 Oman,Czech Republic,visa required,0,26181
 Oman,Denmark,visa required,0,26182
-Oman,Djibouti,e-visa,90,26183
+Oman,Djibouti,visa on arrival,90,26183
 Oman,Dominican Republic,visa required,0,26184
 Oman,Ecuador,-1,0,26185
 Oman,Egypt,-1,0,26186
@@ -26379,7 +26379,7 @@ Pakistan,Cuba,visa required,0,26377
 Pakistan,Cyprus,visa required,0,26378
 Pakistan,Czech Republic,visa required,0,26379
 Pakistan,Denmark,visa required,0,26380
-Pakistan,Djibouti,e-visa,90,26381
+Pakistan,Djibouti,visa on arrival,90,26381
 Pakistan,Dominican Republic,visa required,0,26382
 Pakistan,Ecuador,e-visa,0,26383
 Pakistan,Egypt,visa required,0,26384
@@ -26577,7 +26577,7 @@ Palau,Cuba,visa required,30,26575
 Palau,Cyprus,-1,0,26576
 Palau,Czech Republic,-1,0,26577
 Palau,Denmark,-1,0,26578
-Palau,Djibouti,e-visa,90,26579
+Palau,Djibouti,visa on arrival,90,26579
 Palau,Dominican Republic,visa required,0,26580
 Palau,Ecuador,-1,0,26581
 Palau,Egypt,visa on arrival,30,26582
@@ -26775,7 +26775,7 @@ Palestine,Cuba,visa required,30,26773
 Palestine,Cyprus,visa required,0,26774
 Palestine,Czech Republic,visa required,0,26775
 Palestine,Denmark,visa required,0,26776
-Palestine,Djibouti,e-visa,90,26777
+Palestine,Djibouti,visa on arrival,90,26777
 Palestine,Dominican Republic,visa required,0,26778
 Palestine,Ecuador,-1,0,26779
 Palestine,Egypt,visa required,0,26780
@@ -26973,7 +26973,7 @@ Panama,Cuba,visa required,30,26971
 Panama,Cyprus,-1,0,26972
 Panama,Czech Republic,-1,0,26973
 Panama,Denmark,-1,0,26974
-Panama,Djibouti,e-visa,90,26975
+Panama,Djibouti,visa on arrival,90,26975
 Panama,Dominican Republic,visa free,0,26976
 Panama,Ecuador,-1,0,26977
 Panama,Egypt,visa on arrival,30,26978
@@ -27171,7 +27171,7 @@ Papua New Guinea,Cuba,visa required,30,27169
 Papua New Guinea,Cyprus,visa required,0,27170
 Papua New Guinea,Czech Republic,visa required,0,27171
 Papua New Guinea,Denmark,visa required,0,27172
-Papua New Guinea,Djibouti,e-visa,90,27173
+Papua New Guinea,Djibouti,visa on arrival,90,27173
 Papua New Guinea,Dominican Republic,visa free,0,27174
 Papua New Guinea,Ecuador,-1,0,27175
 Papua New Guinea,Egypt,visa on arrival,30,27176
@@ -27369,7 +27369,7 @@ Paraguay,Cuba,visa required,30,27367
 Paraguay,Cyprus,-1,0,27368
 Paraguay,Czech Republic,-1,0,27369
 Paraguay,Denmark,-1,0,27370
-Paraguay,Djibouti,e-visa,90,27371
+Paraguay,Djibouti,visa on arrival,90,27371
 Paraguay,Dominican Republic,-1,0,27372
 Paraguay,Ecuador,-1,0,27373
 Paraguay,Egypt,visa on arrival,30,27374
@@ -27567,7 +27567,7 @@ Peru,Cuba,visa required,30,27565
 Peru,Cyprus,-1,0,27566
 Peru,Czech Republic,-1,0,27567
 Peru,Denmark,-1,0,27568
-Peru,Djibouti,e-visa,90,27569
+Peru,Djibouti,visa on arrival,90,27569
 Peru,Dominican Republic,visa free,0,27570
 Peru,Ecuador,-1,0,27571
 Peru,Egypt,visa on arrival,30,27572
@@ -27765,7 +27765,7 @@ Philippines,Cuba,visa required,0,27763
 Philippines,Cyprus,visa required,0,27764
 Philippines,Czech Republic,visa required,0,27765
 Philippines,Denmark,visa required,0,27766
-Philippines,Djibouti,e-visa,90,27767
+Philippines,Djibouti,visa on arrival,90,27767
 Philippines,Dominican Republic,visa required,0,27768
 Philippines,Ecuador,e-visa,0,27769
 Philippines,Egypt,visa required,0,27770
@@ -27963,7 +27963,7 @@ Poland,Cuba,visa required,30,27961
 Poland,Cyprus,visa free,0,27962
 Poland,Czech Republic,visa free,0,27963
 Poland,Denmark,visa free,0,27964
-Poland,Djibouti,e-visa,90,27965
+Poland,Djibouti,visa on arrival,90,27965
 Poland,Dominican Republic,visa free,0,27966
 Poland,Ecuador,-1,0,27967
 Poland,Egypt,visa on arrival,30,27968
@@ -28161,7 +28161,7 @@ Portugal,Cuba,visa required,30,28159
 Portugal,Cyprus,visa free,0,28160
 Portugal,Czech Republic,visa free,0,28161
 Portugal,Denmark,visa free,0,28162
-Portugal,Djibouti,e-visa,90,28163
+Portugal,Djibouti,visa on arrival,90,28163
 Portugal,Dominican Republic,visa free,0,28164
 Portugal,Ecuador,-1,0,28165
 Portugal,Egypt,visa on arrival,30,28166
@@ -28359,7 +28359,7 @@ Qatar,Cuba,visa required,30,28357
 Qatar,Cyprus,visa required,0,28358
 Qatar,Czech Republic,visa required,0,28359
 Qatar,Denmark,visa required,0,28360
-Qatar,Djibouti,e-visa,90,28361
+Qatar,Djibouti,visa on arrival,90,28361
 Qatar,Dominican Republic,visa free,0,28362
 Qatar,Ecuador,-1,0,28363
 Qatar,Egypt,-1,0,28364
@@ -28557,7 +28557,7 @@ Romania,Cuba,visa required,30,28555
 Romania,Cyprus,visa free,0,28556
 Romania,Czech Republic,visa free,0,28557
 Romania,Denmark,visa free,0,28558
-Romania,Djibouti,e-visa,90,28559
+Romania,Djibouti,visa on arrival,90,28559
 Romania,Dominican Republic,visa free,0,28560
 Romania,Ecuador,-1,0,28561
 Romania,Egypt,visa on arrival,30,28562
@@ -28755,7 +28755,7 @@ Russia,Cuba,-1,0,28753
 Russia,Cyprus,visa required,0,28754
 Russia,Czech Republic,visa required,0,28755
 Russia,Denmark,visa required,0,28756
-Russia,Djibouti,e-visa,90,28757
+Russia,Djibouti,visa on arrival,90,28757
 Russia,Dominican Republic,visa free,0,28758
 Russia,Ecuador,-1,0,28759
 Russia,Egypt,visa on arrival,30,28760
@@ -28953,7 +28953,7 @@ Rwanda,Cuba,visa required,30,28951
 Rwanda,Cyprus,visa required,0,28952
 Rwanda,Czech Republic,visa required,0,28953
 Rwanda,Denmark,visa required,0,28954
-Rwanda,Djibouti,e-visa,90,28955
+Rwanda,Djibouti,visa on arrival,90,28955
 Rwanda,Dominican Republic,visa required,0,28956
 Rwanda,Ecuador,-1,0,28957
 Rwanda,Egypt,visa required,0,28958
@@ -29151,7 +29151,7 @@ Saint Kitts and Nevis,Cuba,-1,0,29149
 Saint Kitts and Nevis,Cyprus,-1,0,29150
 Saint Kitts and Nevis,Czech Republic,-1,0,29151
 Saint Kitts and Nevis,Denmark,-1,0,29152
-Saint Kitts and Nevis,Djibouti,e-visa,90,29153
+Saint Kitts and Nevis,Djibouti,visa on arrival,90,29153
 Saint Kitts and Nevis,Dominican Republic,visa free,0,29154
 Saint Kitts and Nevis,Ecuador,-1,0,29155
 Saint Kitts and Nevis,Egypt,visa required,0,29156
@@ -29349,7 +29349,7 @@ Saint Lucia,Cuba,-1,0,29347
 Saint Lucia,Cyprus,-1,0,29348
 Saint Lucia,Czech Republic,-1,0,29349
 Saint Lucia,Denmark,-1,0,29350
-Saint Lucia,Djibouti,e-visa,90,29351
+Saint Lucia,Djibouti,visa on arrival,90,29351
 Saint Lucia,Dominican Republic,visa free,0,29352
 Saint Lucia,Ecuador,-1,0,29353
 Saint Lucia,Egypt,visa on arrival,30,29354
@@ -29547,7 +29547,7 @@ Samoa,Cuba,visa required,30,29545
 Samoa,Cyprus,-1,0,29546
 Samoa,Czech Republic,-1,0,29547
 Samoa,Denmark,-1,0,29548
-Samoa,Djibouti,e-visa,90,29549
+Samoa,Djibouti,visa on arrival,90,29549
 Samoa,Dominican Republic,visa required,0,29550
 Samoa,Ecuador,-1,0,29551
 Samoa,Egypt,visa on arrival,30,29552
@@ -29745,7 +29745,7 @@ San Marino,Cuba,visa required,30,29743
 San Marino,Cyprus,-1,0,29744
 San Marino,Czech Republic,-1,0,29745
 San Marino,Denmark,-1,0,29746
-San Marino,Djibouti,e-visa,90,29747
+San Marino,Djibouti,visa on arrival,90,29747
 San Marino,Dominican Republic,visa free,0,29748
 San Marino,Ecuador,-1,0,29749
 San Marino,Egypt,visa on arrival,30,29750
@@ -29943,7 +29943,7 @@ Sao Tome and Principe,Cuba,visa required,30,29941
 Sao Tome and Principe,Cyprus,visa required,0,29942
 Sao Tome and Principe,Czech Republic,visa required,0,29943
 Sao Tome and Principe,Denmark,visa required,0,29944
-Sao Tome and Principe,Djibouti,e-visa,90,29945
+Sao Tome and Principe,Djibouti,visa on arrival,90,29945
 Sao Tome and Principe,Dominican Republic,visa required,0,29946
 Sao Tome and Principe,Ecuador,-1,0,29947
 Sao Tome and Principe,Egypt,visa on arrival,30,29948
@@ -30141,7 +30141,7 @@ Saudi Arabia,Cuba,visa required,30,30139
 Saudi Arabia,Cyprus,visa required,0,30140
 Saudi Arabia,Czech Republic,visa required,0,30141
 Saudi Arabia,Denmark,visa required,0,30142
-Saudi Arabia,Djibouti,e-visa,90,30143
+Saudi Arabia,Djibouti,visa on arrival,90,30143
 Saudi Arabia,Dominican Republic,visa required,0,30144
 Saudi Arabia,Ecuador,-1,0,30145
 Saudi Arabia,Egypt,-1,0,30146
@@ -30339,7 +30339,7 @@ Senegal,Cuba,visa required,30,30337
 Senegal,Cyprus,visa required,0,30338
 Senegal,Czech Republic,visa required,0,30339
 Senegal,Denmark,visa required,0,30340
-Senegal,Djibouti,e-visa,90,30341
+Senegal,Djibouti,visa on arrival,90,30341
 Senegal,Dominican Republic,visa required,0,30342
 Senegal,Ecuador,e-visa,0,30343
 Senegal,Egypt,visa required,0,30344
@@ -30537,7 +30537,7 @@ Serbia,Cuba,-1,0,30535
 Serbia,Cyprus,-1,0,30536
 Serbia,Czech Republic,-1,0,30537
 Serbia,Denmark,-1,0,30538
-Serbia,Djibouti,e-visa,90,30539
+Serbia,Djibouti,visa on arrival,90,30539
 Serbia,Dominican Republic,visa free,0,30540
 Serbia,Ecuador,-1,0,30541
 Serbia,Egypt,visa on arrival,30,30542
@@ -30735,7 +30735,7 @@ Seychelles,Cuba,visa required,30,30733
 Seychelles,Cyprus,-1,0,30734
 Seychelles,Czech Republic,-1,0,30735
 Seychelles,Denmark,-1,0,30736
-Seychelles,Djibouti,e-visa,90,30737
+Seychelles,Djibouti,visa on arrival,90,30737
 Seychelles,Dominican Republic,visa free,0,30738
 Seychelles,Ecuador,-1,0,30739
 Seychelles,Egypt,visa on arrival,30,30740
@@ -30933,7 +30933,7 @@ Sierra Leone,Cuba,visa required,0,30931
 Sierra Leone,Cyprus,visa required,0,30932
 Sierra Leone,Czech Republic,visa required,0,30933
 Sierra Leone,Denmark,visa required,0,30934
-Sierra Leone,Djibouti,e-visa,90,30935
+Sierra Leone,Djibouti,visa on arrival,90,30935
 Sierra Leone,Dominican Republic,visa required,0,30936
 Sierra Leone,Ecuador,-1,0,30937
 Sierra Leone,Egypt,visa required,0,30938
@@ -31329,7 +31329,7 @@ Slovakia,Cuba,visa required,30,31327
 Slovakia,Cyprus,visa free,0,31328
 Slovakia,Czech Republic,visa free,0,31329
 Slovakia,Denmark,visa free,0,31330
-Slovakia,Djibouti,e-visa,90,31331
+Slovakia,Djibouti,visa on arrival,90,31331
 Slovakia,Dominican Republic,visa free,0,31332
 Slovakia,Ecuador,-1,0,31333
 Slovakia,Egypt,visa on arrival,30,31334
@@ -31527,7 +31527,7 @@ Slovenia,Cuba,visa required,30,31525
 Slovenia,Cyprus,visa free,0,31526
 Slovenia,Czech Republic,visa free,0,31527
 Slovenia,Denmark,visa free,0,31528
-Slovenia,Djibouti,e-visa,90,31529
+Slovenia,Djibouti,visa on arrival,90,31529
 Slovenia,Dominican Republic,visa free,0,31530
 Slovenia,Ecuador,-1,0,31531
 Slovenia,Egypt,visa on arrival,30,31532
@@ -31725,7 +31725,7 @@ Solomon Islands,Cuba,visa required,30,31723
 Solomon Islands,Cyprus,-1,0,31724
 Solomon Islands,Czech Republic,-1,0,31725
 Solomon Islands,Denmark,-1,0,31726
-Solomon Islands,Djibouti,e-visa,90,31727
+Solomon Islands,Djibouti,visa on arrival,90,31727
 Solomon Islands,Dominican Republic,visa free,0,31728
 Solomon Islands,Ecuador,-1,0,31729
 Solomon Islands,Egypt,visa on arrival,30,31730
@@ -31923,7 +31923,7 @@ Somalia,Cuba,visa required,0,31921
 Somalia,Cyprus,visa required,0,31922
 Somalia,Czech Republic,visa required,0,31923
 Somalia,Denmark,visa required,0,31924
-Somalia,Djibouti,e-visa,90,31925
+Somalia,Djibouti,visa on arrival,90,31925
 Somalia,Dominican Republic,visa required,0,31926
 Somalia,Ecuador,e-visa,0,31927
 Somalia,Egypt,visa required,0,31928
@@ -32121,7 +32121,7 @@ South Africa,Cuba,visa required,30,32119
 South Africa,Cyprus,visa required,0,32120
 South Africa,Czech Republic,visa required,0,32121
 South Africa,Denmark,visa required,0,32122
-South Africa,Djibouti,e-visa,90,32123
+South Africa,Djibouti,visa on arrival,90,32123
 South Africa,Dominican Republic,visa free,0,32124
 South Africa,Ecuador,-1,0,32125
 South Africa,Egypt,visa on arrival,30,32126
@@ -32319,7 +32319,7 @@ South Korea,Cuba,visa required,30,32317
 South Korea,Cyprus,-1,0,32318
 South Korea,Czech Republic,-1,0,32319
 South Korea,Denmark,-1,0,32320
-South Korea,Djibouti,e-visa,90,32321
+South Korea,Djibouti,visa on arrival,90,32321
 South Korea,Dominican Republic,visa free,0,32322
 South Korea,Ecuador,-1,0,32323
 South Korea,Egypt,visa on arrival,30,32324
@@ -32517,7 +32517,7 @@ South Sudan,Cuba,visa required,30,32515
 South Sudan,Cyprus,visa required,0,32516
 South Sudan,Czech Republic,visa required,0,32517
 South Sudan,Denmark,visa required,0,32518
-South Sudan,Djibouti,e-visa,90,32519
+South Sudan,Djibouti,visa on arrival,90,32519
 South Sudan,Dominican Republic,visa required,0,32520
 South Sudan,Ecuador,-1,0,32521
 South Sudan,Egypt,visa on arrival,30,32522
@@ -32715,7 +32715,7 @@ Spain,Cuba,visa required,30,32713
 Spain,Cyprus,visa free,0,32714
 Spain,Czech Republic,visa free,0,32715
 Spain,Denmark,visa free,0,32716
-Spain,Djibouti,e-visa,90,32717
+Spain,Djibouti,visa on arrival,90,32717
 Spain,Dominican Republic,visa free,0,32718
 Spain,Ecuador,-1,0,32719
 Spain,Egypt,visa on arrival,30,32720
@@ -32913,7 +32913,7 @@ Sri Lanka,Cuba,visa required,0,32911
 Sri Lanka,Cyprus,visa required,0,32912
 Sri Lanka,Czech Republic,visa required,0,32913
 Sri Lanka,Denmark,visa required,0,32914
-Sri Lanka,Djibouti,e-visa,90,32915
+Sri Lanka,Djibouti,visa on arrival,90,32915
 Sri Lanka,Dominican Republic,visa required,0,32916
 Sri Lanka,Ecuador,e-visa,0,32917
 Sri Lanka,Egypt,visa required,0,32918
@@ -33111,7 +33111,7 @@ Saint Vincent and the Grenadines,Cuba,-1,0,33109
 Saint Vincent and the Grenadines,Cyprus,-1,0,33110
 Saint Vincent and the Grenadines,Czech Republic,-1,0,33111
 Saint Vincent and the Grenadines,Denmark,-1,0,33112
-Saint Vincent and the Grenadines,Djibouti,e-visa,90,33113
+Saint Vincent and the Grenadines,Djibouti,visa on arrival,90,33113
 Saint Vincent and the Grenadines,Dominican Republic,visa free,0,33114
 Saint Vincent and the Grenadines,Ecuador,-1,0,33115
 Saint Vincent and the Grenadines,Egypt,visa on arrival,30,33116
@@ -33309,7 +33309,7 @@ Sudan,Cuba,visa required,30,33307
 Sudan,Cyprus,visa required,0,33308
 Sudan,Czech Republic,visa required,0,33309
 Sudan,Denmark,visa required,0,33310
-Sudan,Djibouti,e-visa,90,33311
+Sudan,Djibouti,visa on arrival,90,33311
 Sudan,Dominican Republic,visa required,0,33312
 Sudan,Ecuador,e-visa,0,33313
 Sudan,Egypt,visa required,0,33314
@@ -33507,7 +33507,7 @@ Suriname,Cuba,visa required,30,33505
 Suriname,Cyprus,visa required,0,33506
 Suriname,Czech Republic,visa required,0,33507
 Suriname,Denmark,visa required,0,33508
-Suriname,Djibouti,e-visa,90,33509
+Suriname,Djibouti,visa on arrival,90,33509
 Suriname,Dominican Republic,visa free,0,33510
 Suriname,Ecuador,-1,0,33511
 Suriname,Egypt,visa on arrival,30,33512
@@ -33705,7 +33705,7 @@ Sweden,Cuba,visa required,30,33703
 Sweden,Cyprus,visa free,0,33704
 Sweden,Czech Republic,visa free,0,33705
 Sweden,Denmark,visa free,0,33706
-Sweden,Djibouti,e-visa,90,33707
+Sweden,Djibouti,visa on arrival,90,33707
 Sweden,Dominican Republic,visa free,0,33708
 Sweden,Ecuador,-1,0,33709
 Sweden,Egypt,visa on arrival,30,33710
@@ -33903,7 +33903,7 @@ Switzerland,Cuba,visa required,30,33901
 Switzerland,Cyprus,visa free,0,33902
 Switzerland,Czech Republic,visa free,0,33903
 Switzerland,Denmark,visa free,0,33904
-Switzerland,Djibouti,e-visa,90,33905
+Switzerland,Djibouti,visa on arrival,90,33905
 Switzerland,Dominican Republic,visa free,0,33906
 Switzerland,Ecuador,-1,0,33907
 Switzerland,Egypt,visa on arrival,30,33908
@@ -34101,7 +34101,7 @@ Syria,Cuba,visa required,0,34099
 Syria,Cyprus,visa required,0,34100
 Syria,Czech Republic,visa required,0,34101
 Syria,Denmark,visa required,0,34102
-Syria,Djibouti,e-visa,90,34103
+Syria,Djibouti,visa on arrival,90,34103
 Syria,Dominican Republic,visa required,0,34104
 Syria,Ecuador,e-visa,0,34105
 Syria,Egypt,visa required,0,34106
@@ -34299,7 +34299,7 @@ Taiwan,Cuba,visa required,30,34297
 Taiwan,Cyprus,-1,0,34298
 Taiwan,Czech Republic,-1,0,34299
 Taiwan,Denmark,-1,0,34300
-Taiwan,Djibouti,e-visa,90,34301
+Taiwan,Djibouti,visa on arrival,90,34301
 Taiwan,Dominican Republic,visa free,0,34302
 Taiwan,Ecuador,-1,0,34303
 Taiwan,Egypt,visa on arrival,30,34304
@@ -34497,7 +34497,7 @@ Tajikistan,Cuba,visa required,30,34495
 Tajikistan,Cyprus,visa required,0,34496
 Tajikistan,Czech Republic,visa required,0,34497
 Tajikistan,Denmark,visa required,0,34498
-Tajikistan,Djibouti,e-visa,90,34499
+Tajikistan,Djibouti,visa on arrival,90,34499
 Tajikistan,Dominican Republic,visa required,0,34500
 Tajikistan,Ecuador,e-visa,0,34501
 Tajikistan,Egypt,visa required,0,34502
@@ -34695,7 +34695,7 @@ Tanzania,Cuba,visa required,30,34693
 Tanzania,Cyprus,visa required,0,34694
 Tanzania,Czech Republic,visa required,0,34695
 Tanzania,Denmark,visa required,0,34696
-Tanzania,Djibouti,e-visa,90,34697
+Tanzania,Djibouti,visa on arrival,90,34697
 Tanzania,Dominican Republic,visa required,0,34698
 Tanzania,Ecuador,-1,0,34699
 Tanzania,Egypt,visa required,0,34700
@@ -34893,7 +34893,7 @@ Thailand,Cuba,visa required,30,34891
 Thailand,Cyprus,visa required,0,34892
 Thailand,Czech Republic,visa required,0,34893
 Thailand,Denmark,visa required,0,34894
-Thailand,Djibouti,e-visa,90,34895
+Thailand,Djibouti,visa on arrival,90,34895
 Thailand,Dominican Republic,visa free,0,34896
 Thailand,Ecuador,-1,0,34897
 Thailand,Egypt,visa required,0,34898
@@ -35091,7 +35091,7 @@ Timor-Leste,Cuba,visa required,30,35089
 Timor-Leste,Cyprus,-1,0,35090
 Timor-Leste,Czech Republic,-1,0,35091
 Timor-Leste,Denmark,-1,0,35092
-Timor-Leste,Djibouti,e-visa,90,35093
+Timor-Leste,Djibouti,visa on arrival,90,35093
 Timor-Leste,Dominican Republic,visa required,0,35094
 Timor-Leste,Ecuador,-1,0,35095
 Timor-Leste,Egypt,visa on arrival,30,35096
@@ -35289,7 +35289,7 @@ Togo,Cuba,visa required,30,35287
 Togo,Cyprus,visa required,0,35288
 Togo,Czech Republic,visa required,0,35289
 Togo,Denmark,visa required,0,35290
-Togo,Djibouti,e-visa,90,35291
+Togo,Djibouti,visa on arrival,90,35291
 Togo,Dominican Republic,visa required,0,35292
 Togo,Ecuador,-1,0,35293
 Togo,Egypt,visa required,0,35294
@@ -35487,7 +35487,7 @@ Tonga,Cuba,visa required,30,35485
 Tonga,Cyprus,-1,0,35486
 Tonga,Czech Republic,-1,0,35487
 Tonga,Denmark,-1,0,35488
-Tonga,Djibouti,e-visa,90,35489
+Tonga,Djibouti,visa on arrival,90,35489
 Tonga,Dominican Republic,visa free,0,35490
 Tonga,Ecuador,-1,0,35491
 Tonga,Egypt,visa on arrival,30,35492
@@ -35685,7 +35685,7 @@ Trinidad and Tobago,Cuba,visa required,30,35683
 Trinidad and Tobago,Cyprus,-1,0,35684
 Trinidad and Tobago,Czech Republic,-1,0,35685
 Trinidad and Tobago,Denmark,-1,0,35686
-Trinidad and Tobago,Djibouti,e-visa,90,35687
+Trinidad and Tobago,Djibouti,visa on arrival,90,35687
 Trinidad and Tobago,Dominican Republic,visa free,0,35688
 Trinidad and Tobago,Ecuador,-1,0,35689
 Trinidad and Tobago,Egypt,visa on arrival,30,35690
@@ -35883,7 +35883,7 @@ Tunisia,Cuba,visa required,30,35881
 Tunisia,Cyprus,visa required,0,35882
 Tunisia,Czech Republic,visa required,0,35883
 Tunisia,Denmark,visa required,0,35884
-Tunisia,Djibouti,e-visa,90,35885
+Tunisia,Djibouti,visa on arrival,90,35885
 Tunisia,Dominican Republic,visa required,0,35886
 Tunisia,Ecuador,-1,0,35887
 Tunisia,Egypt,visa required,0,35888
@@ -36081,7 +36081,7 @@ Turkey,Cuba,visa required,30,36079
 Turkey,Cyprus,visa required,0,36080
 Turkey,Czech Republic,visa required,0,36081
 Turkey,Denmark,visa required,0,36082
-Turkey,Djibouti,e-visa,90,36083
+Turkey,Djibouti,visa on arrival,90,36083
 Turkey,Dominican Republic,visa free,0,36084
 Turkey,Ecuador,-1,0,36085
 Turkey,Egypt,visa on arrival,30,36086
@@ -36279,7 +36279,7 @@ Turkmenistan,Cuba,visa required,30,36277
 Turkmenistan,Cyprus,visa required,0,36278
 Turkmenistan,Czech Republic,visa required,0,36279
 Turkmenistan,Denmark,visa required,0,36280
-Turkmenistan,Djibouti,e-visa,90,36281
+Turkmenistan,Djibouti,visa on arrival,90,36281
 Turkmenistan,Dominican Republic,visa required,0,36282
 Turkmenistan,Ecuador,-1,0,36283
 Turkmenistan,Egypt,visa required,0,36284
@@ -36477,7 +36477,7 @@ Tuvalu,Cuba,visa required,30,36475
 Tuvalu,Cyprus,-1,0,36476
 Tuvalu,Czech Republic,-1,0,36477
 Tuvalu,Denmark,-1,0,36478
-Tuvalu,Djibouti,e-visa,90,36479
+Tuvalu,Djibouti,visa on arrival,90,36479
 Tuvalu,Dominican Republic,visa free,0,36480
 Tuvalu,Ecuador,-1,0,36481
 Tuvalu,Egypt,visa on arrival,30,36482
@@ -36675,7 +36675,7 @@ Uganda,Cuba,visa required,30,36673
 Uganda,Cyprus,visa required,0,36674
 Uganda,Czech Republic,visa required,0,36675
 Uganda,Denmark,visa required,0,36676
-Uganda,Djibouti,e-visa,90,36677
+Uganda,Djibouti,visa on arrival,90,36677
 Uganda,Dominican Republic,visa required,0,36678
 Uganda,Ecuador,-1,0,36679
 Uganda,Egypt,visa required,0,36680
@@ -36873,7 +36873,7 @@ Ukraine,Cuba,visa required,30,36871
 Ukraine,Cyprus,-1,0,36872
 Ukraine,Czech Republic,-1,0,36873
 Ukraine,Denmark,-1,0,36874
-Ukraine,Djibouti,e-visa,90,36875
+Ukraine,Djibouti,visa on arrival,90,36875
 Ukraine,Dominican Republic,visa free,0,36876
 Ukraine,Ecuador,-1,0,36877
 Ukraine,Egypt,visa on arrival,30,36878
@@ -37071,7 +37071,7 @@ United Arab Emirates,Cuba,-1,0,37069
 United Arab Emirates,Cyprus,-1,0,37070
 United Arab Emirates,Czech Republic,-1,0,37071
 United Arab Emirates,Denmark,-1,0,37072
-United Arab Emirates,Djibouti,e-visa,90,37073
+United Arab Emirates,Djibouti,visa on arrival,90,37073
 United Arab Emirates,Dominican Republic,visa free,0,37074
 United Arab Emirates,Ecuador,-1,0,37075
 United Arab Emirates,Egypt,-1,0,37076
@@ -37269,7 +37269,7 @@ United Kingdom,Cuba,visa required,30,37267
 United Kingdom,Cyprus,-1,0,37268
 United Kingdom,Czech Republic,-1,0,37269
 United Kingdom,Denmark,-1,0,37270
-United Kingdom,Djibouti,e-visa,90,37271
+United Kingdom,Djibouti,visa on arrival,90,37271
 United Kingdom,Dominican Republic,visa free,0,37272
 United Kingdom,Ecuador,-1,0,37273
 United Kingdom,Egypt,visa on arrival,30,37274
@@ -37467,7 +37467,7 @@ United States,Cuba,visa required,30,37465
 United States,Cyprus,-1,0,37466
 United States,Czech Republic,-1,0,37467
 United States,Denmark,-1,0,37468
-United States,Djibouti,e-visa,90,37469
+United States,Djibouti,visa on arrival,90,37469
 United States,Dominican Republic,visa free,0,37470
 United States,Ecuador,-1,0,37471
 United States,Egypt,visa on arrival,30,37472
@@ -37665,7 +37665,7 @@ Uruguay,Cuba,visa required,30,37663
 Uruguay,Cyprus,-1,0,37664
 Uruguay,Czech Republic,visa free,0,37665
 Uruguay,Denmark,-1,0,37666
-Uruguay,Djibouti,e-visa,90,37667
+Uruguay,Djibouti,visa on arrival,90,37667
 Uruguay,Dominican Republic,visa free,0,37668
 Uruguay,Ecuador,-1,0,37669
 Uruguay,Egypt,visa on arrival,30,37670
@@ -37863,7 +37863,7 @@ Uzbekistan,Cuba,visa required,0,37861
 Uzbekistan,Cyprus,visa required,0,37862
 Uzbekistan,Czech Republic,visa required,0,37863
 Uzbekistan,Denmark,visa required,0,37864
-Uzbekistan,Djibouti,e-visa,90,37865
+Uzbekistan,Djibouti,visa on arrival,90,37865
 Uzbekistan,Dominican Republic,visa required,0,37866
 Uzbekistan,Ecuador,e-visa,0,37867
 Uzbekistan,Egypt,visa required,0,37868
@@ -38061,7 +38061,7 @@ Vanuatu,Cuba,visa required,30,38059
 Vanuatu,Cyprus,visa required,0,38060
 Vanuatu,Czech Republic,visa required,0,38061
 Vanuatu,Denmark,visa required,0,38062
-Vanuatu,Djibouti,e-visa,90,38063
+Vanuatu,Djibouti,visa on arrival,90,38063
 Vanuatu,Dominican Republic,visa free,0,38064
 Vanuatu,Ecuador,-1,0,38065
 Vanuatu,Egypt,visa on arrival,30,38066
@@ -38259,7 +38259,7 @@ Vatican,Cuba,visa required,30,38257
 Vatican,Cyprus,-1,0,38258
 Vatican,Czech Republic,-1,0,38259
 Vatican,Denmark,-1,0,38260
-Vatican,Djibouti,e-visa,90,38261
+Vatican,Djibouti,visa on arrival,90,38261
 Vatican,Dominican Republic,visa free,0,38262
 Vatican,Ecuador,-1,0,38263
 Vatican,Egypt,visa on arrival,30,38264
@@ -38457,7 +38457,7 @@ Venezuela,Cuba,visa required,30,38455
 Venezuela,Cyprus,-1,0,38456
 Venezuela,Czech Republic,-1,0,38457
 Venezuela,Denmark,-1,0,38458
-Venezuela,Djibouti,e-visa,90,38459
+Venezuela,Djibouti,visa on arrival,90,38459
 Venezuela,Dominican Republic,visa required,0,38460
 Venezuela,Ecuador,e-visa,0,38461
 Venezuela,Egypt,visa on arrival,30,38462
@@ -38655,7 +38655,7 @@ Vietnam,Cuba,visa required,30,38653
 Vietnam,Cyprus,visa required,0,38654
 Vietnam,Czech Republic,visa required,0,38655
 Vietnam,Denmark,visa required,0,38656
-Vietnam,Djibouti,e-visa,90,38657
+Vietnam,Djibouti,visa on arrival,90,38657
 Vietnam,Dominican Republic,visa required,0,38658
 Vietnam,Ecuador,e-visa,0,38659
 Vietnam,Egypt,visa required,0,38660
@@ -38853,7 +38853,7 @@ Yemen,Cuba,visa required,0,38851
 Yemen,Cyprus,visa required,0,38852
 Yemen,Czech Republic,visa required,0,38853
 Yemen,Denmark,visa required,0,38854
-Yemen,Djibouti,e-visa,90,38855
+Yemen,Djibouti,visa on arrival,90,38855
 Yemen,Dominican Republic,visa required,0,38856
 Yemen,Ecuador,e-visa,0,38857
 Yemen,Egypt,visa required,0,38858
@@ -39051,7 +39051,7 @@ Zambia,Cuba,visa required,30,39049
 Zambia,Cyprus,visa required,0,39050
 Zambia,Czech Republic,visa required,0,39051
 Zambia,Denmark,visa required,0,39052
-Zambia,Djibouti,e-visa,90,39053
+Zambia,Djibouti,visa on arrival,90,39053
 Zambia,Dominican Republic,visa required,0,39054
 Zambia,Ecuador,-1,0,39055
 Zambia,Egypt,visa required,0,39056
@@ -39249,7 +39249,7 @@ Zimbabwe,Cuba,visa required,30,39247
 Zimbabwe,Cyprus,visa required,0,39248
 Zimbabwe,Czech Republic,visa required,0,39249
 Zimbabwe,Denmark,visa required,0,39250
-Zimbabwe,Djibouti,e-visa,90,39251
+Zimbabwe,Djibouti,visa on arrival,90,39251
 Zimbabwe,Dominican Republic,visa required,0,39252
 Zimbabwe,Ecuador,-1,0,39253
 Zimbabwe,Egypt,visa required,0,39254

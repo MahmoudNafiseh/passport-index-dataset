@@ -6,7 +6,8 @@ from dotenv import load_dotenv
 
 load_dotenv()
 import os
-import MySQLdb
+import psycopg2
+import psycopg2.extras
 
 codes = (
     pd.read_csv(
@@ -205,18 +206,16 @@ df_diff = (
 df_diff.to_csv("passport-index-tidy-diff.csv", index=False)
 
 
-connection = MySQLdb.connect(
-    host=os.getenv("DB_HOST"),
-    user=os.getenv("DB_USERNAME"),
-    passwd=os.getenv("DB_PASSWORD"),
-    db=os.getenv("DB_NAME"),
-    autocommit=True,
-    ssl_mode="VERIFY_IDENTITY",
-    ssl={"ca": "/etc/ssl/certs/ca-certificates.crt"},
-)
-
-if connection.open:
+try:
+    connection = psycopg2.connect(
+        host=os.getenv("DB_HOST"),
+        user=os.getenv("DB_USERNAME"),
+        password=os.getenv("DB_PASSWORD"),
+        database=os.getenv("DB_NAME"),
+        port=5432,
+    )
     print("Connection Successful")
+
     cursor = connection.cursor()
 
     try:
@@ -224,7 +223,7 @@ if connection.open:
         df = pd.read_csv("passport-index-tidy-diff.csv")
 
         # Prepare the SQL query template
-        update_query = "UPDATE `passport-index` SET passport = %s, destination = %s, requirement = %s, duration = %s WHERE `passport-id` = %s"
+        update_query = "UPDATE passport_index SET passport = %s, destination = %s, requirement = %s, duration = %s WHERE passport_id = %s"
 
         # Set batch size based on your preference and performance testing
         batch_size = 1000
@@ -236,7 +235,7 @@ if connection.open:
             rows_to_update = [tuple(x) for x in batch_df.values]
 
             # Perform batch update
-            cursor.executemany(update_query, rows_to_update)
+            psycopg2.extras.execute_batch(cursor, update_query, rows_to_update)
 
         # Commit the transaction
         connection.commit()
@@ -254,5 +253,5 @@ if connection.open:
         cursor.close()
         connection.close()
 
-else:
-    print("Connection Failed")
+except Exception as e:
+    print(f"Connection Failed: {str(e)}")

@@ -45,7 +45,7 @@ AFG,CUB,visa required
 AFG,CYP,visa required
 AFG,CZE,visa required
 AFG,DNK,visa required
-AFG,DJI,e-visa (90)
+AFG,DJI,visa on arrival (90)
 AFG,DOM,visa required
 AFG,ECU,e-visa
 AFG,EGY,visa required
@@ -243,7 +243,7 @@ ALB,CUB,visa required (30)
 ALB,CYP,-1
 ALB,CZE,-1
 ALB,DNK,-1
-ALB,DJI,e-visa (90)
+ALB,DJI,visa on arrival (90)
 ALB,DOM,visa free
 ALB,ECU,e-visa
 ALB,EGY,visa on arrival (30)
@@ -441,7 +441,7 @@ DZA,CUB,visa required (30)
 DZA,CYP,visa required
 DZA,CZE,visa required
 DZA,DNK,visa required
-DZA,DJI,e-visa (90)
+DZA,DJI,visa on arrival (90)
 DZA,DOM,visa required
 DZA,ECU,-1
 DZA,EGY,visa required
@@ -639,7 +639,7 @@ AND,CUB,visa required (30)
 AND,CYP,-1
 AND,CZE,-1
 AND,DNK,-1
-AND,DJI,e-visa (90)
+AND,DJI,visa on arrival (90)
 AND,DOM,visa free
 AND,ECU,-1
 AND,EGY,visa on arrival (30)
@@ -837,7 +837,7 @@ AGO,CUB,visa required (30)
 AGO,CYP,visa required
 AGO,CZE,visa required
 AGO,DNK,visa required
-AGO,DJI,e-visa (90)
+AGO,DJI,visa on arrival (90)
 AGO,DOM,visa required
 AGO,ECU,e-visa
 AGO,EGY,visa required
@@ -1035,7 +1035,7 @@ ATG,CUB,-1
 ATG,CYP,-1
 ATG,CZE,-1
 ATG,DNK,-1
-ATG,DJI,e-visa (90)
+ATG,DJI,visa on arrival (90)
 ATG,DOM,visa free
 ATG,ECU,-1
 ATG,EGY,visa on arrival (30)
@@ -1233,7 +1233,7 @@ ARG,CUB,visa required (30)
 ARG,CYP,-1
 ARG,CZE,-1
 ARG,DNK,-1
-ARG,DJI,e-visa (90)
+ARG,DJI,visa on arrival (90)
 ARG,DOM,visa free
 ARG,ECU,-1
 ARG,EGY,visa on arrival (30)
@@ -1431,7 +1431,7 @@ ARM,CUB,visa required (30)
 ARM,CYP,visa required
 ARM,CZE,visa required
 ARM,DNK,visa required
-ARM,DJI,e-visa (90)
+ARM,DJI,visa on arrival (90)
 ARM,DOM,visa required
 ARM,ECU,-1
 ARM,EGY,visa on arrival (30)
@@ -1629,7 +1629,7 @@ AUS,CUB,visa required (30)
 AUS,CYP,-1
 AUS,CZE,-1
 AUS,DNK,-1
-AUS,DJI,e-visa (90)
+AUS,DJI,visa on arrival (90)
 AUS,DOM,visa free
 AUS,ECU,-1
 AUS,EGY,visa on arrival (30)
@@ -1827,7 +1827,7 @@ AUT,CUB,visa required (30)
 AUT,CYP,visa free
 AUT,CZE,visa free
 AUT,DNK,visa free
-AUT,DJI,e-visa (90)
+AUT,DJI,visa on arrival (90)
 AUT,DOM,visa free
 AUT,ECU,-1
 AUT,EGY,visa on arrival (30)
@@ -2025,7 +2025,7 @@ AZE,CUB,visa required (30)
 AZE,CYP,visa required
 AZE,CZE,visa required
 AZE,DNK,visa required
-AZE,DJI,e-visa (90)
+AZE,DJI,visa on arrival (90)
 AZE,DOM,visa required
 AZE,ECU,-1
 AZE,EGY,visa on arrival (30)
@@ -2223,7 +2223,7 @@ BHS,CUB,visa required (30)
 BHS,CYP,-1
 BHS,CZE,-1
 BHS,DNK,-1
-BHS,DJI,e-visa (90)
+BHS,DJI,visa on arrival (90)
 BHS,DOM,visa free
 BHS,ECU,-1
 BHS,EGY,visa on arrival (30)
@@ -2240,7 +2240,7 @@ BHS,GAB,e-visa (90)
 BHS,GMB,-1
 BHS,GEO,-1
 BHS,DEU,-1
-BHS,GHA,visa required
+BHS,GHA,-1
 BHS,GRC,-1
 BHS,GRD,-1
 BHS,GTM,-1
@@ -2421,7 +2421,7 @@ BHR,CUB,visa required (30)
 BHR,CYP,visa required
 BHR,CZE,visa required
 BHR,DNK,visa required
-BHR,DJI,e-visa (90)
+BHR,DJI,visa on arrival (90)
 BHR,DOM,visa free
 BHR,ECU,-1
 BHR,EGY,-1
@@ -2619,7 +2619,7 @@ BGD,CUB,visa required
 BGD,CYP,visa required
 BGD,CZE,visa required
 BGD,DNK,visa required
-BGD,DJI,e-visa (90)
+BGD,DJI,visa on arrival (90)
 BGD,DOM,visa required
 BGD,ECU,e-visa
 BGD,EGY,visa required
@@ -2817,7 +2817,7 @@ BRB,CUB,-1
 BRB,CYP,-1
 BRB,CZE,-1
 BRB,DNK,-1
-BRB,DJI,e-visa (90)
+BRB,DJI,visa on arrival (90)
 BRB,DOM,visa free
 BRB,ECU,-1
 BRB,EGY,visa on arrival (30)
@@ -3015,7 +3015,7 @@ BLR,CUB,-1
 BLR,CYP,visa required
 BLR,CZE,visa required
 BLR,DNK,visa required
-BLR,DJI,e-visa (90)
+BLR,DJI,visa on arrival (90)
 BLR,DOM,visa required
 BLR,ECU,-1
 BLR,EGY,visa on arrival (30)
@@ -3213,7 +3213,7 @@ BEL,CUB,visa required (30)
 BEL,CYP,visa free
 BEL,CZE,visa free
 BEL,DNK,visa free
-BEL,DJI,e-visa (90)
+BEL,DJI,visa on arrival (90)
 BEL,DOM,visa free
 BEL,ECU,-1
 BEL,EGY,visa on arrival (30)
@@ -3411,7 +3411,7 @@ BLZ,CUB,visa required (30)
 BLZ,CYP,visa required
 BLZ,CZE,visa required
 BLZ,DNK,visa required
-BLZ,DJI,e-visa (90)
+BLZ,DJI,visa on arrival (90)
 BLZ,DOM,visa free
 BLZ,ECU,-1
 BLZ,EGY,visa on arrival (30)
@@ -3609,7 +3609,7 @@ BEN,CUB,visa required (30)
 BEN,CYP,visa required
 BEN,CZE,visa required
 BEN,DNK,visa required
-BEN,DJI,e-visa (90)
+BEN,DJI,visa on arrival (90)
 BEN,DOM,visa required
 BEN,ECU,-1
 BEN,EGY,visa required
@@ -3807,7 +3807,7 @@ BTN,CUB,visa required (30)
 BTN,CYP,visa required
 BTN,CZE,visa required
 BTN,DNK,visa required
-BTN,DJI,e-visa (90)
+BTN,DJI,visa on arrival (90)
 BTN,DOM,visa required
 BTN,ECU,-1
 BTN,EGY,visa on arrival (30)
@@ -4005,7 +4005,7 @@ BOL,CUB,visa required (30)
 BOL,CYP,visa required
 BOL,CZE,visa required
 BOL,DNK,visa required
-BOL,DJI,e-visa (90)
+BOL,DJI,visa on arrival (90)
 BOL,DOM,visa free
 BOL,ECU,-1
 BOL,EGY,visa on arrival (30)
@@ -4203,7 +4203,7 @@ BIH,CUB,-1
 BIH,CYP,-1
 BIH,CZE,-1
 BIH,DNK,-1
-BIH,DJI,e-visa (90)
+BIH,DJI,visa on arrival (90)
 BIH,DOM,visa free
 BIH,ECU,-1
 BIH,EGY,e-visa
@@ -4296,7 +4296,7 @@ BIH,PER,visa required
 BIH,PHL,visa required
 BIH,POL,-1
 BIH,PRT,-1
-BIH,QAT,visa required
+BIH,QAT,visa on arrival (30)
 BIH,ROU,-1
 BIH,RUS,-1
 BIH,RWA,visa on arrival (30)
@@ -4401,7 +4401,7 @@ BWA,CUB,visa required (30)
 BWA,CYP,visa required
 BWA,CZE,visa required
 BWA,DNK,visa required
-BWA,DJI,e-visa (90)
+BWA,DJI,visa on arrival (90)
 BWA,DOM,visa free
 BWA,ECU,-1
 BWA,EGY,visa required
@@ -4599,7 +4599,7 @@ BRA,CUB,visa required (30)
 BRA,CYP,-1
 BRA,CZE,-1
 BRA,DNK,-1
-BRA,DJI,e-visa (90)
+BRA,DJI,visa on arrival (90)
 BRA,DOM,visa free
 BRA,ECU,-1
 BRA,EGY,visa on arrival (30)
@@ -4797,7 +4797,7 @@ BRN,CUB,visa required (30)
 BRN,CYP,-1
 BRN,CZE,-1
 BRN,DNK,-1
-BRN,DJI,e-visa (90)
+BRN,DJI,visa on arrival (90)
 BRN,DOM,visa free
 BRN,ECU,-1
 BRN,EGY,visa on arrival (30)
@@ -4995,7 +4995,7 @@ BGR,CUB,visa required (30)
 BGR,CYP,visa free
 BGR,CZE,visa free
 BGR,DNK,visa free
-BGR,DJI,e-visa (90)
+BGR,DJI,visa on arrival (90)
 BGR,DOM,visa free
 BGR,ECU,-1
 BGR,EGY,visa on arrival (30)
@@ -5193,7 +5193,7 @@ BFA,CUB,visa required (30)
 BFA,CYP,visa required
 BFA,CZE,visa required
 BFA,DNK,visa required
-BFA,DJI,e-visa (90)
+BFA,DJI,visa on arrival (90)
 BFA,DOM,visa required
 BFA,ECU,-1
 BFA,EGY,visa required
@@ -5391,7 +5391,7 @@ BDI,CUB,visa required (30)
 BDI,CYP,visa required
 BDI,CZE,visa required
 BDI,DNK,visa required
-BDI,DJI,e-visa (90)
+BDI,DJI,visa on arrival (90)
 BDI,DOM,visa required
 BDI,ECU,-1
 BDI,EGY,visa required
@@ -5589,7 +5589,7 @@ KHM,CUB,visa required (30)
 KHM,CYP,visa required
 KHM,CZE,visa required
 KHM,DNK,visa required
-KHM,DJI,e-visa (90)
+KHM,DJI,visa on arrival (90)
 KHM,DOM,visa required
 KHM,ECU,-1
 KHM,EGY,visa on arrival (30)
@@ -5787,7 +5787,7 @@ CMR,CUB,visa required
 CMR,CYP,visa required
 CMR,CZE,visa required
 CMR,DNK,visa required
-CMR,DJI,e-visa (90)
+CMR,DJI,visa on arrival (90)
 CMR,DOM,visa required
 CMR,ECU,e-visa
 CMR,EGY,visa required
@@ -5985,7 +5985,7 @@ CAN,CUB,visa required (90)
 CAN,CYP,-1
 CAN,CZE,-1
 CAN,DNK,-1
-CAN,DJI,e-visa (90)
+CAN,DJI,visa on arrival (90)
 CAN,DOM,visa free
 CAN,ECU,-1
 CAN,EGY,visa required
@@ -6183,7 +6183,7 @@ CPV,CUB,visa required (30)
 CPV,CYP,visa required
 CPV,CZE,visa required
 CPV,DNK,visa required
-CPV,DJI,e-visa (90)
+CPV,DJI,visa on arrival (90)
 CPV,DOM,visa required
 CPV,ECU,-1
 CPV,EGY,visa required
@@ -6381,7 +6381,7 @@ CAF,CUB,visa required (30)
 CAF,CYP,visa required
 CAF,CZE,visa required
 CAF,DNK,visa required
-CAF,DJI,e-visa (90)
+CAF,DJI,visa on arrival (90)
 CAF,DOM,visa required
 CAF,ECU,-1
 CAF,EGY,visa required
@@ -6579,7 +6579,7 @@ TCD,CUB,visa required (30)
 TCD,CYP,visa required
 TCD,CZE,visa required
 TCD,DNK,visa required
-TCD,DJI,e-visa (90)
+TCD,DJI,visa on arrival (90)
 TCD,DOM,visa required
 TCD,ECU,e-visa
 TCD,EGY,visa required
@@ -6777,7 +6777,7 @@ CHL,CUB,visa required (30)
 CHL,CYP,-1
 CHL,CZE,-1
 CHL,DNK,-1
-CHL,DJI,e-visa (90)
+CHL,DJI,visa on arrival (90)
 CHL,DOM,visa free
 CHL,ECU,-1
 CHL,EGY,visa on arrival (30)
@@ -6975,7 +6975,7 @@ CHN,CUB,visa required (30)
 CHN,CYP,visa required
 CHN,CZE,visa required
 CHN,DNK,visa required
-CHN,DJI,e-visa (90)
+CHN,DJI,visa on arrival (90)
 CHN,DOM,visa required
 CHN,ECU,-1
 CHN,EGY,visa on arrival (30)
@@ -7173,7 +7173,7 @@ COL,CUB,visa required (30)
 COL,CYP,-1
 COL,CZE,-1
 COL,DNK,-1
-COL,DJI,e-visa (90)
+COL,DJI,visa on arrival (90)
 COL,DOM,-1
 COL,ECU,-1
 COL,EGY,visa on arrival (30)
@@ -7371,7 +7371,7 @@ COM,CUB,visa required (30)
 COM,CYP,visa required
 COM,CZE,visa required
 COM,DNK,visa required
-COM,DJI,e-visa (90)
+COM,DJI,visa on arrival (90)
 COM,DOM,visa required
 COM,ECU,-1
 COM,EGY,visa required
@@ -7569,7 +7569,7 @@ COG,CUB,visa required (30)
 COG,CYP,visa required
 COG,CZE,visa required
 COG,DNK,visa required
-COG,DJI,e-visa (90)
+COG,DJI,visa on arrival (90)
 COG,DOM,visa required
 COG,ECU,e-visa
 COG,EGY,visa required
@@ -7767,7 +7767,7 @@ COD,CUB,visa required (30)
 COD,CYP,visa required
 COD,CZE,visa required
 COD,DNK,visa required
-COD,DJI,e-visa (90)
+COD,DJI,visa on arrival (90)
 COD,DOM,visa required
 COD,ECU,e-visa
 COD,EGY,visa required
@@ -7965,7 +7965,7 @@ CRI,CUB,visa required (30)
 CRI,CYP,-1
 CRI,CZE,-1
 CRI,DNK,-1
-CRI,DJI,e-visa (90)
+CRI,DJI,visa on arrival (90)
 CRI,DOM,visa free
 CRI,ECU,-1
 CRI,EGY,visa on arrival (30)
@@ -8163,7 +8163,7 @@ CIV,CUB,visa required (30)
 CIV,CYP,visa required
 CIV,CZE,visa required
 CIV,DNK,visa required
-CIV,DJI,e-visa (90)
+CIV,DJI,visa on arrival (90)
 CIV,DOM,visa required
 CIV,ECU,e-visa
 CIV,EGY,visa required
@@ -8361,7 +8361,7 @@ HRV,CUB,visa required (30)
 HRV,CYP,visa free
 HRV,CZE,visa free
 HRV,DNK,visa free
-HRV,DJI,e-visa (90)
+HRV,DJI,visa on arrival (90)
 HRV,DOM,visa free
 HRV,ECU,-1
 HRV,EGY,visa on arrival (30)
@@ -8559,7 +8559,7 @@ CUB,CUB,-1
 CUB,CYP,visa required
 CUB,CZE,visa required
 CUB,DNK,visa required
-CUB,DJI,e-visa (90)
+CUB,DJI,visa on arrival (90)
 CUB,DOM,visa required
 CUB,ECU,e-visa
 CUB,EGY,visa on arrival (30)
@@ -8757,7 +8757,7 @@ CYP,CUB,visa required (30)
 CYP,CYP,-1
 CYP,CZE,visa free
 CYP,DNK,visa free
-CYP,DJI,e-visa (90)
+CYP,DJI,visa on arrival (90)
 CYP,DOM,visa free
 CYP,ECU,-1
 CYP,EGY,visa on arrival (30)
@@ -8955,7 +8955,7 @@ CZE,CUB,visa required (30)
 CZE,CYP,visa free
 CZE,CZE,-1
 CZE,DNK,visa free
-CZE,DJI,e-visa (90)
+CZE,DJI,visa on arrival (90)
 CZE,DOM,visa free
 CZE,ECU,-1
 CZE,EGY,visa on arrival (30)
@@ -9153,7 +9153,7 @@ DNK,CUB,visa required (30)
 DNK,CYP,visa free
 DNK,CZE,visa free
 DNK,DNK,-1
-DNK,DJI,e-visa (90)
+DNK,DJI,visa on arrival (90)
 DNK,DOM,visa free
 DNK,ECU,-1
 DNK,EGY,visa on arrival (30)
@@ -9549,7 +9549,7 @@ DMA,CUB,-1
 DMA,CYP,-1
 DMA,CZE,-1
 DMA,DNK,-1
-DMA,DJI,e-visa (90)
+DMA,DJI,visa on arrival (90)
 DMA,DOM,visa free
 DMA,ECU,-1
 DMA,EGY,visa on arrival (30)
@@ -9747,7 +9747,7 @@ DOM,CUB,visa required (30)
 DOM,CYP,visa required
 DOM,CZE,visa required
 DOM,DNK,visa required
-DOM,DJI,e-visa (90)
+DOM,DJI,visa on arrival (90)
 DOM,DOM,-1
 DOM,ECU,-1
 DOM,EGY,visa on arrival (30)
@@ -9945,7 +9945,7 @@ ECU,CUB,visa required (30)
 ECU,CYP,visa required
 ECU,CZE,visa required
 ECU,DNK,visa required
-ECU,DJI,e-visa (90)
+ECU,DJI,visa on arrival (90)
 ECU,DOM,visa free
 ECU,ECU,-1
 ECU,EGY,visa on arrival (30)
@@ -10143,7 +10143,7 @@ EGY,CUB,visa required (30)
 EGY,CYP,visa required
 EGY,CZE,visa required
 EGY,DNK,visa required
-EGY,DJI,e-visa (90)
+EGY,DJI,visa on arrival (90)
 EGY,DOM,visa required
 EGY,ECU,e-visa
 EGY,EGY,-1
@@ -10341,7 +10341,7 @@ SLV,CUB,visa required (30)
 SLV,CYP,-1
 SLV,CZE,-1
 SLV,DNK,-1
-SLV,DJI,e-visa (90)
+SLV,DJI,visa on arrival (90)
 SLV,DOM,visa free
 SLV,ECU,-1
 SLV,EGY,visa on arrival (30)
@@ -10539,7 +10539,7 @@ GNQ,CUB,visa required (30)
 GNQ,CYP,visa required
 GNQ,CZE,visa required
 GNQ,DNK,visa required
-GNQ,DJI,e-visa (90)
+GNQ,DJI,visa on arrival (90)
 GNQ,DOM,visa required
 GNQ,ECU,-1
 GNQ,EGY,visa required
@@ -10737,7 +10737,7 @@ ERI,CUB,visa required
 ERI,CYP,visa required
 ERI,CZE,visa required
 ERI,DNK,visa required
-ERI,DJI,e-visa (90)
+ERI,DJI,visa on arrival (90)
 ERI,DOM,visa required
 ERI,ECU,e-visa
 ERI,EGY,visa required
@@ -10935,7 +10935,7 @@ EST,CUB,visa required (30)
 EST,CYP,visa free
 EST,CZE,visa free
 EST,DNK,visa free
-EST,DJI,e-visa (90)
+EST,DJI,visa on arrival (90)
 EST,DOM,visa free
 EST,ECU,-1
 EST,EGY,visa on arrival (30)
@@ -11133,7 +11133,7 @@ SWZ,CUB,visa required (30)
 SWZ,CYP,visa required
 SWZ,CZE,visa required
 SWZ,DNK,visa required
-SWZ,DJI,e-visa (90)
+SWZ,DJI,visa on arrival (90)
 SWZ,DOM,visa required
 SWZ,ECU,-1
 SWZ,EGY,visa required
@@ -11331,7 +11331,7 @@ ETH,CUB,visa required
 ETH,CYP,visa required
 ETH,CZE,visa required
 ETH,DNK,visa required
-ETH,DJI,e-visa (90)
+ETH,DJI,visa on arrival (90)
 ETH,DOM,visa required
 ETH,ECU,e-visa
 ETH,EGY,visa required
@@ -11455,7 +11455,7 @@ ETH,CHE,visa required
 ETH,SYR,visa required
 ETH,TWN,visa required
 ETH,TJK,e-visa
-ETH,TZA,e-visa
+ETH,TZA,visa on arrival
 ETH,THA,visa on arrival (30)
 ETH,TLS,visa on arrival (30)
 ETH,TGO,visa on arrival (15)
@@ -11529,7 +11529,7 @@ FJI,CUB,visa required (30)
 FJI,CYP,visa required
 FJI,CZE,visa required
 FJI,DNK,visa required
-FJI,DJI,e-visa (90)
+FJI,DJI,visa on arrival (90)
 FJI,DOM,visa free
 FJI,ECU,-1
 FJI,EGY,visa on arrival (30)
@@ -11727,7 +11727,7 @@ FIN,CUB,visa required (30)
 FIN,CYP,visa free
 FIN,CZE,visa free
 FIN,DNK,visa free
-FIN,DJI,e-visa (90)
+FIN,DJI,visa on arrival (90)
 FIN,DOM,visa free
 FIN,ECU,-1
 FIN,EGY,visa on arrival (30)
@@ -11925,7 +11925,7 @@ FRA,CUB,visa required (30)
 FRA,CYP,visa free
 FRA,CZE,visa free
 FRA,DNK,visa free
-FRA,DJI,e-visa (90)
+FRA,DJI,visa on arrival (90)
 FRA,DOM,visa free
 FRA,ECU,-1
 FRA,EGY,visa on arrival (30)
@@ -12123,7 +12123,7 @@ GAB,CUB,visa required (30)
 GAB,CYP,visa required
 GAB,CZE,visa required
 GAB,DNK,visa required
-GAB,DJI,e-visa (90)
+GAB,DJI,visa on arrival (90)
 GAB,DOM,visa required
 GAB,ECU,-1
 GAB,EGY,visa required
@@ -12321,7 +12321,7 @@ GMB,CUB,visa required (30)
 GMB,CYP,visa required
 GMB,CZE,visa required
 GMB,DNK,visa required
-GMB,DJI,e-visa (90)
+GMB,DJI,visa on arrival (90)
 GMB,DOM,visa required
 GMB,ECU,e-visa
 GMB,EGY,visa required
@@ -12519,7 +12519,7 @@ GEO,CUB,visa required (30)
 GEO,CYP,-1
 GEO,CZE,-1
 GEO,DNK,-1
-GEO,DJI,e-visa (90)
+GEO,DJI,visa on arrival (90)
 GEO,DOM,-1
 GEO,ECU,-1
 GEO,EGY,visa on arrival (30)
@@ -12717,7 +12717,7 @@ DEU,CUB,visa required (30)
 DEU,CYP,visa free
 DEU,CZE,visa free
 DEU,DNK,visa free
-DEU,DJI,e-visa (90)
+DEU,DJI,visa on arrival (90)
 DEU,DOM,visa free
 DEU,ECU,-1
 DEU,EGY,visa on arrival (30)
@@ -12915,7 +12915,7 @@ GHA,CUB,visa required
 GHA,CYP,visa required
 GHA,CZE,visa required
 GHA,DNK,visa required
-GHA,DJI,e-visa (90)
+GHA,DJI,visa on arrival (90)
 GHA,DOM,visa required
 GHA,ECU,e-visa
 GHA,EGY,visa required
@@ -13113,7 +13113,7 @@ GRC,CUB,visa required (30)
 GRC,CYP,visa free
 GRC,CZE,visa free
 GRC,DNK,visa free
-GRC,DJI,e-visa (90)
+GRC,DJI,visa on arrival (90)
 GRC,DOM,visa free
 GRC,ECU,-1
 GRC,EGY,visa on arrival (30)
@@ -13311,7 +13311,7 @@ GRD,CUB,-1
 GRD,CYP,-1
 GRD,CZE,-1
 GRD,DNK,-1
-GRD,DJI,e-visa (90)
+GRD,DJI,visa on arrival (90)
 GRD,DOM,visa free
 GRD,ECU,-1
 GRD,EGY,visa on arrival (30)
@@ -13509,7 +13509,7 @@ GTM,CUB,visa required (30)
 GTM,CYP,-1
 GTM,CZE,-1
 GTM,DNK,-1
-GTM,DJI,e-visa (90)
+GTM,DJI,visa on arrival (90)
 GTM,DOM,visa free
 GTM,ECU,-1
 GTM,EGY,visa required
@@ -13707,7 +13707,7 @@ GIN,CUB,visa required
 GIN,CYP,visa required
 GIN,CZE,visa required
 GIN,DNK,visa required
-GIN,DJI,e-visa (90)
+GIN,DJI,visa on arrival (90)
 GIN,DOM,visa required
 GIN,ECU,e-visa
 GIN,EGY,visa on arrival (30)
@@ -13905,7 +13905,7 @@ GNB,CUB,visa required (30)
 GNB,CYP,visa required
 GNB,CZE,visa required
 GNB,DNK,visa required
-GNB,DJI,e-visa (90)
+GNB,DJI,visa on arrival (90)
 GNB,DOM,visa required
 GNB,ECU,-1
 GNB,EGY,visa required
@@ -14103,7 +14103,7 @@ GUY,CUB,visa required (30)
 GUY,CYP,visa required
 GUY,CZE,visa required
 GUY,DNK,visa required
-GUY,DJI,e-visa (90)
+GUY,DJI,visa on arrival (90)
 GUY,DOM,visa free
 GUY,ECU,-1
 GUY,EGY,visa on arrival (30)
@@ -14301,7 +14301,7 @@ HTI,CUB,visa required (30)
 HTI,CYP,visa required
 HTI,CZE,visa required
 HTI,DNK,visa required
-HTI,DJI,e-visa (90)
+HTI,DJI,visa on arrival (90)
 HTI,DOM,visa required
 HTI,ECU,e-visa
 HTI,EGY,visa on arrival (30)
@@ -14499,7 +14499,7 @@ HND,CUB,visa required (30)
 HND,CYP,-1
 HND,CZE,-1
 HND,DNK,-1
-HND,DJI,e-visa (90)
+HND,DJI,visa on arrival (90)
 HND,DOM,visa free
 HND,ECU,-1
 HND,EGY,visa required
@@ -14697,7 +14697,7 @@ HKG,CUB,visa required (30)
 HKG,CYP,-1
 HKG,CZE,-1
 HKG,DNK,-1
-HKG,DJI,e-visa (90)
+HKG,DJI,visa on arrival (90)
 HKG,DOM,visa free
 HKG,ECU,-1
 HKG,EGY,-1
@@ -14895,7 +14895,7 @@ HUN,CUB,visa required (30)
 HUN,CYP,visa free
 HUN,CZE,visa free
 HUN,DNK,visa free
-HUN,DJI,e-visa (90)
+HUN,DJI,visa on arrival (90)
 HUN,DOM,visa free
 HUN,ECU,-1
 HUN,EGY,visa on arrival (30)
@@ -15093,7 +15093,7 @@ ISL,CUB,visa required (30)
 ISL,CYP,visa free
 ISL,CZE,visa free
 ISL,DNK,visa free
-ISL,DJI,e-visa (90)
+ISL,DJI,visa on arrival (90)
 ISL,DOM,visa free
 ISL,ECU,-1
 ISL,EGY,visa on arrival (30)
@@ -15291,7 +15291,7 @@ IND,CUB,visa required
 IND,CYP,visa required
 IND,CZE,visa required
 IND,DNK,visa required
-IND,DJI,e-visa (90)
+IND,DJI,visa on arrival (90)
 IND,DOM,visa required
 IND,ECU,e-visa
 IND,EGY,e-visa
@@ -15489,7 +15489,7 @@ IDN,CUB,visa required (30)
 IDN,CYP,visa required
 IDN,CZE,visa required
 IDN,DNK,visa required
-IDN,DJI,e-visa (90)
+IDN,DJI,visa on arrival (90)
 IDN,DOM,visa required
 IDN,ECU,-1
 IDN,EGY,visa required
@@ -15687,7 +15687,7 @@ IRN,CUB,visa required
 IRN,CYP,visa required
 IRN,CZE,visa required
 IRN,DNK,visa required
-IRN,DJI,e-visa (90)
+IRN,DJI,visa on arrival (90)
 IRN,DOM,visa required
 IRN,ECU,e-visa
 IRN,EGY,visa required
@@ -15885,7 +15885,7 @@ IRQ,CUB,visa required
 IRQ,CYP,visa required
 IRQ,CZE,visa required
 IRQ,DNK,visa required
-IRQ,DJI,e-visa (90)
+IRQ,DJI,visa on arrival (90)
 IRQ,DOM,visa required
 IRQ,ECU,e-visa
 IRQ,EGY,e-visa
@@ -16083,7 +16083,7 @@ IRL,CUB,visa required (30)
 IRL,CYP,visa free
 IRL,CZE,visa free
 IRL,DNK,visa free
-IRL,DJI,e-visa (90)
+IRL,DJI,visa on arrival (90)
 IRL,DOM,visa free
 IRL,ECU,-1
 IRL,EGY,visa on arrival (30)
@@ -16281,7 +16281,7 @@ ISR,CUB,visa required (30)
 ISR,CYP,-1
 ISR,CZE,-1
 ISR,DNK,-1
-ISR,DJI,e-visa (90)
+ISR,DJI,visa on arrival (90)
 ISR,DOM,visa free
 ISR,ECU,-1
 ISR,EGY,visa required
@@ -16479,7 +16479,7 @@ ITA,CUB,visa required (30)
 ITA,CYP,visa free
 ITA,CZE,visa free
 ITA,DNK,visa free
-ITA,DJI,e-visa (90)
+ITA,DJI,visa on arrival (90)
 ITA,DOM,visa free
 ITA,ECU,-1
 ITA,EGY,visa on arrival (30)
@@ -16677,7 +16677,7 @@ JAM,CUB,visa required (30)
 JAM,CYP,visa required
 JAM,CZE,visa required
 JAM,DNK,visa required
-JAM,DJI,e-visa (90)
+JAM,DJI,visa on arrival (90)
 JAM,DOM,visa free
 JAM,ECU,-1
 JAM,EGY,visa on arrival (30)
@@ -16875,7 +16875,7 @@ JPN,CUB,visa required (30)
 JPN,CYP,-1
 JPN,CZE,-1
 JPN,DNK,-1
-JPN,DJI,e-visa (90)
+JPN,DJI,visa on arrival (90)
 JPN,DOM,visa free
 JPN,ECU,-1
 JPN,EGY,visa on arrival (30)
@@ -17073,7 +17073,7 @@ JOR,CUB,visa required (30)
 JOR,CYP,visa required
 JOR,CZE,visa required
 JOR,DNK,visa required
-JOR,DJI,e-visa (90)
+JOR,DJI,visa on arrival (90)
 JOR,DOM,visa required
 JOR,ECU,-1
 JOR,EGY,-1
@@ -17271,7 +17271,7 @@ KAZ,CUB,visa required (30)
 KAZ,CYP,visa required
 KAZ,CZE,visa required
 KAZ,DNK,visa required
-KAZ,DJI,e-visa (90)
+KAZ,DJI,visa on arrival (90)
 KAZ,DOM,visa free
 KAZ,ECU,-1
 KAZ,EGY,visa on arrival (30)
@@ -17469,7 +17469,7 @@ KEN,CUB,-1
 KEN,CYP,visa required
 KEN,CZE,visa required
 KEN,DNK,visa required
-KEN,DJI,e-visa (90)
+KEN,DJI,visa on arrival (90)
 KEN,DOM,visa required
 KEN,ECU,e-visa
 KEN,EGY,visa required
@@ -17667,7 +17667,7 @@ KIR,CUB,visa required (30)
 KIR,CYP,-1
 KIR,CZE,-1
 KIR,DNK,-1
-KIR,DJI,e-visa (90)
+KIR,DJI,visa on arrival (90)
 KIR,DOM,visa free
 KIR,ECU,-1
 KIR,EGY,visa on arrival (30)
@@ -17865,7 +17865,7 @@ XKX,CUB,no admission
 XKX,CYP,-1
 XKX,CZE,-1
 XKX,DNK,-1
-XKX,DJI,e-visa (90)
+XKX,DJI,visa on arrival (90)
 XKX,DOM,visa required
 XKX,ECU,-1
 XKX,EGY,e-visa
@@ -18063,7 +18063,7 @@ KWT,CUB,visa required (30)
 KWT,CYP,visa required
 KWT,CZE,visa required
 KWT,DNK,visa required
-KWT,DJI,e-visa (90)
+KWT,DJI,visa on arrival (90)
 KWT,DOM,visa free
 KWT,ECU,-1
 KWT,EGY,-1
@@ -18261,7 +18261,7 @@ KGZ,CUB,visa required (30)
 KGZ,CYP,visa required
 KGZ,CZE,visa required
 KGZ,DNK,visa required
-KGZ,DJI,e-visa (90)
+KGZ,DJI,visa on arrival (90)
 KGZ,DOM,visa required
 KGZ,ECU,e-visa
 KGZ,EGY,visa required
@@ -18459,7 +18459,7 @@ LAO,CUB,visa required (30)
 LAO,CYP,visa required
 LAO,CZE,visa required
 LAO,DNK,visa required
-LAO,DJI,e-visa (90)
+LAO,DJI,visa on arrival (90)
 LAO,DOM,visa required
 LAO,ECU,-1
 LAO,EGY,visa on arrival (30)
@@ -18657,7 +18657,7 @@ LVA,CUB,visa required (30)
 LVA,CYP,visa free
 LVA,CZE,visa free
 LVA,DNK,visa free
-LVA,DJI,e-visa (90)
+LVA,DJI,visa on arrival (90)
 LVA,DOM,visa free
 LVA,ECU,-1
 LVA,EGY,visa on arrival (30)
@@ -18855,7 +18855,7 @@ LBN,CUB,visa required (30)
 LBN,CYP,visa required
 LBN,CZE,visa required
 LBN,DNK,visa required
-LBN,DJI,e-visa (90)
+LBN,DJI,visa on arrival (90)
 LBN,DOM,visa required
 LBN,ECU,-1
 LBN,EGY,visa required
@@ -19053,7 +19053,7 @@ LSO,CUB,visa required (30)
 LSO,CYP,visa required
 LSO,CZE,visa required
 LSO,DNK,visa required
-LSO,DJI,e-visa (90)
+LSO,DJI,visa on arrival (90)
 LSO,DOM,visa required
 LSO,ECU,-1
 LSO,EGY,visa required
@@ -19251,7 +19251,7 @@ LBR,CUB,visa required (30)
 LBR,CYP,visa required
 LBR,CZE,visa required
 LBR,DNK,visa required
-LBR,DJI,e-visa (90)
+LBR,DJI,visa on arrival (90)
 LBR,DOM,visa required
 LBR,ECU,-1
 LBR,EGY,visa required
@@ -19449,7 +19449,7 @@ LBY,CUB,visa required (30)
 LBY,CYP,visa required
 LBY,CZE,visa required
 LBY,DNK,visa required
-LBY,DJI,e-visa (90)
+LBY,DJI,visa on arrival (90)
 LBY,DOM,visa required
 LBY,ECU,e-visa
 LBY,EGY,visa required
@@ -19647,7 +19647,7 @@ LIE,CUB,visa required (30)
 LIE,CYP,visa free
 LIE,CZE,visa free
 LIE,DNK,visa free
-LIE,DJI,e-visa (90)
+LIE,DJI,visa on arrival (90)
 LIE,DOM,visa free
 LIE,ECU,-1
 LIE,EGY,visa on arrival (30)
@@ -19845,7 +19845,7 @@ LTU,CUB,visa required (30)
 LTU,CYP,visa free
 LTU,CZE,visa free
 LTU,DNK,visa free
-LTU,DJI,e-visa (90)
+LTU,DJI,visa on arrival (90)
 LTU,DOM,visa free
 LTU,ECU,-1
 LTU,EGY,visa on arrival (30)
@@ -20043,7 +20043,7 @@ LUX,CUB,visa required (30)
 LUX,CYP,visa free
 LUX,CZE,visa free
 LUX,DNK,visa free
-LUX,DJI,e-visa (90)
+LUX,DJI,visa on arrival (90)
 LUX,DOM,visa free
 LUX,ECU,-1
 LUX,EGY,visa on arrival (30)
@@ -20241,7 +20241,7 @@ MAC,CUB,visa required (30)
 MAC,CYP,-1
 MAC,CZE,-1
 MAC,DNK,-1
-MAC,DJI,e-visa (90)
+MAC,DJI,visa on arrival (90)
 MAC,DOM,visa free
 MAC,ECU,-1
 MAC,EGY,-1
@@ -20439,7 +20439,7 @@ MDG,CUB,visa required (30)
 MDG,CYP,visa required
 MDG,CZE,visa required
 MDG,DNK,visa required
-MDG,DJI,e-visa (90)
+MDG,DJI,visa on arrival (90)
 MDG,DOM,visa required
 MDG,ECU,-1
 MDG,EGY,visa required
@@ -20637,7 +20637,7 @@ MWI,CUB,visa required (30)
 MWI,CYP,visa required
 MWI,CZE,visa required
 MWI,DNK,visa required
-MWI,DJI,e-visa (90)
+MWI,DJI,visa on arrival (90)
 MWI,DOM,visa required
 MWI,ECU,-1
 MWI,EGY,visa required
@@ -20835,7 +20835,7 @@ MYS,CUB,-1
 MYS,CYP,-1
 MYS,CZE,-1
 MYS,DNK,-1
-MYS,DJI,e-visa (90)
+MYS,DJI,visa on arrival (90)
 MYS,DOM,visa free
 MYS,ECU,-1
 MYS,EGY,visa on arrival (15)
@@ -21033,7 +21033,7 @@ MDV,CUB,visa required (30)
 MDV,CYP,visa required
 MDV,CZE,visa required
 MDV,DNK,visa required
-MDV,DJI,e-visa (90)
+MDV,DJI,visa on arrival (90)
 MDV,DOM,visa required
 MDV,ECU,-1
 MDV,EGY,visa required
@@ -21231,7 +21231,7 @@ MLI,CUB,visa required (30)
 MLI,CYP,visa required
 MLI,CZE,visa required
 MLI,DNK,visa required
-MLI,DJI,e-visa (90)
+MLI,DJI,visa on arrival (90)
 MLI,DOM,visa required
 MLI,ECU,e-visa
 MLI,EGY,visa required
@@ -21429,7 +21429,7 @@ MLT,CUB,visa required (30)
 MLT,CYP,visa free
 MLT,CZE,visa free
 MLT,DNK,visa free
-MLT,DJI,e-visa (90)
+MLT,DJI,visa on arrival (90)
 MLT,DOM,visa free
 MLT,ECU,-1
 MLT,EGY,visa on arrival (30)
@@ -21627,7 +21627,7 @@ MHL,CUB,visa required (30)
 MHL,CYP,-1
 MHL,CZE,-1
 MHL,DNK,-1
-MHL,DJI,e-visa (90)
+MHL,DJI,visa on arrival (90)
 MHL,DOM,visa free
 MHL,ECU,-1
 MHL,EGY,visa on arrival (30)
@@ -21825,7 +21825,7 @@ MRT,CUB,visa required (30)
 MRT,CYP,visa required
 MRT,CZE,visa required
 MRT,DNK,visa required
-MRT,DJI,e-visa (90)
+MRT,DJI,visa on arrival (90)
 MRT,DOM,visa required
 MRT,ECU,e-visa
 MRT,EGY,visa required
@@ -22023,7 +22023,7 @@ MUS,CUB,visa required (30)
 MUS,CYP,-1
 MUS,CZE,-1
 MUS,DNK,-1
-MUS,DJI,e-visa (90)
+MUS,DJI,visa on arrival (90)
 MUS,DOM,visa free
 MUS,ECU,-1
 MUS,EGY,visa required
@@ -22221,7 +22221,7 @@ MEX,CUB,visa required (30)
 MEX,CYP,-1
 MEX,CZE,-1
 MEX,DNK,-1
-MEX,DJI,e-visa (90)
+MEX,DJI,visa on arrival (90)
 MEX,DOM,visa free
 MEX,ECU,-1
 MEX,EGY,visa on arrival (30)
@@ -22419,7 +22419,7 @@ FSM,CUB,visa required (30)
 FSM,CYP,-1
 FSM,CZE,-1
 FSM,DNK,-1
-FSM,DJI,e-visa (90)
+FSM,DJI,visa on arrival (90)
 FSM,DOM,visa free
 FSM,ECU,-1
 FSM,EGY,visa on arrival (30)
@@ -22617,7 +22617,7 @@ MDA,CUB,visa required (30)
 MDA,CYP,-1
 MDA,CZE,-1
 MDA,DNK,-1
-MDA,DJI,e-visa (90)
+MDA,DJI,visa on arrival (90)
 MDA,DOM,visa required
 MDA,ECU,-1
 MDA,EGY,e-visa
@@ -22815,7 +22815,7 @@ MCO,CUB,visa required (30)
 MCO,CYP,-1
 MCO,CZE,-1
 MCO,DNK,-1
-MCO,DJI,e-visa (90)
+MCO,DJI,visa on arrival (90)
 MCO,DOM,visa free
 MCO,ECU,-1
 MCO,EGY,visa on arrival (30)
@@ -23013,7 +23013,7 @@ MNG,CUB,-1
 MNG,CYP,visa required
 MNG,CZE,visa required
 MNG,DNK,visa required
-MNG,DJI,e-visa (90)
+MNG,DJI,visa on arrival (90)
 MNG,DOM,visa required
 MNG,ECU,-1
 MNG,EGY,visa on arrival (30)
@@ -23211,7 +23211,7 @@ MNE,CUB,-1
 MNE,CYP,-1
 MNE,CZE,-1
 MNE,DNK,-1
-MNE,DJI,e-visa (90)
+MNE,DJI,visa on arrival (90)
 MNE,DOM,visa required
 MNE,ECU,-1
 MNE,EGY,visa on arrival (30)
@@ -23409,7 +23409,7 @@ MAR,CUB,visa required (30)
 MAR,CYP,visa required
 MAR,CZE,visa required
 MAR,DNK,visa required
-MAR,DJI,e-visa (90)
+MAR,DJI,visa on arrival (90)
 MAR,DOM,-1
 MAR,ECU,-1
 MAR,EGY,visa required
@@ -23607,7 +23607,7 @@ MOZ,CUB,visa required (30)
 MOZ,CYP,visa required
 MOZ,CZE,visa required
 MOZ,DNK,visa required
-MOZ,DJI,e-visa (90)
+MOZ,DJI,visa on arrival (90)
 MOZ,DOM,visa required
 MOZ,ECU,-1
 MOZ,EGY,visa required
@@ -23805,7 +23805,7 @@ MMR,CUB,visa required (30)
 MMR,CYP,visa required
 MMR,CZE,visa required
 MMR,DNK,visa required
-MMR,DJI,e-visa (90)
+MMR,DJI,visa on arrival (90)
 MMR,DOM,visa required
 MMR,ECU,e-visa
 MMR,EGY,visa required
@@ -24003,7 +24003,7 @@ NAM,CUB,visa free
 NAM,CYP,visa required
 NAM,CZE,visa required
 NAM,DNK,visa required
-NAM,DJI,e-visa (90)
+NAM,DJI,visa on arrival (90)
 NAM,DOM,visa free
 NAM,ECU,-1
 NAM,EGY,visa required
@@ -24201,7 +24201,7 @@ NRU,CUB,visa required (30)
 NRU,CYP,visa required
 NRU,CZE,visa required
 NRU,DNK,visa required
-NRU,DJI,e-visa (90)
+NRU,DJI,visa on arrival (90)
 NRU,DOM,visa free
 NRU,ECU,-1
 NRU,EGY,visa on arrival (30)
@@ -24399,7 +24399,7 @@ NPL,CUB,visa required
 NPL,CYP,visa required
 NPL,CZE,visa required
 NPL,DNK,visa required
-NPL,DJI,e-visa (90)
+NPL,DJI,visa on arrival (90)
 NPL,DOM,visa required
 NPL,ECU,e-visa
 NPL,EGY,visa on arrival (30)
@@ -24597,7 +24597,7 @@ NLD,CUB,visa required (30)
 NLD,CYP,visa free
 NLD,CZE,visa free
 NLD,DNK,visa free
-NLD,DJI,e-visa (90)
+NLD,DJI,visa on arrival (90)
 NLD,DOM,visa free
 NLD,ECU,-1
 NLD,EGY,visa on arrival (30)
@@ -24795,7 +24795,7 @@ NZL,CUB,visa required (30)
 NZL,CYP,-1
 NZL,CZE,-1
 NZL,DNK,-1
-NZL,DJI,e-visa (90)
+NZL,DJI,visa on arrival (90)
 NZL,DOM,visa free
 NZL,ECU,-1
 NZL,EGY,visa on arrival (30)
@@ -24993,7 +24993,7 @@ NIC,CUB,visa required (30)
 NIC,CYP,-1
 NIC,CZE,-1
 NIC,DNK,-1
-NIC,DJI,e-visa (90)
+NIC,DJI,visa on arrival (90)
 NIC,DOM,visa free
 NIC,ECU,-1
 NIC,EGY,visa on arrival (30)
@@ -25191,7 +25191,7 @@ NER,CUB,visa required (30)
 NER,CYP,visa required
 NER,CZE,visa required
 NER,DNK,visa required
-NER,DJI,e-visa (90)
+NER,DJI,visa on arrival (90)
 NER,DOM,visa required
 NER,ECU,-1
 NER,EGY,visa required
@@ -25389,7 +25389,7 @@ NGA,CUB,visa required
 NGA,CYP,visa required
 NGA,CZE,visa required
 NGA,DNK,visa required
-NGA,DJI,e-visa (90)
+NGA,DJI,visa on arrival (90)
 NGA,DOM,visa required
 NGA,ECU,e-visa
 NGA,EGY,visa required
@@ -25587,7 +25587,7 @@ PRK,CUB,visa required (30)
 PRK,CYP,visa required
 PRK,CZE,visa required
 PRK,DNK,visa required
-PRK,DJI,e-visa (90)
+PRK,DJI,visa on arrival (90)
 PRK,DOM,visa required
 PRK,ECU,e-visa
 PRK,EGY,visa on arrival (30)
@@ -25785,7 +25785,7 @@ MKD,CUB,-1
 MKD,CYP,-1
 MKD,CZE,-1
 MKD,DNK,-1
-MKD,DJI,e-visa (90)
+MKD,DJI,visa on arrival (90)
 MKD,DOM,visa free
 MKD,ECU,-1
 MKD,EGY,visa on arrival (30)
@@ -25983,7 +25983,7 @@ NOR,CUB,visa required (30)
 NOR,CYP,visa free
 NOR,CZE,visa free
 NOR,DNK,visa free
-NOR,DJI,e-visa (90)
+NOR,DJI,visa on arrival (90)
 NOR,DOM,visa free
 NOR,ECU,-1
 NOR,EGY,visa on arrival (30)
@@ -26181,7 +26181,7 @@ OMN,CUB,visa required (30)
 OMN,CYP,visa required
 OMN,CZE,visa required
 OMN,DNK,visa required
-OMN,DJI,e-visa (90)
+OMN,DJI,visa on arrival (90)
 OMN,DOM,visa required
 OMN,ECU,-1
 OMN,EGY,-1
@@ -26379,7 +26379,7 @@ PAK,CUB,visa required
 PAK,CYP,visa required
 PAK,CZE,visa required
 PAK,DNK,visa required
-PAK,DJI,e-visa (90)
+PAK,DJI,visa on arrival (90)
 PAK,DOM,visa required
 PAK,ECU,e-visa
 PAK,EGY,visa required
@@ -26577,7 +26577,7 @@ PLW,CUB,visa required (30)
 PLW,CYP,-1
 PLW,CZE,-1
 PLW,DNK,-1
-PLW,DJI,e-visa (90)
+PLW,DJI,visa on arrival (90)
 PLW,DOM,visa required
 PLW,ECU,-1
 PLW,EGY,visa on arrival (30)
@@ -26775,7 +26775,7 @@ PSE,CUB,visa required (30)
 PSE,CYP,visa required
 PSE,CZE,visa required
 PSE,DNK,visa required
-PSE,DJI,e-visa (90)
+PSE,DJI,visa on arrival (90)
 PSE,DOM,visa required
 PSE,ECU,-1
 PSE,EGY,visa required
@@ -26973,7 +26973,7 @@ PAN,CUB,visa required (30)
 PAN,CYP,-1
 PAN,CZE,-1
 PAN,DNK,-1
-PAN,DJI,e-visa (90)
+PAN,DJI,visa on arrival (90)
 PAN,DOM,visa free
 PAN,ECU,-1
 PAN,EGY,visa on arrival (30)
@@ -27171,7 +27171,7 @@ PNG,CUB,visa required (30)
 PNG,CYP,visa required
 PNG,CZE,visa required
 PNG,DNK,visa required
-PNG,DJI,e-visa (90)
+PNG,DJI,visa on arrival (90)
 PNG,DOM,visa free
 PNG,ECU,-1
 PNG,EGY,visa on arrival (30)
@@ -27369,7 +27369,7 @@ PRY,CUB,visa required (30)
 PRY,CYP,-1
 PRY,CZE,-1
 PRY,DNK,-1
-PRY,DJI,e-visa (90)
+PRY,DJI,visa on arrival (90)
 PRY,DOM,-1
 PRY,ECU,-1
 PRY,EGY,visa on arrival (30)
@@ -27567,7 +27567,7 @@ PER,CUB,visa required (30)
 PER,CYP,-1
 PER,CZE,-1
 PER,DNK,-1
-PER,DJI,e-visa (90)
+PER,DJI,visa on arrival (90)
 PER,DOM,visa free
 PER,ECU,-1
 PER,EGY,visa on arrival (30)
@@ -27765,7 +27765,7 @@ PHL,CUB,visa required
 PHL,CYP,visa required
 PHL,CZE,visa required
 PHL,DNK,visa required
-PHL,DJI,e-visa (90)
+PHL,DJI,visa on arrival (90)
 PHL,DOM,visa required
 PHL,ECU,e-visa
 PHL,EGY,visa required
@@ -27963,7 +27963,7 @@ POL,CUB,visa required (30)
 POL,CYP,visa free
 POL,CZE,visa free
 POL,DNK,visa free
-POL,DJI,e-visa (90)
+POL,DJI,visa on arrival (90)
 POL,DOM,visa free
 POL,ECU,-1
 POL,EGY,visa on arrival (30)
@@ -28161,7 +28161,7 @@ PRT,CUB,visa required (30)
 PRT,CYP,visa free
 PRT,CZE,visa free
 PRT,DNK,visa free
-PRT,DJI,e-visa (90)
+PRT,DJI,visa on arrival (90)
 PRT,DOM,visa free
 PRT,ECU,-1
 PRT,EGY,visa on arrival (30)
@@ -28359,7 +28359,7 @@ QAT,CUB,visa required (30)
 QAT,CYP,visa required
 QAT,CZE,visa required
 QAT,DNK,visa required
-QAT,DJI,e-visa (90)
+QAT,DJI,visa on arrival (90)
 QAT,DOM,visa free
 QAT,ECU,-1
 QAT,EGY,-1
@@ -28557,7 +28557,7 @@ ROU,CUB,visa required (30)
 ROU,CYP,visa free
 ROU,CZE,visa free
 ROU,DNK,visa free
-ROU,DJI,e-visa (90)
+ROU,DJI,visa on arrival (90)
 ROU,DOM,visa free
 ROU,ECU,-1
 ROU,EGY,visa on arrival (30)
@@ -28755,7 +28755,7 @@ RUS,CUB,-1
 RUS,CYP,visa required
 RUS,CZE,visa required
 RUS,DNK,visa required
-RUS,DJI,e-visa (90)
+RUS,DJI,visa on arrival (90)
 RUS,DOM,visa free
 RUS,ECU,-1
 RUS,EGY,visa on arrival (30)
@@ -28953,7 +28953,7 @@ RWA,CUB,visa required (30)
 RWA,CYP,visa required
 RWA,CZE,visa required
 RWA,DNK,visa required
-RWA,DJI,e-visa (90)
+RWA,DJI,visa on arrival (90)
 RWA,DOM,visa required
 RWA,ECU,-1
 RWA,EGY,visa required
@@ -29151,7 +29151,7 @@ KNA,CUB,-1
 KNA,CYP,-1
 KNA,CZE,-1
 KNA,DNK,-1
-KNA,DJI,e-visa (90)
+KNA,DJI,visa on arrival (90)
 KNA,DOM,visa free
 KNA,ECU,-1
 KNA,EGY,visa required
@@ -29349,7 +29349,7 @@ LCA,CUB,-1
 LCA,CYP,-1
 LCA,CZE,-1
 LCA,DNK,-1
-LCA,DJI,e-visa (90)
+LCA,DJI,visa on arrival (90)
 LCA,DOM,visa free
 LCA,ECU,-1
 LCA,EGY,visa on arrival (30)
@@ -29547,7 +29547,7 @@ WSM,CUB,visa required (30)
 WSM,CYP,-1
 WSM,CZE,-1
 WSM,DNK,-1
-WSM,DJI,e-visa (90)
+WSM,DJI,visa on arrival (90)
 WSM,DOM,visa required
 WSM,ECU,-1
 WSM,EGY,visa on arrival (30)
@@ -29745,7 +29745,7 @@ SMR,CUB,visa required (30)
 SMR,CYP,-1
 SMR,CZE,-1
 SMR,DNK,-1
-SMR,DJI,e-visa (90)
+SMR,DJI,visa on arrival (90)
 SMR,DOM,visa free
 SMR,ECU,-1
 SMR,EGY,visa on arrival (30)
@@ -29943,7 +29943,7 @@ STP,CUB,visa required (30)
 STP,CYP,visa required
 STP,CZE,visa required
 STP,DNK,visa required
-STP,DJI,e-visa (90)
+STP,DJI,visa on arrival (90)
 STP,DOM,visa required
 STP,ECU,-1
 STP,EGY,visa on arrival (30)
@@ -30141,7 +30141,7 @@ SAU,CUB,visa required (30)
 SAU,CYP,visa required
 SAU,CZE,visa required
 SAU,DNK,visa required
-SAU,DJI,e-visa (90)
+SAU,DJI,visa on arrival (90)
 SAU,DOM,visa required
 SAU,ECU,-1
 SAU,EGY,-1
@@ -30339,7 +30339,7 @@ SEN,CUB,visa required (30)
 SEN,CYP,visa required
 SEN,CZE,visa required
 SEN,DNK,visa required
-SEN,DJI,e-visa (90)
+SEN,DJI,visa on arrival (90)
 SEN,DOM,visa required
 SEN,ECU,e-visa
 SEN,EGY,visa required
@@ -30537,7 +30537,7 @@ SRB,CUB,-1
 SRB,CYP,-1
 SRB,CZE,-1
 SRB,DNK,-1
-SRB,DJI,e-visa (90)
+SRB,DJI,visa on arrival (90)
 SRB,DOM,visa free
 SRB,ECU,-1
 SRB,EGY,visa on arrival (30)
@@ -30735,7 +30735,7 @@ SYC,CUB,visa required (30)
 SYC,CYP,-1
 SYC,CZE,-1
 SYC,DNK,-1
-SYC,DJI,e-visa (90)
+SYC,DJI,visa on arrival (90)
 SYC,DOM,visa free
 SYC,ECU,-1
 SYC,EGY,visa on arrival (30)
@@ -30933,7 +30933,7 @@ SLE,CUB,visa required
 SLE,CYP,visa required
 SLE,CZE,visa required
 SLE,DNK,visa required
-SLE,DJI,e-visa (90)
+SLE,DJI,visa on arrival (90)
 SLE,DOM,visa required
 SLE,ECU,-1
 SLE,EGY,visa required
@@ -31329,7 +31329,7 @@ SVK,CUB,visa required (30)
 SVK,CYP,visa free
 SVK,CZE,visa free
 SVK,DNK,visa free
-SVK,DJI,e-visa (90)
+SVK,DJI,visa on arrival (90)
 SVK,DOM,visa free
 SVK,ECU,-1
 SVK,EGY,visa on arrival (30)
@@ -31527,7 +31527,7 @@ SVN,CUB,visa required (30)
 SVN,CYP,visa free
 SVN,CZE,visa free
 SVN,DNK,visa free
-SVN,DJI,e-visa (90)
+SVN,DJI,visa on arrival (90)
 SVN,DOM,visa free
 SVN,ECU,-1
 SVN,EGY,visa on arrival (30)
@@ -31725,7 +31725,7 @@ SLB,CUB,visa required (30)
 SLB,CYP,-1
 SLB,CZE,-1
 SLB,DNK,-1
-SLB,DJI,e-visa (90)
+SLB,DJI,visa on arrival (90)
 SLB,DOM,visa free
 SLB,ECU,-1
 SLB,EGY,visa on arrival (30)
@@ -31923,7 +31923,7 @@ SOM,CUB,visa required
 SOM,CYP,visa required
 SOM,CZE,visa required
 SOM,DNK,visa required
-SOM,DJI,e-visa (90)
+SOM,DJI,visa on arrival (90)
 SOM,DOM,visa required
 SOM,ECU,e-visa
 SOM,EGY,visa required
@@ -32121,7 +32121,7 @@ ZAF,CUB,visa required (30)
 ZAF,CYP,visa required
 ZAF,CZE,visa required
 ZAF,DNK,visa required
-ZAF,DJI,e-visa (90)
+ZAF,DJI,visa on arrival (90)
 ZAF,DOM,visa free
 ZAF,ECU,-1
 ZAF,EGY,visa on arrival (30)
@@ -32319,7 +32319,7 @@ KOR,CUB,visa required (30)
 KOR,CYP,-1
 KOR,CZE,-1
 KOR,DNK,-1
-KOR,DJI,e-visa (90)
+KOR,DJI,visa on arrival (90)
 KOR,DOM,visa free
 KOR,ECU,-1
 KOR,EGY,visa on arrival (30)
@@ -32517,7 +32517,7 @@ SSD,CUB,visa required (30)
 SSD,CYP,visa required
 SSD,CZE,visa required
 SSD,DNK,visa required
-SSD,DJI,e-visa (90)
+SSD,DJI,visa on arrival (90)
 SSD,DOM,visa required
 SSD,ECU,-1
 SSD,EGY,visa on arrival (30)
@@ -32715,7 +32715,7 @@ ESP,CUB,visa required (30)
 ESP,CYP,visa free
 ESP,CZE,visa free
 ESP,DNK,visa free
-ESP,DJI,e-visa (90)
+ESP,DJI,visa on arrival (90)
 ESP,DOM,visa free
 ESP,ECU,-1
 ESP,EGY,visa on arrival (30)
@@ -32913,7 +32913,7 @@ LKA,CUB,visa required
 LKA,CYP,visa required
 LKA,CZE,visa required
 LKA,DNK,visa required
-LKA,DJI,e-visa (90)
+LKA,DJI,visa on arrival (90)
 LKA,DOM,visa required
 LKA,ECU,e-visa
 LKA,EGY,visa required
@@ -33111,7 +33111,7 @@ VCT,CUB,-1
 VCT,CYP,-1
 VCT,CZE,-1
 VCT,DNK,-1
-VCT,DJI,e-visa (90)
+VCT,DJI,visa on arrival (90)
 VCT,DOM,visa free
 VCT,ECU,-1
 VCT,EGY,visa on arrival (30)
@@ -33309,7 +33309,7 @@ SDN,CUB,visa required (30)
 SDN,CYP,visa required
 SDN,CZE,visa required
 SDN,DNK,visa required
-SDN,DJI,e-visa (90)
+SDN,DJI,visa on arrival (90)
 SDN,DOM,visa required
 SDN,ECU,e-visa
 SDN,EGY,visa required
@@ -33507,7 +33507,7 @@ SUR,CUB,visa required (30)
 SUR,CYP,visa required
 SUR,CZE,visa required
 SUR,DNK,visa required
-SUR,DJI,e-visa (90)
+SUR,DJI,visa on arrival (90)
 SUR,DOM,visa free
 SUR,ECU,-1
 SUR,EGY,visa on arrival (30)
@@ -33705,7 +33705,7 @@ SWE,CUB,visa required (30)
 SWE,CYP,visa free
 SWE,CZE,visa free
 SWE,DNK,visa free
-SWE,DJI,e-visa (90)
+SWE,DJI,visa on arrival (90)
 SWE,DOM,visa free
 SWE,ECU,-1
 SWE,EGY,visa on arrival (30)
@@ -33903,7 +33903,7 @@ CHE,CUB,visa required (30)
 CHE,CYP,visa free
 CHE,CZE,visa free
 CHE,DNK,visa free
-CHE,DJI,e-visa (90)
+CHE,DJI,visa on arrival (90)
 CHE,DOM,visa free
 CHE,ECU,-1
 CHE,EGY,visa on arrival (30)
@@ -34101,7 +34101,7 @@ SYR,CUB,visa required
 SYR,CYP,visa required
 SYR,CZE,visa required
 SYR,DNK,visa required
-SYR,DJI,e-visa (90)
+SYR,DJI,visa on arrival (90)
 SYR,DOM,visa required
 SYR,ECU,e-visa
 SYR,EGY,visa required
@@ -34299,7 +34299,7 @@ TWN,CUB,visa required (30)
 TWN,CYP,-1
 TWN,CZE,-1
 TWN,DNK,-1
-TWN,DJI,e-visa (90)
+TWN,DJI,visa on arrival (90)
 TWN,DOM,visa free
 TWN,ECU,-1
 TWN,EGY,visa on arrival (30)
@@ -34497,7 +34497,7 @@ TJK,CUB,visa required (30)
 TJK,CYP,visa required
 TJK,CZE,visa required
 TJK,DNK,visa required
-TJK,DJI,e-visa (90)
+TJK,DJI,visa on arrival (90)
 TJK,DOM,visa required
 TJK,ECU,e-visa
 TJK,EGY,visa required
@@ -34695,7 +34695,7 @@ TZA,CUB,visa required (30)
 TZA,CYP,visa required
 TZA,CZE,visa required
 TZA,DNK,visa required
-TZA,DJI,e-visa (90)
+TZA,DJI,visa on arrival (90)
 TZA,DOM,visa required
 TZA,ECU,-1
 TZA,EGY,visa required
@@ -34893,7 +34893,7 @@ THA,CUB,visa required (30)
 THA,CYP,visa required
 THA,CZE,visa required
 THA,DNK,visa required
-THA,DJI,e-visa (90)
+THA,DJI,visa on arrival (90)
 THA,DOM,visa free
 THA,ECU,-1
 THA,EGY,visa required
@@ -35091,7 +35091,7 @@ TLS,CUB,visa required (30)
 TLS,CYP,-1
 TLS,CZE,-1
 TLS,DNK,-1
-TLS,DJI,e-visa (90)
+TLS,DJI,visa on arrival (90)
 TLS,DOM,visa required
 TLS,ECU,-1
 TLS,EGY,visa on arrival (30)
@@ -35289,7 +35289,7 @@ TGO,CUB,visa required (30)
 TGO,CYP,visa required
 TGO,CZE,visa required
 TGO,DNK,visa required
-TGO,DJI,e-visa (90)
+TGO,DJI,visa on arrival (90)
 TGO,DOM,visa required
 TGO,ECU,-1
 TGO,EGY,visa required
@@ -35487,7 +35487,7 @@ TON,CUB,visa required (30)
 TON,CYP,-1
 TON,CZE,-1
 TON,DNK,-1
-TON,DJI,e-visa (90)
+TON,DJI,visa on arrival (90)
 TON,DOM,visa free
 TON,ECU,-1
 TON,EGY,visa on arrival (30)
@@ -35685,7 +35685,7 @@ TTO,CUB,visa required (30)
 TTO,CYP,-1
 TTO,CZE,-1
 TTO,DNK,-1
-TTO,DJI,e-visa (90)
+TTO,DJI,visa on arrival (90)
 TTO,DOM,visa free
 TTO,ECU,-1
 TTO,EGY,visa on arrival (30)
@@ -35883,7 +35883,7 @@ TUN,CUB,visa required (30)
 TUN,CYP,visa required
 TUN,CZE,visa required
 TUN,DNK,visa required
-TUN,DJI,e-visa (90)
+TUN,DJI,visa on arrival (90)
 TUN,DOM,visa required
 TUN,ECU,-1
 TUN,EGY,visa required
@@ -36081,7 +36081,7 @@ TUR,CUB,visa required (30)
 TUR,CYP,visa required
 TUR,CZE,visa required
 TUR,DNK,visa required
-TUR,DJI,e-visa (90)
+TUR,DJI,visa on arrival (90)
 TUR,DOM,visa free
 TUR,ECU,-1
 TUR,EGY,visa on arrival (30)
@@ -36279,7 +36279,7 @@ TKM,CUB,visa required (30)
 TKM,CYP,visa required
 TKM,CZE,visa required
 TKM,DNK,visa required
-TKM,DJI,e-visa (90)
+TKM,DJI,visa on arrival (90)
 TKM,DOM,visa required
 TKM,ECU,-1
 TKM,EGY,visa required
@@ -36477,7 +36477,7 @@ TUV,CUB,visa required (30)
 TUV,CYP,-1
 TUV,CZE,-1
 TUV,DNK,-1
-TUV,DJI,e-visa (90)
+TUV,DJI,visa on arrival (90)
 TUV,DOM,visa free
 TUV,ECU,-1
 TUV,EGY,visa on arrival (30)
@@ -36675,7 +36675,7 @@ UGA,CUB,visa required (30)
 UGA,CYP,visa required
 UGA,CZE,visa required
 UGA,DNK,visa required
-UGA,DJI,e-visa (90)
+UGA,DJI,visa on arrival (90)
 UGA,DOM,visa required
 UGA,ECU,-1
 UGA,EGY,visa required
@@ -36873,7 +36873,7 @@ UKR,CUB,visa required (30)
 UKR,CYP,-1
 UKR,CZE,-1
 UKR,DNK,-1
-UKR,DJI,e-visa (90)
+UKR,DJI,visa on arrival (90)
 UKR,DOM,visa free
 UKR,ECU,-1
 UKR,EGY,visa on arrival (30)
@@ -37071,7 +37071,7 @@ ARE,CUB,-1
 ARE,CYP,-1
 ARE,CZE,-1
 ARE,DNK,-1
-ARE,DJI,e-visa (90)
+ARE,DJI,visa on arrival (90)
 ARE,DOM,visa free
 ARE,ECU,-1
 ARE,EGY,-1
@@ -37269,7 +37269,7 @@ GBR,CUB,visa required (30)
 GBR,CYP,-1
 GBR,CZE,-1
 GBR,DNK,-1
-GBR,DJI,e-visa (90)
+GBR,DJI,visa on arrival (90)
 GBR,DOM,visa free
 GBR,ECU,-1
 GBR,EGY,visa on arrival (30)
@@ -37467,7 +37467,7 @@ USA,CUB,visa required (30)
 USA,CYP,-1
 USA,CZE,-1
 USA,DNK,-1
-USA,DJI,e-visa (90)
+USA,DJI,visa on arrival (90)
 USA,DOM,visa free
 USA,ECU,-1
 USA,EGY,visa on arrival (30)
@@ -37665,7 +37665,7 @@ URY,CUB,visa required (30)
 URY,CYP,-1
 URY,CZE,visa free
 URY,DNK,-1
-URY,DJI,e-visa (90)
+URY,DJI,visa on arrival (90)
 URY,DOM,visa free
 URY,ECU,-1
 URY,EGY,visa on arrival (30)
@@ -37863,7 +37863,7 @@ UZB,CUB,visa required
 UZB,CYP,visa required
 UZB,CZE,visa required
 UZB,DNK,visa required
-UZB,DJI,e-visa (90)
+UZB,DJI,visa on arrival (90)
 UZB,DOM,visa required
 UZB,ECU,e-visa
 UZB,EGY,visa required
@@ -38061,7 +38061,7 @@ VUT,CUB,visa required (30)
 VUT,CYP,visa required
 VUT,CZE,visa required
 VUT,DNK,visa required
-VUT,DJI,e-visa (90)
+VUT,DJI,visa on arrival (90)
 VUT,DOM,visa free
 VUT,ECU,-1
 VUT,EGY,visa on arrival (30)
@@ -38259,7 +38259,7 @@ VAT,CUB,visa required (30)
 VAT,CYP,-1
 VAT,CZE,-1
 VAT,DNK,-1
-VAT,DJI,e-visa (90)
+VAT,DJI,visa on arrival (90)
 VAT,DOM,visa free
 VAT,ECU,-1
 VAT,EGY,visa on arrival (30)
@@ -38457,7 +38457,7 @@ VEN,CUB,visa required (30)
 VEN,CYP,-1
 VEN,CZE,-1
 VEN,DNK,-1
-VEN,DJI,e-visa (90)
+VEN,DJI,visa on arrival (90)
 VEN,DOM,visa required
 VEN,ECU,e-visa
 VEN,EGY,visa on arrival (30)
@@ -38655,7 +38655,7 @@ VNM,CUB,visa required (30)
 VNM,CYP,visa required
 VNM,CZE,visa required
 VNM,DNK,visa required
-VNM,DJI,e-visa (90)
+VNM,DJI,visa on arrival (90)
 VNM,DOM,visa required
 VNM,ECU,e-visa
 VNM,EGY,visa required
@@ -38853,7 +38853,7 @@ YEM,CUB,visa required
 YEM,CYP,visa required
 YEM,CZE,visa required
 YEM,DNK,visa required
-YEM,DJI,e-visa (90)
+YEM,DJI,visa on arrival (90)
 YEM,DOM,visa required
 YEM,ECU,e-visa
 YEM,EGY,visa required
@@ -39051,7 +39051,7 @@ ZMB,CUB,visa required (30)
 ZMB,CYP,visa required
 ZMB,CZE,visa required
 ZMB,DNK,visa required
-ZMB,DJI,e-visa (90)
+ZMB,DJI,visa on arrival (90)
 ZMB,DOM,visa required
 ZMB,ECU,-1
 ZMB,EGY,visa required
@@ -39249,7 +39249,7 @@ ZWE,CUB,visa required (30)
 ZWE,CYP,visa required
 ZWE,CZE,visa required
 ZWE,DNK,visa required
-ZWE,DJI,e-visa (90)
+ZWE,DJI,visa on arrival (90)
 ZWE,DOM,visa required
 ZWE,ECU,-1
 ZWE,EGY,visa required

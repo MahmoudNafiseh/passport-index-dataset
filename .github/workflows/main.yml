@@ -1,9 +1,14 @@
 name: 'Run data update'
 
 on:
-   schedule:
-      # run once a day
-      - cron: '0 0 * * *'
+   # run on push to main
+   push:
+      branches:
+         - master
+
+   # schedule:
+   #    # run once a day
+   #    - cron: '0 0 * * *'
 
 jobs:
    update-data:
@@ -26,7 +31,7 @@ jobs:
 
          - name: Install dependencies
            run: |
-              pip install -r requirements.txt --no-cache-dir && pip install requests pandas mysqlclient python-dotenv
+              pip install -r requirements.txt --no-cache-dir
 
          # Build the book
          - name: Update data
