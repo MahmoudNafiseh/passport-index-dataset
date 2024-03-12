@@ -1,14 +1,9 @@
 name: 'Run data update'
 
 on:
-   # run on push to main
-   push:
-      branches:
-         - master
-
-   # schedule:
-   #    # run once a day
-   #    - cron: '0 0 * * *'
+   schedule:
+      # run once a day
+      - cron: '0 0 * * *'
 
 jobs:
    update-data:
