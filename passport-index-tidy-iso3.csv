@@ -1419,7 +1419,7 @@ ARM,CPV,visa on arrival
 ARM,CAF,visa required
 ARM,TCD,visa required
 ARM,CHL,visa required
-ARM,CHN,visa free
+ARM,CHN,-1
 ARM,COL,e-visa
 ARM,COM,visa on arrival (45)
 ARM,COG,visa required
@@ -1815,7 +1815,7 @@ AUT,CPV,-1
 AUT,CAF,visa required
 AUT,TCD,visa required
 AUT,CHL,-1
-AUT,CHN,visa required
+AUT,CHN,-1
 AUT,COL,-1
 AUT,COM,visa on arrival (45)
 AUT,COG,visa required
@@ -3201,7 +3201,7 @@ BEL,CPV,-1
 BEL,CAF,visa required
 BEL,TCD,visa required
 BEL,CHL,-1
-BEL,CHN,visa required
+BEL,CHN,-1
 BEL,COL,-1
 BEL,COM,visa on arrival (45)
 BEL,COG,visa required
@@ -7901,7 +7901,7 @@ COD,TUN,visa required
 COD,TKM,visa required
 COD,TUV,visa on arrival (30)
 COD,TUR,visa required
-COD,UGA,e-visa (90)
+COD,UGA,-1
 COD,UKR,visa required
 COD,ARE,visa required
 COD,GBR,visa required
@@ -14883,7 +14883,7 @@ HUN,CPV,-1
 HUN,CAF,visa required
 HUN,TCD,visa required
 HUN,CHL,-1
-HUN,CHN,visa required
+HUN,CHN,-1
 HUN,COL,-1
 HUN,COM,visa on arrival (45)
 HUN,COG,visa required
@@ -16071,7 +16071,7 @@ IRL,CPV,-1
 IRL,CAF,visa required
 IRL,TCD,visa required
 IRL,CHL,-1
-IRL,CHN,visa required
+IRL,CHN,-1
 IRL,COL,-1
 IRL,COM,visa on arrival (45)
 IRL,COG,visa required
@@ -20031,7 +20031,7 @@ LUX,CPV,-1
 LUX,CAF,visa required
 LUX,TCD,visa required
 LUX,CHL,-1
-LUX,CHN,visa required
+LUX,CHN,-1
 LUX,COL,-1
 LUX,COM,visa on arrival (45)
 LUX,COG,visa required
@@ -33891,7 +33891,7 @@ CHE,CPV,-1
 CHE,CAF,visa required
 CHE,TCD,visa required
 CHE,CHL,-1
-CHE,CHN,visa required
+CHE,CHN,-1
 CHE,COL,-1
 CHE,COM,visa on arrival (45)
 CHE,COG,visa required
@@ -34260,7 +34260,7 @@ TWN,AGO,visa required
 TWN,ATG,-1
 TWN,ARG,visa required
 TWN,ARM,e-visa (120)
-TWN,AUS,e-visa
+TWN,AUS,e-visa (90)
 TWN,AUT,-1
 TWN,AZE,visa required
 TWN,BHS,e-visa

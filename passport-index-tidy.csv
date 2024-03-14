@@ -1419,7 +1419,7 @@ Armenia,Cape Verde,visa on arrival,0,1417
 Armenia,Central African Republic,visa required,0,1418
 Armenia,Chad,visa required,0,1419
 Armenia,Chile,visa required,0,1420
-Armenia,China,visa free,0,1421
+Armenia,China,-1,0,1421
 Armenia,Colombia,e-visa,0,1422
 Armenia,Comoros,visa on arrival,45,1423
 Armenia,Congo,visa required,0,1424
@@ -1815,7 +1815,7 @@ Austria,Cape Verde,-1,0,1813
 Austria,Central African Republic,visa required,0,1814
 Austria,Chad,visa required,0,1815
 Austria,Chile,-1,0,1816
-Austria,China,visa required,0,1817
+Austria,China,-1,0,1817
 Austria,Colombia,-1,0,1818
 Austria,Comoros,visa on arrival,45,1819
 Austria,Congo,visa required,0,1820
@@ -3201,7 +3201,7 @@ Belgium,Cape Verde,-1,0,3199
 Belgium,Central African Republic,visa required,0,3200
 Belgium,Chad,visa required,0,3201
 Belgium,Chile,-1,0,3202
-Belgium,China,visa required,0,3203
+Belgium,China,-1,0,3203
 Belgium,Colombia,-1,0,3204
 Belgium,Comoros,visa on arrival,45,3205
 Belgium,Congo,visa required,0,3206
@@ -7901,7 +7901,7 @@ DR Congo,Tunisia,visa required,0,7899
 DR Congo,Turkmenistan,visa required,0,7900
 DR Congo,Tuvalu,visa on arrival,30,7901
 DR Congo,Turkey,visa required,0,7902
-DR Congo,Uganda,e-visa,90,7903
+DR Congo,Uganda,-1,0,7903
 DR Congo,Ukraine,visa required,0,7904
 DR Congo,United Arab Emirates,visa required,0,7905
 DR Congo,United Kingdom,visa required,0,7906
@@ -14883,7 +14883,7 @@ Hungary,Cape Verde,-1,0,14881
 Hungary,Central African Republic,visa required,0,14882
 Hungary,Chad,visa required,0,14883
 Hungary,Chile,-1,0,14884
-Hungary,China,visa required,0,14885
+Hungary,China,-1,0,14885
 Hungary,Colombia,-1,0,14886
 Hungary,Comoros,visa on arrival,45,14887
 Hungary,Congo,visa required,0,14888
@@ -16071,7 +16071,7 @@ Ireland,Cape Verde,-1,0,16069
 Ireland,Central African Republic,visa required,0,16070
 Ireland,Chad,visa required,0,16071
 Ireland,Chile,-1,0,16072
-Ireland,China,visa required,0,16073
+Ireland,China,-1,0,16073
 Ireland,Colombia,-1,0,16074
 Ireland,Comoros,visa on arrival,45,16075
 Ireland,Congo,visa required,0,16076
@@ -20031,7 +20031,7 @@ Luxembourg,Cape Verde,-1,0,20029
 Luxembourg,Central African Republic,visa required,0,20030
 Luxembourg,Chad,visa required,0,20031
 Luxembourg,Chile,-1,0,20032
-Luxembourg,China,visa required,0,20033
+Luxembourg,China,-1,0,20033
 Luxembourg,Colombia,-1,0,20034
 Luxembourg,Comoros,visa on arrival,45,20035
 Luxembourg,Congo,visa required,0,20036
@@ -33891,7 +33891,7 @@ Switzerland,Cape Verde,-1,0,33889
 Switzerland,Central African Republic,visa required,0,33890
 Switzerland,Chad,visa required,0,33891
 Switzerland,Chile,-1,0,33892
-Switzerland,China,visa required,0,33893
+Switzerland,China,-1,0,33893
 Switzerland,Colombia,-1,0,33894
 Switzerland,Comoros,visa on arrival,45,33895
 Switzerland,Congo,visa required,0,33896
@@ -34260,7 +34260,7 @@ Taiwan,Angola,visa required,0,34258
 Taiwan,Antigua and Barbuda,-1,0,34259
 Taiwan,Argentina,visa required,0,34260
 Taiwan,Armenia,e-visa,120,34261
-Taiwan,Australia,e-visa,0,34262
+Taiwan,Australia,e-visa,90,34262
 Taiwan,Austria,-1,0,34263
 Taiwan,Azerbaijan,visa required,0,34264
 Taiwan,Bahamas,e-visa,0,34265
