@@ -239,7 +239,7 @@ ALB,COD,e-visa (90)
 ALB,CRI,visa required
 ALB,CIV,e-visa (90)
 ALB,HRV,-1
-ALB,CUB,visa required (30)
+ALB,CUB,visa required (90)
 ALB,CYP,-1
 ALB,CZE,-1
 ALB,DNK,-1
@@ -437,7 +437,7 @@ DZA,COD,e-visa (90)
 DZA,CRI,visa required
 DZA,CIV,e-visa (90)
 DZA,HRV,visa required
-DZA,CUB,visa required (30)
+DZA,CUB,visa required (90)
 DZA,CYP,visa required
 DZA,CZE,visa required
 DZA,DNK,visa required
@@ -635,7 +635,7 @@ AND,COD,e-visa (90)
 AND,CRI,-1
 AND,CIV,e-visa (90)
 AND,HRV,-1
-AND,CUB,visa required (30)
+AND,CUB,visa required (90)
 AND,CYP,-1
 AND,CZE,-1
 AND,DNK,-1
@@ -833,7 +833,7 @@ AGO,COD,e-visa (90)
 AGO,CRI,visa required
 AGO,CIV,e-visa (90)
 AGO,HRV,visa required
-AGO,CUB,visa required (30)
+AGO,CUB,visa required (90)
 AGO,CYP,visa required
 AGO,CZE,visa required
 AGO,DNK,visa required
@@ -1229,7 +1229,7 @@ ARG,COD,e-visa (90)
 ARG,CRI,-1
 ARG,CIV,e-visa (90)
 ARG,HRV,-1
-ARG,CUB,visa required (30)
+ARG,CUB,visa required (90)
 ARG,CYP,-1
 ARG,CZE,-1
 ARG,DNK,-1
@@ -1427,7 +1427,7 @@ ARM,COD,e-visa (90)
 ARM,CRI,visa required
 ARM,CIV,e-visa (90)
 ARM,HRV,visa required
-ARM,CUB,visa required (30)
+ARM,CUB,visa required (90)
 ARM,CYP,visa required
 ARM,CZE,visa required
 ARM,DNK,visa required
@@ -1625,7 +1625,7 @@ AUS,COD,e-visa (90)
 AUS,CRI,-1
 AUS,CIV,e-visa (90)
 AUS,HRV,-1
-AUS,CUB,visa required (30)
+AUS,CUB,visa required (90)
 AUS,CYP,-1
 AUS,CZE,-1
 AUS,DNK,-1
@@ -1823,7 +1823,7 @@ AUT,COD,e-visa (90)
 AUT,CRI,-1
 AUT,CIV,e-visa (90)
 AUT,HRV,-1
-AUT,CUB,visa required (30)
+AUT,CUB,visa required (90)
 AUT,CYP,visa free
 AUT,CZE,visa free
 AUT,DNK,visa free
@@ -2021,7 +2021,7 @@ AZE,COD,e-visa (90)
 AZE,CRI,visa required
 AZE,CIV,e-visa (90)
 AZE,HRV,visa required
-AZE,CUB,visa required (30)
+AZE,CUB,visa required (90)
 AZE,CYP,visa required
 AZE,CZE,visa required
 AZE,DNK,visa required
@@ -2219,7 +2219,7 @@ BHS,COD,e-visa (90)
 BHS,CRI,-1
 BHS,CIV,e-visa (90)
 BHS,HRV,-1
-BHS,CUB,visa required (30)
+BHS,CUB,visa required (90)
 BHS,CYP,-1
 BHS,CZE,-1
 BHS,DNK,-1
@@ -2417,7 +2417,7 @@ BHR,COD,e-visa (90)
 BHR,CRI,visa required
 BHR,CIV,e-visa (90)
 BHR,HRV,visa required
-BHR,CUB,visa required (30)
+BHR,CUB,visa required (90)
 BHR,CYP,visa required
 BHR,CZE,visa required
 BHR,DNK,visa required
@@ -3209,7 +3209,7 @@ BEL,COD,e-visa (90)
 BEL,CRI,-1
 BEL,CIV,e-visa (90)
 BEL,HRV,visa free
-BEL,CUB,visa required (30)
+BEL,CUB,visa required (90)
 BEL,CYP,visa free
 BEL,CZE,visa free
 BEL,DNK,visa free
@@ -3407,7 +3407,7 @@ BLZ,COD,e-visa (90)
 BLZ,CRI,-1
 BLZ,CIV,e-visa (90)
 BLZ,HRV,visa required
-BLZ,CUB,visa required (30)
+BLZ,CUB,visa required (90)
 BLZ,CYP,visa required
 BLZ,CZE,visa required
 BLZ,DNK,visa required
@@ -3605,7 +3605,7 @@ BEN,COD,e-visa (90)
 BEN,CRI,visa required
 BEN,CIV,-1
 BEN,HRV,visa required
-BEN,CUB,visa required (30)
+BEN,CUB,visa required (90)
 BEN,CYP,visa required
 BEN,CZE,visa required
 BEN,DNK,visa required
@@ -3803,7 +3803,7 @@ BTN,COD,e-visa (90)
 BTN,CRI,visa required
 BTN,CIV,e-visa (90)
 BTN,HRV,visa required
-BTN,CUB,visa required (30)
+BTN,CUB,visa required (90)
 BTN,CYP,visa required
 BTN,CZE,visa required
 BTN,DNK,visa required
@@ -4001,7 +4001,7 @@ BOL,COD,e-visa (90)
 BOL,CRI,-1
 BOL,CIV,e-visa (90)
 BOL,HRV,visa required
-BOL,CUB,visa required (30)
+BOL,CUB,visa required (90)
 BOL,CYP,visa required
 BOL,CZE,visa required
 BOL,DNK,visa required
@@ -4397,7 +4397,7 @@ BWA,COD,e-visa (90)
 BWA,CRI,visa required
 BWA,CIV,e-visa (90)
 BWA,HRV,visa required
-BWA,CUB,visa required (30)
+BWA,CUB,visa required (90)
 BWA,CYP,visa required
 BWA,CZE,visa required
 BWA,DNK,visa required
@@ -4595,7 +4595,7 @@ BRA,COD,e-visa (90)
 BRA,CRI,-1
 BRA,CIV,e-visa (90)
 BRA,HRV,-1
-BRA,CUB,visa required (30)
+BRA,CUB,visa required (90)
 BRA,CYP,-1
 BRA,CZE,-1
 BRA,DNK,-1
@@ -4793,7 +4793,7 @@ BRN,COD,e-visa (90)
 BRN,CRI,-1
 BRN,CIV,e-visa (90)
 BRN,HRV,-1
-BRN,CUB,visa required (30)
+BRN,CUB,visa required (90)
 BRN,CYP,-1
 BRN,CZE,-1
 BRN,DNK,-1
@@ -4991,7 +4991,7 @@ BGR,COD,e-visa (90)
 BGR,CRI,-1
 BGR,CIV,e-visa (90)
 BGR,HRV,visa free
-BGR,CUB,visa required (30)
+BGR,CUB,visa required (90)
 BGR,CYP,visa free
 BGR,CZE,visa free
 BGR,DNK,visa free
@@ -5189,7 +5189,7 @@ BFA,COD,e-visa (90)
 BFA,CRI,visa required
 BFA,CIV,-1
 BFA,HRV,visa required
-BFA,CUB,visa required (30)
+BFA,CUB,visa required (90)
 BFA,CYP,visa required
 BFA,CZE,visa required
 BFA,DNK,visa required
@@ -5387,7 +5387,7 @@ BDI,COD,visa free
 BDI,CRI,visa required
 BDI,CIV,e-visa (90)
 BDI,HRV,visa required
-BDI,CUB,visa required (30)
+BDI,CUB,visa required (90)
 BDI,CYP,visa required
 BDI,CZE,visa required
 BDI,DNK,visa required
@@ -5585,7 +5585,7 @@ KHM,COD,e-visa (90)
 KHM,CRI,visa required
 KHM,CIV,e-visa (90)
 KHM,HRV,visa required
-KHM,CUB,visa required (30)
+KHM,CUB,visa required (90)
 KHM,CYP,visa required
 KHM,CZE,visa required
 KHM,DNK,visa required
@@ -6179,7 +6179,7 @@ CPV,COD,e-visa (90)
 CPV,CRI,visa required
 CPV,CIV,-1
 CPV,HRV,visa required
-CPV,CUB,visa required (30)
+CPV,CUB,visa required (90)
 CPV,CYP,visa required
 CPV,CZE,visa required
 CPV,DNK,visa required
@@ -6377,7 +6377,7 @@ CAF,COD,e-visa (90)
 CAF,CRI,visa required
 CAF,CIV,-1
 CAF,HRV,visa required
-CAF,CUB,visa required (30)
+CAF,CUB,visa required (90)
 CAF,CYP,visa required
 CAF,CZE,visa required
 CAF,DNK,visa required
@@ -6575,7 +6575,7 @@ TCD,COD,e-visa (90)
 TCD,CRI,visa required
 TCD,CIV,-1
 TCD,HRV,visa required
-TCD,CUB,visa required (30)
+TCD,CUB,visa required (90)
 TCD,CYP,visa required
 TCD,CZE,visa required
 TCD,DNK,visa required
@@ -6773,7 +6773,7 @@ CHL,COD,e-visa (90)
 CHL,CRI,-1
 CHL,CIV,e-visa (90)
 CHL,HRV,-1
-CHL,CUB,visa required (30)
+CHL,CUB,visa required (90)
 CHL,CYP,-1
 CHL,CZE,-1
 CHL,DNK,-1
@@ -6971,7 +6971,7 @@ CHN,COD,e-visa (90)
 CHN,CRI,visa required
 CHN,CIV,e-visa (90)
 CHN,HRV,visa required
-CHN,CUB,visa required (30)
+CHN,CUB,visa required (90)
 CHN,CYP,visa required
 CHN,CZE,visa required
 CHN,DNK,visa required
@@ -7169,7 +7169,7 @@ COL,COD,e-visa (90)
 COL,CRI,visa required
 COL,CIV,e-visa (90)
 COL,HRV,-1
-COL,CUB,visa required (30)
+COL,CUB,visa required (90)
 COL,CYP,-1
 COL,CZE,-1
 COL,DNK,-1
@@ -7367,7 +7367,7 @@ COM,COD,e-visa (90)
 COM,CRI,visa required
 COM,CIV,e-visa (90)
 COM,HRV,visa required
-COM,CUB,visa required (30)
+COM,CUB,visa required (90)
 COM,CYP,visa required
 COM,CZE,visa required
 COM,DNK,visa required
@@ -7565,7 +7565,7 @@ COG,COD,-1
 COG,CRI,visa required
 COG,CIV,-1
 COG,HRV,visa required
-COG,CUB,visa required (30)
+COG,CUB,visa required (90)
 COG,CYP,visa required
 COG,CZE,visa required
 COG,DNK,visa required
@@ -7763,7 +7763,7 @@ COD,COD,-1
 COD,CRI,visa required
 COD,CIV,e-visa (90)
 COD,HRV,visa required
-COD,CUB,visa required (30)
+COD,CUB,visa required (90)
 COD,CYP,visa required
 COD,CZE,visa required
 COD,DNK,visa required
@@ -7961,7 +7961,7 @@ CRI,COD,e-visa (90)
 CRI,CRI,-1
 CRI,CIV,e-visa (90)
 CRI,HRV,-1
-CRI,CUB,visa required (30)
+CRI,CUB,visa required (90)
 CRI,CYP,-1
 CRI,CZE,-1
 CRI,DNK,-1
@@ -8159,7 +8159,7 @@ CIV,COD,e-visa (90)
 CIV,CRI,visa required
 CIV,CIV,-1
 CIV,HRV,visa required
-CIV,CUB,visa required (30)
+CIV,CUB,visa required (90)
 CIV,CYP,visa required
 CIV,CZE,visa required
 CIV,DNK,visa required
@@ -8357,7 +8357,7 @@ HRV,COD,e-visa (90)
 HRV,CRI,-1
 HRV,CIV,e-visa (90)
 HRV,HRV,-1
-HRV,CUB,visa required (30)
+HRV,CUB,visa required (90)
 HRV,CYP,visa free
 HRV,CZE,visa free
 HRV,DNK,visa free
@@ -8753,7 +8753,7 @@ CYP,COD,e-visa (90)
 CYP,CRI,-1
 CYP,CIV,e-visa (90)
 CYP,HRV,visa free
-CYP,CUB,visa required (30)
+CYP,CUB,visa required (90)
 CYP,CYP,-1
 CYP,CZE,visa free
 CYP,DNK,visa free
@@ -8951,7 +8951,7 @@ CZE,COD,e-visa (90)
 CZE,CRI,-1
 CZE,CIV,e-visa (90)
 CZE,HRV,visa free
-CZE,CUB,visa required (30)
+CZE,CUB,visa required (90)
 CZE,CYP,visa free
 CZE,CZE,-1
 CZE,DNK,visa free
@@ -9149,7 +9149,7 @@ DNK,COD,e-visa (90)
 DNK,CRI,-1
 DNK,CIV,e-visa (90)
 DNK,HRV,visa free
-DNK,CUB,visa required (30)
+DNK,CUB,visa required (90)
 DNK,CYP,visa free
 DNK,CZE,visa free
 DNK,DNK,-1
@@ -9347,7 +9347,7 @@ DJI,COD,e-visa (90)
 DJI,CRI,visa required
 DJI,CIV,e-visa (90)
 DJI,HRV,visa required
-DJI,CUB,visa required (30)
+DJI,CUB,visa required (90)
 DJI,CYP,visa required
 DJI,CZE,visa required
 DJI,DNK,visa required
@@ -9743,7 +9743,7 @@ DOM,COD,e-visa (90)
 DOM,CRI,visa required
 DOM,CIV,e-visa (90)
 DOM,HRV,visa required
-DOM,CUB,visa required (30)
+DOM,CUB,visa required (90)
 DOM,CYP,visa required
 DOM,CZE,visa required
 DOM,DNK,visa required
@@ -9941,7 +9941,7 @@ ECU,COD,e-visa (90)
 ECU,CRI,visa required
 ECU,CIV,e-visa (90)
 ECU,HRV,visa required
-ECU,CUB,visa required (30)
+ECU,CUB,visa required (90)
 ECU,CYP,visa required
 ECU,CZE,visa required
 ECU,DNK,visa required
@@ -10139,7 +10139,7 @@ EGY,COD,e-visa (90)
 EGY,CRI,visa required
 EGY,CIV,e-visa (90)
 EGY,HRV,visa required
-EGY,CUB,visa required (30)
+EGY,CUB,visa required (90)
 EGY,CYP,visa required
 EGY,CZE,visa required
 EGY,DNK,visa required
@@ -10337,7 +10337,7 @@ SLV,COD,e-visa (90)
 SLV,CRI,-1
 SLV,CIV,e-visa (90)
 SLV,HRV,-1
-SLV,CUB,visa required (30)
+SLV,CUB,visa required (90)
 SLV,CYP,-1
 SLV,CZE,-1
 SLV,DNK,-1
@@ -10535,7 +10535,7 @@ GNQ,COD,e-visa (90)
 GNQ,CRI,visa required
 GNQ,CIV,e-visa (90)
 GNQ,HRV,visa required
-GNQ,CUB,visa required (30)
+GNQ,CUB,visa required (90)
 GNQ,CYP,visa required
 GNQ,CZE,visa required
 GNQ,DNK,visa required
@@ -10931,7 +10931,7 @@ EST,COD,e-visa (90)
 EST,CRI,-1
 EST,CIV,e-visa (90)
 EST,HRV,visa free
-EST,CUB,visa required (30)
+EST,CUB,visa required (90)
 EST,CYP,visa free
 EST,CZE,visa free
 EST,DNK,visa free
@@ -11129,7 +11129,7 @@ SWZ,COD,e-visa (90)
 SWZ,CRI,visa required
 SWZ,CIV,e-visa (90)
 SWZ,HRV,visa required
-SWZ,CUB,visa required (30)
+SWZ,CUB,visa required (90)
 SWZ,CYP,visa required
 SWZ,CZE,visa required
 SWZ,DNK,visa required
@@ -11525,7 +11525,7 @@ FJI,COD,e-visa (90)
 FJI,CRI,-1
 FJI,CIV,e-visa (90)
 FJI,HRV,visa required
-FJI,CUB,visa required (30)
+FJI,CUB,visa required (90)
 FJI,CYP,visa required
 FJI,CZE,visa required
 FJI,DNK,visa required
@@ -11723,7 +11723,7 @@ FIN,COD,e-visa (90)
 FIN,CRI,-1
 FIN,CIV,e-visa (90)
 FIN,HRV,visa free
-FIN,CUB,visa required (30)
+FIN,CUB,visa required (90)
 FIN,CYP,visa free
 FIN,CZE,visa free
 FIN,DNK,visa free
@@ -11921,7 +11921,7 @@ FRA,COD,e-visa (90)
 FRA,CRI,-1
 FRA,CIV,e-visa (90)
 FRA,HRV,visa free
-FRA,CUB,visa required (30)
+FRA,CUB,visa required (90)
 FRA,CYP,visa free
 FRA,CZE,visa free
 FRA,DNK,visa free
@@ -12119,7 +12119,7 @@ GAB,COD,e-visa (90)
 GAB,CRI,visa required
 GAB,CIV,e-visa (90)
 GAB,HRV,visa required
-GAB,CUB,visa required (30)
+GAB,CUB,visa required (90)
 GAB,CYP,visa required
 GAB,CZE,visa required
 GAB,DNK,visa required
@@ -12317,7 +12317,7 @@ GMB,COD,e-visa (90)
 GMB,CRI,visa required
 GMB,CIV,-1
 GMB,HRV,visa required
-GMB,CUB,visa required (30)
+GMB,CUB,visa required (90)
 GMB,CYP,visa required
 GMB,CZE,visa required
 GMB,DNK,visa required
@@ -12515,7 +12515,7 @@ GEO,COD,e-visa (90)
 GEO,CRI,visa required
 GEO,CIV,e-visa (90)
 GEO,HRV,-1
-GEO,CUB,visa required (30)
+GEO,CUB,visa required (90)
 GEO,CYP,-1
 GEO,CZE,-1
 GEO,DNK,-1
@@ -12713,7 +12713,7 @@ DEU,COD,e-visa (90)
 DEU,CRI,-1
 DEU,CIV,e-visa (90)
 DEU,HRV,visa free
-DEU,CUB,visa required (30)
+DEU,CUB,visa required (90)
 DEU,CYP,visa free
 DEU,CZE,visa free
 DEU,DNK,visa free
@@ -13109,7 +13109,7 @@ GRC,COD,e-visa (90)
 GRC,CRI,-1
 GRC,CIV,e-visa (90)
 GRC,HRV,visa free
-GRC,CUB,visa required (30)
+GRC,CUB,visa required (90)
 GRC,CYP,visa free
 GRC,CZE,visa free
 GRC,DNK,visa free
@@ -13505,7 +13505,7 @@ GTM,COD,e-visa (90)
 GTM,CRI,-1
 GTM,CIV,e-visa (90)
 GTM,HRV,-1
-GTM,CUB,visa required (30)
+GTM,CUB,visa required (90)
 GTM,CYP,-1
 GTM,CZE,-1
 GTM,DNK,-1
@@ -13901,7 +13901,7 @@ GNB,COD,e-visa (90)
 GNB,CRI,visa required
 GNB,CIV,-1
 GNB,HRV,visa required
-GNB,CUB,visa required (30)
+GNB,CUB,visa required (90)
 GNB,CYP,visa required
 GNB,CZE,visa required
 GNB,DNK,visa required
@@ -14099,7 +14099,7 @@ GUY,COD,e-visa (90)
 GUY,CRI,-1
 GUY,CIV,e-visa (90)
 GUY,HRV,visa required
-GUY,CUB,visa required (30)
+GUY,CUB,visa required (90)
 GUY,CYP,visa required
 GUY,CZE,visa required
 GUY,DNK,visa required
@@ -14297,7 +14297,7 @@ HTI,COD,e-visa (90)
 HTI,CRI,visa required
 HTI,CIV,e-visa (90)
 HTI,HRV,visa required
-HTI,CUB,visa required (30)
+HTI,CUB,visa required (90)
 HTI,CYP,visa required
 HTI,CZE,visa required
 HTI,DNK,visa required
@@ -14495,7 +14495,7 @@ HND,COD,e-visa (90)
 HND,CRI,-1
 HND,CIV,e-visa (90)
 HND,HRV,-1
-HND,CUB,visa required (30)
+HND,CUB,visa required (90)
 HND,CYP,-1
 HND,CZE,-1
 HND,DNK,-1
@@ -14693,7 +14693,7 @@ HKG,COD,e-visa (90)
 HKG,CRI,visa required
 HKG,CIV,e-visa (90)
 HKG,HRV,-1
-HKG,CUB,visa required (30)
+HKG,CUB,visa required (90)
 HKG,CYP,-1
 HKG,CZE,-1
 HKG,DNK,-1
@@ -14891,7 +14891,7 @@ HUN,COD,e-visa (90)
 HUN,CRI,-1
 HUN,CIV,e-visa (90)
 HUN,HRV,visa free
-HUN,CUB,visa required (30)
+HUN,CUB,visa required (90)
 HUN,CYP,visa free
 HUN,CZE,visa free
 HUN,DNK,visa free
@@ -15089,7 +15089,7 @@ ISL,COD,e-visa (90)
 ISL,CRI,-1
 ISL,CIV,e-visa (90)
 ISL,HRV,visa free
-ISL,CUB,visa required (30)
+ISL,CUB,visa required (90)
 ISL,CYP,visa free
 ISL,CZE,visa free
 ISL,DNK,visa free
@@ -15485,7 +15485,7 @@ IDN,COD,e-visa (90)
 IDN,CRI,visa required
 IDN,CIV,e-visa (90)
 IDN,HRV,visa required
-IDN,CUB,visa required (30)
+IDN,CUB,visa required (90)
 IDN,CYP,visa required
 IDN,CZE,visa required
 IDN,DNK,visa required
@@ -16079,7 +16079,7 @@ IRL,COD,e-visa (90)
 IRL,CRI,-1
 IRL,CIV,e-visa (90)
 IRL,HRV,visa free
-IRL,CUB,visa required (30)
+IRL,CUB,visa required (90)
 IRL,CYP,visa free
 IRL,CZE,visa free
 IRL,DNK,visa free
@@ -16277,7 +16277,7 @@ ISR,COD,e-visa (90)
 ISR,CRI,-1
 ISR,CIV,e-visa (90)
 ISR,HRV,-1
-ISR,CUB,visa required (30)
+ISR,CUB,visa required (90)
 ISR,CYP,-1
 ISR,CZE,-1
 ISR,DNK,-1
@@ -16475,7 +16475,7 @@ ITA,COD,e-visa (90)
 ITA,CRI,-1
 ITA,CIV,e-visa (90)
 ITA,HRV,visa free
-ITA,CUB,visa required (30)
+ITA,CUB,visa required (90)
 ITA,CYP,visa free
 ITA,CZE,visa free
 ITA,DNK,visa free
@@ -16673,7 +16673,7 @@ JAM,COD,e-visa (90)
 JAM,CRI,visa required
 JAM,CIV,e-visa (90)
 JAM,HRV,visa required
-JAM,CUB,visa required (30)
+JAM,CUB,visa required (90)
 JAM,CYP,visa required
 JAM,CZE,visa required
 JAM,DNK,visa required
@@ -16871,7 +16871,7 @@ JPN,COD,e-visa (90)
 JPN,CRI,-1
 JPN,CIV,e-visa (90)
 JPN,HRV,-1
-JPN,CUB,visa required (30)
+JPN,CUB,visa required (90)
 JPN,CYP,-1
 JPN,CZE,-1
 JPN,DNK,-1
@@ -17069,7 +17069,7 @@ JOR,COD,e-visa (90)
 JOR,CRI,visa required
 JOR,CIV,e-visa (90)
 JOR,HRV,visa required
-JOR,CUB,visa required (30)
+JOR,CUB,visa required (90)
 JOR,CYP,visa required
 JOR,CZE,visa required
 JOR,DNK,visa required
@@ -17267,7 +17267,7 @@ KAZ,COD,e-visa (90)
 KAZ,CRI,visa required
 KAZ,CIV,e-visa (90)
 KAZ,HRV,visa required
-KAZ,CUB,visa required (30)
+KAZ,CUB,visa required (90)
 KAZ,CYP,visa required
 KAZ,CZE,visa required
 KAZ,DNK,visa required
@@ -17663,7 +17663,7 @@ KIR,COD,e-visa (90)
 KIR,CRI,-1
 KIR,CIV,e-visa (90)
 KIR,HRV,-1
-KIR,CUB,visa required (30)
+KIR,CUB,visa required (90)
 KIR,CYP,-1
 KIR,CZE,-1
 KIR,DNK,-1
@@ -18059,7 +18059,7 @@ KWT,COD,e-visa (90)
 KWT,CRI,visa required
 KWT,CIV,e-visa (90)
 KWT,HRV,visa required
-KWT,CUB,visa required (30)
+KWT,CUB,visa required (90)
 KWT,CYP,visa required
 KWT,CZE,visa required
 KWT,DNK,visa required
@@ -18257,7 +18257,7 @@ KGZ,COD,e-visa (90)
 KGZ,CRI,visa required
 KGZ,CIV,e-visa (90)
 KGZ,HRV,visa required
-KGZ,CUB,visa required (30)
+KGZ,CUB,visa required (90)
 KGZ,CYP,visa required
 KGZ,CZE,visa required
 KGZ,DNK,visa required
@@ -18455,7 +18455,7 @@ LAO,COD,e-visa (90)
 LAO,CRI,visa required
 LAO,CIV,e-visa (90)
 LAO,HRV,visa required
-LAO,CUB,visa required (30)
+LAO,CUB,visa required (90)
 LAO,CYP,visa required
 LAO,CZE,visa required
 LAO,DNK,visa required
@@ -18653,7 +18653,7 @@ LVA,COD,e-visa (90)
 LVA,CRI,-1
 LVA,CIV,e-visa (90)
 LVA,HRV,visa free
-LVA,CUB,visa required (30)
+LVA,CUB,visa required (90)
 LVA,CYP,visa free
 LVA,CZE,visa free
 LVA,DNK,visa free
@@ -18851,7 +18851,7 @@ LBN,COD,e-visa (90)
 LBN,CRI,visa required
 LBN,CIV,e-visa (90)
 LBN,HRV,visa required
-LBN,CUB,visa required (30)
+LBN,CUB,visa required (90)
 LBN,CYP,visa required
 LBN,CZE,visa required
 LBN,DNK,visa required
@@ -19049,7 +19049,7 @@ LSO,COD,e-visa (90)
 LSO,CRI,visa required
 LSO,CIV,e-visa (90)
 LSO,HRV,visa required
-LSO,CUB,visa required (30)
+LSO,CUB,visa required (90)
 LSO,CYP,visa required
 LSO,CZE,visa required
 LSO,DNK,visa required
@@ -19247,7 +19247,7 @@ LBR,COD,e-visa (90)
 LBR,CRI,visa required
 LBR,CIV,-1
 LBR,HRV,visa required
-LBR,CUB,visa required (30)
+LBR,CUB,visa required (90)
 LBR,CYP,visa required
 LBR,CZE,visa required
 LBR,DNK,visa required
@@ -19445,7 +19445,7 @@ LBY,COD,e-visa (90)
 LBY,CRI,visa required
 LBY,CIV,e-visa (90)
 LBY,HRV,visa required
-LBY,CUB,visa required (30)
+LBY,CUB,visa required (90)
 LBY,CYP,visa required
 LBY,CZE,visa required
 LBY,DNK,visa required
@@ -19643,7 +19643,7 @@ LIE,COD,e-visa (90)
 LIE,CRI,-1
 LIE,CIV,e-visa (90)
 LIE,HRV,visa free
-LIE,CUB,visa required (30)
+LIE,CUB,visa required (90)
 LIE,CYP,visa free
 LIE,CZE,visa free
 LIE,DNK,visa free
@@ -19841,7 +19841,7 @@ LTU,COD,e-visa (90)
 LTU,CRI,-1
 LTU,CIV,e-visa (90)
 LTU,HRV,visa free
-LTU,CUB,visa required (30)
+LTU,CUB,visa required (90)
 LTU,CYP,visa free
 LTU,CZE,visa free
 LTU,DNK,visa free
@@ -20039,7 +20039,7 @@ LUX,COD,e-visa (90)
 LUX,CRI,-1
 LUX,CIV,e-visa (90)
 LUX,HRV,visa free
-LUX,CUB,visa required (30)
+LUX,CUB,visa required (90)
 LUX,CYP,visa free
 LUX,CZE,visa free
 LUX,DNK,visa free
@@ -20237,7 +20237,7 @@ MAC,COD,e-visa (90)
 MAC,CRI,visa required
 MAC,CIV,e-visa (90)
 MAC,HRV,-1
-MAC,CUB,visa required (30)
+MAC,CUB,visa required (90)
 MAC,CYP,-1
 MAC,CZE,-1
 MAC,DNK,-1
@@ -20435,7 +20435,7 @@ MDG,COD,e-visa (90)
 MDG,CRI,visa required
 MDG,CIV,e-visa (90)
 MDG,HRV,visa required
-MDG,CUB,visa required (30)
+MDG,CUB,visa required (90)
 MDG,CYP,visa required
 MDG,CZE,visa required
 MDG,DNK,visa required
@@ -20633,7 +20633,7 @@ MWI,COD,e-visa (90)
 MWI,CRI,visa required
 MWI,CIV,e-visa (90)
 MWI,HRV,visa required
-MWI,CUB,visa required (30)
+MWI,CUB,visa required (90)
 MWI,CYP,visa required
 MWI,CZE,visa required
 MWI,DNK,visa required
@@ -21029,7 +21029,7 @@ MDV,COD,e-visa (90)
 MDV,CRI,-1
 MDV,CIV,e-visa (90)
 MDV,HRV,visa required
-MDV,CUB,visa required (30)
+MDV,CUB,visa required (90)
 MDV,CYP,visa required
 MDV,CZE,visa required
 MDV,DNK,visa required
@@ -21227,7 +21227,7 @@ MLI,COD,e-visa (90)
 MLI,CRI,visa required
 MLI,CIV,-1
 MLI,HRV,visa required
-MLI,CUB,visa required (30)
+MLI,CUB,visa required (90)
 MLI,CYP,visa required
 MLI,CZE,visa required
 MLI,DNK,visa required
@@ -21425,7 +21425,7 @@ MLT,COD,e-visa (90)
 MLT,CRI,-1
 MLT,CIV,e-visa (90)
 MLT,HRV,visa free
-MLT,CUB,visa required (30)
+MLT,CUB,visa required (90)
 MLT,CYP,visa free
 MLT,CZE,visa free
 MLT,DNK,visa free
@@ -21623,7 +21623,7 @@ MHL,COD,e-visa (90)
 MHL,CRI,-1
 MHL,CIV,e-visa (90)
 MHL,HRV,-1
-MHL,CUB,visa required (30)
+MHL,CUB,visa required (90)
 MHL,CYP,-1
 MHL,CZE,-1
 MHL,DNK,-1
@@ -21821,7 +21821,7 @@ MRT,COD,e-visa (90)
 MRT,CRI,visa required
 MRT,CIV,-1
 MRT,HRV,visa required
-MRT,CUB,visa required (30)
+MRT,CUB,visa required (90)
 MRT,CYP,visa required
 MRT,CZE,visa required
 MRT,DNK,visa required
@@ -22019,7 +22019,7 @@ MUS,COD,visa on arrival (7)
 MUS,CRI,-1
 MUS,CIV,e-visa (90)
 MUS,HRV,-1
-MUS,CUB,visa required (30)
+MUS,CUB,visa required (90)
 MUS,CYP,-1
 MUS,CZE,-1
 MUS,DNK,-1
@@ -22217,7 +22217,7 @@ MEX,COD,e-visa (90)
 MEX,CRI,-1
 MEX,CIV,e-visa (90)
 MEX,HRV,-1
-MEX,CUB,visa required (30)
+MEX,CUB,visa required (90)
 MEX,CYP,-1
 MEX,CZE,-1
 MEX,DNK,-1
@@ -22415,7 +22415,7 @@ FSM,COD,e-visa (90)
 FSM,CRI,-1
 FSM,CIV,e-visa (90)
 FSM,HRV,-1
-FSM,CUB,visa required (30)
+FSM,CUB,visa required (90)
 FSM,CYP,-1
 FSM,CZE,-1
 FSM,DNK,-1
@@ -22613,7 +22613,7 @@ MDA,COD,e-visa (90)
 MDA,CRI,visa required
 MDA,CIV,e-visa (90)
 MDA,HRV,-1
-MDA,CUB,visa required (30)
+MDA,CUB,visa required (90)
 MDA,CYP,-1
 MDA,CZE,-1
 MDA,DNK,-1
@@ -22811,7 +22811,7 @@ MCO,COD,e-visa (90)
 MCO,CRI,-1
 MCO,CIV,e-visa (90)
 MCO,HRV,-1
-MCO,CUB,visa required (30)
+MCO,CUB,visa required (90)
 MCO,CYP,-1
 MCO,CZE,-1
 MCO,DNK,-1
@@ -23405,7 +23405,7 @@ MAR,COD,e-visa (90)
 MAR,CRI,visa required
 MAR,CIV,-1
 MAR,HRV,visa required
-MAR,CUB,visa required (30)
+MAR,CUB,visa required (90)
 MAR,CYP,visa required
 MAR,CZE,visa required
 MAR,DNK,visa required
@@ -23603,7 +23603,7 @@ MOZ,COD,e-visa (90)
 MOZ,CRI,visa required
 MOZ,CIV,e-visa (90)
 MOZ,HRV,visa required
-MOZ,CUB,visa required (30)
+MOZ,CUB,visa required (90)
 MOZ,CYP,visa required
 MOZ,CZE,visa required
 MOZ,DNK,visa required
@@ -23801,7 +23801,7 @@ MMR,COD,e-visa (90)
 MMR,CRI,visa required
 MMR,CIV,e-visa (90)
 MMR,HRV,visa required
-MMR,CUB,visa required (30)
+MMR,CUB,visa required (90)
 MMR,CYP,visa required
 MMR,CZE,visa required
 MMR,DNK,visa required
@@ -24197,7 +24197,7 @@ NRU,COD,e-visa (90)
 NRU,CRI,-1
 NRU,CIV,e-visa (90)
 NRU,HRV,visa required
-NRU,CUB,visa required (30)
+NRU,CUB,visa required (90)
 NRU,CYP,visa required
 NRU,CZE,visa required
 NRU,DNK,visa required
@@ -24593,7 +24593,7 @@ NLD,COD,e-visa (90)
 NLD,CRI,-1
 NLD,CIV,e-visa (90)
 NLD,HRV,visa free
-NLD,CUB,visa required (30)
+NLD,CUB,visa required (90)
 NLD,CYP,visa free
 NLD,CZE,visa free
 NLD,DNK,visa free
@@ -24791,7 +24791,7 @@ NZL,COD,e-visa (90)
 NZL,CRI,-1
 NZL,CIV,e-visa (90)
 NZL,HRV,-1
-NZL,CUB,visa required (30)
+NZL,CUB,visa required (90)
 NZL,CYP,-1
 NZL,CZE,-1
 NZL,DNK,-1
@@ -24989,7 +24989,7 @@ NIC,COD,e-visa (90)
 NIC,CRI,visa required
 NIC,CIV,e-visa (90)
 NIC,HRV,-1
-NIC,CUB,visa required (30)
+NIC,CUB,visa required (90)
 NIC,CYP,-1
 NIC,CZE,-1
 NIC,DNK,-1
@@ -25187,7 +25187,7 @@ NER,COD,e-visa (90)
 NER,CRI,visa required
 NER,CIV,-1
 NER,HRV,visa required
-NER,CUB,visa required (30)
+NER,CUB,visa required (90)
 NER,CYP,visa required
 NER,CZE,visa required
 NER,DNK,visa required
@@ -25583,7 +25583,7 @@ PRK,COD,e-visa (90)
 PRK,CRI,visa required
 PRK,CIV,e-visa (90)
 PRK,HRV,visa required
-PRK,CUB,visa required (30)
+PRK,CUB,visa required (90)
 PRK,CYP,visa required
 PRK,CZE,visa required
 PRK,DNK,visa required
@@ -25979,7 +25979,7 @@ NOR,COD,e-visa (90)
 NOR,CRI,-1
 NOR,CIV,e-visa (90)
 NOR,HRV,visa free
-NOR,CUB,visa required (30)
+NOR,CUB,visa required (90)
 NOR,CYP,visa free
 NOR,CZE,visa free
 NOR,DNK,visa free
@@ -26177,7 +26177,7 @@ OMN,COD,e-visa (90)
 OMN,CRI,visa required
 OMN,CIV,e-visa (90)
 OMN,HRV,visa required
-OMN,CUB,visa required (30)
+OMN,CUB,visa required (90)
 OMN,CYP,visa required
 OMN,CZE,visa required
 OMN,DNK,visa required
@@ -26573,7 +26573,7 @@ PLW,COD,e-visa (90)
 PLW,CRI,-1
 PLW,CIV,e-visa (90)
 PLW,HRV,-1
-PLW,CUB,visa required (30)
+PLW,CUB,visa required (90)
 PLW,CYP,-1
 PLW,CZE,-1
 PLW,DNK,-1
@@ -26771,7 +26771,7 @@ PSE,COD,e-visa (90)
 PSE,CRI,visa required
 PSE,CIV,e-visa (90)
 PSE,HRV,visa required
-PSE,CUB,visa required (30)
+PSE,CUB,visa required (90)
 PSE,CYP,visa required
 PSE,CZE,visa required
 PSE,DNK,visa required
@@ -26969,7 +26969,7 @@ PAN,COD,e-visa (90)
 PAN,CRI,-1
 PAN,CIV,e-visa (90)
 PAN,HRV,-1
-PAN,CUB,visa required (30)
+PAN,CUB,visa required (90)
 PAN,CYP,-1
 PAN,CZE,-1
 PAN,DNK,-1
@@ -27167,7 +27167,7 @@ PNG,COD,e-visa (90)
 PNG,CRI,visa required
 PNG,CIV,e-visa (90)
 PNG,HRV,visa required
-PNG,CUB,visa required (30)
+PNG,CUB,visa required (90)
 PNG,CYP,visa required
 PNG,CZE,visa required
 PNG,DNK,visa required
@@ -27365,7 +27365,7 @@ PRY,COD,e-visa (90)
 PRY,CRI,-1
 PRY,CIV,e-visa (90)
 PRY,HRV,-1
-PRY,CUB,visa required (30)
+PRY,CUB,visa required (90)
 PRY,CYP,-1
 PRY,CZE,-1
 PRY,DNK,-1
@@ -27563,7 +27563,7 @@ PER,COD,e-visa (90)
 PER,CRI,-1
 PER,CIV,e-visa (90)
 PER,HRV,-1
-PER,CUB,visa required (30)
+PER,CUB,visa required (90)
 PER,CYP,-1
 PER,CZE,-1
 PER,DNK,-1
@@ -27959,7 +27959,7 @@ POL,COD,e-visa (90)
 POL,CRI,-1
 POL,CIV,e-visa (90)
 POL,HRV,visa free
-POL,CUB,visa required (30)
+POL,CUB,visa required (90)
 POL,CYP,visa free
 POL,CZE,visa free
 POL,DNK,visa free
@@ -28157,7 +28157,7 @@ PRT,COD,e-visa (90)
 PRT,CRI,-1
 PRT,CIV,e-visa (90)
 PRT,HRV,visa free
-PRT,CUB,visa required (30)
+PRT,CUB,visa required (90)
 PRT,CYP,visa free
 PRT,CZE,visa free
 PRT,DNK,visa free
@@ -28355,7 +28355,7 @@ QAT,COD,e-visa (90)
 QAT,CRI,-1
 QAT,CIV,e-visa (90)
 QAT,HRV,visa required
-QAT,CUB,visa required (30)
+QAT,CUB,visa required (90)
 QAT,CYP,visa required
 QAT,CZE,visa required
 QAT,DNK,visa required
@@ -28553,7 +28553,7 @@ ROU,COD,e-visa (90)
 ROU,CRI,-1
 ROU,CIV,e-visa (90)
 ROU,HRV,visa free
-ROU,CUB,visa required (30)
+ROU,CUB,visa required (90)
 ROU,CYP,visa free
 ROU,CZE,visa free
 ROU,DNK,visa free
@@ -28949,7 +28949,7 @@ RWA,COD,visa free
 RWA,CRI,visa required
 RWA,CIV,e-visa (90)
 RWA,HRV,visa required
-RWA,CUB,visa required (30)
+RWA,CUB,visa required (90)
 RWA,CYP,visa required
 RWA,CZE,visa required
 RWA,DNK,visa required
@@ -29543,7 +29543,7 @@ WSM,COD,e-visa (90)
 WSM,CRI,-1
 WSM,CIV,e-visa (90)
 WSM,HRV,-1
-WSM,CUB,visa required (30)
+WSM,CUB,visa required (90)
 WSM,CYP,-1
 WSM,CZE,-1
 WSM,DNK,-1
@@ -29741,7 +29741,7 @@ SMR,COD,e-visa (90)
 SMR,CRI,-1
 SMR,CIV,e-visa (90)
 SMR,HRV,-1
-SMR,CUB,visa required (30)
+SMR,CUB,visa required (90)
 SMR,CYP,-1
 SMR,CZE,-1
 SMR,DNK,-1
@@ -29939,7 +29939,7 @@ STP,COD,e-visa (90)
 STP,CRI,-1
 STP,CIV,e-visa (90)
 STP,HRV,visa required
-STP,CUB,visa required (30)
+STP,CUB,visa required (90)
 STP,CYP,visa required
 STP,CZE,visa required
 STP,DNK,visa required
@@ -30137,7 +30137,7 @@ SAU,COD,e-visa (90)
 SAU,CRI,visa required
 SAU,CIV,e-visa (90)
 SAU,HRV,visa required
-SAU,CUB,visa required (30)
+SAU,CUB,visa required (90)
 SAU,CYP,visa required
 SAU,CZE,visa required
 SAU,DNK,visa required
@@ -30335,7 +30335,7 @@ SEN,COD,e-visa (90)
 SEN,CRI,visa required
 SEN,CIV,-1
 SEN,HRV,visa required
-SEN,CUB,visa required (30)
+SEN,CUB,visa required (90)
 SEN,CYP,visa required
 SEN,CZE,visa required
 SEN,DNK,visa required
@@ -30731,7 +30731,7 @@ SYC,COD,e-visa (90)
 SYC,CRI,-1
 SYC,CIV,-1
 SYC,HRV,-1
-SYC,CUB,visa required (30)
+SYC,CUB,visa required (90)
 SYC,CYP,-1
 SYC,CZE,-1
 SYC,DNK,-1
@@ -31325,7 +31325,7 @@ SVK,COD,e-visa (90)
 SVK,CRI,-1
 SVK,CIV,e-visa (90)
 SVK,HRV,visa free
-SVK,CUB,visa required (30)
+SVK,CUB,visa required (90)
 SVK,CYP,visa free
 SVK,CZE,visa free
 SVK,DNK,visa free
@@ -31523,7 +31523,7 @@ SVN,COD,e-visa (90)
 SVN,CRI,-1
 SVN,CIV,e-visa (90)
 SVN,HRV,visa free
-SVN,CUB,visa required (30)
+SVN,CUB,visa required (90)
 SVN,CYP,visa free
 SVN,CZE,visa free
 SVN,DNK,visa free
@@ -31721,7 +31721,7 @@ SLB,COD,e-visa (90)
 SLB,CRI,-1
 SLB,CIV,e-visa (90)
 SLB,HRV,-1
-SLB,CUB,visa required (30)
+SLB,CUB,visa required (90)
 SLB,CYP,-1
 SLB,CZE,-1
 SLB,DNK,-1
@@ -32117,7 +32117,7 @@ ZAF,COD,e-visa (90)
 ZAF,CRI,-1
 ZAF,CIV,e-visa (90)
 ZAF,HRV,visa required
-ZAF,CUB,visa required (30)
+ZAF,CUB,visa required (90)
 ZAF,CYP,visa required
 ZAF,CZE,visa required
 ZAF,DNK,visa required
@@ -32315,7 +32315,7 @@ KOR,COD,e-visa (90)
 KOR,CRI,-1
 KOR,CIV,e-visa (90)
 KOR,HRV,-1
-KOR,CUB,visa required (30)
+KOR,CUB,visa required (90)
 KOR,CYP,-1
 KOR,CZE,-1
 KOR,DNK,-1
@@ -32513,7 +32513,7 @@ SSD,COD,e-visa (90)
 SSD,CRI,visa required
 SSD,CIV,e-visa (90)
 SSD,HRV,visa required
-SSD,CUB,visa required (30)
+SSD,CUB,visa required (90)
 SSD,CYP,visa required
 SSD,CZE,visa required
 SSD,DNK,visa required
@@ -32711,7 +32711,7 @@ ESP,COD,e-visa (90)
 ESP,CRI,-1
 ESP,CIV,e-visa (90)
 ESP,HRV,visa free
-ESP,CUB,visa required (30)
+ESP,CUB,visa required (90)
 ESP,CYP,visa free
 ESP,CZE,visa free
 ESP,DNK,visa free
@@ -33305,7 +33305,7 @@ SDN,COD,e-visa (90)
 SDN,CRI,visa required
 SDN,CIV,e-visa (90)
 SDN,HRV,visa required
-SDN,CUB,visa required (30)
+SDN,CUB,visa required (90)
 SDN,CYP,visa required
 SDN,CZE,visa required
 SDN,DNK,visa required
@@ -33503,7 +33503,7 @@ SUR,COD,e-visa (90)
 SUR,CRI,-1
 SUR,CIV,e-visa (90)
 SUR,HRV,visa required
-SUR,CUB,visa required (30)
+SUR,CUB,visa required (90)
 SUR,CYP,visa required
 SUR,CZE,visa required
 SUR,DNK,visa required
@@ -33701,7 +33701,7 @@ SWE,COD,e-visa (90)
 SWE,CRI,-1
 SWE,CIV,e-visa (90)
 SWE,HRV,visa free
-SWE,CUB,visa required (30)
+SWE,CUB,visa required (90)
 SWE,CYP,visa free
 SWE,CZE,visa free
 SWE,DNK,visa free
@@ -33899,7 +33899,7 @@ CHE,COD,e-visa (90)
 CHE,CRI,-1
 CHE,CIV,e-visa (90)
 CHE,HRV,visa free
-CHE,CUB,visa required (30)
+CHE,CUB,visa required (90)
 CHE,CYP,visa free
 CHE,CZE,visa free
 CHE,DNK,visa free
@@ -34295,7 +34295,7 @@ TWN,COD,e-visa (90)
 TWN,CRI,-1
 TWN,CIV,e-visa (90)
 TWN,HRV,-1
-TWN,CUB,visa required (30)
+TWN,CUB,visa required (90)
 TWN,CYP,-1
 TWN,CZE,-1
 TWN,DNK,-1
@@ -34493,7 +34493,7 @@ TJK,COD,e-visa (90)
 TJK,CRI,visa required
 TJK,CIV,e-visa (90)
 TJK,HRV,visa required
-TJK,CUB,visa required (30)
+TJK,CUB,visa required (90)
 TJK,CYP,visa required
 TJK,CZE,visa required
 TJK,DNK,visa required
@@ -34691,7 +34691,7 @@ TZA,COD,visa on arrival (7)
 TZA,CRI,visa required
 TZA,CIV,e-visa (90)
 TZA,HRV,visa required
-TZA,CUB,visa required (30)
+TZA,CUB,visa required (90)
 TZA,CYP,visa required
 TZA,CZE,visa required
 TZA,DNK,visa required
@@ -34889,7 +34889,7 @@ THA,COD,e-visa (90)
 THA,CRI,visa required
 THA,CIV,e-visa (90)
 THA,HRV,visa required
-THA,CUB,visa required (30)
+THA,CUB,visa required (90)
 THA,CYP,visa required
 THA,CZE,visa required
 THA,DNK,visa required
@@ -35087,7 +35087,7 @@ TLS,COD,e-visa (90)
 TLS,CRI,visa required
 TLS,CIV,e-visa (90)
 TLS,HRV,-1
-TLS,CUB,visa required (30)
+TLS,CUB,visa required (90)
 TLS,CYP,-1
 TLS,CZE,-1
 TLS,DNK,-1
@@ -35285,7 +35285,7 @@ TGO,COD,e-visa (90)
 TGO,CRI,visa required
 TGO,CIV,-1
 TGO,HRV,visa required
-TGO,CUB,visa required (30)
+TGO,CUB,visa required (90)
 TGO,CYP,visa required
 TGO,CZE,visa required
 TGO,DNK,visa required
@@ -35483,7 +35483,7 @@ TON,COD,e-visa (90)
 TON,CRI,-1
 TON,CIV,e-visa (90)
 TON,HRV,-1
-TON,CUB,visa required (30)
+TON,CUB,visa required (90)
 TON,CYP,-1
 TON,CZE,-1
 TON,DNK,-1
@@ -35681,7 +35681,7 @@ TTO,COD,e-visa (90)
 TTO,CRI,-1
 TTO,CIV,e-visa (90)
 TTO,HRV,-1
-TTO,CUB,visa required (30)
+TTO,CUB,visa required (90)
 TTO,CYP,-1
 TTO,CZE,-1
 TTO,DNK,-1
@@ -35879,7 +35879,7 @@ TUN,COD,e-visa (90)
 TUN,CRI,visa required
 TUN,CIV,-1
 TUN,HRV,visa required
-TUN,CUB,visa required (30)
+TUN,CUB,visa required (90)
 TUN,CYP,visa required
 TUN,CZE,visa required
 TUN,DNK,visa required
@@ -36077,7 +36077,7 @@ TUR,COD,e-visa (90)
 TUR,CRI,-1
 TUR,CIV,e-visa (90)
 TUR,HRV,visa required
-TUR,CUB,visa required (30)
+TUR,CUB,visa required (90)
 TUR,CYP,visa required
 TUR,CZE,visa required
 TUR,DNK,visa required
@@ -36275,7 +36275,7 @@ TKM,COD,e-visa (90)
 TKM,CRI,visa required
 TKM,CIV,e-visa (90)
 TKM,HRV,visa required
-TKM,CUB,visa required (30)
+TKM,CUB,visa required (90)
 TKM,CYP,visa required
 TKM,CZE,visa required
 TKM,DNK,visa required
@@ -36473,7 +36473,7 @@ TUV,COD,e-visa (90)
 TUV,CRI,-1
 TUV,CIV,e-visa (90)
 TUV,HRV,-1
-TUV,CUB,visa required (30)
+TUV,CUB,visa required (90)
 TUV,CYP,-1
 TUV,CZE,-1
 TUV,DNK,-1
@@ -36671,7 +36671,7 @@ UGA,COD,e-visa (90)
 UGA,CRI,visa required
 UGA,CIV,e-visa (90)
 UGA,HRV,visa required
-UGA,CUB,visa required (30)
+UGA,CUB,visa required (90)
 UGA,CYP,visa required
 UGA,CZE,visa required
 UGA,DNK,visa required
@@ -36869,7 +36869,7 @@ UKR,COD,e-visa (90)
 UKR,CRI,-1
 UKR,CIV,e-visa (90)
 UKR,HRV,-1
-UKR,CUB,visa required (30)
+UKR,CUB,visa required (90)
 UKR,CYP,-1
 UKR,CZE,-1
 UKR,DNK,-1
@@ -37265,7 +37265,7 @@ GBR,COD,e-visa (90)
 GBR,CRI,-1
 GBR,CIV,e-visa (90)
 GBR,HRV,-1
-GBR,CUB,visa required (30)
+GBR,CUB,visa required (90)
 GBR,CYP,-1
 GBR,CZE,-1
 GBR,DNK,-1
@@ -37463,7 +37463,7 @@ USA,COD,e-visa (90)
 USA,CRI,-1
 USA,CIV,e-visa (90)
 USA,HRV,-1
-USA,CUB,visa required (30)
+USA,CUB,visa required (90)
 USA,CYP,-1
 USA,CZE,-1
 USA,DNK,-1
@@ -37661,7 +37661,7 @@ URY,COD,e-visa (90)
 URY,CRI,-1
 URY,CIV,e-visa (90)
 URY,HRV,-1
-URY,CUB,visa required (30)
+URY,CUB,visa required (90)
 URY,CYP,-1
 URY,CZE,visa free
 URY,DNK,-1
@@ -38057,7 +38057,7 @@ VUT,COD,e-visa (90)
 VUT,CRI,-1
 VUT,CIV,e-visa (90)
 VUT,HRV,visa required
-VUT,CUB,visa required (30)
+VUT,CUB,visa required (90)
 VUT,CYP,visa required
 VUT,CZE,visa required
 VUT,DNK,visa required
@@ -38255,7 +38255,7 @@ VAT,COD,e-visa (90)
 VAT,CRI,-1
 VAT,CIV,e-visa (90)
 VAT,HRV,-1
-VAT,CUB,visa required (30)
+VAT,CUB,visa required (90)
 VAT,CYP,-1
 VAT,CZE,-1
 VAT,DNK,-1
@@ -38453,7 +38453,7 @@ VEN,COD,e-visa (90)
 VEN,CRI,visa required
 VEN,CIV,e-visa (90)
 VEN,HRV,-1
-VEN,CUB,visa required (30)
+VEN,CUB,visa required (90)
 VEN,CYP,-1
 VEN,CZE,-1
 VEN,DNK,-1
@@ -38651,7 +38651,7 @@ VNM,COD,e-visa (90)
 VNM,CRI,visa required
 VNM,CIV,e-visa (90)
 VNM,HRV,visa required
-VNM,CUB,visa required (30)
+VNM,CUB,visa required (90)
 VNM,CYP,visa required
 VNM,CZE,visa required
 VNM,DNK,visa required
@@ -39047,7 +39047,7 @@ ZMB,COD,e-visa (90)
 ZMB,CRI,visa required
 ZMB,CIV,e-visa (90)
 ZMB,HRV,visa required
-ZMB,CUB,visa required (30)
+ZMB,CUB,visa required (90)
 ZMB,CYP,visa required
 ZMB,CZE,visa required
 ZMB,DNK,visa required
@@ -39245,7 +39245,7 @@ ZWE,COD,-1
 ZWE,CRI,visa required
 ZWE,CIV,e-visa (90)
 ZWE,HRV,visa required
-ZWE,CUB,visa required (30)
+ZWE,CUB,visa required (90)
 ZWE,CYP,visa required
 ZWE,CZE,visa required
 ZWE,DNK,visa required

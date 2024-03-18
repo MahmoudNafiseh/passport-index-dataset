@@ -239,7 +239,7 @@ Albania,DR Congo,e-visa,90,237
 Albania,Costa Rica,visa required,0,238
 Albania,Ivory Coast,e-visa,90,239
 Albania,Croatia,-1,0,240
-Albania,Cuba,visa required,30,241
+Albania,Cuba,visa required,90,241
 Albania,Cyprus,-1,0,242
 Albania,Czech Republic,-1,0,243
 Albania,Denmark,-1,0,244
@@ -437,7 +437,7 @@ Algeria,DR Congo,e-visa,90,435
 Algeria,Costa Rica,visa required,0,436
 Algeria,Ivory Coast,e-visa,90,437
 Algeria,Croatia,visa required,0,438
-Algeria,Cuba,visa required,30,439
+Algeria,Cuba,visa required,90,439
 Algeria,Cyprus,visa required,0,440
 Algeria,Czech Republic,visa required,0,441
 Algeria,Denmark,visa required,0,442
@@ -635,7 +635,7 @@ Andorra,DR Congo,e-visa,90,633
 Andorra,Costa Rica,-1,0,634
 Andorra,Ivory Coast,e-visa,90,635
 Andorra,Croatia,-1,0,636
-Andorra,Cuba,visa required,30,637
+Andorra,Cuba,visa required,90,637
 Andorra,Cyprus,-1,0,638
 Andorra,Czech Republic,-1,0,639
 Andorra,Denmark,-1,0,640
@@ -833,7 +833,7 @@ Angola,DR Congo,e-visa,90,831
 Angola,Costa Rica,visa required,0,832
 Angola,Ivory Coast,e-visa,90,833
 Angola,Croatia,visa required,0,834
-Angola,Cuba,visa required,30,835
+Angola,Cuba,visa required,90,835
 Angola,Cyprus,visa required,0,836
 Angola,Czech Republic,visa required,0,837
 Angola,Denmark,visa required,0,838
@@ -1229,7 +1229,7 @@ Argentina,DR Congo,e-visa,90,1227
 Argentina,Costa Rica,-1,0,1228
 Argentina,Ivory Coast,e-visa,90,1229
 Argentina,Croatia,-1,0,1230
-Argentina,Cuba,visa required,30,1231
+Argentina,Cuba,visa required,90,1231
 Argentina,Cyprus,-1,0,1232
 Argentina,Czech Republic,-1,0,1233
 Argentina,Denmark,-1,0,1234
@@ -1427,7 +1427,7 @@ Armenia,DR Congo,e-visa,90,1425
 Armenia,Costa Rica,visa required,0,1426
 Armenia,Ivory Coast,e-visa,90,1427
 Armenia,Croatia,visa required,0,1428
-Armenia,Cuba,visa required,30,1429
+Armenia,Cuba,visa required,90,1429
 Armenia,Cyprus,visa required,0,1430
 Armenia,Czech Republic,visa required,0,1431
 Armenia,Denmark,visa required,0,1432
@@ -1625,7 +1625,7 @@ Australia,DR Congo,e-visa,90,1623
 Australia,Costa Rica,-1,0,1624
 Australia,Ivory Coast,e-visa,90,1625
 Australia,Croatia,-1,0,1626
-Australia,Cuba,visa required,30,1627
+Australia,Cuba,visa required,90,1627
 Australia,Cyprus,-1,0,1628
 Australia,Czech Republic,-1,0,1629
 Australia,Denmark,-1,0,1630
@@ -1823,7 +1823,7 @@ Austria,DR Congo,e-visa,90,1821
 Austria,Costa Rica,-1,0,1822
 Austria,Ivory Coast,e-visa,90,1823
 Austria,Croatia,-1,0,1824
-Austria,Cuba,visa required,30,1825
+Austria,Cuba,visa required,90,1825
 Austria,Cyprus,visa free,0,1826
 Austria,Czech Republic,visa free,0,1827
 Austria,Denmark,visa free,0,1828
@@ -2021,7 +2021,7 @@ Azerbaijan,DR Congo,e-visa,90,2019
 Azerbaijan,Costa Rica,visa required,0,2020
 Azerbaijan,Ivory Coast,e-visa,90,2021
 Azerbaijan,Croatia,visa required,0,2022
-Azerbaijan,Cuba,visa required,30,2023
+Azerbaijan,Cuba,visa required,90,2023
 Azerbaijan,Cyprus,visa required,0,2024
 Azerbaijan,Czech Republic,visa required,0,2025
 Azerbaijan,Denmark,visa required,0,2026
@@ -2219,7 +2219,7 @@ Bahamas,DR Congo,e-visa,90,2217
 Bahamas,Costa Rica,-1,0,2218
 Bahamas,Ivory Coast,e-visa,90,2219
 Bahamas,Croatia,-1,0,2220
-Bahamas,Cuba,visa required,30,2221
+Bahamas,Cuba,visa required,90,2221
 Bahamas,Cyprus,-1,0,2222
 Bahamas,Czech Republic,-1,0,2223
 Bahamas,Denmark,-1,0,2224
@@ -2417,7 +2417,7 @@ Bahrain,DR Congo,e-visa,90,2415
 Bahrain,Costa Rica,visa required,0,2416
 Bahrain,Ivory Coast,e-visa,90,2417
 Bahrain,Croatia,visa required,0,2418
-Bahrain,Cuba,visa required,30,2419
+Bahrain,Cuba,visa required,90,2419
 Bahrain,Cyprus,visa required,0,2420
 Bahrain,Czech Republic,visa required,0,2421
 Bahrain,Denmark,visa required,0,2422
@@ -3209,7 +3209,7 @@ Belgium,DR Congo,e-visa,90,3207
 Belgium,Costa Rica,-1,0,3208
 Belgium,Ivory Coast,e-visa,90,3209
 Belgium,Croatia,visa free,0,3210
-Belgium,Cuba,visa required,30,3211
+Belgium,Cuba,visa required,90,3211
 Belgium,Cyprus,visa free,0,3212
 Belgium,Czech Republic,visa free,0,3213
 Belgium,Denmark,visa free,0,3214
@@ -3407,7 +3407,7 @@ Belize,DR Congo,e-visa,90,3405
 Belize,Costa Rica,-1,0,3406
 Belize,Ivory Coast,e-visa,90,3407
 Belize,Croatia,visa required,0,3408
-Belize,Cuba,visa required,30,3409
+Belize,Cuba,visa required,90,3409
 Belize,Cyprus,visa required,0,3410
 Belize,Czech Republic,visa required,0,3411
 Belize,Denmark,visa required,0,3412
@@ -3605,7 +3605,7 @@ Benin,DR Congo,e-visa,90,3603
 Benin,Costa Rica,visa required,0,3604
 Benin,Ivory Coast,-1,0,3605
 Benin,Croatia,visa required,0,3606
-Benin,Cuba,visa required,30,3607
+Benin,Cuba,visa required,90,3607
 Benin,Cyprus,visa required,0,3608
 Benin,Czech Republic,visa required,0,3609
 Benin,Denmark,visa required,0,3610
@@ -3803,7 +3803,7 @@ Bhutan,DR Congo,e-visa,90,3801
 Bhutan,Costa Rica,visa required,0,3802
 Bhutan,Ivory Coast,e-visa,90,3803
 Bhutan,Croatia,visa required,0,3804
-Bhutan,Cuba,visa required,30,3805
+Bhutan,Cuba,visa required,90,3805
 Bhutan,Cyprus,visa required,0,3806
 Bhutan,Czech Republic,visa required,0,3807
 Bhutan,Denmark,visa required,0,3808
@@ -4001,7 +4001,7 @@ Bolivia,DR Congo,e-visa,90,3999
 Bolivia,Costa Rica,-1,0,4000
 Bolivia,Ivory Coast,e-visa,90,4001
 Bolivia,Croatia,visa required,0,4002
-Bolivia,Cuba,visa required,30,4003
+Bolivia,Cuba,visa required,90,4003
 Bolivia,Cyprus,visa required,0,4004
 Bolivia,Czech Republic,visa required,0,4005
 Bolivia,Denmark,visa required,0,4006
@@ -4397,7 +4397,7 @@ Botswana,DR Congo,e-visa,90,4395
 Botswana,Costa Rica,visa required,0,4396
 Botswana,Ivory Coast,e-visa,90,4397
 Botswana,Croatia,visa required,0,4398
-Botswana,Cuba,visa required,30,4399
+Botswana,Cuba,visa required,90,4399
 Botswana,Cyprus,visa required,0,4400
 Botswana,Czech Republic,visa required,0,4401
 Botswana,Denmark,visa required,0,4402
@@ -4595,7 +4595,7 @@ Brazil,DR Congo,e-visa,90,4593
 Brazil,Costa Rica,-1,0,4594
 Brazil,Ivory Coast,e-visa,90,4595
 Brazil,Croatia,-1,0,4596
-Brazil,Cuba,visa required,30,4597
+Brazil,Cuba,visa required,90,4597
 Brazil,Cyprus,-1,0,4598
 Brazil,Czech Republic,-1,0,4599
 Brazil,Denmark,-1,0,4600
@@ -4793,7 +4793,7 @@ Brunei,DR Congo,e-visa,90,4791
 Brunei,Costa Rica,-1,0,4792
 Brunei,Ivory Coast,e-visa,90,4793
 Brunei,Croatia,-1,0,4794
-Brunei,Cuba,visa required,30,4795
+Brunei,Cuba,visa required,90,4795
 Brunei,Cyprus,-1,0,4796
 Brunei,Czech Republic,-1,0,4797
 Brunei,Denmark,-1,0,4798
@@ -4991,7 +4991,7 @@ Bulgaria,DR Congo,e-visa,90,4989
 Bulgaria,Costa Rica,-1,0,4990
 Bulgaria,Ivory Coast,e-visa,90,4991
 Bulgaria,Croatia,visa free,0,4992
-Bulgaria,Cuba,visa required,30,4993
+Bulgaria,Cuba,visa required,90,4993
 Bulgaria,Cyprus,visa free,0,4994
 Bulgaria,Czech Republic,visa free,0,4995
 Bulgaria,Denmark,visa free,0,4996
@@ -5189,7 +5189,7 @@ Burkina Faso,DR Congo,e-visa,90,5187
 Burkina Faso,Costa Rica,visa required,0,5188
 Burkina Faso,Ivory Coast,-1,0,5189
 Burkina Faso,Croatia,visa required,0,5190
-Burkina Faso,Cuba,visa required,30,5191
+Burkina Faso,Cuba,visa required,90,5191
 Burkina Faso,Cyprus,visa required,0,5192
 Burkina Faso,Czech Republic,visa required,0,5193
 Burkina Faso,Denmark,visa required,0,5194
@@ -5387,7 +5387,7 @@ Burundi,DR Congo,visa free,0,5385
 Burundi,Costa Rica,visa required,0,5386
 Burundi,Ivory Coast,e-visa,90,5387
 Burundi,Croatia,visa required,0,5388
-Burundi,Cuba,visa required,30,5389
+Burundi,Cuba,visa required,90,5389
 Burundi,Cyprus,visa required,0,5390
 Burundi,Czech Republic,visa required,0,5391
 Burundi,Denmark,visa required,0,5392
@@ -5585,7 +5585,7 @@ Cambodia,DR Congo,e-visa,90,5583
 Cambodia,Costa Rica,visa required,0,5584
 Cambodia,Ivory Coast,e-visa,90,5585
 Cambodia,Croatia,visa required,0,5586
-Cambodia,Cuba,visa required,30,5587
+Cambodia,Cuba,visa required,90,5587
 Cambodia,Cyprus,visa required,0,5588
 Cambodia,Czech Republic,visa required,0,5589
 Cambodia,Denmark,visa required,0,5590
@@ -6179,7 +6179,7 @@ Cape Verde,DR Congo,e-visa,90,6177
 Cape Verde,Costa Rica,visa required,0,6178
 Cape Verde,Ivory Coast,-1,0,6179
 Cape Verde,Croatia,visa required,0,6180
-Cape Verde,Cuba,visa required,30,6181
+Cape Verde,Cuba,visa required,90,6181
 Cape Verde,Cyprus,visa required,0,6182
 Cape Verde,Czech Republic,visa required,0,6183
 Cape Verde,Denmark,visa required,0,6184
@@ -6377,7 +6377,7 @@ Central African Republic,DR Congo,e-visa,90,6375
 Central African Republic,Costa Rica,visa required,0,6376
 Central African Republic,Ivory Coast,-1,0,6377
 Central African Republic,Croatia,visa required,0,6378
-Central African Republic,Cuba,visa required,30,6379
+Central African Republic,Cuba,visa required,90,6379
 Central African Republic,Cyprus,visa required,0,6380
 Central African Republic,Czech Republic,visa required,0,6381
 Central African Republic,Denmark,visa required,0,6382
@@ -6575,7 +6575,7 @@ Chad,DR Congo,e-visa,90,6573
 Chad,Costa Rica,visa required,0,6574
 Chad,Ivory Coast,-1,0,6575
 Chad,Croatia,visa required,0,6576
-Chad,Cuba,visa required,30,6577
+Chad,Cuba,visa required,90,6577
 Chad,Cyprus,visa required,0,6578
 Chad,Czech Republic,visa required,0,6579
 Chad,Denmark,visa required,0,6580
@@ -6773,7 +6773,7 @@ Chile,DR Congo,e-visa,90,6771
 Chile,Costa Rica,-1,0,6772
 Chile,Ivory Coast,e-visa,90,6773
 Chile,Croatia,-1,0,6774
-Chile,Cuba,visa required,30,6775
+Chile,Cuba,visa required,90,6775
 Chile,Cyprus,-1,0,6776
 Chile,Czech Republic,-1,0,6777
 Chile,Denmark,-1,0,6778
@@ -6971,7 +6971,7 @@ China,DR Congo,e-visa,90,6969
 China,Costa Rica,visa required,0,6970
 China,Ivory Coast,e-visa,90,6971
 China,Croatia,visa required,0,6972
-China,Cuba,visa required,30,6973
+China,Cuba,visa required,90,6973
 China,Cyprus,visa required,0,6974
 China,Czech Republic,visa required,0,6975
 China,Denmark,visa required,0,6976
@@ -7169,7 +7169,7 @@ Colombia,DR Congo,e-visa,90,7167
 Colombia,Costa Rica,visa required,0,7168
 Colombia,Ivory Coast,e-visa,90,7169
 Colombia,Croatia,-1,0,7170
-Colombia,Cuba,visa required,30,7171
+Colombia,Cuba,visa required,90,7171
 Colombia,Cyprus,-1,0,7172
 Colombia,Czech Republic,-1,0,7173
 Colombia,Denmark,-1,0,7174
@@ -7367,7 +7367,7 @@ Comoros,DR Congo,e-visa,90,7365
 Comoros,Costa Rica,visa required,0,7366
 Comoros,Ivory Coast,e-visa,90,7367
 Comoros,Croatia,visa required,0,7368
-Comoros,Cuba,visa required,30,7369
+Comoros,Cuba,visa required,90,7369
 Comoros,Cyprus,visa required,0,7370
 Comoros,Czech Republic,visa required,0,7371
 Comoros,Denmark,visa required,0,7372
@@ -7565,7 +7565,7 @@ Congo,DR Congo,-1,0,7563
 Congo,Costa Rica,visa required,0,7564
 Congo,Ivory Coast,-1,0,7565
 Congo,Croatia,visa required,0,7566
-Congo,Cuba,visa required,30,7567
+Congo,Cuba,visa required,90,7567
 Congo,Cyprus,visa required,0,7568
 Congo,Czech Republic,visa required,0,7569
 Congo,Denmark,visa required,0,7570
@@ -7763,7 +7763,7 @@ DR Congo,DR Congo,-1,0,7761
 DR Congo,Costa Rica,visa required,0,7762
 DR Congo,Ivory Coast,e-visa,90,7763
 DR Congo,Croatia,visa required,0,7764
-DR Congo,Cuba,visa required,30,7765
+DR Congo,Cuba,visa required,90,7765
 DR Congo,Cyprus,visa required,0,7766
 DR Congo,Czech Republic,visa required,0,7767
 DR Congo,Denmark,visa required,0,7768
@@ -7961,7 +7961,7 @@ Costa Rica,DR Congo,e-visa,90,7959
 Costa Rica,Costa Rica,-1,0,7960
 Costa Rica,Ivory Coast,e-visa,90,7961
 Costa Rica,Croatia,-1,0,7962
-Costa Rica,Cuba,visa required,30,7963
+Costa Rica,Cuba,visa required,90,7963
 Costa Rica,Cyprus,-1,0,7964
 Costa Rica,Czech Republic,-1,0,7965
 Costa Rica,Denmark,-1,0,7966
@@ -8159,7 +8159,7 @@ Ivory Coast,DR Congo,e-visa,90,8157
 Ivory Coast,Costa Rica,visa required,0,8158
 Ivory Coast,Ivory Coast,-1,0,8159
 Ivory Coast,Croatia,visa required,0,8160
-Ivory Coast,Cuba,visa required,30,8161
+Ivory Coast,Cuba,visa required,90,8161
 Ivory Coast,Cyprus,visa required,0,8162
 Ivory Coast,Czech Republic,visa required,0,8163
 Ivory Coast,Denmark,visa required,0,8164
@@ -8357,7 +8357,7 @@ Croatia,DR Congo,e-visa,90,8355
 Croatia,Costa Rica,-1,0,8356
 Croatia,Ivory Coast,e-visa,90,8357
 Croatia,Croatia,-1,0,8358
-Croatia,Cuba,visa required,30,8359
+Croatia,Cuba,visa required,90,8359
 Croatia,Cyprus,visa free,0,8360
 Croatia,Czech Republic,visa free,0,8361
 Croatia,Denmark,visa free,0,8362
@@ -8753,7 +8753,7 @@ Cyprus,DR Congo,e-visa,90,8751
 Cyprus,Costa Rica,-1,0,8752
 Cyprus,Ivory Coast,e-visa,90,8753
 Cyprus,Croatia,visa free,0,8754
-Cyprus,Cuba,visa required,30,8755
+Cyprus,Cuba,visa required,90,8755
 Cyprus,Cyprus,-1,0,8756
 Cyprus,Czech Republic,visa free,0,8757
 Cyprus,Denmark,visa free,0,8758
@@ -8951,7 +8951,7 @@ Czech Republic,DR Congo,e-visa,90,8949
 Czech Republic,Costa Rica,-1,0,8950
 Czech Republic,Ivory Coast,e-visa,90,8951
 Czech Republic,Croatia,visa free,0,8952
-Czech Republic,Cuba,visa required,30,8953
+Czech Republic,Cuba,visa required,90,8953
 Czech Republic,Cyprus,visa free,0,8954
 Czech Republic,Czech Republic,-1,0,8955
 Czech Republic,Denmark,visa free,0,8956
@@ -9149,7 +9149,7 @@ Denmark,DR Congo,e-visa,90,9147
 Denmark,Costa Rica,-1,0,9148
 Denmark,Ivory Coast,e-visa,90,9149
 Denmark,Croatia,visa free,0,9150
-Denmark,Cuba,visa required,30,9151
+Denmark,Cuba,visa required,90,9151
 Denmark,Cyprus,visa free,0,9152
 Denmark,Czech Republic,visa free,0,9153
 Denmark,Denmark,-1,0,9154
@@ -9347,7 +9347,7 @@ Djibouti,DR Congo,e-visa,90,9345
 Djibouti,Costa Rica,visa required,0,9346
 Djibouti,Ivory Coast,e-visa,90,9347
 Djibouti,Croatia,visa required,0,9348
-Djibouti,Cuba,visa required,30,9349
+Djibouti,Cuba,visa required,90,9349
 Djibouti,Cyprus,visa required,0,9350
 Djibouti,Czech Republic,visa required,0,9351
 Djibouti,Denmark,visa required,0,9352
@@ -9743,7 +9743,7 @@ Dominican Republic,DR Congo,e-visa,90,9741
 Dominican Republic,Costa Rica,visa required,0,9742
 Dominican Republic,Ivory Coast,e-visa,90,9743
 Dominican Republic,Croatia,visa required,0,9744
-Dominican Republic,Cuba,visa required,30,9745
+Dominican Republic,Cuba,visa required,90,9745
 Dominican Republic,Cyprus,visa required,0,9746
 Dominican Republic,Czech Republic,visa required,0,9747
 Dominican Republic,Denmark,visa required,0,9748
@@ -9941,7 +9941,7 @@ Ecuador,DR Congo,e-visa,90,9939
 Ecuador,Costa Rica,visa required,0,9940
 Ecuador,Ivory Coast,e-visa,90,9941
 Ecuador,Croatia,visa required,0,9942
-Ecuador,Cuba,visa required,30,9943
+Ecuador,Cuba,visa required,90,9943
 Ecuador,Cyprus,visa required,0,9944
 Ecuador,Czech Republic,visa required,0,9945
 Ecuador,Denmark,visa required,0,9946
@@ -10139,7 +10139,7 @@ Egypt,DR Congo,e-visa,90,10137
 Egypt,Costa Rica,visa required,0,10138
 Egypt,Ivory Coast,e-visa,90,10139
 Egypt,Croatia,visa required,0,10140
-Egypt,Cuba,visa required,30,10141
+Egypt,Cuba,visa required,90,10141
 Egypt,Cyprus,visa required,0,10142
 Egypt,Czech Republic,visa required,0,10143
 Egypt,Denmark,visa required,0,10144
@@ -10337,7 +10337,7 @@ El Salvador,DR Congo,e-visa,90,10335
 El Salvador,Costa Rica,-1,0,10336
 El Salvador,Ivory Coast,e-visa,90,10337
 El Salvador,Croatia,-1,0,10338
-El Salvador,Cuba,visa required,30,10339
+El Salvador,Cuba,visa required,90,10339
 El Salvador,Cyprus,-1,0,10340
 El Salvador,Czech Republic,-1,0,10341
 El Salvador,Denmark,-1,0,10342
@@ -10535,7 +10535,7 @@ Equatorial Guinea,DR Congo,e-visa,90,10533
 Equatorial Guinea,Costa Rica,visa required,0,10534
 Equatorial Guinea,Ivory Coast,e-visa,90,10535
 Equatorial Guinea,Croatia,visa required,0,10536
-Equatorial Guinea,Cuba,visa required,30,10537
+Equatorial Guinea,Cuba,visa required,90,10537
 Equatorial Guinea,Cyprus,visa required,0,10538
 Equatorial Guinea,Czech Republic,visa required,0,10539
 Equatorial Guinea,Denmark,visa required,0,10540
@@ -10931,7 +10931,7 @@ Estonia,DR Congo,e-visa,90,10929
 Estonia,Costa Rica,-1,0,10930
 Estonia,Ivory Coast,e-visa,90,10931
 Estonia,Croatia,visa free,0,10932
-Estonia,Cuba,visa required,30,10933
+Estonia,Cuba,visa required,90,10933
 Estonia,Cyprus,visa free,0,10934
 Estonia,Czech Republic,visa free,0,10935
 Estonia,Denmark,visa free,0,10936
@@ -11129,7 +11129,7 @@ Swaziland,DR Congo,e-visa,90,11127
 Swaziland,Costa Rica,visa required,0,11128
 Swaziland,Ivory Coast,e-visa,90,11129
 Swaziland,Croatia,visa required,0,11130
-Swaziland,Cuba,visa required,30,11131
+Swaziland,Cuba,visa required,90,11131
 Swaziland,Cyprus,visa required,0,11132
 Swaziland,Czech Republic,visa required,0,11133
 Swaziland,Denmark,visa required,0,11134
@@ -11525,7 +11525,7 @@ Fiji,DR Congo,e-visa,90,11523
 Fiji,Costa Rica,-1,0,11524
 Fiji,Ivory Coast,e-visa,90,11525
 Fiji,Croatia,visa required,0,11526
-Fiji,Cuba,visa required,30,11527
+Fiji,Cuba,visa required,90,11527
 Fiji,Cyprus,visa required,0,11528
 Fiji,Czech Republic,visa required,0,11529
 Fiji,Denmark,visa required,0,11530
@@ -11723,7 +11723,7 @@ Finland,DR Congo,e-visa,90,11721
 Finland,Costa Rica,-1,0,11722
 Finland,Ivory Coast,e-visa,90,11723
 Finland,Croatia,visa free,0,11724
-Finland,Cuba,visa required,30,11725
+Finland,Cuba,visa required,90,11725
 Finland,Cyprus,visa free,0,11726
 Finland,Czech Republic,visa free,0,11727
 Finland,Denmark,visa free,0,11728
@@ -11921,7 +11921,7 @@ France,DR Congo,e-visa,90,11919
 France,Costa Rica,-1,0,11920
 France,Ivory Coast,e-visa,90,11921
 France,Croatia,visa free,0,11922
-France,Cuba,visa required,30,11923
+France,Cuba,visa required,90,11923
 France,Cyprus,visa free,0,11924
 France,Czech Republic,visa free,0,11925
 France,Denmark,visa free,0,11926
@@ -12119,7 +12119,7 @@ Gabon,DR Congo,e-visa,90,12117
 Gabon,Costa Rica,visa required,0,12118
 Gabon,Ivory Coast,e-visa,90,12119
 Gabon,Croatia,visa required,0,12120
-Gabon,Cuba,visa required,30,12121
+Gabon,Cuba,visa required,90,12121
 Gabon,Cyprus,visa required,0,12122
 Gabon,Czech Republic,visa required,0,12123
 Gabon,Denmark,visa required,0,12124
@@ -12317,7 +12317,7 @@ Gambia,DR Congo,e-visa,90,12315
 Gambia,Costa Rica,visa required,0,12316
 Gambia,Ivory Coast,-1,0,12317
 Gambia,Croatia,visa required,0,12318
-Gambia,Cuba,visa required,30,12319
+Gambia,Cuba,visa required,90,12319
 Gambia,Cyprus,visa required,0,12320
 Gambia,Czech Republic,visa required,0,12321
 Gambia,Denmark,visa required,0,12322
@@ -12515,7 +12515,7 @@ Georgia,DR Congo,e-visa,90,12513
 Georgia,Costa Rica,visa required,0,12514
 Georgia,Ivory Coast,e-visa,90,12515
 Georgia,Croatia,-1,0,12516
-Georgia,Cuba,visa required,30,12517
+Georgia,Cuba,visa required,90,12517
 Georgia,Cyprus,-1,0,12518
 Georgia,Czech Republic,-1,0,12519
 Georgia,Denmark,-1,0,12520
@@ -12713,7 +12713,7 @@ Germany,DR Congo,e-visa,90,12711
 Germany,Costa Rica,-1,0,12712
 Germany,Ivory Coast,e-visa,90,12713
 Germany,Croatia,visa free,0,12714
-Germany,Cuba,visa required,30,12715
+Germany,Cuba,visa required,90,12715
 Germany,Cyprus,visa free,0,12716
 Germany,Czech Republic,visa free,0,12717
 Germany,Denmark,visa free,0,12718
@@ -13109,7 +13109,7 @@ Greece,DR Congo,e-visa,90,13107
 Greece,Costa Rica,-1,0,13108
 Greece,Ivory Coast,e-visa,90,13109
 Greece,Croatia,visa free,0,13110
-Greece,Cuba,visa required,30,13111
+Greece,Cuba,visa required,90,13111
 Greece,Cyprus,visa free,0,13112
 Greece,Czech Republic,visa free,0,13113
 Greece,Denmark,visa free,0,13114
@@ -13505,7 +13505,7 @@ Guatemala,DR Congo,e-visa,90,13503
 Guatemala,Costa Rica,-1,0,13504
 Guatemala,Ivory Coast,e-visa,90,13505
 Guatemala,Croatia,-1,0,13506
-Guatemala,Cuba,visa required,30,13507
+Guatemala,Cuba,visa required,90,13507
 Guatemala,Cyprus,-1,0,13508
 Guatemala,Czech Republic,-1,0,13509
 Guatemala,Denmark,-1,0,13510
@@ -13901,7 +13901,7 @@ Guinea-Bissau,DR Congo,e-visa,90,13899
 Guinea-Bissau,Costa Rica,visa required,0,13900
 Guinea-Bissau,Ivory Coast,-1,0,13901
 Guinea-Bissau,Croatia,visa required,0,13902
-Guinea-Bissau,Cuba,visa required,30,13903
+Guinea-Bissau,Cuba,visa required,90,13903
 Guinea-Bissau,Cyprus,visa required,0,13904
 Guinea-Bissau,Czech Republic,visa required,0,13905
 Guinea-Bissau,Denmark,visa required,0,13906
@@ -14099,7 +14099,7 @@ Guyana,DR Congo,e-visa,90,14097
 Guyana,Costa Rica,-1,0,14098
 Guyana,Ivory Coast,e-visa,90,14099
 Guyana,Croatia,visa required,0,14100
-Guyana,Cuba,visa required,30,14101
+Guyana,Cuba,visa required,90,14101
 Guyana,Cyprus,visa required,0,14102
 Guyana,Czech Republic,visa required,0,14103
 Guyana,Denmark,visa required,0,14104
@@ -14297,7 +14297,7 @@ Haiti,DR Congo,e-visa,90,14295
 Haiti,Costa Rica,visa required,0,14296
 Haiti,Ivory Coast,e-visa,90,14297
 Haiti,Croatia,visa required,0,14298
-Haiti,Cuba,visa required,30,14299
+Haiti,Cuba,visa required,90,14299
 Haiti,Cyprus,visa required,0,14300
 Haiti,Czech Republic,visa required,0,14301
 Haiti,Denmark,visa required,0,14302
@@ -14495,7 +14495,7 @@ Honduras,DR Congo,e-visa,90,14493
 Honduras,Costa Rica,-1,0,14494
 Honduras,Ivory Coast,e-visa,90,14495
 Honduras,Croatia,-1,0,14496
-Honduras,Cuba,visa required,30,14497
+Honduras,Cuba,visa required,90,14497
 Honduras,Cyprus,-1,0,14498
 Honduras,Czech Republic,-1,0,14499
 Honduras,Denmark,-1,0,14500
@@ -14693,7 +14693,7 @@ Hong Kong,DR Congo,e-visa,90,14691
 Hong Kong,Costa Rica,visa required,0,14692
 Hong Kong,Ivory Coast,e-visa,90,14693
 Hong Kong,Croatia,-1,0,14694
-Hong Kong,Cuba,visa required,30,14695
+Hong Kong,Cuba,visa required,90,14695
 Hong Kong,Cyprus,-1,0,14696
 Hong Kong,Czech Republic,-1,0,14697
 Hong Kong,Denmark,-1,0,14698
@@ -14891,7 +14891,7 @@ Hungary,DR Congo,e-visa,90,14889
 Hungary,Costa Rica,-1,0,14890
 Hungary,Ivory Coast,e-visa,90,14891
 Hungary,Croatia,visa free,0,14892
-Hungary,Cuba,visa required,30,14893
+Hungary,Cuba,visa required,90,14893
 Hungary,Cyprus,visa free,0,14894
 Hungary,Czech Republic,visa free,0,14895
 Hungary,Denmark,visa free,0,14896
@@ -15089,7 +15089,7 @@ Iceland,DR Congo,e-visa,90,15087
 Iceland,Costa Rica,-1,0,15088
 Iceland,Ivory Coast,e-visa,90,15089
 Iceland,Croatia,visa free,0,15090
-Iceland,Cuba,visa required,30,15091
+Iceland,Cuba,visa required,90,15091
 Iceland,Cyprus,visa free,0,15092
 Iceland,Czech Republic,visa free,0,15093
 Iceland,Denmark,visa free,0,15094
@@ -15485,7 +15485,7 @@ Indonesia,DR Congo,e-visa,90,15483
 Indonesia,Costa Rica,visa required,0,15484
 Indonesia,Ivory Coast,e-visa,90,15485
 Indonesia,Croatia,visa required,0,15486
-Indonesia,Cuba,visa required,30,15487
+Indonesia,Cuba,visa required,90,15487
 Indonesia,Cyprus,visa required,0,15488
 Indonesia,Czech Republic,visa required,0,15489
 Indonesia,Denmark,visa required,0,15490
@@ -16079,7 +16079,7 @@ Ireland,DR Congo,e-visa,90,16077
 Ireland,Costa Rica,-1,0,16078
 Ireland,Ivory Coast,e-visa,90,16079
 Ireland,Croatia,visa free,0,16080
-Ireland,Cuba,visa required,30,16081
+Ireland,Cuba,visa required,90,16081
 Ireland,Cyprus,visa free,0,16082
 Ireland,Czech Republic,visa free,0,16083
 Ireland,Denmark,visa free,0,16084
@@ -16277,7 +16277,7 @@ Israel,DR Congo,e-visa,90,16275
 Israel,Costa Rica,-1,0,16276
 Israel,Ivory Coast,e-visa,90,16277
 Israel,Croatia,-1,0,16278
-Israel,Cuba,visa required,30,16279
+Israel,Cuba,visa required,90,16279
 Israel,Cyprus,-1,0,16280
 Israel,Czech Republic,-1,0,16281
 Israel,Denmark,-1,0,16282
@@ -16475,7 +16475,7 @@ Italy,DR Congo,e-visa,90,16473
 Italy,Costa Rica,-1,0,16474
 Italy,Ivory Coast,e-visa,90,16475
 Italy,Croatia,visa free,0,16476
-Italy,Cuba,visa required,30,16477
+Italy,Cuba,visa required,90,16477
 Italy,Cyprus,visa free,0,16478
 Italy,Czech Republic,visa free,0,16479
 Italy,Denmark,visa free,0,16480
@@ -16673,7 +16673,7 @@ Jamaica,DR Congo,e-visa,90,16671
 Jamaica,Costa Rica,visa required,0,16672
 Jamaica,Ivory Coast,e-visa,90,16673
 Jamaica,Croatia,visa required,0,16674
-Jamaica,Cuba,visa required,30,16675
+Jamaica,Cuba,visa required,90,16675
 Jamaica,Cyprus,visa required,0,16676
 Jamaica,Czech Republic,visa required,0,16677
 Jamaica,Denmark,visa required,0,16678
@@ -16871,7 +16871,7 @@ Japan,DR Congo,e-visa,90,16869
 Japan,Costa Rica,-1,0,16870
 Japan,Ivory Coast,e-visa,90,16871
 Japan,Croatia,-1,0,16872
-Japan,Cuba,visa required,30,16873
+Japan,Cuba,visa required,90,16873
 Japan,Cyprus,-1,0,16874
 Japan,Czech Republic,-1,0,16875
 Japan,Denmark,-1,0,16876
@@ -17069,7 +17069,7 @@ Jordan,DR Congo,e-visa,90,17067
 Jordan,Costa Rica,visa required,0,17068
 Jordan,Ivory Coast,e-visa,90,17069
 Jordan,Croatia,visa required,0,17070
-Jordan,Cuba,visa required,30,17071
+Jordan,Cuba,visa required,90,17071
 Jordan,Cyprus,visa required,0,17072
 Jordan,Czech Republic,visa required,0,17073
 Jordan,Denmark,visa required,0,17074
@@ -17267,7 +17267,7 @@ Kazakhstan,DR Congo,e-visa,90,17265
 Kazakhstan,Costa Rica,visa required,0,17266
 Kazakhstan,Ivory Coast,e-visa,90,17267
 Kazakhstan,Croatia,visa required,0,17268
-Kazakhstan,Cuba,visa required,30,17269
+Kazakhstan,Cuba,visa required,90,17269
 Kazakhstan,Cyprus,visa required,0,17270
 Kazakhstan,Czech Republic,visa required,0,17271
 Kazakhstan,Denmark,visa required,0,17272
@@ -17663,7 +17663,7 @@ Kiribati,DR Congo,e-visa,90,17661
 Kiribati,Costa Rica,-1,0,17662
 Kiribati,Ivory Coast,e-visa,90,17663
 Kiribati,Croatia,-1,0,17664
-Kiribati,Cuba,visa required,30,17665
+Kiribati,Cuba,visa required,90,17665
 Kiribati,Cyprus,-1,0,17666
 Kiribati,Czech Republic,-1,0,17667
 Kiribati,Denmark,-1,0,17668
@@ -18059,7 +18059,7 @@ Kuwait,DR Congo,e-visa,90,18057
 Kuwait,Costa Rica,visa required,0,18058
 Kuwait,Ivory Coast,e-visa,90,18059
 Kuwait,Croatia,visa required,0,18060
-Kuwait,Cuba,visa required,30,18061
+Kuwait,Cuba,visa required,90,18061
 Kuwait,Cyprus,visa required,0,18062
 Kuwait,Czech Republic,visa required,0,18063
 Kuwait,Denmark,visa required,0,18064
@@ -18257,7 +18257,7 @@ Kyrgyzstan,DR Congo,e-visa,90,18255
 Kyrgyzstan,Costa Rica,visa required,0,18256
 Kyrgyzstan,Ivory Coast,e-visa,90,18257
 Kyrgyzstan,Croatia,visa required,0,18258
-Kyrgyzstan,Cuba,visa required,30,18259
+Kyrgyzstan,Cuba,visa required,90,18259
 Kyrgyzstan,Cyprus,visa required,0,18260
 Kyrgyzstan,Czech Republic,visa required,0,18261
 Kyrgyzstan,Denmark,visa required,0,18262
@@ -18455,7 +18455,7 @@ Laos,DR Congo,e-visa,90,18453
 Laos,Costa Rica,visa required,0,18454
 Laos,Ivory Coast,e-visa,90,18455
 Laos,Croatia,visa required,0,18456
-Laos,Cuba,visa required,30,18457
+Laos,Cuba,visa required,90,18457
 Laos,Cyprus,visa required,0,18458
 Laos,Czech Republic,visa required,0,18459
 Laos,Denmark,visa required,0,18460
@@ -18653,7 +18653,7 @@ Latvia,DR Congo,e-visa,90,18651
 Latvia,Costa Rica,-1,0,18652
 Latvia,Ivory Coast,e-visa,90,18653
 Latvia,Croatia,visa free,0,18654
-Latvia,Cuba,visa required,30,18655
+Latvia,Cuba,visa required,90,18655
 Latvia,Cyprus,visa free,0,18656
 Latvia,Czech Republic,visa free,0,18657
 Latvia,Denmark,visa free,0,18658
@@ -18851,7 +18851,7 @@ Lebanon,DR Congo,e-visa,90,18849
 Lebanon,Costa Rica,visa required,0,18850
 Lebanon,Ivory Coast,e-visa,90,18851
 Lebanon,Croatia,visa required,0,18852
-Lebanon,Cuba,visa required,30,18853
+Lebanon,Cuba,visa required,90,18853
 Lebanon,Cyprus,visa required,0,18854
 Lebanon,Czech Republic,visa required,0,18855
 Lebanon,Denmark,visa required,0,18856
@@ -19049,7 +19049,7 @@ Lesotho,DR Congo,e-visa,90,19047
 Lesotho,Costa Rica,visa required,0,19048
 Lesotho,Ivory Coast,e-visa,90,19049
 Lesotho,Croatia,visa required,0,19050
-Lesotho,Cuba,visa required,30,19051
+Lesotho,Cuba,visa required,90,19051
 Lesotho,Cyprus,visa required,0,19052
 Lesotho,Czech Republic,visa required,0,19053
 Lesotho,Denmark,visa required,0,19054
@@ -19247,7 +19247,7 @@ Liberia,DR Congo,e-visa,90,19245
 Liberia,Costa Rica,visa required,0,19246
 Liberia,Ivory Coast,-1,0,19247
 Liberia,Croatia,visa required,0,19248
-Liberia,Cuba,visa required,30,19249
+Liberia,Cuba,visa required,90,19249
 Liberia,Cyprus,visa required,0,19250
 Liberia,Czech Republic,visa required,0,19251
 Liberia,Denmark,visa required,0,19252
@@ -19445,7 +19445,7 @@ Libya,DR Congo,e-visa,90,19443
 Libya,Costa Rica,visa required,0,19444
 Libya,Ivory Coast,e-visa,90,19445
 Libya,Croatia,visa required,0,19446
-Libya,Cuba,visa required,30,19447
+Libya,Cuba,visa required,90,19447
 Libya,Cyprus,visa required,0,19448
 Libya,Czech Republic,visa required,0,19449
 Libya,Denmark,visa required,0,19450
@@ -19643,7 +19643,7 @@ Liechtenstein,DR Congo,e-visa,90,19641
 Liechtenstein,Costa Rica,-1,0,19642
 Liechtenstein,Ivory Coast,e-visa,90,19643
 Liechtenstein,Croatia,visa free,0,19644
-Liechtenstein,Cuba,visa required,30,19645
+Liechtenstein,Cuba,visa required,90,19645
 Liechtenstein,Cyprus,visa free,0,19646
 Liechtenstein,Czech Republic,visa free,0,19647
 Liechtenstein,Denmark,visa free,0,19648
@@ -19841,7 +19841,7 @@ Lithuania,DR Congo,e-visa,90,19839
 Lithuania,Costa Rica,-1,0,19840
 Lithuania,Ivory Coast,e-visa,90,19841
 Lithuania,Croatia,visa free,0,19842
-Lithuania,Cuba,visa required,30,19843
+Lithuania,Cuba,visa required,90,19843
 Lithuania,Cyprus,visa free,0,19844
 Lithuania,Czech Republic,visa free,0,19845
 Lithuania,Denmark,visa free,0,19846
@@ -20039,7 +20039,7 @@ Luxembourg,DR Congo,e-visa,90,20037
 Luxembourg,Costa Rica,-1,0,20038
 Luxembourg,Ivory Coast,e-visa,90,20039
 Luxembourg,Croatia,visa free,0,20040
-Luxembourg,Cuba,visa required,30,20041
+Luxembourg,Cuba,visa required,90,20041
 Luxembourg,Cyprus,visa free,0,20042
 Luxembourg,Czech Republic,visa free,0,20043
 Luxembourg,Denmark,visa free,0,20044
@@ -20237,7 +20237,7 @@ Macao,DR Congo,e-visa,90,20235
 Macao,Costa Rica,visa required,0,20236
 Macao,Ivory Coast,e-visa,90,20237
 Macao,Croatia,-1,0,20238
-Macao,Cuba,visa required,30,20239
+Macao,Cuba,visa required,90,20239
 Macao,Cyprus,-1,0,20240
 Macao,Czech Republic,-1,0,20241
 Macao,Denmark,-1,0,20242
@@ -20435,7 +20435,7 @@ Madagascar,DR Congo,e-visa,90,20433
 Madagascar,Costa Rica,visa required,0,20434
 Madagascar,Ivory Coast,e-visa,90,20435
 Madagascar,Croatia,visa required,0,20436
-Madagascar,Cuba,visa required,30,20437
+Madagascar,Cuba,visa required,90,20437
 Madagascar,Cyprus,visa required,0,20438
 Madagascar,Czech Republic,visa required,0,20439
 Madagascar,Denmark,visa required,0,20440
@@ -20633,7 +20633,7 @@ Malawi,DR Congo,e-visa,90,20631
 Malawi,Costa Rica,visa required,0,20632
 Malawi,Ivory Coast,e-visa,90,20633
 Malawi,Croatia,visa required,0,20634
-Malawi,Cuba,visa required,30,20635
+Malawi,Cuba,visa required,90,20635
 Malawi,Cyprus,visa required,0,20636
 Malawi,Czech Republic,visa required,0,20637
 Malawi,Denmark,visa required,0,20638
@@ -21029,7 +21029,7 @@ Maldives,DR Congo,e-visa,90,21027
 Maldives,Costa Rica,-1,0,21028
 Maldives,Ivory Coast,e-visa,90,21029
 Maldives,Croatia,visa required,0,21030
-Maldives,Cuba,visa required,30,21031
+Maldives,Cuba,visa required,90,21031
 Maldives,Cyprus,visa required,0,21032
 Maldives,Czech Republic,visa required,0,21033
 Maldives,Denmark,visa required,0,21034
@@ -21227,7 +21227,7 @@ Mali,DR Congo,e-visa,90,21225
 Mali,Costa Rica,visa required,0,21226
 Mali,Ivory Coast,-1,0,21227
 Mali,Croatia,visa required,0,21228
-Mali,Cuba,visa required,30,21229
+Mali,Cuba,visa required,90,21229
 Mali,Cyprus,visa required,0,21230
 Mali,Czech Republic,visa required,0,21231
 Mali,Denmark,visa required,0,21232
@@ -21425,7 +21425,7 @@ Malta,DR Congo,e-visa,90,21423
 Malta,Costa Rica,-1,0,21424
 Malta,Ivory Coast,e-visa,90,21425
 Malta,Croatia,visa free,0,21426
-Malta,Cuba,visa required,30,21427
+Malta,Cuba,visa required,90,21427
 Malta,Cyprus,visa free,0,21428
 Malta,Czech Republic,visa free,0,21429
 Malta,Denmark,visa free,0,21430
@@ -21623,7 +21623,7 @@ Marshall Islands,DR Congo,e-visa,90,21621
 Marshall Islands,Costa Rica,-1,0,21622
 Marshall Islands,Ivory Coast,e-visa,90,21623
 Marshall Islands,Croatia,-1,0,21624
-Marshall Islands,Cuba,visa required,30,21625
+Marshall Islands,Cuba,visa required,90,21625
 Marshall Islands,Cyprus,-1,0,21626
 Marshall Islands,Czech Republic,-1,0,21627
 Marshall Islands,Denmark,-1,0,21628
@@ -21821,7 +21821,7 @@ Mauritania,DR Congo,e-visa,90,21819
 Mauritania,Costa Rica,visa required,0,21820
 Mauritania,Ivory Coast,-1,0,21821
 Mauritania,Croatia,visa required,0,21822
-Mauritania,Cuba,visa required,30,21823
+Mauritania,Cuba,visa required,90,21823
 Mauritania,Cyprus,visa required,0,21824
 Mauritania,Czech Republic,visa required,0,21825
 Mauritania,Denmark,visa required,0,21826
@@ -22019,7 +22019,7 @@ Mauritius,DR Congo,visa on arrival,7,22017
 Mauritius,Costa Rica,-1,0,22018
 Mauritius,Ivory Coast,e-visa,90,22019
 Mauritius,Croatia,-1,0,22020
-Mauritius,Cuba,visa required,30,22021
+Mauritius,Cuba,visa required,90,22021
 Mauritius,Cyprus,-1,0,22022
 Mauritius,Czech Republic,-1,0,22023
 Mauritius,Denmark,-1,0,22024
@@ -22217,7 +22217,7 @@ Mexico,DR Congo,e-visa,90,22215
 Mexico,Costa Rica,-1,0,22216
 Mexico,Ivory Coast,e-visa,90,22217
 Mexico,Croatia,-1,0,22218
-Mexico,Cuba,visa required,30,22219
+Mexico,Cuba,visa required,90,22219
 Mexico,Cyprus,-1,0,22220
 Mexico,Czech Republic,-1,0,22221
 Mexico,Denmark,-1,0,22222
@@ -22415,7 +22415,7 @@ Micronesia,DR Congo,e-visa,90,22413
 Micronesia,Costa Rica,-1,0,22414
 Micronesia,Ivory Coast,e-visa,90,22415
 Micronesia,Croatia,-1,0,22416
-Micronesia,Cuba,visa required,30,22417
+Micronesia,Cuba,visa required,90,22417
 Micronesia,Cyprus,-1,0,22418
 Micronesia,Czech Republic,-1,0,22419
 Micronesia,Denmark,-1,0,22420
@@ -22613,7 +22613,7 @@ Moldova,DR Congo,e-visa,90,22611
 Moldova,Costa Rica,visa required,0,22612
 Moldova,Ivory Coast,e-visa,90,22613
 Moldova,Croatia,-1,0,22614
-Moldova,Cuba,visa required,30,22615
+Moldova,Cuba,visa required,90,22615
 Moldova,Cyprus,-1,0,22616
 Moldova,Czech Republic,-1,0,22617
 Moldova,Denmark,-1,0,22618
@@ -22811,7 +22811,7 @@ Monaco,DR Congo,e-visa,90,22809
 Monaco,Costa Rica,-1,0,22810
 Monaco,Ivory Coast,e-visa,90,22811
 Monaco,Croatia,-1,0,22812
-Monaco,Cuba,visa required,30,22813
+Monaco,Cuba,visa required,90,22813
 Monaco,Cyprus,-1,0,22814
 Monaco,Czech Republic,-1,0,22815
 Monaco,Denmark,-1,0,22816
@@ -23405,7 +23405,7 @@ Morocco,DR Congo,e-visa,90,23403
 Morocco,Costa Rica,visa required,0,23404
 Morocco,Ivory Coast,-1,0,23405
 Morocco,Croatia,visa required,0,23406
-Morocco,Cuba,visa required,30,23407
+Morocco,Cuba,visa required,90,23407
 Morocco,Cyprus,visa required,0,23408
 Morocco,Czech Republic,visa required,0,23409
 Morocco,Denmark,visa required,0,23410
@@ -23603,7 +23603,7 @@ Mozambique,DR Congo,e-visa,90,23601
 Mozambique,Costa Rica,visa required,0,23602
 Mozambique,Ivory Coast,e-visa,90,23603
 Mozambique,Croatia,visa required,0,23604
-Mozambique,Cuba,visa required,30,23605
+Mozambique,Cuba,visa required,90,23605
 Mozambique,Cyprus,visa required,0,23606
 Mozambique,Czech Republic,visa required,0,23607
 Mozambique,Denmark,visa required,0,23608
@@ -23801,7 +23801,7 @@ Myanmar,DR Congo,e-visa,90,23799
 Myanmar,Costa Rica,visa required,0,23800
 Myanmar,Ivory Coast,e-visa,90,23801
 Myanmar,Croatia,visa required,0,23802
-Myanmar,Cuba,visa required,30,23803
+Myanmar,Cuba,visa required,90,23803
 Myanmar,Cyprus,visa required,0,23804
 Myanmar,Czech Republic,visa required,0,23805
 Myanmar,Denmark,visa required,0,23806
@@ -24197,7 +24197,7 @@ Nauru,DR Congo,e-visa,90,24195
 Nauru,Costa Rica,-1,0,24196
 Nauru,Ivory Coast,e-visa,90,24197
 Nauru,Croatia,visa required,0,24198
-Nauru,Cuba,visa required,30,24199
+Nauru,Cuba,visa required,90,24199
 Nauru,Cyprus,visa required,0,24200
 Nauru,Czech Republic,visa required,0,24201
 Nauru,Denmark,visa required,0,24202
@@ -24593,7 +24593,7 @@ Netherlands,DR Congo,e-visa,90,24591
 Netherlands,Costa Rica,-1,0,24592
 Netherlands,Ivory Coast,e-visa,90,24593
 Netherlands,Croatia,visa free,0,24594
-Netherlands,Cuba,visa required,30,24595
+Netherlands,Cuba,visa required,90,24595
 Netherlands,Cyprus,visa free,0,24596
 Netherlands,Czech Republic,visa free,0,24597
 Netherlands,Denmark,visa free,0,24598
@@ -24791,7 +24791,7 @@ New Zealand,DR Congo,e-visa,90,24789
 New Zealand,Costa Rica,-1,0,24790
 New Zealand,Ivory Coast,e-visa,90,24791
 New Zealand,Croatia,-1,0,24792
-New Zealand,Cuba,visa required,30,24793
+New Zealand,Cuba,visa required,90,24793
 New Zealand,Cyprus,-1,0,24794
 New Zealand,Czech Republic,-1,0,24795
 New Zealand,Denmark,-1,0,24796
@@ -24989,7 +24989,7 @@ Nicaragua,DR Congo,e-visa,90,24987
 Nicaragua,Costa Rica,visa required,0,24988
 Nicaragua,Ivory Coast,e-visa,90,24989
 Nicaragua,Croatia,-1,0,24990
-Nicaragua,Cuba,visa required,30,24991
+Nicaragua,Cuba,visa required,90,24991
 Nicaragua,Cyprus,-1,0,24992
 Nicaragua,Czech Republic,-1,0,24993
 Nicaragua,Denmark,-1,0,24994
@@ -25187,7 +25187,7 @@ Niger,DR Congo,e-visa,90,25185
 Niger,Costa Rica,visa required,0,25186
 Niger,Ivory Coast,-1,0,25187
 Niger,Croatia,visa required,0,25188
-Niger,Cuba,visa required,30,25189
+Niger,Cuba,visa required,90,25189
 Niger,Cyprus,visa required,0,25190
 Niger,Czech Republic,visa required,0,25191
 Niger,Denmark,visa required,0,25192
@@ -25583,7 +25583,7 @@ North Korea,DR Congo,e-visa,90,25581
 North Korea,Costa Rica,visa required,0,25582
 North Korea,Ivory Coast,e-visa,90,25583
 North Korea,Croatia,visa required,0,25584
-North Korea,Cuba,visa required,30,25585
+North Korea,Cuba,visa required,90,25585
 North Korea,Cyprus,visa required,0,25586
 North Korea,Czech Republic,visa required,0,25587
 North Korea,Denmark,visa required,0,25588
@@ -25979,7 +25979,7 @@ Norway,DR Congo,e-visa,90,25977
 Norway,Costa Rica,-1,0,25978
 Norway,Ivory Coast,e-visa,90,25979
 Norway,Croatia,visa free,0,25980
-Norway,Cuba,visa required,30,25981
+Norway,Cuba,visa required,90,25981
 Norway,Cyprus,visa free,0,25982
 Norway,Czech Republic,visa free,0,25983
 Norway,Denmark,visa free,0,25984
@@ -26177,7 +26177,7 @@ Oman,DR Congo,e-visa,90,26175
 Oman,Costa Rica,visa required,0,26176
 Oman,Ivory Coast,e-visa,90,26177
 Oman,Croatia,visa required,0,26178
-Oman,Cuba,visa required,30,26179
+Oman,Cuba,visa required,90,26179
 Oman,Cyprus,visa required,0,26180
 Oman,Czech Republic,visa required,0,26181
 Oman,Denmark,visa required,0,26182
@@ -26573,7 +26573,7 @@ Palau,DR Congo,e-visa,90,26571
 Palau,Costa Rica,-1,0,26572
 Palau,Ivory Coast,e-visa,90,26573
 Palau,Croatia,-1,0,26574
-Palau,Cuba,visa required,30,26575
+Palau,Cuba,visa required,90,26575
 Palau,Cyprus,-1,0,26576
 Palau,Czech Republic,-1,0,26577
 Palau,Denmark,-1,0,26578
@@ -26771,7 +26771,7 @@ Palestine,DR Congo,e-visa,90,26769
 Palestine,Costa Rica,visa required,0,26770
 Palestine,Ivory Coast,e-visa,90,26771
 Palestine,Croatia,visa required,0,26772
-Palestine,Cuba,visa required,30,26773
+Palestine,Cuba,visa required,90,26773
 Palestine,Cyprus,visa required,0,26774
 Palestine,Czech Republic,visa required,0,26775
 Palestine,Denmark,visa required,0,26776
@@ -26969,7 +26969,7 @@ Panama,DR Congo,e-visa,90,26967
 Panama,Costa Rica,-1,0,26968
 Panama,Ivory Coast,e-visa,90,26969
 Panama,Croatia,-1,0,26970
-Panama,Cuba,visa required,30,26971
+Panama,Cuba,visa required,90,26971
 Panama,Cyprus,-1,0,26972
 Panama,Czech Republic,-1,0,26973
 Panama,Denmark,-1,0,26974
@@ -27167,7 +27167,7 @@ Papua New Guinea,DR Congo,e-visa,90,27165
 Papua New Guinea,Costa Rica,visa required,0,27166
 Papua New Guinea,Ivory Coast,e-visa,90,27167
 Papua New Guinea,Croatia,visa required,0,27168
-Papua New Guinea,Cuba,visa required,30,27169
+Papua New Guinea,Cuba,visa required,90,27169
 Papua New Guinea,Cyprus,visa required,0,27170
 Papua New Guinea,Czech Republic,visa required,0,27171
 Papua New Guinea,Denmark,visa required,0,27172
@@ -27365,7 +27365,7 @@ Paraguay,DR Congo,e-visa,90,27363
 Paraguay,Costa Rica,-1,0,27364
 Paraguay,Ivory Coast,e-visa,90,27365
 Paraguay,Croatia,-1,0,27366
-Paraguay,Cuba,visa required,30,27367
+Paraguay,Cuba,visa required,90,27367
 Paraguay,Cyprus,-1,0,27368
 Paraguay,Czech Republic,-1,0,27369
 Paraguay,Denmark,-1,0,27370
@@ -27563,7 +27563,7 @@ Peru,DR Congo,e-visa,90,27561
 Peru,Costa Rica,-1,0,27562
 Peru,Ivory Coast,e-visa,90,27563
 Peru,Croatia,-1,0,27564
-Peru,Cuba,visa required,30,27565
+Peru,Cuba,visa required,90,27565
 Peru,Cyprus,-1,0,27566
 Peru,Czech Republic,-1,0,27567
 Peru,Denmark,-1,0,27568
@@ -27959,7 +27959,7 @@ Poland,DR Congo,e-visa,90,27957
 Poland,Costa Rica,-1,0,27958
 Poland,Ivory Coast,e-visa,90,27959
 Poland,Croatia,visa free,0,27960
-Poland,Cuba,visa required,30,27961
+Poland,Cuba,visa required,90,27961
 Poland,Cyprus,visa free,0,27962
 Poland,Czech Republic,visa free,0,27963
 Poland,Denmark,visa free,0,27964
@@ -28157,7 +28157,7 @@ Portugal,DR Congo,e-visa,90,28155
 Portugal,Costa Rica,-1,0,28156
 Portugal,Ivory Coast,e-visa,90,28157
 Portugal,Croatia,visa free,0,28158
-Portugal,Cuba,visa required,30,28159
+Portugal,Cuba,visa required,90,28159
 Portugal,Cyprus,visa free,0,28160
 Portugal,Czech Republic,visa free,0,28161
 Portugal,Denmark,visa free,0,28162
@@ -28355,7 +28355,7 @@ Qatar,DR Congo,e-visa,90,28353
 Qatar,Costa Rica,-1,0,28354
 Qatar,Ivory Coast,e-visa,90,28355
 Qatar,Croatia,visa required,0,28356
-Qatar,Cuba,visa required,30,28357
+Qatar,Cuba,visa required,90,28357
 Qatar,Cyprus,visa required,0,28358
 Qatar,Czech Republic,visa required,0,28359
 Qatar,Denmark,visa required,0,28360
@@ -28553,7 +28553,7 @@ Romania,DR Congo,e-visa,90,28551
 Romania,Costa Rica,-1,0,28552
 Romania,Ivory Coast,e-visa,90,28553
 Romania,Croatia,visa free,0,28554
-Romania,Cuba,visa required,30,28555
+Romania,Cuba,visa required,90,28555
 Romania,Cyprus,visa free,0,28556
 Romania,Czech Republic,visa free,0,28557
 Romania,Denmark,visa free,0,28558
@@ -28949,7 +28949,7 @@ Rwanda,DR Congo,visa free,0,28947
 Rwanda,Costa Rica,visa required,0,28948
 Rwanda,Ivory Coast,e-visa,90,28949
 Rwanda,Croatia,visa required,0,28950
-Rwanda,Cuba,visa required,30,28951
+Rwanda,Cuba,visa required,90,28951
 Rwanda,Cyprus,visa required,0,28952
 Rwanda,Czech Republic,visa required,0,28953
 Rwanda,Denmark,visa required,0,28954
@@ -29543,7 +29543,7 @@ Samoa,DR Congo,e-visa,90,29541
 Samoa,Costa Rica,-1,0,29542
 Samoa,Ivory Coast,e-visa,90,29543
 Samoa,Croatia,-1,0,29544
-Samoa,Cuba,visa required,30,29545
+Samoa,Cuba,visa required,90,29545
 Samoa,Cyprus,-1,0,29546
 Samoa,Czech Republic,-1,0,29547
 Samoa,Denmark,-1,0,29548
@@ -29741,7 +29741,7 @@ San Marino,DR Congo,e-visa,90,29739
 San Marino,Costa Rica,-1,0,29740
 San Marino,Ivory Coast,e-visa,90,29741
 San Marino,Croatia,-1,0,29742
-San Marino,Cuba,visa required,30,29743
+San Marino,Cuba,visa required,90,29743
 San Marino,Cyprus,-1,0,29744
 San Marino,Czech Republic,-1,0,29745
 San Marino,Denmark,-1,0,29746
@@ -29939,7 +29939,7 @@ Sao Tome and Principe,DR Congo,e-visa,90,29937
 Sao Tome and Principe,Costa Rica,-1,0,29938
 Sao Tome and Principe,Ivory Coast,e-visa,90,29939
 Sao Tome and Principe,Croatia,visa required,0,29940
-Sao Tome and Principe,Cuba,visa required,30,29941
+Sao Tome and Principe,Cuba,visa required,90,29941
 Sao Tome and Principe,Cyprus,visa required,0,29942
 Sao Tome and Principe,Czech Republic,visa required,0,29943
 Sao Tome and Principe,Denmark,visa required,0,29944
@@ -30137,7 +30137,7 @@ Saudi Arabia,DR Congo,e-visa,90,30135
 Saudi Arabia,Costa Rica,visa required,0,30136
 Saudi Arabia,Ivory Coast,e-visa,90,30137
 Saudi Arabia,Croatia,visa required,0,30138
-Saudi Arabia,Cuba,visa required,30,30139
+Saudi Arabia,Cuba,visa required,90,30139
 Saudi Arabia,Cyprus,visa required,0,30140
 Saudi Arabia,Czech Republic,visa required,0,30141
 Saudi Arabia,Denmark,visa required,0,30142
@@ -30335,7 +30335,7 @@ Senegal,DR Congo,e-visa,90,30333
 Senegal,Costa Rica,visa required,0,30334
 Senegal,Ivory Coast,-1,0,30335
 Senegal,Croatia,visa required,0,30336
-Senegal,Cuba,visa required,30,30337
+Senegal,Cuba,visa required,90,30337
 Senegal,Cyprus,visa required,0,30338
 Senegal,Czech Republic,visa required,0,30339
 Senegal,Denmark,visa required,0,30340
@@ -30731,7 +30731,7 @@ Seychelles,DR Congo,e-visa,90,30729
 Seychelles,Costa Rica,-1,0,30730
 Seychelles,Ivory Coast,-1,0,30731
 Seychelles,Croatia,-1,0,30732
-Seychelles,Cuba,visa required,30,30733
+Seychelles,Cuba,visa required,90,30733
 Seychelles,Cyprus,-1,0,30734
 Seychelles,Czech Republic,-1,0,30735
 Seychelles,Denmark,-1,0,30736
@@ -31325,7 +31325,7 @@ Slovakia,DR Congo,e-visa,90,31323
 Slovakia,Costa Rica,-1,0,31324
 Slovakia,Ivory Coast,e-visa,90,31325
 Slovakia,Croatia,visa free,0,31326
-Slovakia,Cuba,visa required,30,31327
+Slovakia,Cuba,visa required,90,31327
 Slovakia,Cyprus,visa free,0,31328
 Slovakia,Czech Republic,visa free,0,31329
 Slovakia,Denmark,visa free,0,31330
@@ -31523,7 +31523,7 @@ Slovenia,DR Congo,e-visa,90,31521
 Slovenia,Costa Rica,-1,0,31522
 Slovenia,Ivory Coast,e-visa,90,31523
 Slovenia,Croatia,visa free,0,31524
-Slovenia,Cuba,visa required,30,31525
+Slovenia,Cuba,visa required,90,31525
 Slovenia,Cyprus,visa free,0,31526
 Slovenia,Czech Republic,visa free,0,31527
 Slovenia,Denmark,visa free,0,31528
@@ -31721,7 +31721,7 @@ Solomon Islands,DR Congo,e-visa,90,31719
 Solomon Islands,Costa Rica,-1,0,31720
 Solomon Islands,Ivory Coast,e-visa,90,31721
 Solomon Islands,Croatia,-1,0,31722
-Solomon Islands,Cuba,visa required,30,31723
+Solomon Islands,Cuba,visa required,90,31723
 Solomon Islands,Cyprus,-1,0,31724
 Solomon Islands,Czech Republic,-1,0,31725
 Solomon Islands,Denmark,-1,0,31726
@@ -32117,7 +32117,7 @@ South Africa,DR Congo,e-visa,90,32115
 South Africa,Costa Rica,-1,0,32116
 South Africa,Ivory Coast,e-visa,90,32117
 South Africa,Croatia,visa required,0,32118
-South Africa,Cuba,visa required,30,32119
+South Africa,Cuba,visa required,90,32119
 South Africa,Cyprus,visa required,0,32120
 South Africa,Czech Republic,visa required,0,32121
 South Africa,Denmark,visa required,0,32122
@@ -32315,7 +32315,7 @@ South Korea,DR Congo,e-visa,90,32313
 South Korea,Costa Rica,-1,0,32314
 South Korea,Ivory Coast,e-visa,90,32315
 South Korea,Croatia,-1,0,32316
-South Korea,Cuba,visa required,30,32317
+South Korea,Cuba,visa required,90,32317
 South Korea,Cyprus,-1,0,32318
 South Korea,Czech Republic,-1,0,32319
 South Korea,Denmark,-1,0,32320
@@ -32513,7 +32513,7 @@ South Sudan,DR Congo,e-visa,90,32511
 South Sudan,Costa Rica,visa required,0,32512
 South Sudan,Ivory Coast,e-visa,90,32513
 South Sudan,Croatia,visa required,0,32514
-South Sudan,Cuba,visa required,30,32515
+South Sudan,Cuba,visa required,90,32515
 South Sudan,Cyprus,visa required,0,32516
 South Sudan,Czech Republic,visa required,0,32517
 South Sudan,Denmark,visa required,0,32518
@@ -32711,7 +32711,7 @@ Spain,DR Congo,e-visa,90,32709
 Spain,Costa Rica,-1,0,32710
 Spain,Ivory Coast,e-visa,90,32711
 Spain,Croatia,visa free,0,32712
-Spain,Cuba,visa required,30,32713
+Spain,Cuba,visa required,90,32713
 Spain,Cyprus,visa free,0,32714
 Spain,Czech Republic,visa free,0,32715
 Spain,Denmark,visa free,0,32716
@@ -33305,7 +33305,7 @@ Sudan,DR Congo,e-visa,90,33303
 Sudan,Costa Rica,visa required,0,33304
 Sudan,Ivory Coast,e-visa,90,33305
 Sudan,Croatia,visa required,0,33306
-Sudan,Cuba,visa required,30,33307
+Sudan,Cuba,visa required,90,33307
 Sudan,Cyprus,visa required,0,33308
 Sudan,Czech Republic,visa required,0,33309
 Sudan,Denmark,visa required,0,33310
@@ -33503,7 +33503,7 @@ Suriname,DR Congo,e-visa,90,33501
 Suriname,Costa Rica,-1,0,33502
 Suriname,Ivory Coast,e-visa,90,33503
 Suriname,Croatia,visa required,0,33504
-Suriname,Cuba,visa required,30,33505
+Suriname,Cuba,visa required,90,33505
 Suriname,Cyprus,visa required,0,33506
 Suriname,Czech Republic,visa required,0,33507
 Suriname,Denmark,visa required,0,33508
@@ -33701,7 +33701,7 @@ Sweden,DR Congo,e-visa,90,33699
 Sweden,Costa Rica,-1,0,33700
 Sweden,Ivory Coast,e-visa,90,33701
 Sweden,Croatia,visa free,0,33702
-Sweden,Cuba,visa required,30,33703
+Sweden,Cuba,visa required,90,33703
 Sweden,Cyprus,visa free,0,33704
 Sweden,Czech Republic,visa free,0,33705
 Sweden,Denmark,visa free,0,33706
@@ -33899,7 +33899,7 @@ Switzerland,DR Congo,e-visa,90,33897
 Switzerland,Costa Rica,-1,0,33898
 Switzerland,Ivory Coast,e-visa,90,33899
 Switzerland,Croatia,visa free,0,33900
-Switzerland,Cuba,visa required,30,33901
+Switzerland,Cuba,visa required,90,33901
 Switzerland,Cyprus,visa free,0,33902
 Switzerland,Czech Republic,visa free,0,33903
 Switzerland,Denmark,visa free,0,33904
@@ -34295,7 +34295,7 @@ Taiwan,DR Congo,e-visa,90,34293
 Taiwan,Costa Rica,-1,0,34294
 Taiwan,Ivory Coast,e-visa,90,34295
 Taiwan,Croatia,-1,0,34296
-Taiwan,Cuba,visa required,30,34297
+Taiwan,Cuba,visa required,90,34297
 Taiwan,Cyprus,-1,0,34298
 Taiwan,Czech Republic,-1,0,34299
 Taiwan,Denmark,-1,0,34300
@@ -34493,7 +34493,7 @@ Tajikistan,DR Congo,e-visa,90,34491
 Tajikistan,Costa Rica,visa required,0,34492
 Tajikistan,Ivory Coast,e-visa,90,34493
 Tajikistan,Croatia,visa required,0,34494
-Tajikistan,Cuba,visa required,30,34495
+Tajikistan,Cuba,visa required,90,34495
 Tajikistan,Cyprus,visa required,0,34496
 Tajikistan,Czech Republic,visa required,0,34497
 Tajikistan,Denmark,visa required,0,34498
@@ -34691,7 +34691,7 @@ Tanzania,DR Congo,visa on arrival,7,34689
 Tanzania,Costa Rica,visa required,0,34690
 Tanzania,Ivory Coast,e-visa,90,34691
 Tanzania,Croatia,visa required,0,34692
-Tanzania,Cuba,visa required,30,34693
+Tanzania,Cuba,visa required,90,34693
 Tanzania,Cyprus,visa required,0,34694
 Tanzania,Czech Republic,visa required,0,34695
 Tanzania,Denmark,visa required,0,34696
@@ -34889,7 +34889,7 @@ Thailand,DR Congo,e-visa,90,34887
 Thailand,Costa Rica,visa required,0,34888
 Thailand,Ivory Coast,e-visa,90,34889
 Thailand,Croatia,visa required,0,34890
-Thailand,Cuba,visa required,30,34891
+Thailand,Cuba,visa required,90,34891
 Thailand,Cyprus,visa required,0,34892
 Thailand,Czech Republic,visa required,0,34893
 Thailand,Denmark,visa required,0,34894
@@ -35087,7 +35087,7 @@ Timor-Leste,DR Congo,e-visa,90,35085
 Timor-Leste,Costa Rica,visa required,0,35086
 Timor-Leste,Ivory Coast,e-visa,90,35087
 Timor-Leste,Croatia,-1,0,35088
-Timor-Leste,Cuba,visa required,30,35089
+Timor-Leste,Cuba,visa required,90,35089
 Timor-Leste,Cyprus,-1,0,35090
 Timor-Leste,Czech Republic,-1,0,35091
 Timor-Leste,Denmark,-1,0,35092
@@ -35285,7 +35285,7 @@ Togo,DR Congo,e-visa,90,35283
 Togo,Costa Rica,visa required,0,35284
 Togo,Ivory Coast,-1,0,35285
 Togo,Croatia,visa required,0,35286
-Togo,Cuba,visa required,30,35287
+Togo,Cuba,visa required,90,35287
 Togo,Cyprus,visa required,0,35288
 Togo,Czech Republic,visa required,0,35289
 Togo,Denmark,visa required,0,35290
@@ -35483,7 +35483,7 @@ Tonga,DR Congo,e-visa,90,35481
 Tonga,Costa Rica,-1,0,35482
 Tonga,Ivory Coast,e-visa,90,35483
 Tonga,Croatia,-1,0,35484
-Tonga,Cuba,visa required,30,35485
+Tonga,Cuba,visa required,90,35485
 Tonga,Cyprus,-1,0,35486
 Tonga,Czech Republic,-1,0,35487
 Tonga,Denmark,-1,0,35488
@@ -35681,7 +35681,7 @@ Trinidad and Tobago,DR Congo,e-visa,90,35679
 Trinidad and Tobago,Costa Rica,-1,0,35680
 Trinidad and Tobago,Ivory Coast,e-visa,90,35681
 Trinidad and Tobago,Croatia,-1,0,35682
-Trinidad and Tobago,Cuba,visa required,30,35683
+Trinidad and Tobago,Cuba,visa required,90,35683
 Trinidad and Tobago,Cyprus,-1,0,35684
 Trinidad and Tobago,Czech Republic,-1,0,35685
 Trinidad and Tobago,Denmark,-1,0,35686
@@ -35879,7 +35879,7 @@ Tunisia,DR Congo,e-visa,90,35877
 Tunisia,Costa Rica,visa required,0,35878
 Tunisia,Ivory Coast,-1,0,35879
 Tunisia,Croatia,visa required,0,35880
-Tunisia,Cuba,visa required,30,35881
+Tunisia,Cuba,visa required,90,35881
 Tunisia,Cyprus,visa required,0,35882
 Tunisia,Czech Republic,visa required,0,35883
 Tunisia,Denmark,visa required,0,35884
@@ -36077,7 +36077,7 @@ Turkey,DR Congo,e-visa,90,36075
 Turkey,Costa Rica,-1,0,36076
 Turkey,Ivory Coast,e-visa,90,36077
 Turkey,Croatia,visa required,0,36078
-Turkey,Cuba,visa required,30,36079
+Turkey,Cuba,visa required,90,36079
 Turkey,Cyprus,visa required,0,36080
 Turkey,Czech Republic,visa required,0,36081
 Turkey,Denmark,visa required,0,36082
@@ -36275,7 +36275,7 @@ Turkmenistan,DR Congo,e-visa,90,36273
 Turkmenistan,Costa Rica,visa required,0,36274
 Turkmenistan,Ivory Coast,e-visa,90,36275
 Turkmenistan,Croatia,visa required,0,36276
-Turkmenistan,Cuba,visa required,30,36277
+Turkmenistan,Cuba,visa required,90,36277
 Turkmenistan,Cyprus,visa required,0,36278
 Turkmenistan,Czech Republic,visa required,0,36279
 Turkmenistan,Denmark,visa required,0,36280
@@ -36473,7 +36473,7 @@ Tuvalu,DR Congo,e-visa,90,36471
 Tuvalu,Costa Rica,-1,0,36472
 Tuvalu,Ivory Coast,e-visa,90,36473
 Tuvalu,Croatia,-1,0,36474
-Tuvalu,Cuba,visa required,30,36475
+Tuvalu,Cuba,visa required,90,36475
 Tuvalu,Cyprus,-1,0,36476
 Tuvalu,Czech Republic,-1,0,36477
 Tuvalu,Denmark,-1,0,36478
@@ -36671,7 +36671,7 @@ Uganda,DR Congo,e-visa,90,36669
 Uganda,Costa Rica,visa required,0,36670
 Uganda,Ivory Coast,e-visa,90,36671
 Uganda,Croatia,visa required,0,36672
-Uganda,Cuba,visa required,30,36673
+Uganda,Cuba,visa required,90,36673
 Uganda,Cyprus,visa required,0,36674
 Uganda,Czech Republic,visa required,0,36675
 Uganda,Denmark,visa required,0,36676
@@ -36869,7 +36869,7 @@ Ukraine,DR Congo,e-visa,90,36867
 Ukraine,Costa Rica,-1,0,36868
 Ukraine,Ivory Coast,e-visa,90,36869
 Ukraine,Croatia,-1,0,36870
-Ukraine,Cuba,visa required,30,36871
+Ukraine,Cuba,visa required,90,36871
 Ukraine,Cyprus,-1,0,36872
 Ukraine,Czech Republic,-1,0,36873
 Ukraine,Denmark,-1,0,36874
@@ -37265,7 +37265,7 @@ United Kingdom,DR Congo,e-visa,90,37263
 United Kingdom,Costa Rica,-1,0,37264
 United Kingdom,Ivory Coast,e-visa,90,37265
 United Kingdom,Croatia,-1,0,37266
-United Kingdom,Cuba,visa required,30,37267
+United Kingdom,Cuba,visa required,90,37267
 United Kingdom,Cyprus,-1,0,37268
 United Kingdom,Czech Republic,-1,0,37269
 United Kingdom,Denmark,-1,0,37270
@@ -37463,7 +37463,7 @@ United States,DR Congo,e-visa,90,37461
 United States,Costa Rica,-1,0,37462
 United States,Ivory Coast,e-visa,90,37463
 United States,Croatia,-1,0,37464
-United States,Cuba,visa required,30,37465
+United States,Cuba,visa required,90,37465
 United States,Cyprus,-1,0,37466
 United States,Czech Republic,-1,0,37467
 United States,Denmark,-1,0,37468
@@ -37661,7 +37661,7 @@ Uruguay,DR Congo,e-visa,90,37659
 Uruguay,Costa Rica,-1,0,37660
 Uruguay,Ivory Coast,e-visa,90,37661
 Uruguay,Croatia,-1,0,37662
-Uruguay,Cuba,visa required,30,37663
+Uruguay,Cuba,visa required,90,37663
 Uruguay,Cyprus,-1,0,37664
 Uruguay,Czech Republic,visa free,0,37665
 Uruguay,Denmark,-1,0,37666
@@ -38057,7 +38057,7 @@ Vanuatu,DR Congo,e-visa,90,38055
 Vanuatu,Costa Rica,-1,0,38056
 Vanuatu,Ivory Coast,e-visa,90,38057
 Vanuatu,Croatia,visa required,0,38058
-Vanuatu,Cuba,visa required,30,38059
+Vanuatu,Cuba,visa required,90,38059
 Vanuatu,Cyprus,visa required,0,38060
 Vanuatu,Czech Republic,visa required,0,38061
 Vanuatu,Denmark,visa required,0,38062
@@ -38255,7 +38255,7 @@ Vatican,DR Congo,e-visa,90,38253
 Vatican,Costa Rica,-1,0,38254
 Vatican,Ivory Coast,e-visa,90,38255
 Vatican,Croatia,-1,0,38256
-Vatican,Cuba,visa required,30,38257
+Vatican,Cuba,visa required,90,38257
 Vatican,Cyprus,-1,0,38258
 Vatican,Czech Republic,-1,0,38259
 Vatican,Denmark,-1,0,38260
@@ -38453,7 +38453,7 @@ Venezuela,DR Congo,e-visa,90,38451
 Venezuela,Costa Rica,visa required,0,38452
 Venezuela,Ivory Coast,e-visa,90,38453
 Venezuela,Croatia,-1,0,38454
-Venezuela,Cuba,visa required,30,38455
+Venezuela,Cuba,visa required,90,38455
 Venezuela,Cyprus,-1,0,38456
 Venezuela,Czech Republic,-1,0,38457
 Venezuela,Denmark,-1,0,38458
@@ -38651,7 +38651,7 @@ Vietnam,DR Congo,e-visa,90,38649
 Vietnam,Costa Rica,visa required,0,38650
 Vietnam,Ivory Coast,e-visa,90,38651
 Vietnam,Croatia,visa required,0,38652
-Vietnam,Cuba,visa required,30,38653
+Vietnam,Cuba,visa required,90,38653
 Vietnam,Cyprus,visa required,0,38654
 Vietnam,Czech Republic,visa required,0,38655
 Vietnam,Denmark,visa required,0,38656
@@ -39047,7 +39047,7 @@ Zambia,DR Congo,e-visa,90,39045
 Zambia,Costa Rica,visa required,0,39046
 Zambia,Ivory Coast,e-visa,90,39047
 Zambia,Croatia,visa required,0,39048
-Zambia,Cuba,visa required,30,39049
+Zambia,Cuba,visa required,90,39049
 Zambia,Cyprus,visa required,0,39050
 Zambia,Czech Republic,visa required,0,39051
 Zambia,Denmark,visa required,0,39052
@@ -39245,7 +39245,7 @@ Zimbabwe,DR Congo,-1,0,39243
 Zimbabwe,Costa Rica,visa required,0,39244
 Zimbabwe,Ivory Coast,e-visa,90,39245
 Zimbabwe,Croatia,visa required,0,39246
-Zimbabwe,Cuba,visa required,30,39247
+Zimbabwe,Cuba,visa required,90,39247
 Zimbabwe,Cyprus,visa required,0,39248
 Zimbabwe,Czech Republic,visa required,0,39249
 Zimbabwe,Denmark,visa required,0,39250
