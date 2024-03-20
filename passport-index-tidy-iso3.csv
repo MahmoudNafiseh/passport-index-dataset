@@ -2375,7 +2375,7 @@ BHS,AFG,visa required
 BHS,DMA,-1
 BHS,HTI,-1
 BHS,SYC,-1
-BHR,ALB,e-visa
+BHR,ALB,-1
 BHR,DZA,visa required
 BHR,AND,visa required
 BHR,AGO,visa required
@@ -12507,7 +12507,7 @@ GEO,CPV,visa on arrival
 GEO,CAF,visa required
 GEO,TCD,visa required
 GEO,CHL,-1
-GEO,CHN,visa required
+GEO,CHN,-1
 GEO,COL,-1
 GEO,COM,visa on arrival (45)
 GEO,COG,visa required
@@ -12544,7 +12544,7 @@ GEO,GIN,e-visa (90)
 GEO,GNB,visa on arrival (90)
 GEO,GUY,visa required
 GEO,HND,visa required
-GEO,HKG,e-visa
+GEO,HKG,-1
 GEO,HUN,-1
 GEO,ISL,-1
 GEO,IND,e-visa (30)
@@ -12572,7 +12572,7 @@ GEO,LBY,visa required
 GEO,LIE,-1
 GEO,LTU,-1
 GEO,LUX,-1
-GEO,MAC,visa on arrival (30)
+GEO,MAC,-1
 GEO,MDG,visa on arrival (90)
 GEO,MWI,visa on arrival (30)
 GEO,MYS,-1
@@ -26135,7 +26135,7 @@ NOR,AFG,visa required
 NOR,DMA,-1
 NOR,HTI,-1
 NOR,SYC,-1
-OMN,ALB,e-visa
+OMN,ALB,-1
 OMN,DZA,visa required
 OMN,AND,visa required
 OMN,AGO,visa required
@@ -28313,7 +28313,7 @@ PRT,AFG,visa required
 PRT,DMA,-1
 PRT,HTI,-1
 PRT,SYC,-1
-QAT,ALB,e-visa
+QAT,ALB,-1
 QAT,DZA,visa required
 QAT,AND,visa required
 QAT,AGO,-1
@@ -30095,7 +30095,7 @@ STP,AFG,visa required
 STP,DMA,-1
 STP,HTI,-1
 STP,SYC,-1
-SAU,ALB,e-visa
+SAU,ALB,-1
 SAU,DZA,visa required
 SAU,AND,visa required
 SAU,AGO,-1
@@ -34847,7 +34847,7 @@ TZA,AFG,visa required
 TZA,DMA,-1
 TZA,HTI,-1
 TZA,SYC,-1
-THA,ALB,e-visa
+THA,ALB,-1
 THA,DZA,visa required
 THA,AND,visa required
 THA,AGO,visa required

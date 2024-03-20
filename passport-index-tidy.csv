@@ -2375,7 +2375,7 @@ Bahamas,Afghanistan,visa required,0,2373
 Bahamas,Dominica,-1,0,2374
 Bahamas,Haiti,-1,0,2375
 Bahamas,Seychelles,-1,0,2376
-Bahrain,Albania,e-visa,0,2377
+Bahrain,Albania,-1,0,2377
 Bahrain,Algeria,visa required,0,2378
 Bahrain,Andorra,visa required,0,2379
 Bahrain,Angola,visa required,0,2380
@@ -12507,7 +12507,7 @@ Georgia,Cape Verde,visa on arrival,0,12505
 Georgia,Central African Republic,visa required,0,12506
 Georgia,Chad,visa required,0,12507
 Georgia,Chile,-1,0,12508
-Georgia,China,visa required,0,12509
+Georgia,China,-1,0,12509
 Georgia,Colombia,-1,0,12510
 Georgia,Comoros,visa on arrival,45,12511
 Georgia,Congo,visa required,0,12512
@@ -12544,7 +12544,7 @@ Georgia,Guinea,e-visa,90,12542
 Georgia,Guinea-Bissau,visa on arrival,90,12543
 Georgia,Guyana,visa required,0,12544
 Georgia,Honduras,visa required,0,12545
-Georgia,Hong Kong,e-visa,0,12546
+Georgia,Hong Kong,-1,0,12546
 Georgia,Hungary,-1,0,12547
 Georgia,Iceland,-1,0,12548
 Georgia,India,e-visa,30,12549
@@ -12572,7 +12572,7 @@ Georgia,Libya,visa required,0,12570
 Georgia,Liechtenstein,-1,0,12571
 Georgia,Lithuania,-1,0,12572
 Georgia,Luxembourg,-1,0,12573
-Georgia,Macao,visa on arrival,30,12574
+Georgia,Macao,-1,0,12574
 Georgia,Madagascar,visa on arrival,90,12575
 Georgia,Malawi,visa on arrival,30,12576
 Georgia,Malaysia,-1,0,12577
@@ -26135,7 +26135,7 @@ Norway,Afghanistan,visa required,0,26133
 Norway,Dominica,-1,0,26134
 Norway,Haiti,-1,0,26135
 Norway,Seychelles,-1,0,26136
-Oman,Albania,e-visa,0,26137
+Oman,Albania,-1,0,26137
 Oman,Algeria,visa required,0,26138
 Oman,Andorra,visa required,0,26139
 Oman,Angola,visa required,0,26140
@@ -28313,7 +28313,7 @@ Portugal,Afghanistan,visa required,0,28311
 Portugal,Dominica,-1,0,28312
 Portugal,Haiti,-1,0,28313
 Portugal,Seychelles,-1,0,28314
-Qatar,Albania,e-visa,0,28315
+Qatar,Albania,-1,0,28315
 Qatar,Algeria,visa required,0,28316
 Qatar,Andorra,visa required,0,28317
 Qatar,Angola,-1,0,28318
@@ -30095,7 +30095,7 @@ Sao Tome and Principe,Afghanistan,visa required,0,30093
 Sao Tome and Principe,Dominica,-1,0,30094
 Sao Tome and Principe,Haiti,-1,0,30095
 Sao Tome and Principe,Seychelles,-1,0,30096
-Saudi Arabia,Albania,e-visa,0,30097
+Saudi Arabia,Albania,-1,0,30097
 Saudi Arabia,Algeria,visa required,0,30098
 Saudi Arabia,Andorra,visa required,0,30099
 Saudi Arabia,Angola,-1,0,30100
@@ -34847,7 +34847,7 @@ Tanzania,Afghanistan,visa required,0,34845
 Tanzania,Dominica,-1,0,34846
 Tanzania,Haiti,-1,0,34847
 Tanzania,Seychelles,-1,0,34848
-Thailand,Albania,e-visa,0,34849
+Thailand,Albania,-1,0,34849
 Thailand,Algeria,visa required,0,34850
 Thailand,Andorra,visa required,0,34851
 Thailand,Angola,visa required,0,34852
