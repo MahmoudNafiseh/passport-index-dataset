@@ -490,7 +490,7 @@ DZA,LVA,visa required
 DZA,LBN,visa on arrival (30)
 DZA,LSO,e-visa (14)
 DZA,LBR,visa required
-DZA,LBY,visa free
+DZA,LBY,e-visa
 DZA,LIE,visa required
 DZA,LTU,visa required
 DZA,LUX,visa required
@@ -1246,7 +1246,7 @@ ARG,ETH,visa on arrival (90)
 ARG,FJI,-1
 ARG,FIN,-1
 ARG,FRA,-1
-ARG,GAB,-1
+ARG,GAB,e-visa (90)
 ARG,GMB,visa required
 ARG,GEO,-1
 ARG,DEU,-1
@@ -1642,7 +1642,7 @@ AUS,ETH,visa on arrival (90)
 AUS,FJI,-1
 AUS,FIN,-1
 AUS,FRA,-1
-AUS,GAB,-1
+AUS,GAB,e-visa (90)
 AUS,GMB,-1
 AUS,GEO,-1
 AUS,DEU,-1
@@ -1840,7 +1840,7 @@ AUT,ETH,visa on arrival (90)
 AUT,FJI,-1
 AUT,FIN,visa free
 AUT,FRA,visa free
-AUT,GAB,-1
+AUT,GAB,e-visa (90)
 AUT,GMB,-1
 AUT,GEO,-1
 AUT,DEU,visa free
@@ -2668,7 +2668,7 @@ BGD,LVA,visa required
 BGD,LBN,visa required
 BGD,LSO,visa required
 BGD,LBR,visa required
-BGD,LBY,e-visa
+BGD,LBY,no admission
 BGD,LIE,visa required
 BGD,LTU,visa required
 BGD,LUX,visa required
@@ -3226,7 +3226,7 @@ BEL,ETH,visa on arrival (90)
 BEL,FJI,-1
 BEL,FIN,visa free
 BEL,FRA,visa free
-BEL,GAB,-1
+BEL,GAB,e-visa (90)
 BEL,GMB,-1
 BEL,GEO,-1
 BEL,DEU,visa free
@@ -3658,7 +3658,7 @@ BEN,LVA,visa required
 BEN,LBN,visa required
 BEN,LSO,e-visa (14)
 BEN,LBR,visa free
-BEN,LBY,visa free
+BEN,LBY,e-visa
 BEN,LIE,visa required
 BEN,LTU,visa required
 BEN,LUX,visa required
@@ -4612,7 +4612,7 @@ BRA,ETH,visa on arrival (90)
 BRA,FJI,-1
 BRA,FIN,-1
 BRA,FRA,-1
-BRA,GAB,-1
+BRA,GAB,e-visa (90)
 BRA,GMB,visa required
 BRA,GEO,-1
 BRA,DEU,-1
@@ -5008,7 +5008,7 @@ BGR,ETH,visa on arrival (90)
 BGR,FJI,-1
 BGR,FIN,visa free
 BGR,FRA,visa free
-BGR,GAB,-1
+BGR,GAB,e-visa (90)
 BGR,GMB,-1
 BGR,GEO,-1
 BGR,DEU,visa free
@@ -5998,7 +5998,7 @@ CAN,ETH,visa on arrival (90)
 CAN,FJI,-1
 CAN,FIN,-1
 CAN,FRA,-1
-CAN,GAB,-1
+CAN,GAB,e-visa (90)
 CAN,GMB,-1
 CAN,GEO,-1
 CAN,DEU,-1
@@ -6988,7 +6988,7 @@ CHN,ETH,visa on arrival (90)
 CHN,FJI,-1
 CHN,FIN,visa required
 CHN,FRA,visa required
-CHN,GAB,-1
+CHN,GAB,e-visa (90)
 CHN,GMB,visa required
 CHN,GEO,-1
 CHN,DEU,visa required
@@ -8374,7 +8374,7 @@ HRV,ETH,visa on arrival (90)
 HRV,FJI,-1
 HRV,FIN,visa free
 HRV,FRA,visa free
-HRV,GAB,-1
+HRV,GAB,e-visa (90)
 HRV,GMB,-1
 HRV,GEO,-1
 HRV,DEU,visa free
@@ -8770,7 +8770,7 @@ CYP,ETH,visa on arrival (90)
 CYP,FJI,-1
 CYP,FIN,visa free
 CYP,FRA,visa free
-CYP,GAB,-1
+CYP,GAB,e-visa (90)
 CYP,GMB,-1
 CYP,GEO,-1
 CYP,DEU,visa free
@@ -8968,7 +8968,7 @@ CZE,ETH,visa on arrival (90)
 CZE,FJI,-1
 CZE,FIN,visa free
 CZE,FRA,visa free
-CZE,GAB,-1
+CZE,GAB,e-visa (90)
 CZE,GMB,-1
 CZE,GEO,-1
 CZE,DEU,visa free
@@ -9166,7 +9166,7 @@ DNK,ETH,visa on arrival (90)
 DNK,FJI,-1
 DNK,FIN,visa free
 DNK,FRA,visa free
-DNK,GAB,-1
+DNK,GAB,e-visa (90)
 DNK,GMB,-1
 DNK,GEO,-1
 DNK,DEU,visa free
@@ -10948,7 +10948,7 @@ EST,ETH,visa on arrival (90)
 EST,FJI,-1
 EST,FIN,visa free
 EST,FRA,visa free
-EST,GAB,-1
+EST,GAB,e-visa (90)
 EST,GMB,-1
 EST,GEO,-1
 EST,DEU,visa free
@@ -11740,7 +11740,7 @@ FIN,ETH,visa on arrival (90)
 FIN,FJI,-1
 FIN,FIN,-1
 FIN,FRA,visa free
-FIN,GAB,-1
+FIN,GAB,e-visa (90)
 FIN,GMB,-1
 FIN,GEO,-1
 FIN,DEU,visa free
@@ -11938,7 +11938,7 @@ FRA,ETH,visa on arrival (90)
 FRA,FJI,-1
 FRA,FIN,visa free
 FRA,FRA,-1
-FRA,GAB,-1
+FRA,GAB,e-visa (90)
 FRA,GMB,-1
 FRA,GEO,-1
 FRA,DEU,visa free
@@ -12730,7 +12730,7 @@ DEU,ETH,visa on arrival (90)
 DEU,FJI,-1
 DEU,FIN,visa free
 DEU,FRA,visa free
-DEU,GAB,-1
+DEU,GAB,e-visa (90)
 DEU,GMB,-1
 DEU,GEO,-1
 DEU,DEU,-1
@@ -13126,7 +13126,7 @@ GRC,ETH,visa on arrival (90)
 GRC,FJI,-1
 GRC,FIN,visa free
 GRC,FRA,visa free
-GRC,GAB,-1
+GRC,GAB,e-visa (90)
 GRC,GMB,-1
 GRC,GEO,-1
 GRC,DEU,visa free
@@ -14908,7 +14908,7 @@ HUN,ETH,visa on arrival (90)
 HUN,FJI,-1
 HUN,FIN,visa free
 HUN,FRA,visa free
-HUN,GAB,-1
+HUN,GAB,e-visa (90)
 HUN,GMB,-1
 HUN,GEO,-1
 HUN,DEU,visa free
@@ -15304,7 +15304,7 @@ IND,ETH,visa on arrival (90)
 IND,FJI,-1
 IND,FIN,visa required
 IND,FRA,visa required
-IND,GAB,-1
+IND,GAB,e-visa (90)
 IND,GMB,-1
 IND,GEO,e-visa
 IND,DEU,visa required
@@ -15502,7 +15502,7 @@ IDN,ETH,visa on arrival (90)
 IDN,FJI,-1
 IDN,FIN,visa required
 IDN,FRA,visa required
-IDN,GAB,-1
+IDN,GAB,e-visa (90)
 IDN,GMB,-1
 IDN,GEO,e-visa
 IDN,DEU,visa required
@@ -15736,7 +15736,7 @@ IRN,LVA,visa required
 IRN,LBN,visa on arrival (30)
 IRN,LSO,e-visa (14)
 IRN,LBR,visa required
-IRN,LBY,e-visa
+IRN,LBY,no admission
 IRN,LIE,visa required
 IRN,LTU,visa required
 IRN,LUX,visa required
@@ -16096,7 +16096,7 @@ IRL,ETH,visa on arrival (90)
 IRL,FJI,-1
 IRL,FIN,visa free
 IRL,FRA,visa free
-IRL,GAB,-1
+IRL,GAB,e-visa (90)
 IRL,GMB,-1
 IRL,GEO,-1
 IRL,DEU,visa free
@@ -16492,7 +16492,7 @@ ITA,ETH,visa on arrival (90)
 ITA,FJI,-1
 ITA,FIN,visa free
 ITA,FRA,visa free
-ITA,GAB,-1
+ITA,GAB,e-visa (90)
 ITA,GMB,-1
 ITA,GEO,-1
 ITA,DEU,visa free
@@ -16888,7 +16888,7 @@ JPN,ETH,visa on arrival (90)
 JPN,FJI,-1
 JPN,FIN,-1
 JPN,FRA,-1
-JPN,GAB,-1
+JPN,GAB,e-visa (90)
 JPN,GMB,visa required
 JPN,GEO,-1
 JPN,DEU,-1
@@ -18670,7 +18670,7 @@ LVA,ETH,visa on arrival (90)
 LVA,FJI,-1
 LVA,FIN,visa free
 LVA,FRA,visa free
-LVA,GAB,-1
+LVA,GAB,e-visa (90)
 LVA,GMB,-1
 LVA,GEO,-1
 LVA,DEU,visa free
@@ -19858,7 +19858,7 @@ LTU,ETH,visa on arrival (90)
 LTU,FJI,-1
 LTU,FIN,visa free
 LTU,FRA,visa free
-LTU,GAB,-1
+LTU,GAB,e-visa (90)
 LTU,GMB,-1
 LTU,GEO,-1
 LTU,DEU,visa free
@@ -20056,7 +20056,7 @@ LUX,ETH,visa on arrival (90)
 LUX,FJI,-1
 LUX,FIN,visa free
 LUX,FRA,visa free
-LUX,GAB,-1
+LUX,GAB,e-visa (90)
 LUX,GMB,-1
 LUX,GEO,-1
 LUX,DEU,visa free
@@ -20884,7 +20884,7 @@ MYS,LVA,-1
 MYS,LBN,visa on arrival (30)
 MYS,LSO,-1
 MYS,LBR,visa required
-MYS,LBY,visa free
+MYS,LBY,e-visa
 MYS,LIE,-1
 MYS,LTU,-1
 MYS,LUX,-1
@@ -21442,7 +21442,7 @@ MLT,ETH,visa on arrival (90)
 MLT,FJI,-1
 MLT,FIN,visa free
 MLT,FRA,visa free
-MLT,GAB,-1
+MLT,GAB,e-visa (90)
 MLT,GMB,-1
 MLT,GEO,-1
 MLT,DEU,visa free
@@ -21874,7 +21874,7 @@ MRT,LVA,visa required
 MRT,LBN,visa on arrival (30)
 MRT,LSO,e-visa (14)
 MRT,LBR,visa required
-MRT,LBY,visa free
+MRT,LBY,e-visa
 MRT,LIE,visa required
 MRT,LTU,visa required
 MRT,LUX,visa required
@@ -22234,7 +22234,7 @@ MEX,ETH,visa on arrival (90)
 MEX,FJI,-1
 MEX,FIN,-1
 MEX,FRA,-1
-MEX,GAB,-1
+MEX,GAB,e-visa (90)
 MEX,GMB,visa required
 MEX,GEO,-1
 MEX,DEU,-1
@@ -24610,7 +24610,7 @@ NLD,ETH,visa on arrival (90)
 NLD,FJI,-1
 NLD,FIN,visa free
 NLD,FRA,visa free
-NLD,GAB,-1
+NLD,GAB,e-visa (90)
 NLD,GMB,-1
 NLD,GEO,-1
 NLD,DEU,visa free
@@ -26428,7 +26428,7 @@ PAK,LVA,visa required
 PAK,LBN,visa required
 PAK,LSO,e-visa (14)
 PAK,LBR,visa required
-PAK,LBY,e-visa
+PAK,LBY,no admission
 PAK,LIE,visa required
 PAK,LTU,visa required
 PAK,LUX,visa required
@@ -27976,7 +27976,7 @@ POL,ETH,visa on arrival (90)
 POL,FJI,-1
 POL,FIN,visa free
 POL,FRA,visa free
-POL,GAB,-1
+POL,GAB,e-visa (90)
 POL,GMB,-1
 POL,GEO,-1
 POL,DEU,visa free
@@ -28174,7 +28174,7 @@ PRT,ETH,visa on arrival (90)
 PRT,FJI,-1
 PRT,FIN,visa free
 PRT,FRA,visa free
-PRT,GAB,-1
+PRT,GAB,e-visa (90)
 PRT,GMB,-1
 PRT,GEO,-1
 PRT,DEU,visa free
@@ -28570,7 +28570,7 @@ ROU,ETH,visa on arrival (90)
 ROU,FJI,-1
 ROU,FIN,visa free
 ROU,FRA,visa free
-ROU,GAB,-1
+ROU,GAB,e-visa (90)
 ROU,GMB,-1
 ROU,GEO,-1
 ROU,DEU,visa free
@@ -28768,7 +28768,7 @@ RUS,ETH,visa on arrival (90)
 RUS,FJI,-1
 RUS,FIN,visa required
 RUS,FRA,visa required
-RUS,GAB,-1
+RUS,GAB,e-visa (90)
 RUS,GMB,-1
 RUS,GEO,-1
 RUS,DEU,visa required
@@ -30154,7 +30154,7 @@ SAU,ETH,visa on arrival (90)
 SAU,FJI,visa required
 SAU,FIN,visa required
 SAU,FRA,visa required
-SAU,GAB,-1
+SAU,GAB,e-visa (90)
 SAU,GMB,visa required
 SAU,GEO,-1
 SAU,DEU,visa required
@@ -31342,7 +31342,7 @@ SVK,ETH,visa on arrival (90)
 SVK,FJI,-1
 SVK,FIN,visa free
 SVK,FRA,visa free
-SVK,GAB,-1
+SVK,GAB,e-visa (90)
 SVK,GMB,-1
 SVK,GEO,-1
 SVK,DEU,visa free
@@ -31540,7 +31540,7 @@ SVN,ETH,visa on arrival (90)
 SVN,FJI,-1
 SVN,FIN,visa free
 SVN,FRA,visa free
-SVN,GAB,-1
+SVN,GAB,e-visa (90)
 SVN,GMB,-1
 SVN,GEO,-1
 SVN,DEU,visa free
@@ -32332,7 +32332,7 @@ KOR,ETH,visa on arrival (90)
 KOR,FJI,-1
 KOR,FIN,-1
 KOR,FRA,-1
-KOR,GAB,-1
+KOR,GAB,e-visa (90)
 KOR,GMB,-1
 KOR,GEO,-1
 KOR,DEU,-1
@@ -32728,7 +32728,7 @@ ESP,ETH,visa on arrival (90)
 ESP,FJI,-1
 ESP,FIN,visa free
 ESP,FRA,visa free
-ESP,GAB,-1
+ESP,GAB,e-visa (90)
 ESP,GMB,-1
 ESP,GEO,-1
 ESP,DEU,visa free
@@ -33358,7 +33358,7 @@ SDN,LVA,visa required
 SDN,LBN,visa on arrival (30)
 SDN,LSO,e-visa (14)
 SDN,LBR,visa required
-SDN,LBY,e-visa
+SDN,LBY,no admission
 SDN,LIE,visa required
 SDN,LTU,visa required
 SDN,LUX,visa required
@@ -33718,7 +33718,7 @@ SWE,ETH,visa on arrival (90)
 SWE,FJI,-1
 SWE,FIN,visa free
 SWE,FRA,visa free
-SWE,GAB,-1
+SWE,GAB,e-visa (90)
 SWE,GMB,-1
 SWE,GEO,-1
 SWE,DEU,visa free
@@ -34150,7 +34150,7 @@ SYR,LVA,visa required
 SYR,LBN,visa on arrival
 SYR,LSO,e-visa (14)
 SYR,LBR,visa required
-SYR,LBY,e-visa
+SYR,LBY,no admission
 SYR,LIE,visa required
 SYR,LTU,visa required
 SYR,LUX,visa required
@@ -35932,7 +35932,7 @@ TUN,LVA,visa required
 TUN,LBN,visa on arrival (30)
 TUN,LSO,e-visa (14)
 TUN,LBR,visa required
-TUN,LBY,visa free
+TUN,LBY,e-visa
 TUN,LIE,visa required
 TUN,LTU,visa required
 TUN,LUX,visa required
@@ -36094,7 +36094,7 @@ TUR,ETH,visa on arrival (90)
 TUR,FJI,-1
 TUR,FIN,visa required
 TUR,FRA,visa required
-TUR,GAB,-1
+TUR,GAB,e-visa (90)
 TUR,GMB,-1
 TUR,GEO,-1
 TUR,DEU,visa required
@@ -37282,7 +37282,7 @@ GBR,ETH,visa on arrival (90)
 GBR,FJI,-1
 GBR,FIN,-1
 GBR,FRA,-1
-GBR,GAB,-1
+GBR,GAB,e-visa (90)
 GBR,GMB,-1
 GBR,GEO,-1
 GBR,DEU,-1
@@ -37480,7 +37480,7 @@ USA,ETH,visa on arrival (90)
 USA,FJI,-1
 USA,FIN,-1
 USA,FRA,-1
-USA,GAB,-1
+USA,GAB,e-visa (90)
 USA,GMB,visa on arrival
 USA,GEO,-1
 USA,DEU,-1
@@ -38902,7 +38902,7 @@ YEM,LVA,visa required
 YEM,LBN,visa on arrival (30)
 YEM,LSO,e-visa (14)
 YEM,LBR,visa required
-YEM,LBY,e-visa
+YEM,LBY,no admission
 YEM,LIE,visa required
 YEM,LTU,visa required
 YEM,LUX,visa required

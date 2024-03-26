@@ -490,7 +490,7 @@ Algeria,Latvia,visa required,0,488
 Algeria,Lebanon,visa on arrival,30,489
 Algeria,Lesotho,e-visa,14,490
 Algeria,Liberia,visa required,0,491
-Algeria,Libya,visa free,0,492
+Algeria,Libya,e-visa,0,492
 Algeria,Liechtenstein,visa required,0,493
 Algeria,Lithuania,visa required,0,494
 Algeria,Luxembourg,visa required,0,495
@@ -1246,7 +1246,7 @@ Argentina,Ethiopia,visa on arrival,90,1244
 Argentina,Fiji,-1,0,1245
 Argentina,Finland,-1,0,1246
 Argentina,France,-1,0,1247
-Argentina,Gabon,-1,0,1248
+Argentina,Gabon,e-visa,90,1248
 Argentina,Gambia,visa required,0,1249
 Argentina,Georgia,-1,0,1250
 Argentina,Germany,-1,0,1251
@@ -1642,7 +1642,7 @@ Australia,Ethiopia,visa on arrival,90,1640
 Australia,Fiji,-1,0,1641
 Australia,Finland,-1,0,1642
 Australia,France,-1,0,1643
-Australia,Gabon,-1,0,1644
+Australia,Gabon,e-visa,90,1644
 Australia,Gambia,-1,0,1645
 Australia,Georgia,-1,0,1646
 Australia,Germany,-1,0,1647
@@ -1840,7 +1840,7 @@ Austria,Ethiopia,visa on arrival,90,1838
 Austria,Fiji,-1,0,1839
 Austria,Finland,visa free,0,1840
 Austria,France,visa free,0,1841
-Austria,Gabon,-1,0,1842
+Austria,Gabon,e-visa,90,1842
 Austria,Gambia,-1,0,1843
 Austria,Georgia,-1,0,1844
 Austria,Germany,visa free,0,1845
@@ -2668,7 +2668,7 @@ Bangladesh,Latvia,visa required,0,2666
 Bangladesh,Lebanon,visa required,0,2667
 Bangladesh,Lesotho,visa required,0,2668
 Bangladesh,Liberia,visa required,0,2669
-Bangladesh,Libya,e-visa,0,2670
+Bangladesh,Libya,no admission,0,2670
 Bangladesh,Liechtenstein,visa required,0,2671
 Bangladesh,Lithuania,visa required,0,2672
 Bangladesh,Luxembourg,visa required,0,2673
@@ -3226,7 +3226,7 @@ Belgium,Ethiopia,visa on arrival,90,3224
 Belgium,Fiji,-1,0,3225
 Belgium,Finland,visa free,0,3226
 Belgium,France,visa free,0,3227
-Belgium,Gabon,-1,0,3228
+Belgium,Gabon,e-visa,90,3228
 Belgium,Gambia,-1,0,3229
 Belgium,Georgia,-1,0,3230
 Belgium,Germany,visa free,0,3231
@@ -3658,7 +3658,7 @@ Benin,Latvia,visa required,0,3656
 Benin,Lebanon,visa required,0,3657
 Benin,Lesotho,e-visa,14,3658
 Benin,Liberia,visa free,0,3659
-Benin,Libya,visa free,0,3660
+Benin,Libya,e-visa,0,3660
 Benin,Liechtenstein,visa required,0,3661
 Benin,Lithuania,visa required,0,3662
 Benin,Luxembourg,visa required,0,3663
@@ -4612,7 +4612,7 @@ Brazil,Ethiopia,visa on arrival,90,4610
 Brazil,Fiji,-1,0,4611
 Brazil,Finland,-1,0,4612
 Brazil,France,-1,0,4613
-Brazil,Gabon,-1,0,4614
+Brazil,Gabon,e-visa,90,4614
 Brazil,Gambia,visa required,0,4615
 Brazil,Georgia,-1,0,4616
 Brazil,Germany,-1,0,4617
@@ -5008,7 +5008,7 @@ Bulgaria,Ethiopia,visa on arrival,90,5006
 Bulgaria,Fiji,-1,0,5007
 Bulgaria,Finland,visa free,0,5008
 Bulgaria,France,visa free,0,5009
-Bulgaria,Gabon,-1,0,5010
+Bulgaria,Gabon,e-visa,90,5010
 Bulgaria,Gambia,-1,0,5011
 Bulgaria,Georgia,-1,0,5012
 Bulgaria,Germany,visa free,0,5013
@@ -5998,7 +5998,7 @@ Canada,Ethiopia,visa on arrival,90,5996
 Canada,Fiji,-1,0,5997
 Canada,Finland,-1,0,5998
 Canada,France,-1,0,5999
-Canada,Gabon,-1,0,6000
+Canada,Gabon,e-visa,90,6000
 Canada,Gambia,-1,0,6001
 Canada,Georgia,-1,0,6002
 Canada,Germany,-1,0,6003
@@ -6988,7 +6988,7 @@ China,Ethiopia,visa on arrival,90,6986
 China,Fiji,-1,0,6987
 China,Finland,visa required,0,6988
 China,France,visa required,0,6989
-China,Gabon,-1,0,6990
+China,Gabon,e-visa,90,6990
 China,Gambia,visa required,0,6991
 China,Georgia,-1,0,6992
 China,Germany,visa required,0,6993
@@ -8374,7 +8374,7 @@ Croatia,Ethiopia,visa on arrival,90,8372
 Croatia,Fiji,-1,0,8373
 Croatia,Finland,visa free,0,8374
 Croatia,France,visa free,0,8375
-Croatia,Gabon,-1,0,8376
+Croatia,Gabon,e-visa,90,8376
 Croatia,Gambia,-1,0,8377
 Croatia,Georgia,-1,0,8378
 Croatia,Germany,visa free,0,8379
@@ -8770,7 +8770,7 @@ Cyprus,Ethiopia,visa on arrival,90,8768
 Cyprus,Fiji,-1,0,8769
 Cyprus,Finland,visa free,0,8770
 Cyprus,France,visa free,0,8771
-Cyprus,Gabon,-1,0,8772
+Cyprus,Gabon,e-visa,90,8772
 Cyprus,Gambia,-1,0,8773
 Cyprus,Georgia,-1,0,8774
 Cyprus,Germany,visa free,0,8775
@@ -8968,7 +8968,7 @@ Czech Republic,Ethiopia,visa on arrival,90,8966
 Czech Republic,Fiji,-1,0,8967
 Czech Republic,Finland,visa free,0,8968
 Czech Republic,France,visa free,0,8969
-Czech Republic,Gabon,-1,0,8970
+Czech Republic,Gabon,e-visa,90,8970
 Czech Republic,Gambia,-1,0,8971
 Czech Republic,Georgia,-1,0,8972
 Czech Republic,Germany,visa free,0,8973
@@ -9166,7 +9166,7 @@ Denmark,Ethiopia,visa on arrival,90,9164
 Denmark,Fiji,-1,0,9165
 Denmark,Finland,visa free,0,9166
 Denmark,France,visa free,0,9167
-Denmark,Gabon,-1,0,9168
+Denmark,Gabon,e-visa,90,9168
 Denmark,Gambia,-1,0,9169
 Denmark,Georgia,-1,0,9170
 Denmark,Germany,visa free,0,9171
@@ -10948,7 +10948,7 @@ Estonia,Ethiopia,visa on arrival,90,10946
 Estonia,Fiji,-1,0,10947
 Estonia,Finland,visa free,0,10948
 Estonia,France,visa free,0,10949
-Estonia,Gabon,-1,0,10950
+Estonia,Gabon,e-visa,90,10950
 Estonia,Gambia,-1,0,10951
 Estonia,Georgia,-1,0,10952
 Estonia,Germany,visa free,0,10953
@@ -11740,7 +11740,7 @@ Finland,Ethiopia,visa on arrival,90,11738
 Finland,Fiji,-1,0,11739
 Finland,Finland,-1,0,11740
 Finland,France,visa free,0,11741
-Finland,Gabon,-1,0,11742
+Finland,Gabon,e-visa,90,11742
 Finland,Gambia,-1,0,11743
 Finland,Georgia,-1,0,11744
 Finland,Germany,visa free,0,11745
@@ -11938,7 +11938,7 @@ France,Ethiopia,visa on arrival,90,11936
 France,Fiji,-1,0,11937
 France,Finland,visa free,0,11938
 France,France,-1,0,11939
-France,Gabon,-1,0,11940
+France,Gabon,e-visa,90,11940
 France,Gambia,-1,0,11941
 France,Georgia,-1,0,11942
 France,Germany,visa free,0,11943
@@ -12730,7 +12730,7 @@ Germany,Ethiopia,visa on arrival,90,12728
 Germany,Fiji,-1,0,12729
 Germany,Finland,visa free,0,12730
 Germany,France,visa free,0,12731
-Germany,Gabon,-1,0,12732
+Germany,Gabon,e-visa,90,12732
 Germany,Gambia,-1,0,12733
 Germany,Georgia,-1,0,12734
 Germany,Germany,-1,0,12735
@@ -13126,7 +13126,7 @@ Greece,Ethiopia,visa on arrival,90,13124
 Greece,Fiji,-1,0,13125
 Greece,Finland,visa free,0,13126
 Greece,France,visa free,0,13127
-Greece,Gabon,-1,0,13128
+Greece,Gabon,e-visa,90,13128
 Greece,Gambia,-1,0,13129
 Greece,Georgia,-1,0,13130
 Greece,Germany,visa free,0,13131
@@ -14908,7 +14908,7 @@ Hungary,Ethiopia,visa on arrival,90,14906
 Hungary,Fiji,-1,0,14907
 Hungary,Finland,visa free,0,14908
 Hungary,France,visa free,0,14909
-Hungary,Gabon,-1,0,14910
+Hungary,Gabon,e-visa,90,14910
 Hungary,Gambia,-1,0,14911
 Hungary,Georgia,-1,0,14912
 Hungary,Germany,visa free,0,14913
@@ -15304,7 +15304,7 @@ India,Ethiopia,visa on arrival,90,15302
 India,Fiji,-1,0,15303
 India,Finland,visa required,0,15304
 India,France,visa required,0,15305
-India,Gabon,-1,0,15306
+India,Gabon,e-visa,90,15306
 India,Gambia,-1,0,15307
 India,Georgia,e-visa,0,15308
 India,Germany,visa required,0,15309
@@ -15502,7 +15502,7 @@ Indonesia,Ethiopia,visa on arrival,90,15500
 Indonesia,Fiji,-1,0,15501
 Indonesia,Finland,visa required,0,15502
 Indonesia,France,visa required,0,15503
-Indonesia,Gabon,-1,0,15504
+Indonesia,Gabon,e-visa,90,15504
 Indonesia,Gambia,-1,0,15505
 Indonesia,Georgia,e-visa,0,15506
 Indonesia,Germany,visa required,0,15507
@@ -15736,7 +15736,7 @@ Iran,Latvia,visa required,0,15734
 Iran,Lebanon,visa on arrival,30,15735
 Iran,Lesotho,e-visa,14,15736
 Iran,Liberia,visa required,0,15737
-Iran,Libya,e-visa,0,15738
+Iran,Libya,no admission,0,15738
 Iran,Liechtenstein,visa required,0,15739
 Iran,Lithuania,visa required,0,15740
 Iran,Luxembourg,visa required,0,15741
@@ -16096,7 +16096,7 @@ Ireland,Ethiopia,visa on arrival,90,16094
 Ireland,Fiji,-1,0,16095
 Ireland,Finland,visa free,0,16096
 Ireland,France,visa free,0,16097
-Ireland,Gabon,-1,0,16098
+Ireland,Gabon,e-visa,90,16098
 Ireland,Gambia,-1,0,16099
 Ireland,Georgia,-1,0,16100
 Ireland,Germany,visa free,0,16101
@@ -16492,7 +16492,7 @@ Italy,Ethiopia,visa on arrival,90,16490
 Italy,Fiji,-1,0,16491
 Italy,Finland,visa free,0,16492
 Italy,France,visa free,0,16493
-Italy,Gabon,-1,0,16494
+Italy,Gabon,e-visa,90,16494
 Italy,Gambia,-1,0,16495
 Italy,Georgia,-1,0,16496
 Italy,Germany,visa free,0,16497
@@ -16888,7 +16888,7 @@ Japan,Ethiopia,visa on arrival,90,16886
 Japan,Fiji,-1,0,16887
 Japan,Finland,-1,0,16888
 Japan,France,-1,0,16889
-Japan,Gabon,-1,0,16890
+Japan,Gabon,e-visa,90,16890
 Japan,Gambia,visa required,0,16891
 Japan,Georgia,-1,0,16892
 Japan,Germany,-1,0,16893
@@ -18670,7 +18670,7 @@ Latvia,Ethiopia,visa on arrival,90,18668
 Latvia,Fiji,-1,0,18669
 Latvia,Finland,visa free,0,18670
 Latvia,France,visa free,0,18671
-Latvia,Gabon,-1,0,18672
+Latvia,Gabon,e-visa,90,18672
 Latvia,Gambia,-1,0,18673
 Latvia,Georgia,-1,0,18674
 Latvia,Germany,visa free,0,18675
@@ -19858,7 +19858,7 @@ Lithuania,Ethiopia,visa on arrival,90,19856
 Lithuania,Fiji,-1,0,19857
 Lithuania,Finland,visa free,0,19858
 Lithuania,France,visa free,0,19859
-Lithuania,Gabon,-1,0,19860
+Lithuania,Gabon,e-visa,90,19860
 Lithuania,Gambia,-1,0,19861
 Lithuania,Georgia,-1,0,19862
 Lithuania,Germany,visa free,0,19863
@@ -20056,7 +20056,7 @@ Luxembourg,Ethiopia,visa on arrival,90,20054
 Luxembourg,Fiji,-1,0,20055
 Luxembourg,Finland,visa free,0,20056
 Luxembourg,France,visa free,0,20057
-Luxembourg,Gabon,-1,0,20058
+Luxembourg,Gabon,e-visa,90,20058
 Luxembourg,Gambia,-1,0,20059
 Luxembourg,Georgia,-1,0,20060
 Luxembourg,Germany,visa free,0,20061
@@ -20884,7 +20884,7 @@ Malaysia,Latvia,-1,0,20882
 Malaysia,Lebanon,visa on arrival,30,20883
 Malaysia,Lesotho,-1,0,20884
 Malaysia,Liberia,visa required,0,20885
-Malaysia,Libya,visa free,0,20886
+Malaysia,Libya,e-visa,0,20886
 Malaysia,Liechtenstein,-1,0,20887
 Malaysia,Lithuania,-1,0,20888
 Malaysia,Luxembourg,-1,0,20889
@@ -21442,7 +21442,7 @@ Malta,Ethiopia,visa on arrival,90,21440
 Malta,Fiji,-1,0,21441
 Malta,Finland,visa free,0,21442
 Malta,France,visa free,0,21443
-Malta,Gabon,-1,0,21444
+Malta,Gabon,e-visa,90,21444
 Malta,Gambia,-1,0,21445
 Malta,Georgia,-1,0,21446
 Malta,Germany,visa free,0,21447
@@ -21874,7 +21874,7 @@ Mauritania,Latvia,visa required,0,21872
 Mauritania,Lebanon,visa on arrival,30,21873
 Mauritania,Lesotho,e-visa,14,21874
 Mauritania,Liberia,visa required,0,21875
-Mauritania,Libya,visa free,0,21876
+Mauritania,Libya,e-visa,0,21876
 Mauritania,Liechtenstein,visa required,0,21877
 Mauritania,Lithuania,visa required,0,21878
 Mauritania,Luxembourg,visa required,0,21879
@@ -22234,7 +22234,7 @@ Mexico,Ethiopia,visa on arrival,90,22232
 Mexico,Fiji,-1,0,22233
 Mexico,Finland,-1,0,22234
 Mexico,France,-1,0,22235
-Mexico,Gabon,-1,0,22236
+Mexico,Gabon,e-visa,90,22236
 Mexico,Gambia,visa required,0,22237
 Mexico,Georgia,-1,0,22238
 Mexico,Germany,-1,0,22239
@@ -24610,7 +24610,7 @@ Netherlands,Ethiopia,visa on arrival,90,24608
 Netherlands,Fiji,-1,0,24609
 Netherlands,Finland,visa free,0,24610
 Netherlands,France,visa free,0,24611
-Netherlands,Gabon,-1,0,24612
+Netherlands,Gabon,e-visa,90,24612
 Netherlands,Gambia,-1,0,24613
 Netherlands,Georgia,-1,0,24614
 Netherlands,Germany,visa free,0,24615
@@ -26428,7 +26428,7 @@ Pakistan,Latvia,visa required,0,26426
 Pakistan,Lebanon,visa required,0,26427
 Pakistan,Lesotho,e-visa,14,26428
 Pakistan,Liberia,visa required,0,26429
-Pakistan,Libya,e-visa,0,26430
+Pakistan,Libya,no admission,0,26430
 Pakistan,Liechtenstein,visa required,0,26431
 Pakistan,Lithuania,visa required,0,26432
 Pakistan,Luxembourg,visa required,0,26433
@@ -27976,7 +27976,7 @@ Poland,Ethiopia,visa on arrival,90,27974
 Poland,Fiji,-1,0,27975
 Poland,Finland,visa free,0,27976
 Poland,France,visa free,0,27977
-Poland,Gabon,-1,0,27978
+Poland,Gabon,e-visa,90,27978
 Poland,Gambia,-1,0,27979
 Poland,Georgia,-1,0,27980
 Poland,Germany,visa free,0,27981
@@ -28174,7 +28174,7 @@ Portugal,Ethiopia,visa on arrival,90,28172
 Portugal,Fiji,-1,0,28173
 Portugal,Finland,visa free,0,28174
 Portugal,France,visa free,0,28175
-Portugal,Gabon,-1,0,28176
+Portugal,Gabon,e-visa,90,28176
 Portugal,Gambia,-1,0,28177
 Portugal,Georgia,-1,0,28178
 Portugal,Germany,visa free,0,28179
@@ -28570,7 +28570,7 @@ Romania,Ethiopia,visa on arrival,90,28568
 Romania,Fiji,-1,0,28569
 Romania,Finland,visa free,0,28570
 Romania,France,visa free,0,28571
-Romania,Gabon,-1,0,28572
+Romania,Gabon,e-visa,90,28572
 Romania,Gambia,-1,0,28573
 Romania,Georgia,-1,0,28574
 Romania,Germany,visa free,0,28575
@@ -28768,7 +28768,7 @@ Russia,Ethiopia,visa on arrival,90,28766
 Russia,Fiji,-1,0,28767
 Russia,Finland,visa required,0,28768
 Russia,France,visa required,0,28769
-Russia,Gabon,-1,0,28770
+Russia,Gabon,e-visa,90,28770
 Russia,Gambia,-1,0,28771
 Russia,Georgia,-1,0,28772
 Russia,Germany,visa required,0,28773
@@ -30154,7 +30154,7 @@ Saudi Arabia,Ethiopia,visa on arrival,90,30152
 Saudi Arabia,Fiji,visa required,0,30153
 Saudi Arabia,Finland,visa required,0,30154
 Saudi Arabia,France,visa required,0,30155
-Saudi Arabia,Gabon,-1,0,30156
+Saudi Arabia,Gabon,e-visa,90,30156
 Saudi Arabia,Gambia,visa required,0,30157
 Saudi Arabia,Georgia,-1,0,30158
 Saudi Arabia,Germany,visa required,0,30159
@@ -31342,7 +31342,7 @@ Slovakia,Ethiopia,visa on arrival,90,31340
 Slovakia,Fiji,-1,0,31341
 Slovakia,Finland,visa free,0,31342
 Slovakia,France,visa free,0,31343
-Slovakia,Gabon,-1,0,31344
+Slovakia,Gabon,e-visa,90,31344
 Slovakia,Gambia,-1,0,31345
 Slovakia,Georgia,-1,0,31346
 Slovakia,Germany,visa free,0,31347
@@ -31540,7 +31540,7 @@ Slovenia,Ethiopia,visa on arrival,90,31538
 Slovenia,Fiji,-1,0,31539
 Slovenia,Finland,visa free,0,31540
 Slovenia,France,visa free,0,31541
-Slovenia,Gabon,-1,0,31542
+Slovenia,Gabon,e-visa,90,31542
 Slovenia,Gambia,-1,0,31543
 Slovenia,Georgia,-1,0,31544
 Slovenia,Germany,visa free,0,31545
@@ -32332,7 +32332,7 @@ South Korea,Ethiopia,visa on arrival,90,32330
 South Korea,Fiji,-1,0,32331
 South Korea,Finland,-1,0,32332
 South Korea,France,-1,0,32333
-South Korea,Gabon,-1,0,32334
+South Korea,Gabon,e-visa,90,32334
 South Korea,Gambia,-1,0,32335
 South Korea,Georgia,-1,0,32336
 South Korea,Germany,-1,0,32337
@@ -32728,7 +32728,7 @@ Spain,Ethiopia,visa on arrival,90,32726
 Spain,Fiji,-1,0,32727
 Spain,Finland,visa free,0,32728
 Spain,France,visa free,0,32729
-Spain,Gabon,-1,0,32730
+Spain,Gabon,e-visa,90,32730
 Spain,Gambia,-1,0,32731
 Spain,Georgia,-1,0,32732
 Spain,Germany,visa free,0,32733
@@ -33358,7 +33358,7 @@ Sudan,Latvia,visa required,0,33356
 Sudan,Lebanon,visa on arrival,30,33357
 Sudan,Lesotho,e-visa,14,33358
 Sudan,Liberia,visa required,0,33359
-Sudan,Libya,e-visa,0,33360
+Sudan,Libya,no admission,0,33360
 Sudan,Liechtenstein,visa required,0,33361
 Sudan,Lithuania,visa required,0,33362
 Sudan,Luxembourg,visa required,0,33363
@@ -33718,7 +33718,7 @@ Sweden,Ethiopia,visa on arrival,90,33716
 Sweden,Fiji,-1,0,33717
 Sweden,Finland,visa free,0,33718
 Sweden,France,visa free,0,33719
-Sweden,Gabon,-1,0,33720
+Sweden,Gabon,e-visa,90,33720
 Sweden,Gambia,-1,0,33721
 Sweden,Georgia,-1,0,33722
 Sweden,Germany,visa free,0,33723
@@ -34150,7 +34150,7 @@ Syria,Latvia,visa required,0,34148
 Syria,Lebanon,visa on arrival,0,34149
 Syria,Lesotho,e-visa,14,34150
 Syria,Liberia,visa required,0,34151
-Syria,Libya,e-visa,0,34152
+Syria,Libya,no admission,0,34152
 Syria,Liechtenstein,visa required,0,34153
 Syria,Lithuania,visa required,0,34154
 Syria,Luxembourg,visa required,0,34155
@@ -35932,7 +35932,7 @@ Tunisia,Latvia,visa required,0,35930
 Tunisia,Lebanon,visa on arrival,30,35931
 Tunisia,Lesotho,e-visa,14,35932
 Tunisia,Liberia,visa required,0,35933
-Tunisia,Libya,visa free,0,35934
+Tunisia,Libya,e-visa,0,35934
 Tunisia,Liechtenstein,visa required,0,35935
 Tunisia,Lithuania,visa required,0,35936
 Tunisia,Luxembourg,visa required,0,35937
@@ -36094,7 +36094,7 @@ Turkey,Ethiopia,visa on arrival,90,36092
 Turkey,Fiji,-1,0,36093
 Turkey,Finland,visa required,0,36094
 Turkey,France,visa required,0,36095
-Turkey,Gabon,-1,0,36096
+Turkey,Gabon,e-visa,90,36096
 Turkey,Gambia,-1,0,36097
 Turkey,Georgia,-1,0,36098
 Turkey,Germany,visa required,0,36099
@@ -37282,7 +37282,7 @@ United Kingdom,Ethiopia,visa on arrival,90,37280
 United Kingdom,Fiji,-1,0,37281
 United Kingdom,Finland,-1,0,37282
 United Kingdom,France,-1,0,37283
-United Kingdom,Gabon,-1,0,37284
+United Kingdom,Gabon,e-visa,90,37284
 United Kingdom,Gambia,-1,0,37285
 United Kingdom,Georgia,-1,0,37286
 United Kingdom,Germany,-1,0,37287
@@ -37480,7 +37480,7 @@ United States,Ethiopia,visa on arrival,90,37478
 United States,Fiji,-1,0,37479
 United States,Finland,-1,0,37480
 United States,France,-1,0,37481
-United States,Gabon,-1,0,37482
+United States,Gabon,e-visa,90,37482
 United States,Gambia,visa on arrival,0,37483
 United States,Georgia,-1,0,37484
 United States,Germany,-1,0,37485
@@ -38902,7 +38902,7 @@ Yemen,Latvia,visa required,0,38900
 Yemen,Lebanon,visa on arrival,30,38901
 Yemen,Lesotho,e-visa,14,38902
 Yemen,Liberia,visa required,0,38903
-Yemen,Libya,e-visa,0,38904
+Yemen,Libya,no admission,0,38904
 Yemen,Liechtenstein,visa required,0,38905
 Yemen,Lithuania,visa required,0,38906
 Yemen,Luxembourg,visa required,0,38907
