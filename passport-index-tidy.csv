@@ -7090,7 +7090,7 @@ China,South Africa,e-visa,0,7088
 China,South Korea,e-visa,0,7089
 China,South Sudan,e-visa,0,7090
 China,Spain,visa required,0,7091
-China,Sri Lanka,visa on arrival,30,7092
+China,Sri Lanka,e-visa,30,7092
 China,Saint Vincent and the Grenadines,visa required,0,7093
 China,Sudan,visa required,0,7094
 China,Suriname,-1,0,7095
@@ -15406,7 +15406,7 @@ India,South Africa,e-visa,0,15404
 India,South Korea,e-visa,0,15405
 India,South Sudan,e-visa,0,15406
 India,Spain,visa required,0,15407
-India,Sri Lanka,visa on arrival,30,15408
+India,Sri Lanka,e-visa,30,15408
 India,Saint Vincent and the Grenadines,-1,0,15409
 India,Sudan,visa required,0,15410
 India,Suriname,e-visa,90,15411
@@ -15604,7 +15604,7 @@ Indonesia,South Africa,e-visa,0,15602
 Indonesia,South Korea,e-visa,0,15603
 Indonesia,South Sudan,e-visa,0,15604
 Indonesia,Spain,visa required,0,15605
-Indonesia,Sri Lanka,visa on arrival,30,15606
+Indonesia,Sri Lanka,e-visa,30,15606
 Indonesia,Saint Vincent and the Grenadines,-1,0,15607
 Indonesia,Sudan,visa required,0,15608
 Indonesia,Suriname,visa required,90,15609
@@ -28870,7 +28870,7 @@ Russia,South Africa,-1,0,28868
 Russia,South Korea,e-visa,60,28869
 Russia,South Sudan,e-visa,0,28870
 Russia,Spain,visa required,0,28871
-Russia,Sri Lanka,visa on arrival,30,28872
+Russia,Sri Lanka,e-visa,30,28872
 Russia,Saint Vincent and the Grenadines,-1,0,28873
 Russia,Sudan,visa required,0,28874
 Russia,Suriname,visa required,90,28875
@@ -35008,7 +35008,7 @@ Thailand,South Africa,-1,0,35006
 Thailand,South Korea,e-visa,90,35007
 Thailand,South Sudan,e-visa,0,35008
 Thailand,Spain,visa required,0,35009
-Thailand,Sri Lanka,visa on arrival,30,35010
+Thailand,Sri Lanka,e-visa,30,35010
 Thailand,Saint Vincent and the Grenadines,-1,0,35011
 Thailand,Sudan,visa required,0,35012
 Thailand,Suriname,visa required,90,35013

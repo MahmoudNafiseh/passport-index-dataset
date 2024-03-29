@@ -7090,7 +7090,7 @@ CHN,ZAF,e-visa
 CHN,KOR,e-visa
 CHN,SSD,e-visa
 CHN,ESP,visa required
-CHN,LKA,visa on arrival (30)
+CHN,LKA,e-visa (30)
 CHN,VCT,visa required
 CHN,SDN,visa required
 CHN,SUR,-1
@@ -15406,7 +15406,7 @@ IND,ZAF,e-visa
 IND,KOR,e-visa
 IND,SSD,e-visa
 IND,ESP,visa required
-IND,LKA,visa on arrival (30)
+IND,LKA,e-visa (30)
 IND,VCT,-1
 IND,SDN,visa required
 IND,SUR,e-visa (90)
@@ -15604,7 +15604,7 @@ IDN,ZAF,e-visa
 IDN,KOR,e-visa
 IDN,SSD,e-visa
 IDN,ESP,visa required
-IDN,LKA,visa on arrival (30)
+IDN,LKA,e-visa (30)
 IDN,VCT,-1
 IDN,SDN,visa required
 IDN,SUR,visa required (90)
@@ -28870,7 +28870,7 @@ RUS,ZAF,-1
 RUS,KOR,e-visa (60)
 RUS,SSD,e-visa
 RUS,ESP,visa required
-RUS,LKA,visa on arrival (30)
+RUS,LKA,e-visa (30)
 RUS,VCT,-1
 RUS,SDN,visa required
 RUS,SUR,visa required (90)
@@ -35008,7 +35008,7 @@ THA,ZAF,-1
 THA,KOR,e-visa (90)
 THA,SSD,e-visa
 THA,ESP,visa required
-THA,LKA,visa on arrival (30)
+THA,LKA,e-visa (30)
 THA,VCT,-1
 THA,SDN,visa required
 THA,SUR,visa required (90)
