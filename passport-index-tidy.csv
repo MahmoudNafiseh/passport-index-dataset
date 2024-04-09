@@ -26121,7 +26121,7 @@ Norway,Uganda,e-visa,0,26119
 Norway,Ukraine,-1,0,26120
 Norway,United Arab Emirates,-1,0,26121
 Norway,United Kingdom,-1,0,26122
-Norway,United States,e-visa,60,26123
+Norway,United States,e-visa,90,26123
 Norway,Uruguay,-1,0,26124
 Norway,Uzbekistan,-1,0,26125
 Norway,Vanuatu,-1,0,26126
@@ -27009,7 +27009,7 @@ Panama,Ireland,-1,0,27007
 Panama,Israel,-1,0,27008
 Panama,Italy,-1,0,27009
 Panama,Jamaica,-1,0,27010
-Panama,Japan,visa required,0,27011
+Panama,Japan,-1,0,27011
 Panama,Jordan,visa on arrival,0,27012
 Panama,Kazakhstan,e-visa,0,27013
 Panama,Kenya,e-visa,90,27014
@@ -35932,7 +35932,7 @@ Tunisia,Latvia,visa required,0,35930
 Tunisia,Lebanon,visa on arrival,30,35931
 Tunisia,Lesotho,e-visa,14,35932
 Tunisia,Liberia,visa required,0,35933
-Tunisia,Libya,e-visa,0,35934
+Tunisia,Libya,visa free,0,35934
 Tunisia,Liechtenstein,visa required,0,35935
 Tunisia,Lithuania,visa required,0,35936
 Tunisia,Luxembourg,visa required,0,35937

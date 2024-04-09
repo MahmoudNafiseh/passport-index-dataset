@@ -26121,7 +26121,7 @@ NOR,UGA,e-visa
 NOR,UKR,-1
 NOR,ARE,-1
 NOR,GBR,-1
-NOR,USA,e-visa (60)
+NOR,USA,e-visa (90)
 NOR,URY,-1
 NOR,UZB,-1
 NOR,VUT,-1
@@ -27009,7 +27009,7 @@ PAN,IRL,-1
 PAN,ISR,-1
 PAN,ITA,-1
 PAN,JAM,-1
-PAN,JPN,visa required
+PAN,JPN,-1
 PAN,JOR,visa on arrival
 PAN,KAZ,e-visa
 PAN,KEN,e-visa (90)
@@ -35932,7 +35932,7 @@ TUN,LVA,visa required
 TUN,LBN,visa on arrival (30)
 TUN,LSO,e-visa (14)
 TUN,LBR,visa required
-TUN,LBY,e-visa
+TUN,LBY,visa free
 TUN,LIE,visa required
 TUN,LTU,visa required
 TUN,LUX,visa required
