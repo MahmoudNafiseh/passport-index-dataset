@@ -1605,7 +1605,7 @@ Australia,Bhutan,e-visa,0,1603
 Australia,Bolivia,-1,0,1604
 Australia,Bosnia and Herzegovina,-1,0,1605
 Australia,Botswana,-1,0,1606
-Australia,Brazil,e-visa,0,1607
+Australia,Brazil,-1,0,1607
 Australia,Brunei,visa on arrival,30,1608
 Australia,Bulgaria,-1,0,1609
 Australia,Burkina Faso,visa on arrival,90,1610
@@ -5961,7 +5961,7 @@ Canada,Bhutan,e-visa,0,5959
 Canada,Bolivia,-1,0,5960
 Canada,Bosnia and Herzegovina,-1,0,5961
 Canada,Botswana,-1,0,5962
-Canada,Brazil,e-visa,0,5963
+Canada,Brazil,-1,0,5963
 Canada,Brunei,-1,0,5964
 Canada,Bulgaria,-1,0,5965
 Canada,Burkina Faso,visa on arrival,90,5966
@@ -37443,7 +37443,7 @@ United States,Bhutan,e-visa,0,37441
 United States,Bolivia,visa on arrival,30,37442
 United States,Bosnia and Herzegovina,-1,0,37443
 United States,Botswana,-1,0,37444
-United States,Brazil,e-visa,0,37445
+United States,Brazil,-1,0,37445
 United States,Brunei,-1,0,37446
 United States,Bulgaria,-1,0,37447
 United States,Burkina Faso,visa on arrival,90,37448
