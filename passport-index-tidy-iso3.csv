@@ -12507,7 +12507,7 @@ GEO,CPV,visa on arrival
 GEO,CAF,visa required
 GEO,TCD,visa required
 GEO,CHL,-1
-GEO,CHN,-1
+GEO,CHN,visa required
 GEO,COL,-1
 GEO,COM,visa on arrival (45)
 GEO,COG,visa required
