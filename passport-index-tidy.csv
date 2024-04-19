@@ -185,7 +185,7 @@ Afghanistan,United Arab Emirates,visa required,0,183
 Afghanistan,United Kingdom,visa required,0,184
 Afghanistan,United States,visa required,0,185
 Afghanistan,Uruguay,visa required,0,186
-Afghanistan,Uzbekistan,e-visa,0,187
+Afghanistan,Uzbekistan,visa required,0,187
 Afghanistan,Vanuatu,visa required,0,188
 Afghanistan,Vatican,visa required,0,189
 Afghanistan,Venezuela,visa required,0,190
@@ -3749,7 +3749,7 @@ Benin,United Arab Emirates,visa required,0,3747
 Benin,United Kingdom,visa required,0,3748
 Benin,United States,visa required,0,3749
 Benin,Uruguay,visa required,0,3750
-Benin,Uzbekistan,e-visa,0,3751
+Benin,Uzbekistan,visa required,0,3751
 Benin,Vanuatu,visa required,0,3752
 Benin,Vatican,visa required,0,3753
 Benin,Venezuela,visa required,0,3754
@@ -3947,7 +3947,7 @@ Bhutan,United Arab Emirates,visa required,0,3945
 Bhutan,United Kingdom,visa required,0,3946
 Bhutan,United States,visa required,0,3947
 Bhutan,Uruguay,visa required,0,3948
-Bhutan,Uzbekistan,e-visa,0,3949
+Bhutan,Uzbekistan,visa required,0,3949
 Bhutan,Vanuatu,visa required,0,3950
 Bhutan,Vatican,visa required,0,3951
 Bhutan,Venezuela,visa required,0,3952
@@ -4541,7 +4541,7 @@ Botswana,United Arab Emirates,visa required,0,4539
 Botswana,United Kingdom,-1,0,4540
 Botswana,United States,visa required,0,4541
 Botswana,Uruguay,visa required,0,4542
-Botswana,Uzbekistan,e-visa,0,4543
+Botswana,Uzbekistan,visa required,0,4543
 Botswana,Vanuatu,-1,0,4544
 Botswana,Vatican,visa required,0,4545
 Botswana,Venezuela,visa required,0,4546
@@ -5333,7 +5333,7 @@ Burkina Faso,United Arab Emirates,visa required,0,5331
 Burkina Faso,United Kingdom,visa required,0,5332
 Burkina Faso,United States,visa required,0,5333
 Burkina Faso,Uruguay,visa required,0,5334
-Burkina Faso,Uzbekistan,e-visa,0,5335
+Burkina Faso,Uzbekistan,visa required,0,5335
 Burkina Faso,Vanuatu,visa required,0,5336
 Burkina Faso,Vatican,visa required,0,5337
 Burkina Faso,Venezuela,visa required,0,5338
@@ -5531,7 +5531,7 @@ Burundi,United Arab Emirates,visa required,0,5529
 Burundi,United Kingdom,visa required,0,5530
 Burundi,United States,visa required,0,5531
 Burundi,Uruguay,visa required,0,5532
-Burundi,Uzbekistan,e-visa,0,5533
+Burundi,Uzbekistan,visa required,0,5533
 Burundi,Vanuatu,visa required,0,5534
 Burundi,Vatican,visa required,0,5535
 Burundi,Venezuela,visa required,0,5536
@@ -5902,7 +5902,7 @@ Cameroon,South Africa,e-visa,0,5900
 Cameroon,South Korea,e-visa,0,5901
 Cameroon,South Sudan,e-visa,0,5902
 Cameroon,Spain,visa required,0,5903
-Cameroon,Sri Lanka,e-visa,30,5904
+Cameroon,Sri Lanka,visa required,0,5904
 Cameroon,Saint Vincent and the Grenadines,-1,0,5905
 Cameroon,Sudan,visa required,0,5906
 Cameroon,Suriname,e-visa,90,5907
@@ -6521,7 +6521,7 @@ Central African Republic,United Arab Emirates,visa required,0,6519
 Central African Republic,United Kingdom,visa required,0,6520
 Central African Republic,United States,visa required,0,6521
 Central African Republic,Uruguay,visa required,0,6522
-Central African Republic,Uzbekistan,e-visa,0,6523
+Central African Republic,Uzbekistan,visa required,0,6523
 Central African Republic,Vanuatu,visa required,0,6524
 Central African Republic,Vatican,visa required,0,6525
 Central African Republic,Venezuela,visa required,0,6526
@@ -6719,7 +6719,7 @@ Chad,United Arab Emirates,visa required,0,6717
 Chad,United Kingdom,visa required,0,6718
 Chad,United States,visa required,0,6719
 Chad,Uruguay,visa required,0,6720
-Chad,Uzbekistan,e-visa,0,6721
+Chad,Uzbekistan,visa required,0,6721
 Chad,Vanuatu,visa required,0,6722
 Chad,Vatican,visa required,0,6723
 Chad,Venezuela,visa required,0,6724
@@ -7011,7 +7011,7 @@ China,Ireland,visa required,0,7009
 China,Israel,visa required,0,7010
 China,Italy,visa required,0,7011
 China,Jamaica,-1,0,7012
-China,Japan,visa required,0,7013
+China,Japan,e-visa,0,7013
 China,Jordan,visa on arrival,0,7014
 China,Kazakhstan,-1,0,7015
 China,Kenya,e-visa,90,7016
@@ -7425,7 +7425,7 @@ Comoros,Liechtenstein,visa required,0,7423
 Comoros,Lithuania,visa required,0,7424
 Comoros,Luxembourg,visa required,0,7425
 Comoros,Macao,visa on arrival,30,7426
-Comoros,Madagascar,visa on arrival,30,7427
+Comoros,Madagascar,visa on arrival,90,7427
 Comoros,Malawi,visa on arrival,90,7428
 Comoros,Malaysia,-1,0,7429
 Comoros,Maldives,visa on arrival,30,7430
@@ -7511,7 +7511,7 @@ Comoros,United Arab Emirates,visa required,0,7509
 Comoros,United Kingdom,visa required,0,7510
 Comoros,United States,visa required,0,7511
 Comoros,Uruguay,visa required,0,7512
-Comoros,Uzbekistan,e-visa,0,7513
+Comoros,Uzbekistan,visa required,0,7513
 Comoros,Vanuatu,visa required,0,7514
 Comoros,Vatican,visa required,0,7515
 Comoros,Venezuela,visa required,0,7516
@@ -7709,7 +7709,7 @@ Congo,United Arab Emirates,visa required,0,7707
 Congo,United Kingdom,visa required,0,7708
 Congo,United States,visa required,0,7709
 Congo,Uruguay,visa required,0,7710
-Congo,Uzbekistan,e-visa,0,7711
+Congo,Uzbekistan,visa required,0,7711
 Congo,Vanuatu,visa required,0,7712
 Congo,Vatican,visa required,0,7713
 Congo,Venezuela,visa required,0,7714
@@ -7907,7 +7907,7 @@ DR Congo,United Arab Emirates,visa required,0,7905
 DR Congo,United Kingdom,visa required,0,7906
 DR Congo,United States,visa required,0,7907
 DR Congo,Uruguay,visa required,0,7908
-DR Congo,Uzbekistan,e-visa,0,7909
+DR Congo,Uzbekistan,visa required,0,7909
 DR Congo,Vanuatu,visa required,0,7910
 DR Congo,Vatican,visa required,0,7911
 DR Congo,Venezuela,visa required,0,7912
@@ -8278,7 +8278,7 @@ Ivory Coast,South Africa,e-visa,0,8276
 Ivory Coast,South Korea,visa required,0,8277
 Ivory Coast,South Sudan,e-visa,0,8278
 Ivory Coast,Spain,visa required,0,8279
-Ivory Coast,Sri Lanka,e-visa,30,8280
+Ivory Coast,Sri Lanka,visa required,0,8280
 Ivory Coast,Saint Vincent and the Grenadines,-1,0,8281
 Ivory Coast,Sudan,visa required,0,8282
 Ivory Coast,Suriname,visa required,90,8283
@@ -9070,7 +9070,7 @@ Czech Republic,South Africa,-1,0,9068
 Czech Republic,South Korea,-1,0,9069
 Czech Republic,South Sudan,e-visa,0,9070
 Czech Republic,Spain,visa free,0,9071
-Czech Republic,Sri Lanka,e-visa,30,9072
+Czech Republic,Sri Lanka,-1,0,9072
 Czech Republic,Saint Vincent and the Grenadines,-1,0,9073
 Czech Republic,Sudan,visa required,0,9074
 Czech Republic,Suriname,visa required,90,9075
@@ -9491,7 +9491,7 @@ Djibouti,United Arab Emirates,visa required,0,9489
 Djibouti,United Kingdom,visa required,0,9490
 Djibouti,United States,visa required,0,9491
 Djibouti,Uruguay,visa required,0,9492
-Djibouti,Uzbekistan,e-visa,0,9493
+Djibouti,Uzbekistan,visa required,0,9493
 Djibouti,Vanuatu,visa required,0,9494
 Djibouti,Vatican,visa required,0,9495
 Djibouti,Venezuela,visa required,0,9496
@@ -10679,7 +10679,7 @@ Equatorial Guinea,United Arab Emirates,visa required,0,10677
 Equatorial Guinea,United Kingdom,visa required,0,10678
 Equatorial Guinea,United States,visa required,0,10679
 Equatorial Guinea,Uruguay,visa required,0,10680
-Equatorial Guinea,Uzbekistan,e-visa,0,10681
+Equatorial Guinea,Uzbekistan,visa required,0,10681
 Equatorial Guinea,Vanuatu,visa required,0,10682
 Equatorial Guinea,Vatican,visa required,0,10683
 Equatorial Guinea,Venezuela,visa required,0,10684
@@ -10877,7 +10877,7 @@ Eritrea,United Arab Emirates,visa required,0,10875
 Eritrea,United Kingdom,visa required,0,10876
 Eritrea,United States,visa required,0,10877
 Eritrea,Uruguay,visa required,0,10878
-Eritrea,Uzbekistan,e-visa,0,10879
+Eritrea,Uzbekistan,visa required,0,10879
 Eritrea,Vanuatu,visa required,0,10880
 Eritrea,Vatican,visa required,0,10881
 Eritrea,Venezuela,visa required,0,10882
@@ -11273,7 +11273,7 @@ Swaziland,United Arab Emirates,visa required,0,11271
 Swaziland,United Kingdom,visa required,0,11272
 Swaziland,United States,visa required,0,11273
 Swaziland,Uruguay,visa required,0,11274
-Swaziland,Uzbekistan,e-visa,0,11275
+Swaziland,Uzbekistan,visa required,0,11275
 Swaziland,Vanuatu,-1,0,11276
 Swaziland,Vatican,visa required,0,11277
 Swaziland,Venezuela,visa required,0,11278
@@ -11471,7 +11471,7 @@ Ethiopia,United Arab Emirates,visa required,0,11469
 Ethiopia,United Kingdom,visa required,0,11470
 Ethiopia,United States,visa required,0,11471
 Ethiopia,Uruguay,visa required,0,11472
-Ethiopia,Uzbekistan,e-visa,0,11473
+Ethiopia,Uzbekistan,visa required,0,11473
 Ethiopia,Vanuatu,visa required,0,11474
 Ethiopia,Vatican,visa required,0,11475
 Ethiopia,Venezuela,visa required,0,11476
@@ -12461,7 +12461,7 @@ Gambia,United Arab Emirates,visa required,0,12459
 Gambia,United Kingdom,visa required,0,12460
 Gambia,United States,visa required,0,12461
 Gambia,Uruguay,visa required,0,12462
-Gambia,Uzbekistan,e-visa,0,12463
+Gambia,Uzbekistan,visa required,0,12463
 Gambia,Vanuatu,-1,0,12464
 Gambia,Vatican,visa required,0,12465
 Gambia,Venezuela,visa required,0,12466
@@ -13847,7 +13847,7 @@ Guinea,United Arab Emirates,visa required,0,13845
 Guinea,United Kingdom,visa required,0,13846
 Guinea,United States,visa required,0,13847
 Guinea,Uruguay,visa required,0,13848
-Guinea,Uzbekistan,e-visa,0,13849
+Guinea,Uzbekistan,visa required,0,13849
 Guinea,Vanuatu,visa required,0,13850
 Guinea,Vatican,visa required,0,13851
 Guinea,Venezuela,visa required,0,13852
@@ -14045,7 +14045,7 @@ Guinea-Bissau,United Arab Emirates,visa required,0,14043
 Guinea-Bissau,United Kingdom,visa required,0,14044
 Guinea-Bissau,United States,visa required,0,14045
 Guinea-Bissau,Uruguay,visa required,0,14046
-Guinea-Bissau,Uzbekistan,e-visa,0,14047
+Guinea-Bissau,Uzbekistan,visa required,0,14047
 Guinea-Bissau,Vanuatu,visa required,0,14048
 Guinea-Bissau,Vatican,visa required,0,14049
 Guinea-Bissau,Venezuela,visa required,0,14050
@@ -14441,7 +14441,7 @@ Haiti,United Arab Emirates,visa required,0,14439
 Haiti,United Kingdom,visa required,0,14440
 Haiti,United States,visa required,0,14441
 Haiti,Uruguay,visa required,0,14442
-Haiti,Uzbekistan,e-visa,0,14443
+Haiti,Uzbekistan,visa required,0,14443
 Haiti,Vanuatu,visa required,0,14444
 Haiti,Vatican,visa required,0,14445
 Haiti,Venezuela,visa required,0,14446
@@ -15327,7 +15327,7 @@ India,Ireland,visa required,0,15325
 India,Israel,visa required,0,15326
 India,Italy,visa required,0,15327
 India,Jamaica,visa free,0,15328
-India,Japan,visa required,0,15329
+India,Japan,e-visa,0,15329
 India,Jordan,visa on arrival,0,15330
 India,Kazakhstan,-1,0,15331
 India,Kenya,e-visa,90,15332
@@ -15827,7 +15827,7 @@ Iran,United Arab Emirates,visa required,0,15825
 Iran,United Kingdom,visa required,0,15826
 Iran,United States,visa required,0,15827
 Iran,Uruguay,visa required,0,15828
-Iran,Uzbekistan,e-visa,0,15829
+Iran,Uzbekistan,visa required,0,15829
 Iran,Vanuatu,visa required,0,15830
 Iran,Vatican,visa required,0,15831
 Iran,Venezuela,-1,0,15832
@@ -16025,7 +16025,7 @@ Iraq,United Arab Emirates,visa required,0,16023
 Iraq,United Kingdom,visa required,0,16024
 Iraq,United States,visa required,0,16025
 Iraq,Uruguay,visa required,0,16026
-Iraq,Uzbekistan,e-visa,0,16027
+Iraq,Uzbekistan,visa required,0,16027
 Iraq,Vanuatu,visa required,0,16028
 Iraq,Vatican,visa required,0,16029
 Iraq,Venezuela,visa required,0,16030
@@ -17609,7 +17609,7 @@ Kenya,United Arab Emirates,visa required,0,17607
 Kenya,United Kingdom,visa required,0,17608
 Kenya,United States,visa required,0,17609
 Kenya,Uruguay,visa required,0,17610
-Kenya,Uzbekistan,e-visa,0,17611
+Kenya,Uzbekistan,visa required,0,17611
 Kenya,Vanuatu,-1,0,17612
 Kenya,Vatican,visa required,0,17613
 Kenya,Venezuela,visa required,0,17614
@@ -17846,7 +17846,7 @@ Kosovo,Brunei,visa required,0,17844
 Kosovo,Bulgaria,-1,0,17845
 Kosovo,Burkina Faso,e-visa,0,17846
 Kosovo,Burundi,visa on arrival,30,17847
-Kosovo,Cambodia,visa on arrival,30,17848
+Kosovo,Cambodia,no admission,0,17848
 Kosovo,Cameroon,e-visa,0,17849
 Kosovo,Canada,visa required,0,17850
 Kosovo,Cape Verde,visa on arrival,0,17851
@@ -17980,7 +17980,7 @@ Kosovo,South Africa,visa required,0,17978
 Kosovo,South Korea,e-visa,0,17979
 Kosovo,South Sudan,e-visa,0,17980
 Kosovo,Spain,-1,0,17981
-Kosovo,Sri Lanka,e-visa,30,17982
+Kosovo,Sri Lanka,visa on arrival,30,17982
 Kosovo,Saint Vincent and the Grenadines,-1,0,17983
 Kosovo,Sudan,visa required,0,17984
 Kosovo,Suriname,visa required,90,17985
@@ -19193,7 +19193,7 @@ Lesotho,United Arab Emirates,visa required,0,19191
 Lesotho,United Kingdom,visa required,0,19192
 Lesotho,United States,visa required,0,19193
 Lesotho,Uruguay,visa required,0,19194
-Lesotho,Uzbekistan,e-visa,0,19195
+Lesotho,Uzbekistan,visa required,0,19195
 Lesotho,Vanuatu,-1,0,19196
 Lesotho,Vatican,visa required,0,19197
 Lesotho,Venezuela,visa required,0,19198
@@ -19391,7 +19391,7 @@ Liberia,United Arab Emirates,visa required,0,19389
 Liberia,United Kingdom,visa required,0,19390
 Liberia,United States,visa required,0,19391
 Liberia,Uruguay,visa required,0,19392
-Liberia,Uzbekistan,e-visa,0,19393
+Liberia,Uzbekistan,visa required,0,19393
 Liberia,Vanuatu,visa required,0,19394
 Liberia,Vatican,visa required,0,19395
 Liberia,Venezuela,visa required,0,19396
@@ -19589,7 +19589,7 @@ Libya,United Arab Emirates,visa required,0,19587
 Libya,United Kingdom,visa required,0,19588
 Libya,United States,visa required,0,19589
 Libya,Uruguay,visa required,0,19590
-Libya,Uzbekistan,e-visa,0,19591
+Libya,Uzbekistan,visa required,0,19591
 Libya,Vanuatu,visa required,0,19592
 Libya,Vatican,visa required,0,19593
 Libya,Venezuela,visa required,0,19594
@@ -20579,7 +20579,7 @@ Madagascar,United Arab Emirates,visa required,0,20577
 Madagascar,United Kingdom,visa required,0,20578
 Madagascar,United States,visa required,0,20579
 Madagascar,Uruguay,visa required,0,20580
-Madagascar,Uzbekistan,e-visa,0,20581
+Madagascar,Uzbekistan,visa required,0,20581
 Madagascar,Vanuatu,visa required,0,20582
 Madagascar,Vatican,visa required,0,20583
 Madagascar,Venezuela,visa required,0,20584
@@ -20777,7 +20777,7 @@ Malawi,United Arab Emirates,visa required,0,20775
 Malawi,United Kingdom,visa required,0,20776
 Malawi,United States,visa required,0,20777
 Malawi,Uruguay,visa required,0,20778
-Malawi,Uzbekistan,e-visa,0,20779
+Malawi,Uzbekistan,visa required,0,20779
 Malawi,Vanuatu,-1,0,20780
 Malawi,Vatican,visa required,0,20781
 Malawi,Venezuela,visa required,0,20782
@@ -21371,7 +21371,7 @@ Mali,United Arab Emirates,visa required,0,21369
 Mali,United Kingdom,visa required,0,21370
 Mali,United States,visa required,0,21371
 Mali,Uruguay,visa required,0,21372
-Mali,Uzbekistan,e-visa,0,21373
+Mali,Uzbekistan,visa required,0,21373
 Mali,Vanuatu,visa required,0,21374
 Mali,Vatican,visa required,0,21375
 Mali,Venezuela,visa required,0,21376
@@ -21965,7 +21965,7 @@ Mauritania,United Arab Emirates,visa required,0,21963
 Mauritania,United Kingdom,visa required,0,21964
 Mauritania,United States,visa required,0,21965
 Mauritania,Uruguay,visa required,0,21966
-Mauritania,Uzbekistan,e-visa,0,21967
+Mauritania,Uzbekistan,visa required,0,21967
 Mauritania,Vanuatu,visa required,0,21968
 Mauritania,Vatican,visa required,0,21969
 Mauritania,Venezuela,visa required,0,21970
@@ -23747,7 +23747,7 @@ Mozambique,United Arab Emirates,visa required,0,23745
 Mozambique,United Kingdom,visa required,0,23746
 Mozambique,United States,visa required,0,23747
 Mozambique,Uruguay,visa required,0,23748
-Mozambique,Uzbekistan,e-visa,0,23749
+Mozambique,Uzbekistan,visa required,0,23749
 Mozambique,Vanuatu,-1,0,23750
 Mozambique,Vatican,visa required,0,23751
 Mozambique,Venezuela,visa required,0,23752
@@ -23945,7 +23945,7 @@ Myanmar,United Arab Emirates,visa required,0,23943
 Myanmar,United Kingdom,visa required,0,23944
 Myanmar,United States,visa required,0,23945
 Myanmar,Uruguay,visa required,0,23946
-Myanmar,Uzbekistan,e-visa,0,23947
+Myanmar,Uzbekistan,visa required,0,23947
 Myanmar,Vanuatu,visa required,0,23948
 Myanmar,Vatican,visa required,0,23949
 Myanmar,Venezuela,visa required,0,23950
@@ -24143,7 +24143,7 @@ Namibia,United Arab Emirates,visa required,0,24141
 Namibia,United Kingdom,visa required,0,24142
 Namibia,United States,visa required,0,24143
 Namibia,Uruguay,visa required,0,24144
-Namibia,Uzbekistan,e-visa,0,24145
+Namibia,Uzbekistan,visa required,0,24145
 Namibia,Vanuatu,-1,0,24146
 Namibia,Vatican,visa required,0,24147
 Namibia,Venezuela,visa required,0,24148
@@ -25331,7 +25331,7 @@ Niger,United Arab Emirates,visa required,0,25329
 Niger,United Kingdom,visa required,0,25330
 Niger,United States,visa required,0,25331
 Niger,Uruguay,visa required,0,25332
-Niger,Uzbekistan,e-visa,0,25333
+Niger,Uzbekistan,visa required,0,25333
 Niger,Vanuatu,visa required,0,25334
 Niger,Vatican,visa required,0,25335
 Niger,Venezuela,visa required,0,25336
@@ -25504,7 +25504,7 @@ Nigeria,South Africa,e-visa,0,25502
 Nigeria,South Korea,e-visa,0,25503
 Nigeria,South Sudan,e-visa,0,25504
 Nigeria,Spain,visa required,0,25505
-Nigeria,Sri Lanka,e-visa,30,25506
+Nigeria,Sri Lanka,visa required,0,25506
 Nigeria,Saint Vincent and the Grenadines,visa required,0,25507
 Nigeria,Sudan,visa required,0,25508
 Nigeria,Suriname,e-visa,90,25509
@@ -25529,7 +25529,7 @@ Nigeria,United Arab Emirates,visa required,0,25527
 Nigeria,United Kingdom,visa required,0,25528
 Nigeria,United States,visa required,0,25529
 Nigeria,Uruguay,visa required,0,25530
-Nigeria,Uzbekistan,e-visa,0,25531
+Nigeria,Uzbekistan,visa required,0,25531
 Nigeria,Vanuatu,-1,0,25532
 Nigeria,Vatican,visa required,0,25533
 Nigeria,Venezuela,visa required,0,25534
@@ -25727,7 +25727,7 @@ North Korea,United Arab Emirates,visa required,0,25725
 North Korea,United Kingdom,visa required,0,25726
 North Korea,United States,visa required,0,25727
 North Korea,Uruguay,visa required,0,25728
-North Korea,Uzbekistan,e-visa,0,25729
+North Korea,Uzbekistan,visa required,0,25729
 North Korea,Vanuatu,visa required,0,25730
 North Korea,Vatican,visa required,0,25731
 North Korea,Venezuela,visa required,0,25732
@@ -26519,7 +26519,7 @@ Pakistan,United Arab Emirates,visa required,0,26517
 Pakistan,United Kingdom,visa required,0,26518
 Pakistan,United States,visa required,0,26519
 Pakistan,Uruguay,visa required,0,26520
-Pakistan,Uzbekistan,e-visa,0,26521
+Pakistan,Uzbekistan,visa required,0,26521
 Pakistan,Vanuatu,-1,0,26522
 Pakistan,Vatican,visa required,0,26523
 Pakistan,Venezuela,visa required,0,26524
@@ -26915,7 +26915,7 @@ Palestine,United Arab Emirates,visa required,0,26913
 Palestine,United Kingdom,visa required,0,26914
 Palestine,United States,visa required,0,26915
 Palestine,Uruguay,visa required,0,26916
-Palestine,Uzbekistan,e-visa,0,26917
+Palestine,Uzbekistan,visa required,0,26917
 Palestine,Vanuatu,visa required,0,26918
 Palestine,Vatican,visa required,0,26919
 Palestine,Venezuela,-1,0,26920
@@ -27311,7 +27311,7 @@ Papua New Guinea,United Arab Emirates,visa required,0,27309
 Papua New Guinea,United Kingdom,-1,0,27310
 Papua New Guinea,United States,visa required,0,27311
 Papua New Guinea,Uruguay,visa required,0,27312
-Papua New Guinea,Uzbekistan,e-visa,0,27313
+Papua New Guinea,Uzbekistan,visa required,0,27313
 Papua New Guinea,Vanuatu,-1,0,27314
 Papua New Guinea,Vatican,visa required,0,27315
 Papua New Guinea,Venezuela,visa required,0,27316
@@ -29093,7 +29093,7 @@ Rwanda,United Arab Emirates,visa required,0,29091
 Rwanda,United Kingdom,visa required,0,29092
 Rwanda,United States,visa required,0,29093
 Rwanda,Uruguay,visa required,0,29094
-Rwanda,Uzbekistan,e-visa,0,29095
+Rwanda,Uzbekistan,visa required,0,29095
 Rwanda,Vanuatu,-1,0,29096
 Rwanda,Vatican,visa required,0,29097
 Rwanda,Venezuela,visa required,0,29098
@@ -30083,7 +30083,7 @@ Sao Tome and Principe,United Arab Emirates,visa required,0,30081
 Sao Tome and Principe,United Kingdom,visa required,0,30082
 Sao Tome and Principe,United States,visa required,0,30083
 Sao Tome and Principe,Uruguay,visa required,0,30084
-Sao Tome and Principe,Uzbekistan,e-visa,0,30085
+Sao Tome and Principe,Uzbekistan,visa required,0,30085
 Sao Tome and Principe,Vanuatu,visa required,0,30086
 Sao Tome and Principe,Vatican,visa required,0,30087
 Sao Tome and Principe,Venezuela,visa required,0,30088
@@ -30850,7 +30850,7 @@ Seychelles,South Africa,-1,0,30848
 Seychelles,South Korea,e-visa,30,30849
 Seychelles,South Sudan,e-visa,0,30850
 Seychelles,Spain,-1,0,30851
-Seychelles,Sri Lanka,e-visa,30,30852
+Seychelles,Sri Lanka,-1,0,30852
 Seychelles,Saint Vincent and the Grenadines,-1,0,30853
 Seychelles,Sudan,visa required,0,30854
 Seychelles,Suriname,visa required,90,30855
@@ -31073,7 +31073,7 @@ Sierra Leone,United Arab Emirates,visa required,0,31071
 Sierra Leone,United Kingdom,visa required,0,31072
 Sierra Leone,United States,visa required,0,31073
 Sierra Leone,Uruguay,visa required,0,31074
-Sierra Leone,Uzbekistan,e-visa,0,31075
+Sierra Leone,Uzbekistan,visa required,0,31075
 Sierra Leone,Vanuatu,-1,0,31076
 Sierra Leone,Vatican,visa required,0,31077
 Sierra Leone,Venezuela,visa required,0,31078
@@ -31246,7 +31246,7 @@ Singapore,South Africa,-1,0,31244
 Singapore,South Korea,-1,0,31245
 Singapore,South Sudan,e-visa,0,31246
 Singapore,Spain,-1,0,31247
-Singapore,Sri Lanka,e-visa,30,31248
+Singapore,Sri Lanka,-1,0,31248
 Singapore,Saint Vincent and the Grenadines,-1,0,31249
 Singapore,Sudan,visa required,0,31250
 Singapore,Suriname,visa required,90,31251
@@ -32063,7 +32063,7 @@ Somalia,United Arab Emirates,visa required,0,32061
 Somalia,United Kingdom,visa required,0,32062
 Somalia,United States,visa required,0,32063
 Somalia,Uruguay,visa required,0,32064
-Somalia,Uzbekistan,e-visa,0,32065
+Somalia,Uzbekistan,visa required,0,32065
 Somalia,Vanuatu,visa required,0,32066
 Somalia,Vatican,visa required,0,32067
 Somalia,Venezuela,visa required,0,32068
@@ -32261,7 +32261,7 @@ South Africa,United Arab Emirates,visa required,0,32259
 South Africa,United Kingdom,visa required,0,32260
 South Africa,United States,visa required,0,32261
 South Africa,Uruguay,-1,0,32262
-South Africa,Uzbekistan,e-visa,0,32263
+South Africa,Uzbekistan,visa required,0,32263
 South Africa,Vanuatu,-1,0,32264
 South Africa,Vatican,visa required,0,32265
 South Africa,Venezuela,-1,0,32266
@@ -32657,7 +32657,7 @@ South Sudan,United Arab Emirates,visa required,0,32655
 South Sudan,United Kingdom,visa required,0,32656
 South Sudan,United States,visa required,0,32657
 South Sudan,Uruguay,visa required,0,32658
-South Sudan,Uzbekistan,e-visa,0,32659
+South Sudan,Uzbekistan,visa required,0,32659
 South Sudan,Vanuatu,visa required,0,32660
 South Sudan,Vatican,visa required,0,32661
 South Sudan,Venezuela,visa required,0,32662
@@ -33449,7 +33449,7 @@ Sudan,United Arab Emirates,visa required,0,33447
 Sudan,United Kingdom,visa required,0,33448
 Sudan,United States,visa required,0,33449
 Sudan,Uruguay,visa required,0,33450
-Sudan,Uzbekistan,e-visa,0,33451
+Sudan,Uzbekistan,visa required,0,33451
 Sudan,Vanuatu,visa required,0,33452
 Sudan,Vatican,visa required,0,33453
 Sudan,Venezuela,visa required,0,33454
@@ -34241,7 +34241,7 @@ Syria,United Arab Emirates,visa required,0,34239
 Syria,United Kingdom,visa required,0,34240
 Syria,United States,visa required,0,34241
 Syria,Uruguay,visa required,0,34242
-Syria,Uzbekistan,e-visa,0,34243
+Syria,Uzbekistan,visa required,0,34243
 Syria,Vanuatu,visa required,0,34244
 Syria,Vatican,visa required,0,34245
 Syria,Venezuela,visa required,0,34246
@@ -34439,7 +34439,7 @@ Taiwan,United Arab Emirates,visa required,0,34437
 Taiwan,United Kingdom,-1,0,34438
 Taiwan,United States,e-visa,90,34439
 Taiwan,Uruguay,visa required,0,34440
-Taiwan,Uzbekistan,e-visa,0,34441
+Taiwan,Uzbekistan,visa required,0,34441
 Taiwan,Vanuatu,-1,0,34442
 Taiwan,Vatican,-1,0,34443
 Taiwan,Venezuela,visa required,0,34444
@@ -34835,7 +34835,7 @@ Tanzania,United Arab Emirates,visa required,0,34833
 Tanzania,United Kingdom,visa required,0,34834
 Tanzania,United States,visa required,0,34835
 Tanzania,Uruguay,visa required,0,34836
-Tanzania,Uzbekistan,e-visa,0,34837
+Tanzania,Uzbekistan,visa required,0,34837
 Tanzania,Vanuatu,-1,0,34838
 Tanzania,Vatican,visa required,0,34839
 Tanzania,Venezuela,visa required,0,34840
@@ -35231,7 +35231,7 @@ Timor-Leste,United Arab Emirates,visa required,0,35229
 Timor-Leste,United Kingdom,visa required,0,35230
 Timor-Leste,United States,visa required,0,35231
 Timor-Leste,Uruguay,visa required,0,35232
-Timor-Leste,Uzbekistan,e-visa,0,35233
+Timor-Leste,Uzbekistan,visa required,0,35233
 Timor-Leste,Vanuatu,visa required,0,35234
 Timor-Leste,Vatican,-1,0,35235
 Timor-Leste,Venezuela,visa required,0,35236
@@ -35429,7 +35429,7 @@ Togo,United Arab Emirates,visa required,0,35427
 Togo,United Kingdom,visa required,0,35428
 Togo,United States,visa required,0,35429
 Togo,Uruguay,visa required,0,35430
-Togo,Uzbekistan,e-visa,0,35431
+Togo,Uzbekistan,visa required,0,35431
 Togo,Vanuatu,visa required,0,35432
 Togo,Vatican,visa required,0,35433
 Togo,Venezuela,visa required,0,35434
@@ -36419,7 +36419,7 @@ Turkmenistan,United Arab Emirates,visa required,0,36417
 Turkmenistan,United Kingdom,visa required,0,36418
 Turkmenistan,United States,visa required,0,36419
 Turkmenistan,Uruguay,visa required,0,36420
-Turkmenistan,Uzbekistan,e-visa,0,36421
+Turkmenistan,Uzbekistan,visa required,0,36421
 Turkmenistan,Vanuatu,visa required,0,36422
 Turkmenistan,Vatican,visa required,0,36423
 Turkmenistan,Venezuela,visa required,0,36424
@@ -36617,7 +36617,7 @@ Tuvalu,United Arab Emirates,visa required,0,36615
 Tuvalu,United Kingdom,-1,0,36616
 Tuvalu,United States,visa required,0,36617
 Tuvalu,Uruguay,visa required,0,36618
-Tuvalu,Uzbekistan,e-visa,0,36619
+Tuvalu,Uzbekistan,visa required,0,36619
 Tuvalu,Vanuatu,-1,0,36620
 Tuvalu,Vatican,-1,0,36621
 Tuvalu,Venezuela,visa required,0,36622
@@ -36815,7 +36815,7 @@ Uganda,United Arab Emirates,visa required,0,36813
 Uganda,United Kingdom,visa required,0,36814
 Uganda,United States,visa required,0,36815
 Uganda,Uruguay,visa required,0,36816
-Uganda,Uzbekistan,e-visa,0,36817
+Uganda,Uzbekistan,visa required,0,36817
 Uganda,Vanuatu,-1,0,36818
 Uganda,Vatican,visa required,0,36819
 Uganda,Venezuela,visa required,0,36820
@@ -38691,7 +38691,7 @@ Vietnam,Ireland,visa required,0,38689
 Vietnam,Israel,visa required,0,38690
 Vietnam,Italy,visa required,0,38691
 Vietnam,Jamaica,visa required,0,38692
-Vietnam,Japan,visa required,0,38693
+Vietnam,Japan,e-visa,0,38693
 Vietnam,Jordan,visa required,0,38694
 Vietnam,Kazakhstan,-1,0,38695
 Vietnam,Kenya,e-visa,90,38696
@@ -38993,7 +38993,7 @@ Yemen,United Arab Emirates,visa required,0,38991
 Yemen,United Kingdom,visa required,0,38992
 Yemen,United States,visa required,0,38993
 Yemen,Uruguay,visa required,0,38994
-Yemen,Uzbekistan,e-visa,0,38995
+Yemen,Uzbekistan,visa required,0,38995
 Yemen,Vanuatu,visa required,0,38996
 Yemen,Vatican,visa required,0,38997
 Yemen,Venezuela,visa required,0,38998
@@ -39191,7 +39191,7 @@ Zambia,United Arab Emirates,visa required,0,39189
 Zambia,United Kingdom,visa required,0,39190
 Zambia,United States,visa required,0,39191
 Zambia,Uruguay,visa required,0,39192
-Zambia,Uzbekistan,e-visa,0,39193
+Zambia,Uzbekistan,visa required,0,39193
 Zambia,Vanuatu,-1,0,39194
 Zambia,Vatican,visa required,0,39195
 Zambia,Venezuela,visa required,0,39196
@@ -39389,7 +39389,7 @@ Zimbabwe,United Arab Emirates,visa required,0,39387
 Zimbabwe,United Kingdom,visa required,0,39388
 Zimbabwe,United States,visa required,0,39389
 Zimbabwe,Uruguay,visa required,0,39390
-Zimbabwe,Uzbekistan,e-visa,0,39391
+Zimbabwe,Uzbekistan,visa required,0,39391
 Zimbabwe,Vanuatu,-1,0,39392
 Zimbabwe,Vatican,visa required,0,39393
 Zimbabwe,Venezuela,visa required,0,39394

@@ -1,1 +1,70 @@
 Passport,Destination,Requirement,duration,passport-id
+Afghanistan,Uzbekistan,visa required,0,187
+Benin,Uzbekistan,visa required,0,3751
+Bhutan,Uzbekistan,visa required,0,3949
+Botswana,Uzbekistan,visa required,0,4543
+Burkina Faso,Uzbekistan,visa required,0,5335
+Burundi,Uzbekistan,visa required,0,5533
+Cameroon,Sri Lanka,visa required,0,5904
+Central African Republic,Uzbekistan,visa required,0,6523
+Chad,Uzbekistan,visa required,0,6721
+China,Japan,e-visa,0,7013
+Comoros,Madagascar,visa on arrival,90,7427
+Comoros,Uzbekistan,visa required,0,7513
+Congo,Uzbekistan,visa required,0,7711
+Czech Republic,Sri Lanka,-1,0,9072
+DR Congo,Uzbekistan,visa required,0,7909
+Djibouti,Uzbekistan,visa required,0,9493
+Equatorial Guinea,Uzbekistan,visa required,0,10681
+Eritrea,Uzbekistan,visa required,0,10879
+Ethiopia,Uzbekistan,visa required,0,11473
+Gambia,Uzbekistan,visa required,0,12463
+Guinea,Uzbekistan,visa required,0,13849
+Guinea-Bissau,Uzbekistan,visa required,0,14047
+Haiti,Uzbekistan,visa required,0,14443
+India,Japan,e-visa,0,15329
+Iran,Uzbekistan,visa required,0,15829
+Iraq,Uzbekistan,visa required,0,16027
+Ivory Coast,Sri Lanka,visa required,0,8280
+Kenya,Uzbekistan,visa required,0,17611
+Kosovo,Cambodia,no admission,0,17848
+Kosovo,Sri Lanka,visa on arrival,30,17982
+Lesotho,Uzbekistan,visa required,0,19195
+Liberia,Uzbekistan,visa required,0,19393
+Libya,Uzbekistan,visa required,0,19591
+Madagascar,Uzbekistan,visa required,0,20581
+Malawi,Uzbekistan,visa required,0,20779
+Mali,Uzbekistan,visa required,0,21373
+Mauritania,Uzbekistan,visa required,0,21967
+Mozambique,Uzbekistan,visa required,0,23749
+Myanmar,Uzbekistan,visa required,0,23947
+Namibia,Uzbekistan,visa required,0,24145
+Niger,Uzbekistan,visa required,0,25333
+Nigeria,Sri Lanka,visa required,0,25506
+Nigeria,Uzbekistan,visa required,0,25531
+North Korea,Uzbekistan,visa required,0,25729
+Pakistan,Uzbekistan,visa required,0,26521
+Palestine,Uzbekistan,visa required,0,26917
+Papua New Guinea,Uzbekistan,visa required,0,27313
+Rwanda,Uzbekistan,visa required,0,29095
+Sao Tome and Principe,Uzbekistan,visa required,0,30085
+Seychelles,Sri Lanka,-1,0,30852
+Sierra Leone,Uzbekistan,visa required,0,31075
+Singapore,Sri Lanka,-1,0,31248
+Somalia,Uzbekistan,visa required,0,32065
+South Africa,Uzbekistan,visa required,0,32263
+South Sudan,Uzbekistan,visa required,0,32659
+Sudan,Uzbekistan,visa required,0,33451
+Swaziland,Uzbekistan,visa required,0,11275
+Syria,Uzbekistan,visa required,0,34243
+Taiwan,Uzbekistan,visa required,0,34441
+Tanzania,Uzbekistan,visa required,0,34837
+Timor-Leste,Uzbekistan,visa required,0,35233
+Togo,Uzbekistan,visa required,0,35431
+Turkmenistan,Uzbekistan,visa required,0,36421
+Tuvalu,Uzbekistan,visa required,0,36619
+Uganda,Uzbekistan,visa required,0,36817
+Vietnam,Japan,e-visa,0,38693
+Yemen,Uzbekistan,visa required,0,38995
+Zambia,Uzbekistan,visa required,0,39193
+Zimbabwe,Uzbekistan,visa required,0,39391
