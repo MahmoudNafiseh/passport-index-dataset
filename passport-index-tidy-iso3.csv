@@ -34630,7 +34630,7 @@ TJK,TTO,visa required
 TJK,TUN,visa required
 TJK,TKM,visa required
 TJK,TUV,visa on arrival (30)
-TJK,TUR,-1
+TJK,TUR,visa required
 TJK,UGA,e-visa
 TJK,UKR,-1
 TJK,ARE,visa required
@@ -36204,7 +36204,7 @@ TUR,SWE,visa required
 TUR,CHE,visa required
 TUR,SYR,visa required
 TUR,TWN,visa on arrival (30)
-TUR,TJK,-1
+TUR,TJK,e-visa
 TUR,TZA,visa on arrival
 TUR,THA,-1
 TUR,TLS,visa on arrival (30)
