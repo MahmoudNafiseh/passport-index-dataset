@@ -36001,7 +36001,7 @@ TUN,ESP,visa required
 TUN,LKA,e-visa (30)
 TUN,VCT,-1
 TUN,SDN,visa required
-TUN,SUR,e-visa (90)
+TUN,SUR,-1
 TUN,SWE,visa required
 TUN,CHE,visa required
 TUN,SYR,visa free
