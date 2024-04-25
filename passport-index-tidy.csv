@@ -81,7 +81,7 @@ Afghanistan,Ireland,visa required,0,79
 Afghanistan,Israel,visa required,0,80
 Afghanistan,Italy,visa required,0,81
 Afghanistan,Jamaica,visa required,0,82
-Afghanistan,Japan,visa required,0,83
+Afghanistan,Japan,e-visa,0,83
 Afghanistan,Jordan,visa required,0,84
 Afghanistan,Kazakhstan,visa required,0,85
 Afghanistan,Kenya,e-visa,90,86
@@ -279,7 +279,7 @@ Albania,Ireland,visa required,0,277
 Albania,Israel,-1,0,278
 Albania,Italy,-1,0,279
 Albania,Jamaica,visa on arrival,30,280
-Albania,Japan,visa required,0,281
+Albania,Japan,e-visa,0,281
 Albania,Jordan,visa on arrival,0,282
 Albania,Kazakhstan,-1,0,283
 Albania,Kenya,e-visa,90,284
@@ -477,7 +477,7 @@ Algeria,Ireland,visa required,0,475
 Algeria,Israel,visa required,0,476
 Algeria,Italy,visa required,0,477
 Algeria,Jamaica,visa required,0,478
-Algeria,Japan,visa required,0,479
+Algeria,Japan,e-visa,0,479
 Algeria,Jordan,visa on arrival,30,480
 Algeria,Kazakhstan,e-visa,0,481
 Algeria,Kenya,e-visa,90,482
@@ -873,7 +873,7 @@ Angola,Ireland,visa required,0,871
 Angola,Israel,visa required,0,872
 Angola,Italy,visa required,0,873
 Angola,Jamaica,visa required,0,874
-Angola,Japan,visa required,0,875
+Angola,Japan,e-visa,0,875
 Angola,Jordan,visa required,0,876
 Angola,Kazakhstan,e-visa,0,877
 Angola,Kenya,e-visa,90,878
@@ -1071,7 +1071,7 @@ Antigua and Barbuda,Ireland,-1,0,1069
 Antigua and Barbuda,Israel,visa required,0,1070
 Antigua and Barbuda,Italy,-1,0,1071
 Antigua and Barbuda,Jamaica,visa free,0,1072
-Antigua and Barbuda,Japan,visa required,0,1073
+Antigua and Barbuda,Japan,e-visa,0,1073
 Antigua and Barbuda,Jordan,visa on arrival,0,1074
 Antigua and Barbuda,Kazakhstan,e-visa,0,1075
 Antigua and Barbuda,Kenya,e-visa,90,1076
@@ -1467,7 +1467,7 @@ Armenia,Ireland,visa required,0,1465
 Armenia,Israel,visa required,0,1466
 Armenia,Italy,visa required,0,1467
 Armenia,Jamaica,visa on arrival,30,1468
-Armenia,Japan,visa required,0,1469
+Armenia,Japan,e-visa,0,1469
 Armenia,Jordan,visa on arrival,0,1470
 Armenia,Kazakhstan,-1,0,1471
 Armenia,Kenya,e-visa,90,1472
@@ -2061,7 +2061,7 @@ Azerbaijan,Ireland,visa required,0,2059
 Azerbaijan,Israel,visa required,0,2060
 Azerbaijan,Italy,visa required,0,2061
 Azerbaijan,Jamaica,visa on arrival,30,2062
-Azerbaijan,Japan,visa required,0,2063
+Azerbaijan,Japan,e-visa,0,2063
 Azerbaijan,Jordan,visa on arrival,0,2064
 Azerbaijan,Kazakhstan,-1,0,2065
 Azerbaijan,Kenya,e-visa,90,2066
@@ -2457,7 +2457,7 @@ Bahrain,Ireland,visa required,0,2455
 Bahrain,Israel,visa required,0,2456
 Bahrain,Italy,visa required,0,2457
 Bahrain,Jamaica,visa required,0,2458
-Bahrain,Japan,visa required,0,2459
+Bahrain,Japan,e-visa,0,2459
 Bahrain,Jordan,-1,0,2460
 Bahrain,Kazakhstan,-1,0,2461
 Bahrain,Kenya,e-visa,90,2462
@@ -2655,7 +2655,7 @@ Bangladesh,Ireland,visa required,0,2653
 Bangladesh,Israel,visa required,0,2654
 Bangladesh,Italy,visa required,0,2655
 Bangladesh,Jamaica,visa free,0,2656
-Bangladesh,Japan,visa required,0,2657
+Bangladesh,Japan,e-visa,0,2657
 Bangladesh,Jordan,visa required,0,2658
 Bangladesh,Kazakhstan,e-visa,0,2659
 Bangladesh,Kenya,e-visa,90,2660
@@ -3051,7 +3051,7 @@ Belarus,Ireland,visa required,0,3049
 Belarus,Israel,-1,0,3050
 Belarus,Italy,visa required,0,3051
 Belarus,Jamaica,visa on arrival,30,3052
-Belarus,Japan,visa required,0,3053
+Belarus,Japan,e-visa,0,3053
 Belarus,Jordan,visa on arrival,0,3054
 Belarus,Kazakhstan,-1,0,3055
 Belarus,Kenya,e-visa,90,3056
@@ -3447,7 +3447,7 @@ Belize,Ireland,-1,0,3445
 Belize,Israel,-1,0,3446
 Belize,Italy,visa required,0,3447
 Belize,Jamaica,visa free,0,3448
-Belize,Japan,visa required,0,3449
+Belize,Japan,e-visa,0,3449
 Belize,Jordan,visa required,0,3450
 Belize,Kazakhstan,e-visa,0,3451
 Belize,Kenya,e-visa,90,3452
@@ -3645,7 +3645,7 @@ Benin,Ireland,visa required,0,3643
 Benin,Israel,visa required,0,3644
 Benin,Italy,visa required,0,3645
 Benin,Jamaica,visa required,0,3646
-Benin,Japan,visa required,0,3647
+Benin,Japan,e-visa,0,3647
 Benin,Jordan,visa required,0,3648
 Benin,Kazakhstan,e-visa,0,3649
 Benin,Kenya,e-visa,90,3650
@@ -3843,7 +3843,7 @@ Bhutan,Ireland,visa required,0,3841
 Bhutan,Israel,visa required,0,3842
 Bhutan,Italy,visa required,0,3843
 Bhutan,Jamaica,visa required,0,3844
-Bhutan,Japan,visa required,0,3845
+Bhutan,Japan,e-visa,0,3845
 Bhutan,Jordan,visa on arrival,0,3846
 Bhutan,Kazakhstan,e-visa,0,3847
 Bhutan,Kenya,e-visa,90,3848
@@ -4041,7 +4041,7 @@ Bolivia,Ireland,visa required,0,4039
 Bolivia,Israel,visa required,0,4040
 Bolivia,Italy,visa required,0,4041
 Bolivia,Jamaica,-1,0,4042
-Bolivia,Japan,visa required,0,4043
+Bolivia,Japan,e-visa,0,4043
 Bolivia,Jordan,visa on arrival,0,4044
 Bolivia,Kazakhstan,e-visa,0,4045
 Bolivia,Kenya,e-visa,90,4046
@@ -4239,7 +4239,7 @@ Bosnia and Herzegovina,Ireland,visa required,0,4237
 Bosnia and Herzegovina,Israel,visa required,0,4238
 Bosnia and Herzegovina,Italy,-1,0,4239
 Bosnia and Herzegovina,Jamaica,visa on arrival,30,4240
-Bosnia and Herzegovina,Japan,visa required,0,4241
+Bosnia and Herzegovina,Japan,e-visa,0,4241
 Bosnia and Herzegovina,Jordan,visa on arrival,0,4242
 Bosnia and Herzegovina,Kazakhstan,e-visa,0,4243
 Bosnia and Herzegovina,Kenya,e-visa,90,4244
@@ -4437,7 +4437,7 @@ Botswana,Ireland,-1,0,4435
 Botswana,Israel,-1,0,4436
 Botswana,Italy,visa required,0,4437
 Botswana,Jamaica,visa free,0,4438
-Botswana,Japan,visa required,0,4439
+Botswana,Japan,e-visa,0,4439
 Botswana,Jordan,visa required,0,4440
 Botswana,Kazakhstan,e-visa,0,4441
 Botswana,Kenya,e-visa,90,4442
@@ -5229,7 +5229,7 @@ Burkina Faso,Ireland,visa required,0,5227
 Burkina Faso,Israel,visa required,0,5228
 Burkina Faso,Italy,visa required,0,5229
 Burkina Faso,Jamaica,visa required,0,5230
-Burkina Faso,Japan,visa required,0,5231
+Burkina Faso,Japan,e-visa,0,5231
 Burkina Faso,Jordan,visa required,0,5232
 Burkina Faso,Kazakhstan,e-visa,0,5233
 Burkina Faso,Kenya,e-visa,90,5234
@@ -5427,7 +5427,7 @@ Burundi,Ireland,visa required,0,5425
 Burundi,Israel,visa required,0,5426
 Burundi,Italy,visa required,0,5427
 Burundi,Jamaica,visa required,0,5428
-Burundi,Japan,visa required,0,5429
+Burundi,Japan,e-visa,0,5429
 Burundi,Jordan,visa required,0,5430
 Burundi,Kazakhstan,e-visa,0,5431
 Burundi,Kenya,visa free,0,5432
@@ -5823,7 +5823,7 @@ Cameroon,Ireland,visa required,0,5821
 Cameroon,Israel,visa required,0,5822
 Cameroon,Italy,visa required,0,5823
 Cameroon,Jamaica,visa required,0,5824
-Cameroon,Japan,visa required,0,5825
+Cameroon,Japan,e-visa,0,5825
 Cameroon,Jordan,visa required,0,5826
 Cameroon,Kazakhstan,e-visa,0,5827
 Cameroon,Kenya,e-visa,90,5828
@@ -6219,7 +6219,7 @@ Cape Verde,Ireland,visa required,0,6217
 Cape Verde,Israel,visa required,0,6218
 Cape Verde,Italy,visa required,0,6219
 Cape Verde,Jamaica,visa required,0,6220
-Cape Verde,Japan,visa required,0,6221
+Cape Verde,Japan,e-visa,0,6221
 Cape Verde,Jordan,visa on arrival,0,6222
 Cape Verde,Kazakhstan,visa required,0,6223
 Cape Verde,Kenya,e-visa,90,6224
@@ -6417,7 +6417,7 @@ Central African Republic,Ireland,visa required,0,6415
 Central African Republic,Israel,visa required,0,6416
 Central African Republic,Italy,visa required,0,6417
 Central African Republic,Jamaica,visa required,0,6418
-Central African Republic,Japan,visa required,0,6419
+Central African Republic,Japan,e-visa,0,6419
 Central African Republic,Jordan,visa required,0,6420
 Central African Republic,Kazakhstan,e-visa,0,6421
 Central African Republic,Kenya,e-visa,90,6422
@@ -6615,7 +6615,7 @@ Chad,Ireland,visa required,0,6613
 Chad,Israel,visa required,0,6614
 Chad,Italy,visa required,0,6615
 Chad,Jamaica,visa required,0,6616
-Chad,Japan,visa required,0,6617
+Chad,Japan,e-visa,0,6617
 Chad,Jordan,visa required,0,6618
 Chad,Kazakhstan,e-visa,0,6619
 Chad,Kenya,e-visa,90,6620
@@ -7209,7 +7209,7 @@ Colombia,Ireland,visa required,0,7207
 Colombia,Israel,-1,0,7208
 Colombia,Italy,-1,0,7209
 Colombia,Jamaica,-1,0,7210
-Colombia,Japan,visa required,0,7211
+Colombia,Japan,e-visa,0,7211
 Colombia,Jordan,visa on arrival,0,7212
 Colombia,Kazakhstan,-1,0,7213
 Colombia,Kenya,e-visa,90,7214
@@ -7407,7 +7407,7 @@ Comoros,Ireland,visa required,0,7405
 Comoros,Israel,visa required,0,7406
 Comoros,Italy,visa required,0,7407
 Comoros,Jamaica,visa required,0,7408
-Comoros,Japan,visa required,0,7409
+Comoros,Japan,e-visa,0,7409
 Comoros,Jordan,visa required,0,7410
 Comoros,Kazakhstan,e-visa,0,7411
 Comoros,Kenya,e-visa,90,7412
@@ -7605,7 +7605,7 @@ Congo,Ireland,visa required,0,7603
 Congo,Israel,visa required,0,7604
 Congo,Italy,visa required,0,7605
 Congo,Jamaica,visa required,0,7606
-Congo,Japan,visa required,0,7607
+Congo,Japan,e-visa,0,7607
 Congo,Jordan,visa required,0,7608
 Congo,Kazakhstan,e-visa,0,7609
 Congo,Kenya,e-visa,90,7610
@@ -7803,7 +7803,7 @@ DR Congo,Ireland,visa required,0,7801
 DR Congo,Israel,visa required,0,7802
 DR Congo,Italy,visa required,0,7803
 DR Congo,Jamaica,visa required,0,7804
-DR Congo,Japan,visa required,0,7805
+DR Congo,Japan,e-visa,0,7805
 DR Congo,Jordan,visa required,0,7806
 DR Congo,Kazakhstan,visa required,0,7807
 DR Congo,Kenya,visa free,0,7808
@@ -8199,7 +8199,7 @@ Ivory Coast,Ireland,visa required,0,8197
 Ivory Coast,Israel,visa required,0,8198
 Ivory Coast,Italy,visa required,0,8199
 Ivory Coast,Jamaica,visa required,0,8200
-Ivory Coast,Japan,visa required,0,8201
+Ivory Coast,Japan,e-visa,0,8201
 Ivory Coast,Jordan,visa required,0,8202
 Ivory Coast,Kazakhstan,e-visa,0,8203
 Ivory Coast,Kenya,e-visa,90,8204
@@ -8595,7 +8595,7 @@ Cuba,Ireland,visa required,0,8593
 Cuba,Israel,visa required,0,8594
 Cuba,Italy,visa required,0,8595
 Cuba,Jamaica,visa required,0,8596
-Cuba,Japan,visa required,0,8597
+Cuba,Japan,e-visa,0,8597
 Cuba,Jordan,visa required,0,8598
 Cuba,Kazakhstan,e-visa,0,8599
 Cuba,Kenya,e-visa,90,8600
@@ -9387,7 +9387,7 @@ Djibouti,Ireland,visa required,0,9385
 Djibouti,Israel,visa required,0,9386
 Djibouti,Italy,visa required,0,9387
 Djibouti,Jamaica,visa required,0,9388
-Djibouti,Japan,visa required,0,9389
+Djibouti,Japan,e-visa,0,9389
 Djibouti,Jordan,visa required,0,9390
 Djibouti,Kazakhstan,e-visa,0,9391
 Djibouti,Kenya,e-visa,90,9392
@@ -9585,7 +9585,7 @@ Dominica,Ireland,visa required,0,9583
 Dominica,Israel,-1,0,9584
 Dominica,Italy,-1,0,9585
 Dominica,Jamaica,visa free,0,9586
-Dominica,Japan,visa required,0,9587
+Dominica,Japan,e-visa,0,9587
 Dominica,Jordan,visa on arrival,0,9588
 Dominica,Kazakhstan,e-visa,0,9589
 Dominica,Kenya,e-visa,90,9590
@@ -9981,7 +9981,7 @@ Ecuador,Ireland,visa required,0,9979
 Ecuador,Israel,-1,0,9980
 Ecuador,Italy,visa required,0,9981
 Ecuador,Jamaica,-1,0,9982
-Ecuador,Japan,visa required,0,9983
+Ecuador,Japan,e-visa,0,9983
 Ecuador,Jordan,visa on arrival,0,9984
 Ecuador,Kazakhstan,-1,0,9985
 Ecuador,Kenya,e-visa,90,9986
@@ -10179,7 +10179,7 @@ Egypt,Ireland,visa required,0,10177
 Egypt,Israel,visa required,0,10178
 Egypt,Italy,visa required,0,10179
 Egypt,Jamaica,visa required,0,10180
-Egypt,Japan,visa required,0,10181
+Egypt,Japan,e-visa,0,10181
 Egypt,Jordan,-1,0,10182
 Egypt,Kazakhstan,e-visa,0,10183
 Egypt,Kenya,e-visa,90,10184
@@ -10575,7 +10575,7 @@ Equatorial Guinea,Ireland,visa required,0,10573
 Equatorial Guinea,Israel,visa required,0,10574
 Equatorial Guinea,Italy,visa required,0,10575
 Equatorial Guinea,Jamaica,visa required,0,10576
-Equatorial Guinea,Japan,visa required,0,10577
+Equatorial Guinea,Japan,e-visa,0,10577
 Equatorial Guinea,Jordan,visa required,0,10578
 Equatorial Guinea,Kazakhstan,visa required,0,10579
 Equatorial Guinea,Kenya,e-visa,90,10580
@@ -10773,7 +10773,7 @@ Eritrea,Ireland,visa required,0,10771
 Eritrea,Israel,visa required,0,10772
 Eritrea,Italy,visa required,0,10773
 Eritrea,Jamaica,visa required,0,10774
-Eritrea,Japan,visa required,0,10775
+Eritrea,Japan,e-visa,0,10775
 Eritrea,Jordan,visa required,0,10776
 Eritrea,Kazakhstan,e-visa,0,10777
 Eritrea,Kenya,e-visa,90,10778
@@ -11169,7 +11169,7 @@ Swaziland,Ireland,-1,0,11167
 Swaziland,Israel,-1,0,11168
 Swaziland,Italy,visa required,0,11169
 Swaziland,Jamaica,visa free,0,11170
-Swaziland,Japan,visa required,0,11171
+Swaziland,Japan,e-visa,0,11171
 Swaziland,Jordan,visa on arrival,0,11172
 Swaziland,Kazakhstan,e-visa,0,11173
 Swaziland,Kenya,e-visa,90,11174
@@ -11367,7 +11367,7 @@ Ethiopia,Ireland,visa required,0,11365
 Ethiopia,Israel,visa required,0,11366
 Ethiopia,Italy,visa required,0,11367
 Ethiopia,Jamaica,visa required,0,11368
-Ethiopia,Japan,visa required,0,11369
+Ethiopia,Japan,e-visa,0,11369
 Ethiopia,Jordan,visa required,0,11370
 Ethiopia,Kazakhstan,e-visa,0,11371
 Ethiopia,Kenya,e-visa,90,11372
@@ -11565,7 +11565,7 @@ Fiji,Ireland,-1,0,11563
 Fiji,Israel,-1,0,11564
 Fiji,Italy,visa required,0,11565
 Fiji,Jamaica,visa free,0,11566
-Fiji,Japan,visa required,0,11567
+Fiji,Japan,e-visa,0,11567
 Fiji,Jordan,visa on arrival,0,11568
 Fiji,Kazakhstan,e-visa,0,11569
 Fiji,Kenya,e-visa,90,11570
@@ -12159,7 +12159,7 @@ Gabon,Ireland,visa required,0,12157
 Gabon,Israel,visa required,0,12158
 Gabon,Italy,visa required,0,12159
 Gabon,Jamaica,visa required,0,12160
-Gabon,Japan,visa required,0,12161
+Gabon,Japan,e-visa,0,12161
 Gabon,Jordan,visa required,0,12162
 Gabon,Kazakhstan,e-visa,0,12163
 Gabon,Kenya,e-visa,90,12164
@@ -12357,7 +12357,7 @@ Gambia,Ireland,visa required,0,12355
 Gambia,Israel,visa required,0,12356
 Gambia,Italy,visa required,0,12357
 Gambia,Jamaica,visa free,0,12358
-Gambia,Japan,visa required,0,12359
+Gambia,Japan,e-visa,0,12359
 Gambia,Jordan,visa required,0,12360
 Gambia,Kazakhstan,e-visa,0,12361
 Gambia,Kenya,e-visa,90,12362
@@ -12555,7 +12555,7 @@ Georgia,Ireland,visa required,0,12553
 Georgia,Israel,-1,0,12554
 Georgia,Italy,-1,0,12555
 Georgia,Jamaica,visa on arrival,30,12556
-Georgia,Japan,visa required,0,12557
+Georgia,Japan,e-visa,0,12557
 Georgia,Jordan,visa on arrival,0,12558
 Georgia,Kazakhstan,-1,0,12559
 Georgia,Kenya,e-visa,90,12560
@@ -12951,7 +12951,7 @@ Ghana,Ireland,visa required,0,12949
 Ghana,Israel,visa required,0,12950
 Ghana,Italy,visa required,0,12951
 Ghana,Jamaica,visa free,0,12952
-Ghana,Japan,visa required,0,12953
+Ghana,Japan,e-visa,0,12953
 Ghana,Jordan,visa on arrival,0,12954
 Ghana,Kazakhstan,e-visa,0,12955
 Ghana,Kenya,e-visa,90,12956
@@ -13347,7 +13347,7 @@ Grenada,Ireland,-1,0,13345
 Grenada,Israel,-1,0,13346
 Grenada,Italy,-1,0,13347
 Grenada,Jamaica,visa free,0,13348
-Grenada,Japan,visa required,0,13349
+Grenada,Japan,e-visa,0,13349
 Grenada,Jordan,visa on arrival,0,13350
 Grenada,Kazakhstan,e-visa,0,13351
 Grenada,Kenya,e-visa,90,13352
@@ -13743,7 +13743,7 @@ Guinea,Ireland,visa required,0,13741
 Guinea,Israel,visa required,0,13742
 Guinea,Italy,visa required,0,13743
 Guinea,Jamaica,visa required,0,13744
-Guinea,Japan,visa required,0,13745
+Guinea,Japan,e-visa,0,13745
 Guinea,Jordan,visa required,0,13746
 Guinea,Kazakhstan,e-visa,0,13747
 Guinea,Kenya,e-visa,90,13748
@@ -13941,7 +13941,7 @@ Guinea-Bissau,Ireland,visa required,0,13939
 Guinea-Bissau,Israel,visa required,0,13940
 Guinea-Bissau,Italy,visa required,0,13941
 Guinea-Bissau,Jamaica,visa required,0,13942
-Guinea-Bissau,Japan,visa required,0,13943
+Guinea-Bissau,Japan,e-visa,0,13943
 Guinea-Bissau,Jordan,visa required,0,13944
 Guinea-Bissau,Kazakhstan,e-visa,0,13945
 Guinea-Bissau,Kenya,e-visa,90,13946
@@ -14139,7 +14139,7 @@ Guyana,Ireland,-1,0,14137
 Guyana,Israel,visa required,0,14138
 Guyana,Italy,visa required,0,14139
 Guyana,Jamaica,visa free,0,14140
-Guyana,Japan,visa required,0,14141
+Guyana,Japan,e-visa,0,14141
 Guyana,Jordan,visa on arrival,0,14142
 Guyana,Kazakhstan,e-visa,0,14143
 Guyana,Kenya,e-visa,90,14144
@@ -14337,7 +14337,7 @@ Haiti,Ireland,visa required,0,14335
 Haiti,Israel,-1,0,14336
 Haiti,Italy,visa required,0,14337
 Haiti,Jamaica,visa required,0,14338
-Haiti,Japan,visa required,0,14339
+Haiti,Japan,e-visa,0,14339
 Haiti,Jordan,visa on arrival,0,14340
 Haiti,Kazakhstan,e-visa,0,14341
 Haiti,Kenya,e-visa,90,14342
@@ -15723,7 +15723,7 @@ Iran,Ireland,visa required,0,15721
 Iran,Israel,visa required,0,15722
 Iran,Italy,visa required,0,15723
 Iran,Jamaica,visa required,0,15724
-Iran,Japan,visa required,0,15725
+Iran,Japan,e-visa,0,15725
 Iran,Jordan,visa required,0,15726
 Iran,Kazakhstan,-1,0,15727
 Iran,Kenya,e-visa,90,15728
@@ -15921,7 +15921,7 @@ Iraq,Ireland,visa required,0,15919
 Iraq,Israel,visa required,0,15920
 Iraq,Italy,visa required,0,15921
 Iraq,Jamaica,visa required,0,15922
-Iraq,Japan,visa required,0,15923
+Iraq,Japan,e-visa,0,15923
 Iraq,Jordan,visa required,0,15924
 Iraq,Kazakhstan,visa required,0,15925
 Iraq,Kenya,e-visa,90,15926
@@ -16713,7 +16713,7 @@ Jamaica,Ireland,visa required,0,16711
 Jamaica,Israel,-1,0,16712
 Jamaica,Italy,visa required,0,16713
 Jamaica,Jamaica,-1,0,16714
-Jamaica,Japan,visa required,0,16715
+Jamaica,Japan,e-visa,0,16715
 Jamaica,Jordan,visa on arrival,0,16716
 Jamaica,Kazakhstan,e-visa,0,16717
 Jamaica,Kenya,e-visa,90,16718
@@ -17109,7 +17109,7 @@ Jordan,Ireland,visa required,0,17107
 Jordan,Israel,visa required,0,17108
 Jordan,Italy,visa required,0,17109
 Jordan,Jamaica,visa required,0,17110
-Jordan,Japan,visa required,0,17111
+Jordan,Japan,e-visa,0,17111
 Jordan,Jordan,-1,0,17112
 Jordan,Kazakhstan,visa required,0,17113
 Jordan,Kenya,e-visa,90,17114
@@ -17307,7 +17307,7 @@ Kazakhstan,Ireland,visa required,0,17305
 Kazakhstan,Israel,visa required,0,17306
 Kazakhstan,Italy,visa required,0,17307
 Kazakhstan,Jamaica,visa on arrival,30,17308
-Kazakhstan,Japan,visa required,0,17309
+Kazakhstan,Japan,e-visa,0,17309
 Kazakhstan,Jordan,visa on arrival,0,17310
 Kazakhstan,Kazakhstan,-1,0,17311
 Kazakhstan,Kenya,e-visa,90,17312
@@ -17505,7 +17505,7 @@ Kenya,Ireland,visa required,0,17503
 Kenya,Israel,visa required,0,17504
 Kenya,Italy,visa required,0,17505
 Kenya,Jamaica,visa free,0,17506
-Kenya,Japan,visa required,0,17507
+Kenya,Japan,e-visa,0,17507
 Kenya,Jordan,visa on arrival,0,17508
 Kenya,Kazakhstan,e-visa,0,17509
 Kenya,Kenya,-1,0,17510
@@ -17703,7 +17703,7 @@ Kiribati,Ireland,-1,0,17701
 Kiribati,Israel,visa required,0,17702
 Kiribati,Italy,-1,0,17703
 Kiribati,Jamaica,visa free,0,17704
-Kiribati,Japan,visa required,0,17705
+Kiribati,Japan,e-visa,0,17705
 Kiribati,Jordan,visa on arrival,0,17706
 Kiribati,Kazakhstan,e-visa,0,17707
 Kiribati,Kenya,e-visa,90,17708
@@ -17901,7 +17901,7 @@ Kosovo,Ireland,visa required,0,17899
 Kosovo,Israel,visa required,0,17900
 Kosovo,Italy,-1,0,17901
 Kosovo,Jamaica,visa on arrival,30,17902
-Kosovo,Japan,visa required,0,17903
+Kosovo,Japan,e-visa,0,17903
 Kosovo,Jordan,visa on arrival,0,17904
 Kosovo,Kazakhstan,visa required,0,17905
 Kosovo,Kenya,e-visa,90,17906
@@ -18099,7 +18099,7 @@ Kuwait,Ireland,visa required,0,18097
 Kuwait,Israel,visa required,0,18098
 Kuwait,Italy,visa required,0,18099
 Kuwait,Jamaica,visa required,0,18100
-Kuwait,Japan,visa required,0,18101
+Kuwait,Japan,e-visa,0,18101
 Kuwait,Jordan,-1,0,18102
 Kuwait,Kazakhstan,-1,0,18103
 Kuwait,Kenya,e-visa,90,18104
@@ -18297,7 +18297,7 @@ Kyrgyzstan,Ireland,visa required,0,18295
 Kyrgyzstan,Israel,visa required,0,18296
 Kyrgyzstan,Italy,visa required,0,18297
 Kyrgyzstan,Jamaica,visa on arrival,30,18298
-Kyrgyzstan,Japan,visa required,0,18299
+Kyrgyzstan,Japan,e-visa,0,18299
 Kyrgyzstan,Jordan,visa on arrival,0,18300
 Kyrgyzstan,Kazakhstan,-1,0,18301
 Kyrgyzstan,Kenya,e-visa,90,18302
@@ -18495,7 +18495,7 @@ Laos,Ireland,visa required,0,18493
 Laos,Israel,visa required,0,18494
 Laos,Italy,visa required,0,18495
 Laos,Jamaica,visa required,0,18496
-Laos,Japan,visa required,0,18497
+Laos,Japan,e-visa,0,18497
 Laos,Jordan,visa required,0,18498
 Laos,Kazakhstan,e-visa,0,18499
 Laos,Kenya,e-visa,90,18500
@@ -18891,7 +18891,7 @@ Lebanon,Ireland,visa required,0,18889
 Lebanon,Israel,visa required,0,18890
 Lebanon,Italy,visa required,0,18891
 Lebanon,Jamaica,visa required,0,18892
-Lebanon,Japan,visa required,0,18893
+Lebanon,Japan,e-visa,0,18893
 Lebanon,Jordan,-1,0,18894
 Lebanon,Kazakhstan,e-visa,0,18895
 Lebanon,Kenya,e-visa,90,18896
@@ -19287,7 +19287,7 @@ Liberia,Ireland,visa required,0,19285
 Liberia,Israel,visa required,0,19286
 Liberia,Italy,visa required,0,19287
 Liberia,Jamaica,visa required,0,19288
-Liberia,Japan,visa required,0,19289
+Liberia,Japan,e-visa,0,19289
 Liberia,Jordan,visa required,0,19290
 Liberia,Kazakhstan,e-visa,0,19291
 Liberia,Kenya,e-visa,90,19292
@@ -19485,7 +19485,7 @@ Libya,Ireland,visa required,0,19483
 Libya,Israel,visa required,0,19484
 Libya,Italy,visa required,0,19485
 Libya,Jamaica,visa required,0,19486
-Libya,Japan,visa required,0,19487
+Libya,Japan,e-visa,0,19487
 Libya,Jordan,visa required,0,19488
 Libya,Kazakhstan,visa required,0,19489
 Libya,Kenya,e-visa,90,19490
@@ -20475,7 +20475,7 @@ Madagascar,Ireland,visa required,0,20473
 Madagascar,Israel,visa required,0,20474
 Madagascar,Italy,visa required,0,20475
 Madagascar,Jamaica,visa required,0,20476
-Madagascar,Japan,visa required,0,20477
+Madagascar,Japan,e-visa,0,20477
 Madagascar,Jordan,visa required,0,20478
 Madagascar,Kazakhstan,e-visa,0,20479
 Madagascar,Kenya,e-visa,90,20480
@@ -20673,7 +20673,7 @@ Malawi,Ireland,visa required,0,20671
 Malawi,Israel,-1,0,20672
 Malawi,Italy,visa required,0,20673
 Malawi,Jamaica,visa free,0,20674
-Malawi,Japan,visa required,0,20675
+Malawi,Japan,e-visa,0,20675
 Malawi,Jordan,visa on arrival,0,20676
 Malawi,Kazakhstan,e-visa,0,20677
 Malawi,Kenya,e-visa,90,20678
@@ -21069,7 +21069,7 @@ Maldives,Ireland,-1,0,21067
 Maldives,Israel,visa required,0,21068
 Maldives,Italy,visa required,0,21069
 Maldives,Jamaica,visa free,0,21070
-Maldives,Japan,visa required,0,21071
+Maldives,Japan,e-visa,0,21071
 Maldives,Jordan,visa on arrival,0,21072
 Maldives,Kazakhstan,-1,0,21073
 Maldives,Kenya,e-visa,90,21074
@@ -21267,7 +21267,7 @@ Mali,Ireland,visa required,0,21265
 Mali,Israel,visa required,0,21266
 Mali,Italy,visa required,0,21267
 Mali,Jamaica,visa required,0,21268
-Mali,Japan,visa required,0,21269
+Mali,Japan,e-visa,0,21269
 Mali,Jordan,visa required,0,21270
 Mali,Kazakhstan,e-visa,0,21271
 Mali,Kenya,e-visa,90,21272
@@ -21663,7 +21663,7 @@ Marshall Islands,Ireland,visa required,0,21661
 Marshall Islands,Israel,visa required,0,21662
 Marshall Islands,Italy,-1,0,21663
 Marshall Islands,Jamaica,visa required,0,21664
-Marshall Islands,Japan,visa required,0,21665
+Marshall Islands,Japan,e-visa,0,21665
 Marshall Islands,Jordan,visa on arrival,0,21666
 Marshall Islands,Kazakhstan,e-visa,0,21667
 Marshall Islands,Kenya,e-visa,90,21668
@@ -21861,7 +21861,7 @@ Mauritania,Ireland,visa required,0,21859
 Mauritania,Israel,visa required,0,21860
 Mauritania,Italy,visa required,0,21861
 Mauritania,Jamaica,visa required,0,21862
-Mauritania,Japan,visa required,0,21863
+Mauritania,Japan,e-visa,0,21863
 Mauritania,Jordan,visa required,0,21864
 Mauritania,Kazakhstan,e-visa,0,21865
 Mauritania,Kenya,e-visa,90,21866
@@ -22455,7 +22455,7 @@ Micronesia,Ireland,visa required,0,22453
 Micronesia,Israel,-1,0,22454
 Micronesia,Italy,-1,0,22455
 Micronesia,Jamaica,visa required,0,22456
-Micronesia,Japan,visa required,0,22457
+Micronesia,Japan,e-visa,0,22457
 Micronesia,Jordan,visa required,0,22458
 Micronesia,Kazakhstan,e-visa,0,22459
 Micronesia,Kenya,e-visa,90,22460
@@ -22653,7 +22653,7 @@ Moldova,Ireland,visa required,0,22651
 Moldova,Israel,-1,0,22652
 Moldova,Italy,-1,0,22653
 Moldova,Jamaica,visa on arrival,30,22654
-Moldova,Japan,visa required,0,22655
+Moldova,Japan,e-visa,0,22655
 Moldova,Jordan,visa required,0,22656
 Moldova,Kazakhstan,-1,0,22657
 Moldova,Kenya,e-visa,90,22658
@@ -23247,7 +23247,7 @@ Montenegro,Ireland,visa required,0,23245
 Montenegro,Israel,-1,0,23246
 Montenegro,Italy,-1,0,23247
 Montenegro,Jamaica,visa on arrival,30,23248
-Montenegro,Japan,visa required,0,23249
+Montenegro,Japan,e-visa,0,23249
 Montenegro,Jordan,visa on arrival,0,23250
 Montenegro,Kazakhstan,e-visa,0,23251
 Montenegro,Kenya,e-visa,90,23252
@@ -23445,7 +23445,7 @@ Morocco,Ireland,visa required,0,23443
 Morocco,Israel,visa required,0,23444
 Morocco,Italy,visa required,0,23445
 Morocco,Jamaica,visa required,0,23446
-Morocco,Japan,visa required,0,23447
+Morocco,Japan,e-visa,0,23447
 Morocco,Jordan,visa on arrival,30,23448
 Morocco,Kazakhstan,e-visa,0,23449
 Morocco,Kenya,e-visa,90,23450
@@ -23643,7 +23643,7 @@ Mozambique,Ireland,visa required,0,23641
 Mozambique,Israel,visa required,0,23642
 Mozambique,Italy,visa required,0,23643
 Mozambique,Jamaica,visa free,0,23644
-Mozambique,Japan,visa required,0,23645
+Mozambique,Japan,e-visa,0,23645
 Mozambique,Jordan,visa required,0,23646
 Mozambique,Kazakhstan,e-visa,0,23647
 Mozambique,Kenya,e-visa,90,23648
@@ -23841,7 +23841,7 @@ Myanmar,Ireland,visa required,0,23839
 Myanmar,Israel,visa required,0,23840
 Myanmar,Italy,visa required,0,23841
 Myanmar,Jamaica,visa required,0,23842
-Myanmar,Japan,visa required,0,23843
+Myanmar,Japan,e-visa,0,23843
 Myanmar,Jordan,visa on arrival,0,23844
 Myanmar,Kazakhstan,e-visa,0,23845
 Myanmar,Kenya,e-visa,90,23846
@@ -24039,7 +24039,7 @@ Namibia,Ireland,visa required,0,24037
 Namibia,Israel,visa required,0,24038
 Namibia,Italy,visa required,0,24039
 Namibia,Jamaica,visa free,0,24040
-Namibia,Japan,visa required,0,24041
+Namibia,Japan,e-visa,0,24041
 Namibia,Jordan,visa required,0,24042
 Namibia,Kazakhstan,e-visa,0,24043
 Namibia,Kenya,e-visa,90,24044
@@ -24237,7 +24237,7 @@ Nauru,Ireland,-1,0,24235
 Nauru,Israel,-1,0,24236
 Nauru,Italy,visa required,0,24237
 Nauru,Jamaica,visa free,0,24238
-Nauru,Japan,visa required,0,24239
+Nauru,Japan,e-visa,0,24239
 Nauru,Jordan,visa on arrival,0,24240
 Nauru,Kazakhstan,e-visa,0,24241
 Nauru,Kenya,e-visa,90,24242
@@ -24435,7 +24435,7 @@ Nepal,Ireland,visa required,0,24433
 Nepal,Israel,visa required,0,24434
 Nepal,Italy,visa required,0,24435
 Nepal,Jamaica,visa required,0,24436
-Nepal,Japan,visa required,0,24437
+Nepal,Japan,e-visa,0,24437
 Nepal,Jordan,visa required,0,24438
 Nepal,Kazakhstan,e-visa,0,24439
 Nepal,Kenya,e-visa,90,24440
@@ -25029,7 +25029,7 @@ Nicaragua,Ireland,-1,0,25027
 Nicaragua,Israel,visa required,0,25028
 Nicaragua,Italy,-1,0,25029
 Nicaragua,Jamaica,visa required,0,25030
-Nicaragua,Japan,visa required,0,25031
+Nicaragua,Japan,e-visa,0,25031
 Nicaragua,Jordan,visa on arrival,0,25032
 Nicaragua,Kazakhstan,e-visa,0,25033
 Nicaragua,Kenya,e-visa,90,25034
@@ -25227,7 +25227,7 @@ Niger,Ireland,visa required,0,25225
 Niger,Israel,visa required,0,25226
 Niger,Italy,visa required,0,25227
 Niger,Jamaica,visa required,0,25228
-Niger,Japan,visa required,0,25229
+Niger,Japan,e-visa,0,25229
 Niger,Jordan,visa required,0,25230
 Niger,Kazakhstan,e-visa,0,25231
 Niger,Kenya,e-visa,90,25232
@@ -25425,7 +25425,7 @@ Nigeria,Ireland,visa required,0,25423
 Nigeria,Israel,visa required,0,25424
 Nigeria,Italy,visa required,0,25425
 Nigeria,Jamaica,visa required,0,25426
-Nigeria,Japan,visa required,0,25427
+Nigeria,Japan,e-visa,0,25427
 Nigeria,Jordan,visa required,0,25428
 Nigeria,Kazakhstan,e-visa,0,25429
 Nigeria,Kenya,e-visa,90,25430
@@ -26217,7 +26217,7 @@ Oman,Ireland,visa required,0,26215
 Oman,Israel,visa required,0,26216
 Oman,Italy,visa required,0,26217
 Oman,Jamaica,visa required,0,26218
-Oman,Japan,visa required,0,26219
+Oman,Japan,e-visa,0,26219
 Oman,Jordan,-1,0,26220
 Oman,Kazakhstan,-1,0,26221
 Oman,Kenya,e-visa,90,26222
@@ -26415,7 +26415,7 @@ Pakistan,Ireland,visa required,0,26413
 Pakistan,Israel,visa required,0,26414
 Pakistan,Italy,visa required,0,26415
 Pakistan,Jamaica,visa required,0,26416
-Pakistan,Japan,visa required,0,26417
+Pakistan,Japan,e-visa,0,26417
 Pakistan,Jordan,visa required,0,26418
 Pakistan,Kazakhstan,visa required,0,26419
 Pakistan,Kenya,e-visa,90,26420
@@ -26613,7 +26613,7 @@ Palau,Ireland,visa required,0,26611
 Palau,Israel,-1,0,26612
 Palau,Italy,-1,0,26613
 Palau,Jamaica,visa required,0,26614
-Palau,Japan,visa required,0,26615
+Palau,Japan,e-visa,0,26615
 Palau,Jordan,visa on arrival,0,26616
 Palau,Kazakhstan,e-visa,0,26617
 Palau,Kenya,e-visa,90,26618
@@ -26811,7 +26811,7 @@ Palestine,Ireland,visa required,0,26809
 Palestine,Israel,visa required,0,26810
 Palestine,Italy,visa required,0,26811
 Palestine,Jamaica,visa required,0,26812
-Palestine,Japan,visa required,0,26813
+Palestine,Japan,e-visa,0,26813
 Palestine,Jordan,-1,0,26814
 Palestine,Kazakhstan,visa required,0,26815
 Palestine,Kenya,e-visa,90,26816
@@ -27207,7 +27207,7 @@ Papua New Guinea,Ireland,visa required,0,27205
 Papua New Guinea,Israel,-1,0,27206
 Papua New Guinea,Italy,visa required,0,27207
 Papua New Guinea,Jamaica,visa free,0,27208
-Papua New Guinea,Japan,visa required,0,27209
+Papua New Guinea,Japan,e-visa,0,27209
 Papua New Guinea,Jordan,visa required,0,27210
 Papua New Guinea,Kazakhstan,e-visa,0,27211
 Papua New Guinea,Kenya,e-visa,90,27212
@@ -27405,7 +27405,7 @@ Paraguay,Ireland,-1,0,27403
 Paraguay,Israel,-1,0,27404
 Paraguay,Italy,-1,0,27405
 Paraguay,Jamaica,-1,0,27406
-Paraguay,Japan,visa required,0,27407
+Paraguay,Japan,e-visa,0,27407
 Paraguay,Jordan,visa on arrival,0,27408
 Paraguay,Kazakhstan,e-visa,0,27409
 Paraguay,Kenya,e-visa,90,27410
@@ -27603,7 +27603,7 @@ Peru,Ireland,visa required,0,27601
 Peru,Israel,-1,0,27602
 Peru,Italy,-1,0,27603
 Peru,Jamaica,-1,0,27604
-Peru,Japan,visa required,0,27605
+Peru,Japan,e-visa,0,27605
 Peru,Jordan,visa on arrival,0,27606
 Peru,Kazakhstan,e-visa,0,27607
 Peru,Kenya,e-visa,90,27608
@@ -27801,7 +27801,7 @@ Philippines,Ireland,visa required,0,27799
 Philippines,Israel,-1,0,27800
 Philippines,Italy,visa required,0,27801
 Philippines,Jamaica,visa required,0,27802
-Philippines,Japan,visa required,0,27803
+Philippines,Japan,e-visa,0,27803
 Philippines,Jordan,visa required,0,27804
 Philippines,Kazakhstan,-1,0,27805
 Philippines,Kenya,e-visa,90,27806
@@ -28791,7 +28791,7 @@ Russia,Ireland,visa required,0,28789
 Russia,Israel,-1,0,28790
 Russia,Italy,visa required,0,28791
 Russia,Jamaica,-1,0,28792
-Russia,Japan,visa required,0,28793
+Russia,Japan,e-visa,0,28793
 Russia,Jordan,visa on arrival,0,28794
 Russia,Kazakhstan,-1,0,28795
 Russia,Kenya,e-visa,90,28796
@@ -28989,7 +28989,7 @@ Rwanda,Ireland,visa required,0,28987
 Rwanda,Israel,visa required,0,28988
 Rwanda,Italy,visa required,0,28989
 Rwanda,Jamaica,visa required,0,28990
-Rwanda,Japan,visa required,0,28991
+Rwanda,Japan,e-visa,0,28991
 Rwanda,Jordan,visa on arrival,0,28992
 Rwanda,Kazakhstan,e-visa,0,28993
 Rwanda,Kenya,visa free,0,28994
@@ -29187,7 +29187,7 @@ Saint Kitts and Nevis,Ireland,-1,0,29185
 Saint Kitts and Nevis,Israel,-1,0,29186
 Saint Kitts and Nevis,Italy,-1,0,29187
 Saint Kitts and Nevis,Jamaica,visa free,0,29188
-Saint Kitts and Nevis,Japan,visa required,0,29189
+Saint Kitts and Nevis,Japan,e-visa,0,29189
 Saint Kitts and Nevis,Jordan,visa on arrival,0,29190
 Saint Kitts and Nevis,Kazakhstan,e-visa,0,29191
 Saint Kitts and Nevis,Kenya,e-visa,90,29192
@@ -29385,7 +29385,7 @@ Saint Lucia,Ireland,-1,0,29383
 Saint Lucia,Israel,-1,0,29384
 Saint Lucia,Italy,-1,0,29385
 Saint Lucia,Jamaica,visa free,0,29386
-Saint Lucia,Japan,visa required,0,29387
+Saint Lucia,Japan,e-visa,0,29387
 Saint Lucia,Jordan,visa on arrival,0,29388
 Saint Lucia,Kazakhstan,e-visa,0,29389
 Saint Lucia,Kenya,e-visa,90,29390
@@ -29583,7 +29583,7 @@ Samoa,Ireland,-1,0,29581
 Samoa,Israel,visa required,0,29582
 Samoa,Italy,-1,0,29583
 Samoa,Jamaica,visa free,0,29584
-Samoa,Japan,visa required,0,29585
+Samoa,Japan,e-visa,0,29585
 Samoa,Jordan,visa on arrival,0,29586
 Samoa,Kazakhstan,e-visa,0,29587
 Samoa,Kenya,e-visa,90,29588
@@ -29979,7 +29979,7 @@ Sao Tome and Principe,Ireland,visa required,0,29977
 Sao Tome and Principe,Israel,visa required,0,29978
 Sao Tome and Principe,Italy,visa required,0,29979
 Sao Tome and Principe,Jamaica,visa required,0,29980
-Sao Tome and Principe,Japan,visa required,0,29981
+Sao Tome and Principe,Japan,e-visa,0,29981
 Sao Tome and Principe,Jordan,visa on arrival,0,29982
 Sao Tome and Principe,Kazakhstan,e-visa,0,29983
 Sao Tome and Principe,Kenya,e-visa,90,29984
@@ -30375,7 +30375,7 @@ Senegal,Ireland,visa required,0,30373
 Senegal,Israel,visa required,0,30374
 Senegal,Italy,visa required,0,30375
 Senegal,Jamaica,visa required,0,30376
-Senegal,Japan,visa required,0,30377
+Senegal,Japan,e-visa,0,30377
 Senegal,Jordan,visa required,0,30378
 Senegal,Kazakhstan,e-visa,0,30379
 Senegal,Kenya,e-visa,90,30380
@@ -30771,7 +30771,7 @@ Seychelles,Ireland,-1,0,30769
 Seychelles,Israel,visa required,0,30770
 Seychelles,Italy,-1,0,30771
 Seychelles,Jamaica,visa free,0,30772
-Seychelles,Japan,visa required,0,30773
+Seychelles,Japan,e-visa,0,30773
 Seychelles,Jordan,visa on arrival,0,30774
 Seychelles,Kazakhstan,e-visa,0,30775
 Seychelles,Kenya,e-visa,90,30776
@@ -30969,7 +30969,7 @@ Sierra Leone,Ireland,visa required,0,30967
 Sierra Leone,Israel,visa required,0,30968
 Sierra Leone,Italy,visa required,0,30969
 Sierra Leone,Jamaica,visa free,0,30970
-Sierra Leone,Japan,visa required,0,30971
+Sierra Leone,Japan,e-visa,0,30971
 Sierra Leone,Jordan,visa required,0,30972
 Sierra Leone,Kazakhstan,e-visa,0,30973
 Sierra Leone,Kenya,e-visa,90,30974
@@ -31761,7 +31761,7 @@ Solomon Islands,Ireland,-1,0,31759
 Solomon Islands,Israel,-1,0,31760
 Solomon Islands,Italy,-1,0,31761
 Solomon Islands,Jamaica,visa free,0,31762
-Solomon Islands,Japan,visa required,0,31763
+Solomon Islands,Japan,e-visa,0,31763
 Solomon Islands,Jordan,visa on arrival,0,31764
 Solomon Islands,Kazakhstan,visa required,0,31765
 Solomon Islands,Kenya,e-visa,90,31766
@@ -31959,7 +31959,7 @@ Somalia,Ireland,visa required,0,31957
 Somalia,Israel,visa required,0,31958
 Somalia,Italy,visa required,0,31959
 Somalia,Jamaica,visa required,0,31960
-Somalia,Japan,visa required,0,31961
+Somalia,Japan,e-visa,0,31961
 Somalia,Jordan,visa required,0,31962
 Somalia,Kazakhstan,visa required,0,31963
 Somalia,Kenya,visa free,0,31964
@@ -32553,7 +32553,7 @@ South Sudan,Ireland,visa required,0,32551
 South Sudan,Israel,visa required,0,32552
 South Sudan,Italy,visa required,0,32553
 South Sudan,Jamaica,visa required,0,32554
-South Sudan,Japan,visa required,0,32555
+South Sudan,Japan,e-visa,0,32555
 South Sudan,Jordan,visa required,0,32556
 South Sudan,Kazakhstan,visa required,0,32557
 South Sudan,Kenya,visa free,0,32558
@@ -32949,7 +32949,7 @@ Sri Lanka,Ireland,visa required,0,32947
 Sri Lanka,Israel,visa required,0,32948
 Sri Lanka,Italy,visa required,0,32949
 Sri Lanka,Jamaica,visa required,0,32950
-Sri Lanka,Japan,visa required,0,32951
+Sri Lanka,Japan,e-visa,0,32951
 Sri Lanka,Jordan,visa required,0,32952
 Sri Lanka,Kazakhstan,e-visa,0,32953
 Sri Lanka,Kenya,e-visa,90,32954
@@ -33147,7 +33147,7 @@ Saint Vincent and the Grenadines,Ireland,-1,0,33145
 Saint Vincent and the Grenadines,Israel,-1,0,33146
 Saint Vincent and the Grenadines,Italy,-1,0,33147
 Saint Vincent and the Grenadines,Jamaica,visa free,0,33148
-Saint Vincent and the Grenadines,Japan,visa required,0,33149
+Saint Vincent and the Grenadines,Japan,e-visa,0,33149
 Saint Vincent and the Grenadines,Jordan,visa on arrival,0,33150
 Saint Vincent and the Grenadines,Kazakhstan,e-visa,0,33151
 Saint Vincent and the Grenadines,Kenya,e-visa,90,33152
@@ -33345,7 +33345,7 @@ Sudan,Ireland,visa required,0,33343
 Sudan,Israel,visa required,0,33344
 Sudan,Italy,visa required,0,33345
 Sudan,Jamaica,visa required,0,33346
-Sudan,Japan,visa required,0,33347
+Sudan,Japan,e-visa,0,33347
 Sudan,Jordan,visa required,0,33348
 Sudan,Kazakhstan,visa required,0,33349
 Sudan,Kenya,e-visa,90,33350
@@ -34137,7 +34137,7 @@ Syria,Ireland,visa required,0,34135
 Syria,Israel,visa required,0,34136
 Syria,Italy,visa required,0,34137
 Syria,Jamaica,visa required,0,34138
-Syria,Japan,visa required,0,34139
+Syria,Japan,e-visa,0,34139
 Syria,Jordan,visa required,0,34140
 Syria,Kazakhstan,visa required,0,34141
 Syria,Kenya,e-visa,90,34142
@@ -34533,7 +34533,7 @@ Tajikistan,Ireland,visa required,0,34531
 Tajikistan,Israel,visa required,0,34532
 Tajikistan,Italy,visa required,0,34533
 Tajikistan,Jamaica,visa on arrival,30,34534
-Tajikistan,Japan,visa required,0,34535
+Tajikistan,Japan,e-visa,0,34535
 Tajikistan,Jordan,visa on arrival,0,34536
 Tajikistan,Kazakhstan,-1,0,34537
 Tajikistan,Kenya,e-visa,90,34538
@@ -34731,7 +34731,7 @@ Tanzania,Ireland,visa required,0,34729
 Tanzania,Israel,visa required,0,34730
 Tanzania,Italy,visa required,0,34731
 Tanzania,Jamaica,visa free,0,34732
-Tanzania,Japan,visa required,0,34733
+Tanzania,Japan,e-visa,0,34733
 Tanzania,Jordan,visa required,0,34734
 Tanzania,Kazakhstan,e-visa,0,34735
 Tanzania,Kenya,visa free,0,34736
@@ -35127,7 +35127,7 @@ Timor-Leste,Ireland,visa required,0,35125
 Timor-Leste,Israel,visa required,0,35126
 Timor-Leste,Italy,-1,0,35127
 Timor-Leste,Jamaica,visa required,0,35128
-Timor-Leste,Japan,visa required,0,35129
+Timor-Leste,Japan,e-visa,0,35129
 Timor-Leste,Jordan,visa on arrival,0,35130
 Timor-Leste,Kazakhstan,visa required,0,35131
 Timor-Leste,Kenya,e-visa,90,35132
@@ -35325,7 +35325,7 @@ Togo,Ireland,visa required,0,35323
 Togo,Israel,visa required,0,35324
 Togo,Italy,visa required,0,35325
 Togo,Jamaica,visa required,0,35326
-Togo,Japan,visa required,0,35327
+Togo,Japan,e-visa,0,35327
 Togo,Jordan,visa required,0,35328
 Togo,Kazakhstan,e-visa,0,35329
 Togo,Kenya,e-visa,90,35330
@@ -35523,7 +35523,7 @@ Tonga,Ireland,-1,0,35521
 Tonga,Israel,-1,0,35522
 Tonga,Italy,-1,0,35523
 Tonga,Jamaica,visa free,0,35524
-Tonga,Japan,visa required,0,35525
+Tonga,Japan,e-visa,0,35525
 Tonga,Jordan,visa on arrival,0,35526
 Tonga,Kazakhstan,e-visa,0,35527
 Tonga,Kenya,e-visa,90,35528
@@ -35721,7 +35721,7 @@ Trinidad and Tobago,Ireland,-1,0,35719
 Trinidad and Tobago,Israel,-1,0,35720
 Trinidad and Tobago,Italy,-1,0,35721
 Trinidad and Tobago,Jamaica,visa free,0,35722
-Trinidad and Tobago,Japan,visa required,0,35723
+Trinidad and Tobago,Japan,e-visa,0,35723
 Trinidad and Tobago,Jordan,visa on arrival,0,35724
 Trinidad and Tobago,Kazakhstan,e-visa,0,35725
 Trinidad and Tobago,Kenya,e-visa,90,35726
@@ -36315,7 +36315,7 @@ Turkmenistan,Ireland,visa required,0,36313
 Turkmenistan,Israel,visa required,0,36314
 Turkmenistan,Italy,visa required,0,36315
 Turkmenistan,Jamaica,visa on arrival,30,36316
-Turkmenistan,Japan,visa required,0,36317
+Turkmenistan,Japan,e-visa,0,36317
 Turkmenistan,Jordan,visa on arrival,0,36318
 Turkmenistan,Kazakhstan,e-visa,0,36319
 Turkmenistan,Kenya,e-visa,90,36320
@@ -36513,7 +36513,7 @@ Tuvalu,Ireland,-1,0,36511
 Tuvalu,Israel,visa required,0,36512
 Tuvalu,Italy,-1,0,36513
 Tuvalu,Jamaica,visa free,0,36514
-Tuvalu,Japan,visa required,0,36515
+Tuvalu,Japan,e-visa,0,36515
 Tuvalu,Jordan,visa on arrival,0,36516
 Tuvalu,Kazakhstan,e-visa,0,36517
 Tuvalu,Kenya,e-visa,90,36518
@@ -36711,7 +36711,7 @@ Uganda,Ireland,visa required,0,36709
 Uganda,Israel,visa required,0,36710
 Uganda,Italy,visa required,0,36711
 Uganda,Jamaica,visa free,0,36712
-Uganda,Japan,visa required,0,36713
+Uganda,Japan,e-visa,0,36713
 Uganda,Jordan,visa required,0,36714
 Uganda,Kazakhstan,e-visa,0,36715
 Uganda,Kenya,visa free,0,36716
@@ -36909,7 +36909,7 @@ Ukraine,Ireland,-1,0,36907
 Ukraine,Israel,-1,0,36908
 Ukraine,Italy,-1,0,36909
 Ukraine,Jamaica,-1,0,36910
-Ukraine,Japan,visa required,0,36911
+Ukraine,Japan,e-visa,0,36911
 Ukraine,Jordan,visa on arrival,0,36912
 Ukraine,Kazakhstan,-1,0,36913
 Ukraine,Kenya,e-visa,90,36914
@@ -37899,7 +37899,7 @@ Uzbekistan,Ireland,visa required,0,37897
 Uzbekistan,Israel,visa required,0,37898
 Uzbekistan,Italy,visa required,0,37899
 Uzbekistan,Jamaica,visa on arrival,30,37900
-Uzbekistan,Japan,visa required,0,37901
+Uzbekistan,Japan,e-visa,0,37901
 Uzbekistan,Jordan,visa on arrival,0,37902
 Uzbekistan,Kazakhstan,-1,0,37903
 Uzbekistan,Kenya,e-visa,90,37904
@@ -38097,7 +38097,7 @@ Vanuatu,Ireland,visa required,0,38095
 Vanuatu,Israel,-1,0,38096
 Vanuatu,Italy,visa required,0,38097
 Vanuatu,Jamaica,visa free,0,38098
-Vanuatu,Japan,visa required,0,38099
+Vanuatu,Japan,e-visa,0,38099
 Vanuatu,Jordan,visa on arrival,0,38100
 Vanuatu,Kazakhstan,e-visa,0,38101
 Vanuatu,Kenya,e-visa,90,38102
@@ -38295,7 +38295,7 @@ Vatican,Ireland,-1,0,38293
 Vatican,Israel,-1,0,38294
 Vatican,Italy,-1,0,38295
 Vatican,Jamaica,visa required,0,38296
-Vatican,Japan,visa required,0,38297
+Vatican,Japan,e-visa,0,38297
 Vatican,Jordan,visa on arrival,0,38298
 Vatican,Kazakhstan,-1,0,38299
 Vatican,Kenya,e-visa,90,38300
@@ -38493,7 +38493,7 @@ Venezuela,Ireland,visa required,0,38491
 Venezuela,Israel,visa required,0,38492
 Venezuela,Italy,-1,0,38493
 Venezuela,Jamaica,-1,0,38494
-Venezuela,Japan,visa required,0,38495
+Venezuela,Japan,e-visa,0,38495
 Venezuela,Jordan,visa on arrival,0,38496
 Venezuela,Kazakhstan,e-visa,0,38497
 Venezuela,Kenya,e-visa,90,38498
@@ -38889,7 +38889,7 @@ Yemen,Ireland,visa required,0,38887
 Yemen,Israel,visa required,0,38888
 Yemen,Italy,visa required,0,38889
 Yemen,Jamaica,visa required,0,38890
-Yemen,Japan,visa required,0,38891
+Yemen,Japan,e-visa,0,38891
 Yemen,Jordan,visa required,0,38892
 Yemen,Kazakhstan,visa required,0,38893
 Yemen,Kenya,e-visa,90,38894
@@ -39087,7 +39087,7 @@ Zambia,Ireland,visa required,0,39085
 Zambia,Israel,visa required,0,39086
 Zambia,Italy,visa required,0,39087
 Zambia,Jamaica,visa free,0,39088
-Zambia,Japan,visa required,0,39089
+Zambia,Japan,e-visa,0,39089
 Zambia,Jordan,visa required,0,39090
 Zambia,Kazakhstan,e-visa,0,39091
 Zambia,Kenya,e-visa,90,39092
@@ -39285,7 +39285,7 @@ Zimbabwe,Ireland,visa required,0,39283
 Zimbabwe,Israel,visa required,0,39284
 Zimbabwe,Italy,visa required,0,39285
 Zimbabwe,Jamaica,visa required,0,39286
-Zimbabwe,Japan,visa required,0,39287
+Zimbabwe,Japan,e-visa,0,39287
 Zimbabwe,Jordan,visa on arrival,0,39288
 Zimbabwe,Kazakhstan,e-visa,0,39289
 Zimbabwe,Kenya,e-visa,90,39290
