@@ -14472,7 +14472,7 @@ HND,BEL,-1
 HND,BLZ,-1
 HND,BEN,e-visa
 HND,BTN,e-visa
-HND,BOL,visa on arrival (90)
+HND,BOL,-1
 HND,BIH,-1
 HND,BWA,e-visa
 HND,BRA,-1
