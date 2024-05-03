@@ -762,7 +762,7 @@ Andorra,Sweden,-1,0,760
 Andorra,Switzerland,-1,0,761
 Andorra,Syria,visa required,0,762
 Andorra,Taiwan,-1,0,763
-Andorra,Tajikistan,visa on arrival,45,764
+Andorra,Tajikistan,-1,0,764
 Andorra,Tanzania,visa on arrival,0,765
 Andorra,Thailand,-1,0,766
 Andorra,Timor-Leste,visa on arrival,30,767
@@ -2346,7 +2346,7 @@ Bahamas,Sweden,-1,0,2344
 Bahamas,Switzerland,-1,0,2345
 Bahamas,Syria,visa required,0,2346
 Bahamas,Taiwan,visa required,0,2347
-Bahamas,Tajikistan,e-visa,0,2348
+Bahamas,Tajikistan,-1,0,2348
 Bahamas,Tanzania,-1,0,2349
 Bahamas,Thailand,e-visa,0,2350
 Bahamas,Timor-Leste,visa on arrival,30,2351
@@ -4326,7 +4326,7 @@ Bosnia and Herzegovina,Sweden,-1,0,4324
 Bosnia and Herzegovina,Switzerland,-1,0,4325
 Bosnia and Herzegovina,Syria,visa required,0,4326
 Bosnia and Herzegovina,Taiwan,e-visa,30,4327
-Bosnia and Herzegovina,Tajikistan,e-visa,0,4328
+Bosnia and Herzegovina,Tajikistan,-1,0,4328
 Bosnia and Herzegovina,Tanzania,visa on arrival,0,4329
 Bosnia and Herzegovina,Thailand,e-visa,0,4330
 Bosnia and Herzegovina,Timor-Leste,visa on arrival,30,4331
@@ -4722,7 +4722,7 @@ Brazil,Sweden,-1,0,4720
 Brazil,Switzerland,-1,0,4721
 Brazil,Syria,visa required,0,4722
 Brazil,Taiwan,visa required,0,4723
-Brazil,Tajikistan,visa on arrival,45,4724
+Brazil,Tajikistan,-1,0,4724
 Brazil,Tanzania,visa on arrival,0,4725
 Brazil,Thailand,-1,0,4726
 Brazil,Timor-Leste,visa on arrival,30,4727
@@ -5118,7 +5118,7 @@ Bulgaria,Sweden,visa free,0,5116
 Bulgaria,Switzerland,visa free,0,5117
 Bulgaria,Syria,visa required,0,5118
 Bulgaria,Taiwan,-1,0,5119
-Bulgaria,Tajikistan,visa on arrival,45,5120
+Bulgaria,Tajikistan,-1,0,5120
 Bulgaria,Tanzania,visa on arrival,0,5121
 Bulgaria,Thailand,visa on arrival,30,5122
 Bulgaria,Timor-Leste,-1,0,5123
@@ -8088,7 +8088,7 @@ Costa Rica,Sweden,-1,0,8086
 Costa Rica,Switzerland,-1,0,8087
 Costa Rica,Syria,visa required,0,8088
 Costa Rica,Taiwan,visa required,0,8089
-Costa Rica,Tajikistan,e-visa,0,8090
+Costa Rica,Tajikistan,-1,0,8090
 Costa Rica,Tanzania,visa on arrival,0,8091
 Costa Rica,Thailand,e-visa,0,8092
 Costa Rica,Timor-Leste,visa on arrival,30,8093
@@ -8880,7 +8880,7 @@ Cyprus,Sweden,visa free,0,8878
 Cyprus,Switzerland,visa free,0,8879
 Cyprus,Syria,visa required,0,8880
 Cyprus,Taiwan,-1,0,8881
-Cyprus,Tajikistan,visa on arrival,45,8882
+Cyprus,Tajikistan,-1,0,8882
 Cyprus,Tanzania,-1,0,8883
 Cyprus,Thailand,visa on arrival,30,8884
 Cyprus,Timor-Leste,-1,0,8885
@@ -16206,7 +16206,7 @@ Ireland,Sweden,visa free,0,16204
 Ireland,Switzerland,visa free,0,16205
 Ireland,Syria,visa required,0,16206
 Ireland,Taiwan,-1,0,16207
-Ireland,Tajikistan,visa on arrival,45,16208
+Ireland,Tajikistan,-1,0,16208
 Ireland,Tanzania,visa on arrival,0,16209
 Ireland,Thailand,-1,0,16210
 Ireland,Timor-Leste,visa on arrival,90,16211
@@ -21552,7 +21552,7 @@ Malta,Sweden,visa free,0,21550
 Malta,Switzerland,visa free,0,21551
 Malta,Syria,visa required,0,21552
 Malta,Taiwan,-1,0,21553
-Malta,Tajikistan,visa on arrival,45,21554
+Malta,Tajikistan,-1,0,21554
 Malta,Tanzania,-1,0,21555
 Malta,Thailand,visa on arrival,30,21556
 Malta,Timor-Leste,-1,0,21557
@@ -21750,7 +21750,7 @@ Marshall Islands,Sweden,-1,0,21748
 Marshall Islands,Switzerland,-1,0,21749
 Marshall Islands,Syria,visa required,0,21750
 Marshall Islands,Taiwan,-1,0,21751
-Marshall Islands,Tajikistan,e-visa,0,21752
+Marshall Islands,Tajikistan,-1,0,21752
 Marshall Islands,Tanzania,visa on arrival,0,21753
 Marshall Islands,Thailand,e-visa,0,21754
 Marshall Islands,Timor-Leste,visa on arrival,30,21755
@@ -22344,7 +22344,7 @@ Mexico,Sweden,-1,0,22342
 Mexico,Switzerland,-1,0,22343
 Mexico,Syria,visa required,0,22344
 Mexico,Taiwan,visa required,0,22345
-Mexico,Tajikistan,visa on arrival,45,22346
+Mexico,Tajikistan,-1,0,22346
 Mexico,Tanzania,visa on arrival,0,22347
 Mexico,Thailand,visa on arrival,30,22348
 Mexico,Timor-Leste,visa on arrival,30,22349
@@ -23136,7 +23136,7 @@ Mongolia,Sweden,visa required,0,23134
 Mongolia,Switzerland,visa required,0,23135
 Mongolia,Syria,visa required,0,23136
 Mongolia,Taiwan,visa required,0,23137
-Mongolia,Tajikistan,visa on arrival,45,23138
+Mongolia,Tajikistan,-1,0,23138
 Mongolia,Tanzania,visa on arrival,0,23139
 Mongolia,Thailand,-1,0,23140
 Mongolia,Timor-Leste,visa on arrival,30,23141
@@ -23334,7 +23334,7 @@ Montenegro,Sweden,-1,0,23332
 Montenegro,Switzerland,-1,0,23333
 Montenegro,Syria,visa required,0,23334
 Montenegro,Taiwan,e-visa,30,23335
-Montenegro,Tajikistan,e-visa,0,23336
+Montenegro,Tajikistan,-1,0,23336
 Montenegro,Tanzania,visa on arrival,0,23337
 Montenegro,Thailand,e-visa,0,23338
 Montenegro,Timor-Leste,visa on arrival,30,23339
@@ -26304,7 +26304,7 @@ Oman,Sweden,visa required,0,26302
 Oman,Switzerland,visa required,0,26303
 Oman,Syria,visa free,0,26304
 Oman,Taiwan,e-visa,30,26305
-Oman,Tajikistan,visa on arrival,45,26306
+Oman,Tajikistan,-1,0,26306
 Oman,Tanzania,visa on arrival,0,26307
 Oman,Thailand,-1,0,26308
 Oman,Timor-Leste,visa on arrival,30,26309
@@ -28680,7 +28680,7 @@ Romania,Sweden,visa free,0,28678
 Romania,Switzerland,visa free,0,28679
 Romania,Syria,visa required,0,28680
 Romania,Taiwan,-1,0,28681
-Romania,Tajikistan,visa on arrival,45,28682
+Romania,Tajikistan,-1,0,28682
 Romania,Tanzania,-1,0,28683
 Romania,Thailand,visa on arrival,30,28684
 Romania,Timor-Leste,-1,0,28685
@@ -29274,7 +29274,7 @@ Saint Kitts and Nevis,Sweden,-1,0,29272
 Saint Kitts and Nevis,Switzerland,-1,0,29273
 Saint Kitts and Nevis,Syria,visa required,0,29274
 Saint Kitts and Nevis,Taiwan,-1,0,29275
-Saint Kitts and Nevis,Tajikistan,e-visa,0,29276
+Saint Kitts and Nevis,Tajikistan,-1,0,29276
 Saint Kitts and Nevis,Tanzania,-1,0,29277
 Saint Kitts and Nevis,Thailand,e-visa,0,29278
 Saint Kitts and Nevis,Timor-Leste,visa on arrival,30,29279
@@ -29472,7 +29472,7 @@ Saint Lucia,Sweden,-1,0,29470
 Saint Lucia,Switzerland,-1,0,29471
 Saint Lucia,Syria,visa required,0,29472
 Saint Lucia,Taiwan,-1,0,29473
-Saint Lucia,Tajikistan,e-visa,0,29474
+Saint Lucia,Tajikistan,-1,0,29474
 Saint Lucia,Tanzania,-1,0,29475
 Saint Lucia,Thailand,e-visa,0,29476
 Saint Lucia,Timor-Leste,visa on arrival,30,29477
@@ -29868,7 +29868,7 @@ San Marino,Sweden,-1,0,29866
 San Marino,Switzerland,-1,0,29867
 San Marino,Syria,visa required,0,29868
 San Marino,Taiwan,-1,0,29869
-San Marino,Tajikistan,e-visa,0,29870
+San Marino,Tajikistan,-1,0,29870
 San Marino,Tanzania,visa on arrival,0,29871
 San Marino,Thailand,-1,0,29872
 San Marino,Timor-Leste,visa on arrival,30,29873
@@ -30660,7 +30660,7 @@ Serbia,Sweden,-1,0,30658
 Serbia,Switzerland,-1,0,30659
 Serbia,Syria,visa required,0,30660
 Serbia,Taiwan,visa required,0,30661
-Serbia,Tajikistan,e-visa,0,30662
+Serbia,Tajikistan,-1,0,30662
 Serbia,Tanzania,visa on arrival,0,30663
 Serbia,Thailand,e-visa,0,30664
 Serbia,Timor-Leste,visa on arrival,30,30665
@@ -31452,7 +31452,7 @@ Slovakia,Sweden,visa free,0,31450
 Slovakia,Switzerland,visa free,0,31451
 Slovakia,Syria,visa required,0,31452
 Slovakia,Taiwan,-1,0,31453
-Slovakia,Tajikistan,visa on arrival,45,31454
+Slovakia,Tajikistan,-1,0,31454
 Slovakia,Tanzania,visa on arrival,0,31455
 Slovakia,Thailand,-1,0,31456
 Slovakia,Timor-Leste,-1,0,31457
@@ -31650,7 +31650,7 @@ Slovenia,Sweden,visa free,0,31648
 Slovenia,Switzerland,visa free,0,31649
 Slovenia,Syria,visa required,0,31650
 Slovenia,Taiwan,-1,0,31651
-Slovenia,Tajikistan,visa on arrival,45,31652
+Slovenia,Tajikistan,-1,0,31652
 Slovenia,Tanzania,visa on arrival,0,31653
 Slovenia,Thailand,-1,0,31654
 Slovenia,Timor-Leste,-1,0,31655
@@ -31848,7 +31848,7 @@ Solomon Islands,Sweden,-1,0,31846
 Solomon Islands,Switzerland,-1,0,31847
 Solomon Islands,Syria,visa required,0,31848
 Solomon Islands,Taiwan,e-visa,30,31849
-Solomon Islands,Tajikistan,e-visa,0,31850
+Solomon Islands,Tajikistan,-1,0,31850
 Solomon Islands,Tanzania,-1,0,31851
 Solomon Islands,Thailand,e-visa,0,31852
 Solomon Islands,Timor-Leste,visa on arrival,30,31853
@@ -33234,7 +33234,7 @@ Saint Vincent and the Grenadines,Sweden,-1,0,33232
 Saint Vincent and the Grenadines,Switzerland,-1,0,33233
 Saint Vincent and the Grenadines,Syria,visa required,0,33234
 Saint Vincent and the Grenadines,Taiwan,-1,0,33235
-Saint Vincent and the Grenadines,Tajikistan,e-visa,0,33236
+Saint Vincent and the Grenadines,Tajikistan,-1,0,33236
 Saint Vincent and the Grenadines,Tanzania,-1,0,33237
 Saint Vincent and the Grenadines,Thailand,e-visa,0,33238
 Saint Vincent and the Grenadines,Timor-Leste,visa on arrival,30,33239
@@ -38382,7 +38382,7 @@ Vatican,Sweden,-1,0,38380
 Vatican,Switzerland,-1,0,38381
 Vatican,Syria,visa required,0,38382
 Vatican,Taiwan,-1,0,38383
-Vatican,Tajikistan,visa on arrival,45,38384
+Vatican,Tajikistan,-1,0,38384
 Vatican,Tanzania,visa on arrival,0,38385
 Vatican,Thailand,e-visa,0,38386
 Vatican,Timor-Leste,visa on arrival,30,38387
