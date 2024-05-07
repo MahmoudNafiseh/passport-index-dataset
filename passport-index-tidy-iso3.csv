@@ -5120,7 +5120,7 @@ BGR,SYR,visa required
 BGR,TWN,-1
 BGR,TJK,-1
 BGR,TZA,visa on arrival
-BGR,THA,visa on arrival (30)
+BGR,THA,visa on arrival (15)
 BGR,TLS,-1
 BGR,TGO,visa on arrival (15)
 BGR,TON,-1
@@ -8882,7 +8882,7 @@ CYP,SYR,visa required
 CYP,TWN,-1
 CYP,TJK,-1
 CYP,TZA,-1
-CYP,THA,visa on arrival (30)
+CYP,THA,visa on arrival (15)
 CYP,TLS,-1
 CYP,TGO,visa on arrival (15)
 CYP,TON,-1
@@ -11456,7 +11456,7 @@ ETH,SYR,visa required
 ETH,TWN,visa required
 ETH,TJK,e-visa
 ETH,TZA,visa on arrival
-ETH,THA,visa on arrival (30)
+ETH,THA,visa on arrival (15)
 ETH,TLS,visa on arrival (30)
 ETH,TGO,visa on arrival (15)
 ETH,TON,visa required
@@ -11654,7 +11654,7 @@ FJI,SYR,visa required
 FJI,TWN,visa required
 FJI,TJK,e-visa
 FJI,TZA,visa on arrival
-FJI,THA,visa on arrival (30)
+FJI,THA,visa on arrival (15)
 FJI,TLS,visa on arrival (30)
 FJI,TGO,visa on arrival (15)
 FJI,TON,visa on arrival (31)
@@ -12644,7 +12644,7 @@ GEO,SYR,visa required
 GEO,TWN,visa required
 GEO,TJK,visa free
 GEO,TZA,visa on arrival
-GEO,THA,visa on arrival (30)
+GEO,THA,visa on arrival (15)
 GEO,TLS,visa on arrival (30)
 GEO,TGO,visa on arrival (15)
 GEO,TON,visa required
@@ -21554,7 +21554,7 @@ MLT,SYR,visa required
 MLT,TWN,-1
 MLT,TJK,-1
 MLT,TZA,-1
-MLT,THA,visa on arrival (30)
+MLT,THA,visa on arrival (15)
 MLT,TLS,-1
 MLT,TGO,visa on arrival (15)
 MLT,TON,-1
@@ -22346,7 +22346,7 @@ MEX,SYR,visa required
 MEX,TWN,visa required
 MEX,TJK,-1
 MEX,TZA,visa on arrival
-MEX,THA,visa on arrival (30)
+MEX,THA,visa on arrival (15)
 MEX,TLS,visa on arrival (30)
 MEX,TGO,visa on arrival (15)
 MEX,TON,visa required
@@ -24326,7 +24326,7 @@ NRU,SYR,visa required
 NRU,TWN,-1
 NRU,TJK,e-visa
 NRU,TZA,-1
-NRU,THA,visa on arrival (30)
+NRU,THA,visa on arrival (15)
 NRU,TLS,visa on arrival (30)
 NRU,TGO,visa on arrival (15)
 NRU,TON,visa on arrival (31)
@@ -25034,7 +25034,7 @@ NIC,JOR,visa on arrival
 NIC,KAZ,e-visa
 NIC,KEN,e-visa (90)
 NIC,KIR,visa required
-NIC,XKX,visa required
+NIC,XKX,-1
 NIC,KWT,visa required
 NIC,KGZ,e-visa
 NIC,LAO,visa on arrival (30)
@@ -27296,7 +27296,7 @@ PNG,SYR,visa required
 PNG,TWN,visa required
 PNG,TJK,e-visa
 PNG,TZA,-1
-PNG,THA,visa on arrival (30)
+PNG,THA,visa on arrival (15)
 PNG,TLS,visa on arrival (30)
 PNG,TGO,visa on arrival (15)
 PNG,TON,visa on arrival (31)
@@ -27630,7 +27630,7 @@ PER,MLT,-1
 PER,MHL,visa on arrival (90)
 PER,MRT,visa on arrival
 PER,MUS,visa on arrival (60)
-PER,MEX,-1
+PER,MEX,visa required
 PER,MDA,-1
 PER,MCO,-1
 PER,MNG,-1
@@ -28682,7 +28682,7 @@ ROU,SYR,visa required
 ROU,TWN,-1
 ROU,TJK,-1
 ROU,TZA,-1
-ROU,THA,visa on arrival (30)
+ROU,THA,visa on arrival (15)
 ROU,TLS,-1
 ROU,TGO,visa on arrival (15)
 ROU,TON,-1
@@ -37988,7 +37988,7 @@ UZB,SYR,visa required
 UZB,TWN,visa required
 UZB,TJK,-1
 UZB,TZA,e-visa
-UZB,THA,visa on arrival (30)
+UZB,THA,visa on arrival (15)
 UZB,TLS,visa on arrival (30)
 UZB,TGO,visa on arrival (15)
 UZB,TON,visa required
@@ -38186,7 +38186,7 @@ VUT,SYR,visa required
 VUT,TWN,visa required
 VUT,TJK,e-visa
 VUT,TZA,-1
-VUT,THA,visa on arrival (30)
+VUT,THA,visa on arrival (15)
 VUT,TLS,visa on arrival (30)
 VUT,TGO,visa on arrival (15)
 VUT,TON,visa on arrival (31)

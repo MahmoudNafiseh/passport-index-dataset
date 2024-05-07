@@ -5120,7 +5120,7 @@ Bulgaria,Syria,visa required,0,5118
 Bulgaria,Taiwan,-1,0,5119
 Bulgaria,Tajikistan,-1,0,5120
 Bulgaria,Tanzania,visa on arrival,0,5121
-Bulgaria,Thailand,visa on arrival,30,5122
+Bulgaria,Thailand,visa on arrival,15,5122
 Bulgaria,Timor-Leste,-1,0,5123
 Bulgaria,Togo,visa on arrival,15,5124
 Bulgaria,Tonga,-1,0,5125
@@ -8882,7 +8882,7 @@ Cyprus,Syria,visa required,0,8880
 Cyprus,Taiwan,-1,0,8881
 Cyprus,Tajikistan,-1,0,8882
 Cyprus,Tanzania,-1,0,8883
-Cyprus,Thailand,visa on arrival,30,8884
+Cyprus,Thailand,visa on arrival,15,8884
 Cyprus,Timor-Leste,-1,0,8885
 Cyprus,Togo,visa on arrival,15,8886
 Cyprus,Tonga,-1,0,8887
@@ -11456,7 +11456,7 @@ Ethiopia,Syria,visa required,0,11454
 Ethiopia,Taiwan,visa required,0,11455
 Ethiopia,Tajikistan,e-visa,0,11456
 Ethiopia,Tanzania,visa on arrival,0,11457
-Ethiopia,Thailand,visa on arrival,30,11458
+Ethiopia,Thailand,visa on arrival,15,11458
 Ethiopia,Timor-Leste,visa on arrival,30,11459
 Ethiopia,Togo,visa on arrival,15,11460
 Ethiopia,Tonga,visa required,0,11461
@@ -11654,7 +11654,7 @@ Fiji,Syria,visa required,0,11652
 Fiji,Taiwan,visa required,0,11653
 Fiji,Tajikistan,e-visa,0,11654
 Fiji,Tanzania,visa on arrival,0,11655
-Fiji,Thailand,visa on arrival,30,11656
+Fiji,Thailand,visa on arrival,15,11656
 Fiji,Timor-Leste,visa on arrival,30,11657
 Fiji,Togo,visa on arrival,15,11658
 Fiji,Tonga,visa on arrival,31,11659
@@ -12644,7 +12644,7 @@ Georgia,Syria,visa required,0,12642
 Georgia,Taiwan,visa required,0,12643
 Georgia,Tajikistan,visa free,0,12644
 Georgia,Tanzania,visa on arrival,0,12645
-Georgia,Thailand,visa on arrival,30,12646
+Georgia,Thailand,visa on arrival,15,12646
 Georgia,Timor-Leste,visa on arrival,30,12647
 Georgia,Togo,visa on arrival,15,12648
 Georgia,Tonga,visa required,0,12649
@@ -21554,7 +21554,7 @@ Malta,Syria,visa required,0,21552
 Malta,Taiwan,-1,0,21553
 Malta,Tajikistan,-1,0,21554
 Malta,Tanzania,-1,0,21555
-Malta,Thailand,visa on arrival,30,21556
+Malta,Thailand,visa on arrival,15,21556
 Malta,Timor-Leste,-1,0,21557
 Malta,Togo,visa on arrival,15,21558
 Malta,Tonga,-1,0,21559
@@ -22346,7 +22346,7 @@ Mexico,Syria,visa required,0,22344
 Mexico,Taiwan,visa required,0,22345
 Mexico,Tajikistan,-1,0,22346
 Mexico,Tanzania,visa on arrival,0,22347
-Mexico,Thailand,visa on arrival,30,22348
+Mexico,Thailand,visa on arrival,15,22348
 Mexico,Timor-Leste,visa on arrival,30,22349
 Mexico,Togo,visa on arrival,15,22350
 Mexico,Tonga,visa required,0,22351
@@ -24326,7 +24326,7 @@ Nauru,Syria,visa required,0,24324
 Nauru,Taiwan,-1,0,24325
 Nauru,Tajikistan,e-visa,0,24326
 Nauru,Tanzania,-1,0,24327
-Nauru,Thailand,visa on arrival,30,24328
+Nauru,Thailand,visa on arrival,15,24328
 Nauru,Timor-Leste,visa on arrival,30,24329
 Nauru,Togo,visa on arrival,15,24330
 Nauru,Tonga,visa on arrival,31,24331
@@ -25034,7 +25034,7 @@ Nicaragua,Jordan,visa on arrival,0,25032
 Nicaragua,Kazakhstan,e-visa,0,25033
 Nicaragua,Kenya,e-visa,90,25034
 Nicaragua,Kiribati,visa required,0,25035
-Nicaragua,Kosovo,visa required,0,25036
+Nicaragua,Kosovo,-1,0,25036
 Nicaragua,Kuwait,visa required,0,25037
 Nicaragua,Kyrgyzstan,e-visa,0,25038
 Nicaragua,Laos,visa on arrival,30,25039
@@ -27296,7 +27296,7 @@ Papua New Guinea,Syria,visa required,0,27294
 Papua New Guinea,Taiwan,visa required,0,27295
 Papua New Guinea,Tajikistan,e-visa,0,27296
 Papua New Guinea,Tanzania,-1,0,27297
-Papua New Guinea,Thailand,visa on arrival,30,27298
+Papua New Guinea,Thailand,visa on arrival,15,27298
 Papua New Guinea,Timor-Leste,visa on arrival,30,27299
 Papua New Guinea,Togo,visa on arrival,15,27300
 Papua New Guinea,Tonga,visa on arrival,31,27301
@@ -27630,7 +27630,7 @@ Peru,Malta,-1,0,27628
 Peru,Marshall Islands,visa on arrival,90,27629
 Peru,Mauritania,visa on arrival,0,27630
 Peru,Mauritius,visa on arrival,60,27631
-Peru,Mexico,-1,0,27632
+Peru,Mexico,visa required,0,27632
 Peru,Moldova,-1,0,27633
 Peru,Monaco,-1,0,27634
 Peru,Mongolia,-1,0,27635
@@ -28682,7 +28682,7 @@ Romania,Syria,visa required,0,28680
 Romania,Taiwan,-1,0,28681
 Romania,Tajikistan,-1,0,28682
 Romania,Tanzania,-1,0,28683
-Romania,Thailand,visa on arrival,30,28684
+Romania,Thailand,visa on arrival,15,28684
 Romania,Timor-Leste,-1,0,28685
 Romania,Togo,visa on arrival,15,28686
 Romania,Tonga,-1,0,28687
@@ -37988,7 +37988,7 @@ Uzbekistan,Syria,visa required,0,37986
 Uzbekistan,Taiwan,visa required,0,37987
 Uzbekistan,Tajikistan,-1,0,37988
 Uzbekistan,Tanzania,e-visa,0,37989
-Uzbekistan,Thailand,visa on arrival,30,37990
+Uzbekistan,Thailand,visa on arrival,15,37990
 Uzbekistan,Timor-Leste,visa on arrival,30,37991
 Uzbekistan,Togo,visa on arrival,15,37992
 Uzbekistan,Tonga,visa required,0,37993
@@ -38186,7 +38186,7 @@ Vanuatu,Syria,visa required,0,38184
 Vanuatu,Taiwan,visa required,0,38185
 Vanuatu,Tajikistan,e-visa,0,38186
 Vanuatu,Tanzania,-1,0,38187
-Vanuatu,Thailand,visa on arrival,30,38188
+Vanuatu,Thailand,visa on arrival,15,38188
 Vanuatu,Timor-Leste,visa on arrival,30,38189
 Vanuatu,Togo,visa on arrival,15,38190
 Vanuatu,Tonga,visa on arrival,31,38191
