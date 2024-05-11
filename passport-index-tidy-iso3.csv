@@ -1023,7 +1023,7 @@ ATG,CPV,visa on arrival
 ATG,CAF,visa required
 ATG,TCD,visa required
 ATG,CHL,-1
-ATG,CHN,visa required
+ATG,CHN,-1
 ATG,COL,-1
 ATG,COM,visa on arrival (45)
 ATG,COG,visa required
@@ -15416,7 +15416,7 @@ IND,SYR,visa required
 IND,TWN,visa required
 IND,TJK,e-visa
 IND,TZA,visa on arrival
-IND,THA,-1
+IND,THA,visa required
 IND,TLS,visa on arrival (30)
 IND,TGO,visa on arrival (15)
 IND,TON,visa required
@@ -34424,7 +34424,7 @@ TWN,SYR,visa required
 TWN,TWN,-1
 TWN,TJK,e-visa
 TWN,TZA,visa on arrival
-TWN,THA,-1
+TWN,THA,visa required
 TWN,TLS,visa on arrival (30)
 TWN,TGO,visa on arrival (15)
 TWN,TON,visa required
