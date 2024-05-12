@@ -1023,7 +1023,7 @@ Antigua and Barbuda,Cape Verde,visa on arrival,0,1021
 Antigua and Barbuda,Central African Republic,visa required,0,1022
 Antigua and Barbuda,Chad,visa required,0,1023
 Antigua and Barbuda,Chile,-1,0,1024
-Antigua and Barbuda,China,visa required,0,1025
+Antigua and Barbuda,China,-1,0,1025
 Antigua and Barbuda,Colombia,-1,0,1026
 Antigua and Barbuda,Comoros,visa on arrival,45,1027
 Antigua and Barbuda,Congo,visa required,0,1028
@@ -15416,7 +15416,7 @@ India,Syria,visa required,0,15414
 India,Taiwan,visa required,0,15415
 India,Tajikistan,e-visa,0,15416
 India,Tanzania,visa on arrival,0,15417
-India,Thailand,-1,0,15418
+India,Thailand,visa required,0,15418
 India,Timor-Leste,visa on arrival,30,15419
 India,Togo,visa on arrival,15,15420
 India,Tonga,visa required,0,15421
@@ -34424,7 +34424,7 @@ Taiwan,Syria,visa required,0,34422
 Taiwan,Taiwan,-1,0,34423
 Taiwan,Tajikistan,e-visa,0,34424
 Taiwan,Tanzania,visa on arrival,0,34425
-Taiwan,Thailand,-1,0,34426
+Taiwan,Thailand,visa required,0,34426
 Taiwan,Timor-Leste,visa on arrival,30,34427
 Taiwan,Togo,visa on arrival,15,34428
 Taiwan,Tonga,visa required,0,34429
